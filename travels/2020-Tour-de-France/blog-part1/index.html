@@ -6,6 +6,7 @@
     <link rel="icon" href="favicon.ico" />
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="photobox/photobox.css">
+    <link rel="stylesheet" href="galerie.css">
     <script src="photobox/jquery.min.js"></script>
     <script src="photobox/jquery.photobox.js"></script>
 <style type="text/css">
@@ -19,41 +20,20 @@
 </head>
 
 <body>
-<button id="btn_full" type="button" style="position: fixed; width: 50px; top: 20px; right: 20px; background-color:white">Full</button>
-<button id="btn_blog" type="button" style="position: fixed; width: 50px; top: 40px; right: 20px; background-color:white">Diary</button>
-<button id="btn_text" type="button" style="position: fixed; width: 50px; top: 60px; right: 20px; background-color:white">Text</button>
+<button class="btn-1" style="position: fixed; top: 20px; right: 20px; "
+    onclick="window.location.href='https://gilles-arcas.blogspot.com/2020/09/home_31.html'">More</button>
+<button class="btn-1" style="position: fixed; top: 60px; right: 20px; ">About</button>
 
-<script>
-$('#btn_full').click(function() {
-    $("[id^=gallery-blog]").show();
-    $("[id^=gallery-dcim]").show();
-    $("div.extra").show();
-});
-$('#btn_text').click(function() {
-    $("[id^=gallery-blog]").hide();
-    $("[id^=gallery-dcim]").hide();
-    $("div.extra").hide();
-});
-$('#btn_blog').click(function() {
-    $("[id^=gallery-blog]").show();
-    $("[id^=gallery-dcim]").hide();
-    $("div.extra").hide();
-});
-</script>
 
+<div id="content">
+<div id="content_inner">
 <h3>J1 - 12 juillet - Vieille-Église-en-Yvelines (Yvelines) - 63 km</h3>
 <p>Véloscénie jusqu'à Rambouillet. Pas trop mal jusqu'à Bures, puis le viaduc de
 Bures, la voie verte de l'autorail et la portion de la Véloscénie que je ne
 connaissais pas parce que je bifurquais vers Aunay. Hébergés par Isabelle,
 merci Baselle !</p>
 <div id="gallery-blog-20200712-1">
-<a href="2020-07-12-1.jpg"><img src="thumbnails/post-2020-07-12-1.jpg.jpg" width="400" height="300" title="2020-07-12-1.jpg: 20201008 161232, dim=1280x960, 0.2 MB"/></a>
-</div>
-<div id="gallery-dcim-20200712-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200712_162030_3.jpg"><img src="thumbnails/dcim-IMG_20200712_162030_3.jpg.jpg" width="300" height="225" title="IMG_20200712_162030_3.jpg: 20200712 162030, dim=4608x3456, 4.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200712_162034_9.jpg"><img src="thumbnails/dcim-IMG_20200712_162034_9.jpg.jpg" width="300" height="225" title="IMG_20200712_162034_9.jpg: 20200712 162034, dim=4608x3456, 5.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200712_164211_2.jpg"><img src="thumbnails/dcim-IMG_20200712_164211_2.jpg.jpg" width="300" height="225" title="IMG_20200712_164211_2.jpg: 20200712 164211, dim=4608x3456, 6.5 MB"/></a>
+<a href="2020-07-12-1.jpg"><img src=".thumbnails/post-2020-07-12-1.jpg.jpg" width="400" height="300" title="2020-07-12-1.jpg: 20201008 161232, dim=1280x960, 0.2 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -62,20 +42,8 @@ merci Baselle !</p>
 le-Morhier ensuite petites routes jusqu'à Mézières. Hébergé chez Solen et
 Audric. Merci pour la soirée !</p>
 <div id="gallery-blog-20200713-1">
-<a href="2020-07-13-1.jpg"><img src="thumbnails/post-2020-07-13-1.jpg.jpg" width="400" height="300" title="2020-07-13-1.jpg: 20201008 161232, dim=1280x960, 0.1 MB"/></a>
-<a href="2020-07-13-2.jpg"><img src="thumbnails/post-2020-07-13-2.jpg.jpg" width="400" height="300" title="2020-07-13-2.jpg: 20201008 161233, dim=1280x960, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200713-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200713_155014_0.jpg"><img src="thumbnails/dcim-IMG_20200713_155014_0.jpg.jpg" width="300" height="225" title="IMG_20200713_155014_0.jpg: 20200713 155014, dim=4608x3456, 4.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200713_155032_8.jpg"><img src="thumbnails/dcim-IMG_20200713_155032_8.jpg.jpg" width="300" height="225" title="IMG_20200713_155032_8.jpg: 20200713 155032, dim=4608x3456, 5.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200713_155856_7.jpg"><img src="thumbnails/dcim-IMG_20200713_155856_7.jpg.jpg" width="300" height="225" title="IMG_20200713_155856_7.jpg: 20200713 155856, dim=4608x3456, 3.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200713_155932_8.jpg"><img src="thumbnails/dcim-IMG_20200713_155932_8.jpg.jpg" width="300" height="225" title="IMG_20200713_155932_8.jpg: 20200713 155932, dim=4608x3456, 5.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200713_160006_4.jpg"><img src="thumbnails/dcim-IMG_20200713_160006_4.jpg.jpg" width="300" height="225" title="IMG_20200713_160006_4.jpg: 20200713 160006, dim=4608x3456, 2.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200713_170344_2.jpg"><img src="thumbnails/dcim-IMG_20200713_170344_2.jpg.jpg" width="300" height="225" title="IMG_20200713_170344_2.jpg: 20200713 170344, dim=4608x3456, 6.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200713_185726_8.jpg"><img src="thumbnails/dcim-IMG_20200713_185726_8.jpg.jpg" width="225" height="300" title="IMG_20200713_185726_8.jpg: 20200713 185726, dim=3456x4608, 1.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200713_185732_2.jpg"><img src="thumbnails/dcim-IMG_20200713_185732_2.jpg.jpg" width="300" height="225" title="IMG_20200713_185732_2.jpg: 20200713 185732, dim=4608x3456, 3.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200713_185742_1.jpg"><img src="thumbnails/dcim-IMG_20200713_185742_1.jpg.jpg" width="300" height="225" title="IMG_20200713_185742_1.jpg: 20200713 185742, dim=4608x3456, 3.7 MB"/></a>
+<a href="2020-07-13-1.jpg"><img src=".thumbnails/post-2020-07-13-1.jpg.jpg" width="400" height="300" title="2020-07-13-1.jpg: 20201008 161232, dim=1280x960, 0.1 MB"/></a>
+<a href="2020-07-13-2.jpg"><img src=".thumbnails/post-2020-07-13-2.jpg.jpg" width="400" height="300" title="2020-07-13-2.jpg: 20201008 161233, dim=1280x960, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -83,18 +51,8 @@ Audric. Merci pour la soirée !</p>
 <p>Je réussis à échapper à la pluie (pas le cas de tout le monde apparemment).
 Belles voies vertes avant Dreux et à partir d'Évreux.</p>
 <div id="gallery-blog-20200714-1">
-<a href="2020-07-14-1.jpg"><img src="thumbnails/post-2020-07-14-1.jpg.jpg" width="400" height="300" title="2020-07-14-1.jpg: 20201008 161233, dim=1280x960, 0.1 MB"/></a>
-<a href="2020-07-14-2.jpg"><img src="thumbnails/post-2020-07-14-2.jpg.jpg" width="400" height="300" title="2020-07-14-2.jpg: 20201008 161234, dim=1280x960, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200714-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200714_121615_7.jpg"><img src="thumbnails/dcim-IMG_20200714_121615_7.jpg.jpg" width="300" height="225" title="IMG_20200714_121615_7.jpg: 20200714 121615, dim=4608x3456, 4.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200714_123000_0.jpg"><img src="thumbnails/dcim-IMG_20200714_123000_0.jpg.jpg" width="300" height="225" title="IMG_20200714_123000_0.jpg: 20200714 123000, dim=4608x3456, 5.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200714_125554_0.jpg"><img src="thumbnails/dcim-IMG_20200714_125554_0.jpg.jpg" width="300" height="225" title="IMG_20200714_125554_0.jpg: 20200714 125554, dim=4608x3456, 7.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200714_143405_5.jpg"><img src="thumbnails/dcim-IMG_20200714_143405_5.jpg.jpg" width="300" height="225" title="IMG_20200714_143405_5.jpg: 20200714 143405, dim=4608x3456, 7.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200714_161039_3.jpg"><img src="thumbnails/dcim-IMG_20200714_161039_3.jpg.jpg" width="300" height="225" title="IMG_20200714_161039_3.jpg: 20200714 161039, dim=4608x3456, 4.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200714_161330_0.jpg"><img src="thumbnails/dcim-IMG_20200714_161330_0.jpg.jpg" width="300" height="225" title="IMG_20200714_161330_0.jpg: 20200714 161330, dim=4608x3456, 5.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200714_164105_3.jpg"><img src="thumbnails/dcim-IMG_20200714_164105_3.jpg.jpg" width="300" height="225" title="IMG_20200714_164105_3.jpg: 20200714 164105, dim=4608x3456, 6.6 MB"/></a>
+<a href="2020-07-14-1.jpg"><img src=".thumbnails/post-2020-07-14-1.jpg.jpg" width="400" height="300" title="2020-07-14-1.jpg: 20201008 161233, dim=1280x960, 0.1 MB"/></a>
+<a href="2020-07-14-2.jpg"><img src=".thumbnails/post-2020-07-14-2.jpg.jpg" width="400" height="300" title="2020-07-14-2.jpg: 20201008 161234, dim=1280x960, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -112,30 +70,9 @@ pas d'accotement et <em>beaucoup</em> de camions, et après quelques kilomètres
 piste cyclable réapparaît. Encore des progrès à faire pour l'emménagement
 vélo.</p>
 <div id="gallery-blog-20200715-1">
-<a href="2020-07-15-1.jpg"><img src="thumbnails/post-2020-07-15-1.jpg.jpg" width="400" height="300" title="2020-07-15-1.jpg: 20201008 161234, dim=1280x960, 0.1 MB"/></a>
-<a href="2020-07-15-2.jpg"><img src="thumbnails/post-2020-07-15-2.jpg.jpg" width="400" height="300" title="2020-07-15-2.jpg: 20201008 161234, dim=960x720, 0.0 MB"/></a>
-<a href="2020-07-15-3.jpg"><img src="thumbnails/post-2020-07-15-3.jpg.jpg" width="400" height="300" title="2020-07-15-3.jpg: 20201008 161234, dim=1280x960, 0.0 MB"/></a>
-</div>
-<div id="gallery-dcim-20200715-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200715_105207_9.jpg"><img src="thumbnails/dcim-IMG_20200715_105207_9.jpg.jpg" width="300" height="225" title="IMG_20200715_105207_9.jpg: 20200715 105207, dim=4608x3456, 7.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200715_111556_8.jpg"><img src="thumbnails/dcim-IMG_20200715_111556_8.jpg.jpg" width="300" height="225" title="IMG_20200715_111556_8.jpg: 20200715 111556, dim=4608x3456, 5.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200715_122815_4.jpg"><img src="thumbnails/dcim-IMG_20200715_122815_4.jpg.jpg" width="300" height="225" title="IMG_20200715_122815_4.jpg: 20200715 122815, dim=4608x3456, 3.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200715_140909_2.jpg"><img src="thumbnails/dcim-IMG_20200715_140909_2.jpg.jpg" width="300" height="225" title="IMG_20200715_140909_2.jpg: 20200715 140909, dim=4608x3456, 4.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200715_141530_0.jpg"><img src="thumbnails/dcim-IMG_20200715_141530_0.jpg.jpg" width="300" height="225" title="IMG_20200715_141530_0.jpg: 20200715 141530, dim=4608x3456, 3.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200715_143237_0.jpg"><img src="thumbnails/dcim-IMG_20200715_143237_0.jpg.jpg" width="300" height="225" title="IMG_20200715_143237_0.jpg: 20200715 143237, dim=4608x3456, 4.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200715_143505_3.jpg"><img src="thumbnails/dcim-IMG_20200715_143505_3.jpg.jpg" width="300" height="225" title="IMG_20200715_143505_3.jpg: 20200715 143505, dim=4608x3456, 4.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200715_153918_1.jpg"><img src="thumbnails/dcim-IMG_20200715_153918_1.jpg.jpg" width="300" height="225" title="IMG_20200715_153918_1.jpg: 20200715 153918, dim=4608x3456, 4.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200715_153944_1.jpg"><img src="thumbnails/dcim-IMG_20200715_153944_1.jpg.jpg" width="300" height="225" title="IMG_20200715_153944_1.jpg: 20200715 153944, dim=4608x3456, 4.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200715_153948_9.jpg"><img src="thumbnails/dcim-IMG_20200715_153948_9.jpg.jpg" width="300" height="225" title="IMG_20200715_153948_9.jpg: 20200715 153948, dim=4608x3456, 4.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200715_155024_5.jpg"><img src="thumbnails/dcim-IMG_20200715_155024_5.jpg.jpg" width="300" height="225" title="IMG_20200715_155024_5.jpg: 20200715 155024, dim=4608x3456, 3.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200715_155029_5.jpg"><img src="thumbnails/dcim-IMG_20200715_155029_5.jpg.jpg" width="300" height="225" title="IMG_20200715_155029_5.jpg: 20200715 155029, dim=4608x3456, 3.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200715_155038_8.jpg"><img src="thumbnails/dcim-IMG_20200715_155038_8.jpg.jpg" width="300" height="225" title="IMG_20200715_155038_8.jpg: 20200715 155038, dim=4608x3456, 4.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200715_155437_4.jpg"><img src="thumbnails/dcim-IMG_20200715_155437_4.jpg.jpg" width="300" height="225" title="IMG_20200715_155437_4.jpg: 20200715 155437, dim=4608x3456, 3.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200715_163214_0.jpg"><img src="thumbnails/dcim-IMG_20200715_163214_0.jpg.jpg" width="300" height="225" title="IMG_20200715_163214_0.jpg: 20200715 163214, dim=4608x3456, 5.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200715_163318_9.jpg"><img src="thumbnails/dcim-IMG_20200715_163318_9.jpg.jpg" width="300" height="225" title="IMG_20200715_163318_9.jpg: 20200715 163318, dim=4608x3456, 4.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200715_173104_6.jpg"><img src="thumbnails/dcim-IMG_20200715_173104_6.jpg.jpg" width="300" height="225" title="IMG_20200715_173104_6.jpg: 20200715 173104, dim=4608x3456, 5.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200715_185555_1.jpg"><img src="thumbnails/dcim-IMG_20200715_185555_1.jpg.jpg" width="300" height="225" title="IMG_20200715_185555_1.jpg: 20200715 185555, dim=4608x3456, 7.0 MB"/></a>
+<a href="2020-07-15-1.jpg"><img src=".thumbnails/post-2020-07-15-1.jpg.jpg" width="400" height="300" title="2020-07-15-1.jpg: 20201008 161234, dim=1280x960, 0.1 MB"/></a>
+<a href="2020-07-15-2.jpg"><img src=".thumbnails/post-2020-07-15-2.jpg.jpg" width="400" height="300" title="2020-07-15-2.jpg: 20201008 161234, dim=960x720, 0.0 MB"/></a>
+<a href="2020-07-15-3.jpg"><img src=".thumbnails/post-2020-07-15-3.jpg.jpg" width="400" height="300" title="2020-07-15-3.jpg: 20201008 161234, dim=1280x960, 0.0 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -144,22 +81,8 @@ vélo.</p>
 vent plus coopératif qu'hier et quelques montées (dont une petite rue à 15% en
 sortant de Fécamp que je fais en poussant).</p>
 <div id="gallery-blog-20200716-1">
-<a href="2020-07-16-1.jpg"><img src="thumbnails/post-2020-07-16-1.jpg.jpg" width="400" height="300" title="2020-07-16-1.jpg: 20201008 161235, dim=960x720, 0.1 MB"/></a>
-<a href="2020-07-16-2.jpg"><img src="thumbnails/post-2020-07-16-2.jpg.jpg" width="400" height="300" title="2020-07-16-2.jpg: 20201008 161235, dim=1280x960, 0.0 MB"/></a>
-</div>
-<div id="gallery-dcim-20200716-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200716_113730_7.jpg"><img src="thumbnails/dcim-IMG_20200716_113730_7.jpg.jpg" width="300" height="225" title="IMG_20200716_113730_7.jpg: 20200716 113730, dim=4608x3456, 7.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200716_123403_7.jpg"><img src="thumbnails/dcim-IMG_20200716_123403_7.jpg.jpg" width="300" height="225" title="IMG_20200716_123403_7.jpg: 20200716 123403, dim=4608x3456, 3.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200716_123800_1.jpg"><img src="thumbnails/dcim-IMG_20200716_123800_1.jpg.jpg" width="300" height="225" title="IMG_20200716_123800_1.jpg: 20200716 123800, dim=4608x3456, 3.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200716_123826_6.jpg"><img src="thumbnails/dcim-IMG_20200716_123826_6.jpg.jpg" width="300" height="225" title="IMG_20200716_123826_6.jpg: 20200716 123826, dim=4608x3456, 2.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200716_142038_7.jpg"><img src="thumbnails/dcim-IMG_20200716_142038_7.jpg.jpg" width="300" height="225" title="IMG_20200716_142038_7.jpg: 20200716 142038, dim=4608x3456, 2.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200716_145732_4.jpg"><img src="thumbnails/dcim-IMG_20200716_145732_4.jpg.jpg" width="300" height="225" title="IMG_20200716_145732_4.jpg: 20200716 145732, dim=4608x3456, 3.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200716_152315_2.jpg"><img src="thumbnails/dcim-IMG_20200716_152315_2.jpg.jpg" width="300" height="225" title="IMG_20200716_152315_2.jpg: 20200716 152315, dim=4608x3456, 3.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200716_153544_0.jpg"><img src="thumbnails/dcim-IMG_20200716_153544_0.jpg.jpg" width="300" height="225" title="IMG_20200716_153544_0.jpg: 20200716 153544, dim=4608x3456, 4.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200716_161646_3.jpg"><img src="thumbnails/dcim-IMG_20200716_161646_3.jpg.jpg" width="300" height="225" title="IMG_20200716_161646_3.jpg: 20200716 161646, dim=4608x3456, 5.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200716_180826_5.jpg"><img src="thumbnails/dcim-IMG_20200716_180826_5.jpg.jpg" width="300" height="225" title="IMG_20200716_180826_5.jpg: 20200716 180826, dim=4608x3456, 2.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200716_180829_0.jpg"><img src="thumbnails/dcim-IMG_20200716_180829_0.jpg.jpg" width="300" height="225" title="IMG_20200716_180829_0.jpg: 20200716 180829, dim=4608x3456, 2.7 MB"/></a>
+<a href="2020-07-16-1.jpg"><img src=".thumbnails/post-2020-07-16-1.jpg.jpg" width="400" height="300" title="2020-07-16-1.jpg: 20201008 161235, dim=960x720, 0.1 MB"/></a>
+<a href="2020-07-16-2.jpg"><img src=".thumbnails/post-2020-07-16-2.jpg.jpg" width="400" height="300" title="2020-07-16-2.jpg: 20201008 161235, dim=1280x960, 0.0 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -167,18 +90,8 @@ sortant de Fécamp que je fais en poussant).</p>
 <p>Comme hier pour les petites routes, beau temps, vent favorable et encore plus
 de dénivelé (700 mètres de dénivelé ascendant aujourd'hui).</p>
 <div id="gallery-blog-20200717-1">
-<a href="2020-07-17-1.jpg"><img src="thumbnails/post-2020-07-17-1.jpg.jpg" width="400" height="300" title="2020-07-17-1.jpg: 20201008 161236, dim=1280x960, 0.1 MB"/></a>
-<a href="2020-07-17-2.jpg"><img src="thumbnails/post-2020-07-17-2.jpg.jpg" width="400" height="300" title="2020-07-17-2.jpg: 20201008 161236, dim=1280x960, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200717-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200717_111702_3.jpg"><img src="thumbnails/dcim-IMG_20200717_111702_3.jpg.jpg" width="300" height="225" title="IMG_20200717_111702_3.jpg: 20200717 111702, dim=4608x3456, 3.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200717_120014_1.jpg"><img src="thumbnails/dcim-IMG_20200717_120014_1.jpg.jpg" width="300" height="225" title="IMG_20200717_120014_1.jpg: 20200717 120014, dim=4608x3456, 3.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200717_133015_2.jpg"><img src="thumbnails/dcim-IMG_20200717_133015_2.jpg.jpg" width="300" height="225" title="IMG_20200717_133015_2.jpg: 20200717 133015, dim=4608x3456, 5.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200717_151635_8.jpg"><img src="thumbnails/dcim-IMG_20200717_151635_8.jpg.jpg" width="300" height="225" title="IMG_20200717_151635_8.jpg: 20200717 151635, dim=4608x3456, 6.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200717_161614_8.jpg"><img src="thumbnails/dcim-IMG_20200717_161614_8.jpg.jpg" width="300" height="225" title="IMG_20200717_161614_8.jpg: 20200717 161614, dim=4608x3456, 2.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200717_185016_4.jpg"><img src="thumbnails/dcim-IMG_20200717_185016_4.jpg.jpg" width="300" height="225" title="IMG_20200717_185016_4.jpg: 20200717 185016, dim=4608x3456, 6.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200717_185103_7.jpg"><img src="thumbnails/dcim-IMG_20200717_185103_7.jpg.jpg" width="300" height="225" title="IMG_20200717_185103_7.jpg: 20200717 185103, dim=4608x3456, 5.0 MB"/></a>
+<a href="2020-07-17-1.jpg"><img src=".thumbnails/post-2020-07-17-1.jpg.jpg" width="400" height="300" title="2020-07-17-1.jpg: 20201008 161236, dim=1280x960, 0.1 MB"/></a>
+<a href="2020-07-17-2.jpg"><img src=".thumbnails/post-2020-07-17-2.jpg.jpg" width="400" height="300" title="2020-07-17-2.jpg: 20201008 161236, dim=1280x960, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -187,38 +100,15 @@ de dénivelé (700 mètres de dénivelé ascendant aujourd'hui).</p>
 bien pourri en arrivant dans la baie de Somme). Les falaises se terminent
 après le Tréport et c'est la fin des montées et des descentes.</p>
 <div id="gallery-blog-20200718-1">
-<a href="2020-07-18-1.jpg"><img src="thumbnails/post-2020-07-18-1.jpg.jpg" width="400" height="300" title="2020-07-18-1.jpg: 20201008 161237, dim=1280x960, 0.1 MB"/></a>
-<a href="2020-07-18-2.jpg"><img src="thumbnails/post-2020-07-18-2.jpg.jpg" width="400" height="300" title="2020-07-18-2.jpg: 20201008 161238, dim=1280x960, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200718-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200718_112812_8.jpg"><img src="thumbnails/dcim-IMG_20200718_112812_8.jpg.jpg" width="300" height="225" title="IMG_20200718_112812_8.jpg: 20200718 112812, dim=4608x3456, 4.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200718_135017_6.jpg"><img src="thumbnails/dcim-IMG_20200718_135017_6.jpg.jpg" width="300" height="225" title="IMG_20200718_135017_6.jpg: 20200718 135017, dim=4608x3456, 3.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200718_140339_9.jpg"><img src="thumbnails/dcim-IMG_20200718_140339_9.jpg.jpg" width="300" height="225" title="IMG_20200718_140339_9.jpg: 20200718 140339, dim=4608x3456, 5.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200718_155205_2.jpg"><img src="thumbnails/dcim-IMG_20200718_155205_2.jpg.jpg" width="300" height="225" title="IMG_20200718_155205_2.jpg: 20200718 155205, dim=4608x3456, 4.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200718_160145_8.jpg"><img src="thumbnails/dcim-IMG_20200718_160145_8.jpg.jpg" width="300" height="225" title="IMG_20200718_160145_8.jpg: 20200718 160145, dim=4608x3456, 4.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200718_163557_7.jpg"><img src="thumbnails/dcim-IMG_20200718_163557_7.jpg.jpg" width="300" height="225" title="IMG_20200718_163557_7.jpg: 20200718 163557, dim=4608x3456, 4.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200718_165205_9.jpg"><img src="thumbnails/dcim-IMG_20200718_165205_9.jpg.jpg" width="300" height="225" title="IMG_20200718_165205_9.jpg: 20200718 165205, dim=4608x3456, 4.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200718_165853_5.jpg"><img src="thumbnails/dcim-IMG_20200718_165853_5.jpg.jpg" width="300" height="225" title="IMG_20200718_165853_5.jpg: 20200718 165853, dim=4608x3456, 4.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200718_180205_5.jpg"><img src="thumbnails/dcim-IMG_20200718_180205_5.jpg.jpg" width="300" height="225" title="IMG_20200718_180205_5.jpg: 20200718 180205, dim=4608x3456, 3.7 MB"/></a>
+<a href="2020-07-18-1.jpg"><img src=".thumbnails/post-2020-07-18-1.jpg.jpg" width="400" height="300" title="2020-07-18-1.jpg: 20201008 161237, dim=1280x960, 0.1 MB"/></a>
+<a href="2020-07-18-2.jpg"><img src=".thumbnails/post-2020-07-18-2.jpg.jpg" width="400" height="300" title="2020-07-18-2.jpg: 20201008 161238, dim=1280x960, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
 <h3>J8 - 19 juillet - Saint-Valéry-sur-Somme - 32 km (550 km)</h3>
 <p>Jour de repos. Lecture, somnolence, smartphonage et ballade au Crotoy.</p>
 <div id="gallery-blog-20200719-1">
-<a href="2020-07-19-1.jpg"><img src="thumbnails/post-2020-07-19-1.jpg.jpg" width="400" height="300" title="2020-07-19-1.jpg: 20201008 161239, dim=1280x960, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200719-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200719_141357_3.jpg"><img src="thumbnails/dcim-IMG_20200719_141357_3.jpg.jpg" width="300" height="225" title="IMG_20200719_141357_3.jpg: 20200719 141357, dim=4608x3456, 6.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200719_171842_2.jpg"><img src="thumbnails/dcim-IMG_20200719_171842_2.jpg.jpg" width="300" height="225" title="IMG_20200719_171842_2.jpg: 20200719 171842, dim=4608x3456, 2.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200719_175510_0.jpg"><img src="thumbnails/dcim-IMG_20200719_175510_0.jpg.jpg" width="300" height="225" title="IMG_20200719_175510_0.jpg: 20200719 175510, dim=4608x3456, 4.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200719_180544_8.jpg"><img src="thumbnails/dcim-IMG_20200719_180544_8.jpg.jpg" width="300" height="225" title="IMG_20200719_180544_8.jpg: 20200719 180544, dim=4608x3456, 3.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200719_183936_1.jpg"><img src="thumbnails/dcim-IMG_20200719_183936_1.jpg.jpg" width="300" height="225" title="IMG_20200719_183936_1.jpg: 20200719 183936, dim=4608x3456, 4.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200719_184146_3.jpg"><img src="thumbnails/dcim-IMG_20200719_184146_3.jpg.jpg" width="300" height="225" title="IMG_20200719_184146_3.jpg: 20200719 184146, dim=4608x3456, 4.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200719_184500_8.jpg"><img src="thumbnails/dcim-IMG_20200719_184500_8.jpg.jpg" width="300" height="225" title="IMG_20200719_184500_8.jpg: 20200719 184500, dim=4608x3456, 4.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200719_184756_9.jpg"><img src="thumbnails/dcim-IMG_20200719_184756_9.jpg.jpg" width="300" height="225" title="IMG_20200719_184756_9.jpg: 20200719 184756, dim=4608x3456, 3.8 MB"/></a>
+<a href="2020-07-19-1.jpg"><img src=".thumbnails/post-2020-07-19-1.jpg.jpg" width="400" height="300" title="2020-07-19-1.jpg: 20201008 161239, dim=1280x960, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -228,23 +118,8 @@ reste au plus près de la rivière même pendant la traversée d'Amiens. Pas vu
 grand chose de la ville à part le réseau de petits canaux et de jardins. À
 part ça, beau temps, pas trop chaud, pas de dénivelé, tout va bien.</p>
 <div id="gallery-blog-20200720-1">
-<a href="2020-07-20-1.jpg"><img src="thumbnails/post-2020-07-20-1.jpg.jpg" width="400" height="300" title="2020-07-20-1.jpg: 20201008 161240, dim=1280x960, 0.1 MB"/></a>
-<a href="2020-07-20-2.jpg"><img src="thumbnails/post-2020-07-20-2.jpg.jpg" width="400" height="300" title="2020-07-20-2.jpg: 20201008 161241, dim=1280x960, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200720-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200720_111537_8.jpg"><img src="thumbnails/dcim-IMG_20200720_111537_8.jpg.jpg" width="300" height="225" title="IMG_20200720_111537_8.jpg: 20200720 111537, dim=4608x3456, 4.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200720_123302_4.jpg"><img src="thumbnails/dcim-IMG_20200720_123302_4.jpg.jpg" width="300" height="225" title="IMG_20200720_123302_4.jpg: 20200720 123302, dim=4608x3456, 6.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200720_123735_0.jpg"><img src="thumbnails/dcim-IMG_20200720_123735_0.jpg.jpg" width="300" height="225" title="IMG_20200720_123735_0.jpg: 20200720 123735, dim=4608x3456, 5.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200720_123856_7.jpg"><img src="thumbnails/dcim-IMG_20200720_123856_7.jpg.jpg" width="300" height="225" title="IMG_20200720_123856_7.jpg: 20200720 123856, dim=4608x3456, 6.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200720_131011_5.jpg"><img src="thumbnails/dcim-IMG_20200720_131011_5.jpg.jpg" width="300" height="225" title="IMG_20200720_131011_5.jpg: 20200720 131011, dim=4608x3456, 6.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200720_132927_4.jpg"><img src="thumbnails/dcim-IMG_20200720_132927_4.jpg.jpg" width="300" height="225" title="IMG_20200720_132927_4.jpg: 20200720 132927, dim=4608x3456, 6.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200720_140834_3.jpg"><img src="thumbnails/dcim-IMG_20200720_140834_3.jpg.jpg" width="300" height="225" title="IMG_20200720_140834_3.jpg: 20200720 140834, dim=4608x3456, 6.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200720_141713_6.jpg"><img src="thumbnails/dcim-IMG_20200720_141713_6.jpg.jpg" width="300" height="225" title="IMG_20200720_141713_6.jpg: 20200720 141713, dim=4608x3456, 5.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200720_153746_8.jpg"><img src="thumbnails/dcim-IMG_20200720_153746_8.jpg.jpg" width="300" height="225" title="IMG_20200720_153746_8.jpg: 20200720 153746, dim=4608x3456, 5.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200720_161800_2.jpg"><img src="thumbnails/dcim-IMG_20200720_161800_2.jpg.jpg" width="300" height="225" title="IMG_20200720_161800_2.jpg: 20200720 161800, dim=4608x3456, 4.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200720_163339_8.jpg"><img src="thumbnails/dcim-IMG_20200720_163339_8.jpg.jpg" width="300" height="225" title="IMG_20200720_163339_8.jpg: 20200720 163339, dim=4608x3456, 6.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200720_164706_1.jpg"><img src="thumbnails/dcim-IMG_20200720_164706_1.jpg.jpg" width="300" height="225" title="IMG_20200720_164706_1.jpg: 20200720 164706, dim=4608x3456, 5.2 MB"/></a>
+<a href="2020-07-20-1.jpg"><img src=".thumbnails/post-2020-07-20-1.jpg.jpg" width="400" height="300" title="2020-07-20-1.jpg: 20201008 161240, dim=1280x960, 0.1 MB"/></a>
+<a href="2020-07-20-2.jpg"><img src=".thumbnails/post-2020-07-20-2.jpg.jpg" width="400" height="300" title="2020-07-20-2.jpg: 20201008 161241, dim=1280x960, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -256,22 +131,14 @@ peu plus de dénivelé, un peu plus de vent mais pas mal quand même. Épicerie
 fermée le mardi, pas de ravitaillement à moins de 6 km, la dame du camping me
 fournit une boîte de sardines et une bière.</p>
 <div id="gallery-blog-20200721-1">
-<a href="2020-07-21-1.jpg"><img src="thumbnails/post-2020-07-21-1.jpg.jpg" width="400" height="300" title="2020-07-21-1.jpg: 20201008 161242, dim=1280x960, 0.1 MB"/></a>
-<a href="2020-07-21-2.jpg"><img src="thumbnails/post-2020-07-21-2.jpg.jpg" width="400" height="300" title="2020-07-21-2.jpg: 20201008 161242, dim=1280x960, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200721-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200721_120343_0.jpg"><img src="thumbnails/dcim-IMG_20200721_120343_0.jpg.jpg" width="300" height="225" title="IMG_20200721_120343_0.jpg: 20200721 120343, dim=4608x3456, 6.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200721_124056_9.jpg"><img src="thumbnails/dcim-IMG_20200721_124056_9.jpg.jpg" width="300" height="225" title="IMG_20200721_124056_9.jpg: 20200721 124056, dim=4608x3456, 5.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200721_153845_1.jpg"><img src="thumbnails/dcim-IMG_20200721_153845_1.jpg.jpg" width="300" height="225" title="IMG_20200721_153845_1.jpg: 20200721 153845, dim=4608x3456, 5.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200721_165428_2.jpg"><img src="thumbnails/dcim-IMG_20200721_165428_2.jpg.jpg" width="300" height="225" title="IMG_20200721_165428_2.jpg: 20200721 165428, dim=4608x3456, 2.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200721_165709_6.jpg"><img src="thumbnails/dcim-IMG_20200721_165709_6.jpg.jpg" width="300" height="225" title="IMG_20200721_165709_6.jpg: 20200721 165709, dim=4608x3456, 2.2 MB"/></a>
+<a href="2020-07-21-1.jpg"><img src=".thumbnails/post-2020-07-21-1.jpg.jpg" width="400" height="300" title="2020-07-21-1.jpg: 20201008 161242, dim=1280x960, 0.1 MB"/></a>
+<a href="2020-07-21-2.jpg"><img src=".thumbnails/post-2020-07-21-2.jpg.jpg" width="400" height="300" title="2020-07-21-2.jpg: 20201008 161242, dim=1280x960, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
 <p>C'est tout petit un bonhomme perché sur une éolienne.</p>
 <div id="gallery-blog-20200721-2">
-<a href="2020-07-21-3.jpg"><img src="thumbnails/post-2020-07-21-3.jpg.jpg" width="400" height="300" title="2020-07-21-3.jpg: 20201008 161243, dim=1440x1080, 0.1 MB"/></a>
+<a href="2020-07-21-3.jpg"><img src=".thumbnails/post-2020-07-21-3.jpg.jpg" width="400" height="300" title="2020-07-21-3.jpg: 20201008 161243, dim=1440x1080, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -286,21 +153,8 @@ les ronces. J'en sors dès que je peux. Ma trace GPS passe un peu plus loin
 dans une autre section en pointillés. Ça commence pas mal mais ça finit en
 chemin (fauché quand même) et je préfère rejoindre la route jusqu'à l'arrivée.</p>
 <div id="gallery-blog-20200722-1">
-<a href="2020-07-22-1.jpg"><img src="thumbnails/post-2020-07-22-1.jpg.jpg" width="400" height="300" title="2020-07-22-1.jpg: 20201008 161244, dim=1280x960, 0.1 MB"/></a>
-<a href="2020-07-22-2.jpg"><img src="thumbnails/post-2020-07-22-2.jpg.jpg" width="400" height="300" title="2020-07-22-2.jpg: 20201008 161245, dim=1280x960, 0.2 MB"/></a>
-</div>
-<div id="gallery-dcim-20200722-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200722_093822_0.jpg"><img src="thumbnails/dcim-IMG_20200722_093822_0.jpg.jpg" width="300" height="225" title="IMG_20200722_093822_0.jpg: 20200722 093822, dim=4608x3456, 6.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200722_115649_2.jpg"><img src="thumbnails/dcim-IMG_20200722_115649_2.jpg.jpg" width="300" height="225" title="IMG_20200722_115649_2.jpg: 20200722 115649, dim=4608x3456, 4.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200722_121018_1.jpg"><img src="thumbnails/dcim-IMG_20200722_121018_1.jpg.jpg" width="300" height="225" title="IMG_20200722_121018_1.jpg: 20200722 121018, dim=4608x3456, 4.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200722_124322_1.jpg"><img src="thumbnails/dcim-IMG_20200722_124322_1.jpg.jpg" width="300" height="225" title="IMG_20200722_124322_1.jpg: 20200722 124322, dim=4608x3456, 5.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200722_124531_4.jpg"><img src="thumbnails/dcim-IMG_20200722_124531_4.jpg.jpg" width="300" height="225" title="IMG_20200722_124531_4.jpg: 20200722 124531, dim=4608x3456, 5.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200722_135743_9.jpg"><img src="thumbnails/dcim-IMG_20200722_135743_9.jpg.jpg" width="300" height="225" title="IMG_20200722_135743_9.jpg: 20200722 135743, dim=4608x3456, 8.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200722_140635_2.jpg"><img src="thumbnails/dcim-IMG_20200722_140635_2.jpg.jpg" width="300" height="225" title="IMG_20200722_140635_2.jpg: 20200722 140635, dim=4608x3456, 9.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200722_142112_0.jpg"><img src="thumbnails/dcim-IMG_20200722_142112_0.jpg.jpg" width="300" height="225" title="IMG_20200722_142112_0.jpg: 20200722 142112, dim=4608x3456, 6.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200722_152017_3.jpg"><img src="thumbnails/dcim-IMG_20200722_152017_3.jpg.jpg" width="300" height="225" title="IMG_20200722_152017_3.jpg: 20200722 152017, dim=4608x3456, 7.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200722_182648_2.jpg"><img src="thumbnails/dcim-IMG_20200722_182648_2.jpg.jpg" width="300" height="225" title="IMG_20200722_182648_2.jpg: 20200722 182648, dim=4608x3456, 5.0 MB"/></a>
+<a href="2020-07-22-1.jpg"><img src=".thumbnails/post-2020-07-22-1.jpg.jpg" width="400" height="300" title="2020-07-22-1.jpg: 20201008 161244, dim=1280x960, 0.1 MB"/></a>
+<a href="2020-07-22-2.jpg"><img src=".thumbnails/post-2020-07-22-2.jpg.jpg" width="400" height="300" title="2020-07-22-2.jpg: 20201008 161245, dim=1280x960, 0.2 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -309,21 +163,8 @@ chemin (fauché quand même) et je préfère rejoindre la route jusqu'à l'arriv
 cyclistes au camping), ensuite que de la route sauf pour les 17 km de la
 véloroute de l'Ailette. Nuit dans un vrai lit, Sherlock à la télé.</p>
 <div id="gallery-blog-20200723-1">
-<a href="2020-07-23-1.jpg"><img src="thumbnails/post-2020-07-23-1.jpg.jpg" width="400" height="300" title="2020-07-23-1.jpg: 20201008 161245, dim=1280x960, 0.1 MB"/></a>
-<a href="2020-07-23-2.jpg"><img src="thumbnails/post-2020-07-23-2.jpg.jpg" width="400" height="300" title="2020-07-23-2.jpg: 20201008 161245, dim=1280x960, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200723-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200723_120316_7.jpg"><img src="thumbnails/dcim-IMG_20200723_120316_7.jpg.jpg" width="300" height="225" title="IMG_20200723_120316_7.jpg: 20200723 120316, dim=4608x3456, 2.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200723_120634_5.jpg"><img src="thumbnails/dcim-IMG_20200723_120634_5.jpg.jpg" width="300" height="225" title="IMG_20200723_120634_5.jpg: 20200723 120634, dim=4608x3456, 3.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200723_121606_2.jpg"><img src="thumbnails/dcim-IMG_20200723_121606_2.jpg.jpg" width="300" height="225" title="IMG_20200723_121606_2.jpg: 20200723 121606, dim=4608x3456, 5.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200723_132347_2.jpg"><img src="thumbnails/dcim-IMG_20200723_132347_2.jpg.jpg" width="300" height="225" title="IMG_20200723_132347_2.jpg: 20200723 132347, dim=4608x3456, 3.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200723_133725_5.jpg"><img src="thumbnails/dcim-IMG_20200723_133725_5.jpg.jpg" width="300" height="225" title="IMG_20200723_133725_5.jpg: 20200723 133725, dim=4608x3456, 4.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200723_134139_4.jpg"><img src="thumbnails/dcim-IMG_20200723_134139_4.jpg.jpg" width="300" height="225" title="IMG_20200723_134139_4.jpg: 20200723 134139, dim=4608x3456, 4.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200723_145348_7.jpg"><img src="thumbnails/dcim-IMG_20200723_145348_7.jpg.jpg" width="300" height="225" title="IMG_20200723_145348_7.jpg: 20200723 145348, dim=4608x3456, 6.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200723_155654_6.jpg"><img src="thumbnails/dcim-IMG_20200723_155654_6.jpg.jpg" width="300" height="225" title="IMG_20200723_155654_6.jpg: 20200723 155654, dim=4608x3456, 3.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200723_171043_0.jpg"><img src="thumbnails/dcim-IMG_20200723_171043_0.jpg.jpg" width="300" height="225" title="IMG_20200723_171043_0.jpg: 20200723 171043, dim=4608x3456, 5.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200723_174810_4.jpg"><img src="thumbnails/dcim-IMG_20200723_174810_4.jpg.jpg" width="300" height="225" title="IMG_20200723_174810_4.jpg: 20200723 174810, dim=4608x3456, 2.4 MB"/></a>
+<a href="2020-07-23-1.jpg"><img src=".thumbnails/post-2020-07-23-1.jpg.jpg" width="400" height="300" title="2020-07-23-1.jpg: 20201008 161245, dim=1280x960, 0.1 MB"/></a>
+<a href="2020-07-23-2.jpg"><img src=".thumbnails/post-2020-07-23-2.jpg.jpg" width="400" height="300" title="2020-07-23-2.jpg: 20201008 161245, dim=1280x960, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -333,26 +174,8 @@ travaillé pendant quelques mois dans une autre vie. L'atelier a déménagé l'�
 dernier. Google m'emmène jusqu'à la nouvelle adresse et là je discute deux
 minutes avec quelqu'un qui en sort et qui me donne l'ancienne adresse.</p>
 <div id="gallery-blog-20200724-1">
-<a href="2020-07-24-3.jpg"><img src="thumbnails/post-2020-07-24-3.jpg.jpg" width="400" height="300" title="2020-07-24-3.jpg: 20201008 161246, dim=1280x960, 0.1 MB"/></a>
-<a href="2020-07-24-4.jpg"><img src="thumbnails/post-2020-07-24-4.jpg.jpg" width="400" height="300" title="2020-07-24-4.jpg: 20201008 161246, dim=1280x960, 0.2 MB"/></a>
-</div>
-<div id="gallery-dcim-20200724-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200724_115302_8.jpg"><img src="thumbnails/dcim-IMG_20200724_115302_8.jpg.jpg" width="300" height="225" title="IMG_20200724_115302_8.jpg: 20200724 115302, dim=4608x3456, 4.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200724_115433_5.jpg"><img src="thumbnails/dcim-IMG_20200724_115433_5.jpg.jpg" width="300" height="225" title="IMG_20200724_115433_5.jpg: 20200724 115433, dim=4608x3456, 2.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200724_115638_7.jpg"><img src="thumbnails/dcim-IMG_20200724_115638_7.jpg.jpg" width="300" height="225" title="IMG_20200724_115638_7.jpg: 20200724 115638, dim=4608x3456, 4.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200724_115900_2.jpg"><img src="thumbnails/dcim-IMG_20200724_115900_2.jpg.jpg" width="300" height="225" title="IMG_20200724_115900_2.jpg: 20200724 115900, dim=4608x3456, 4.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200724_120554_7.jpg"><img src="thumbnails/dcim-IMG_20200724_120554_7.jpg.jpg" width="300" height="225" title="IMG_20200724_120554_7.jpg: 20200724 120554, dim=4608x3456, 4.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200724_120748_9.jpg"><img src="thumbnails/dcim-IMG_20200724_120748_9.jpg.jpg" width="300" height="225" title="IMG_20200724_120748_9.jpg: 20200724 120748, dim=4608x3456, 6.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200724_120843_6.jpg"><img src="thumbnails/dcim-IMG_20200724_120843_6.jpg.jpg" width="300" height="225" title="IMG_20200724_120843_6.jpg: 20200724 120843, dim=4608x3456, 5.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200724_123517_5.jpg"><img src="thumbnails/dcim-IMG_20200724_123517_5.jpg.jpg" width="300" height="225" title="IMG_20200724_123517_5.jpg: 20200724 123517, dim=4608x3456, 5.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200724_123639_8.jpg"><img src="thumbnails/dcim-IMG_20200724_123639_8.jpg.jpg" width="300" height="225" title="IMG_20200724_123639_8.jpg: 20200724 123639, dim=4608x3456, 4.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200724_130212_4.jpg"><img src="thumbnails/dcim-IMG_20200724_130212_4.jpg.jpg" width="300" height="225" title="IMG_20200724_130212_4.jpg: 20200724 130212, dim=4608x3456, 3.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200724_133634_9.jpg"><img src="thumbnails/dcim-IMG_20200724_133634_9.jpg.jpg" width="300" height="225" title="IMG_20200724_133634_9.jpg: 20200724 133634, dim=4608x3456, 4.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200724_144849_8.jpg"><img src="thumbnails/dcim-IMG_20200724_144849_8.jpg.jpg" width="300" height="225" title="IMG_20200724_144849_8.jpg: 20200724 144849, dim=4608x3456, 4.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200724_151030_6.jpg"><img src="thumbnails/dcim-IMG_20200724_151030_6.jpg.jpg" width="300" height="225" title="IMG_20200724_151030_6.jpg: 20200724 151030, dim=4608x3456, 2.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200724_153834_2.jpg"><img src="thumbnails/dcim-IMG_20200724_153834_2.jpg.jpg" width="300" height="225" title="IMG_20200724_153834_2.jpg: 20200724 153834, dim=4608x3456, 4.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200724_171817_1.jpg"><img src="thumbnails/dcim-IMG_20200724_171817_1.jpg.jpg" width="300" height="225" title="IMG_20200724_171817_1.jpg: 20200724 171817, dim=4608x3456, 5.9 MB"/></a>
+<a href="2020-07-24-3.jpg"><img src=".thumbnails/post-2020-07-24-3.jpg.jpg" width="400" height="300" title="2020-07-24-3.jpg: 20201008 161246, dim=1280x960, 0.1 MB"/></a>
+<a href="2020-07-24-4.jpg"><img src=".thumbnails/post-2020-07-24-4.jpg.jpg" width="400" height="300" title="2020-07-24-4.jpg: 20201008 161246, dim=1280x960, 0.2 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -363,8 +186,8 @@ routes, ensuite un morceau de départementale un peu chargée. Je discute avec
 un gars qui fait Toulouse-Bruxelles. Il tient un blog et me donne l'adresse.
 Pas mal fichu.</p>
 <div id="gallery-blog-20200724-2">
-<a href="2020-07-24-1.jpg"><img src="thumbnails/post-2020-07-24-1.jpg.jpg" width="400" height="300" title="2020-07-24-1.jpg: 20201008 161246, dim=1280x960, 0.1 MB"/></a>
-<a href="2020-07-24-2.jpg"><img src="thumbnails/post-2020-07-24-2.jpg.jpg" width="400" height="300" title="2020-07-24-2.jpg: 20201008 161247, dim=1280x960, 0.1 MB"/></a>
+<a href="2020-07-24-1.jpg"><img src=".thumbnails/post-2020-07-24-1.jpg.jpg" width="400" height="300" title="2020-07-24-1.jpg: 20201008 161246, dim=1280x960, 0.1 MB"/></a>
+<a href="2020-07-24-2.jpg"><img src=".thumbnails/post-2020-07-24-2.jpg.jpg" width="400" height="300" title="2020-07-24-2.jpg: 20201008 161247, dim=1280x960, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -374,32 +197,8 @@ pour avoir un aperçu. Un groupe fait la balance sous un chapiteau. Comme c'est
 pas mal et qu'ils jouent Morenica, j'y retourne le soir. (Compagnie Mohein,
 musique Balkan Méditerranée).</p>
 <div id="gallery-blog-20200725-1">
-<a href="2020-07-25-1.jpg"><img src="thumbnails/post-2020-07-25-1.jpg.jpg" width="400" height="300" title="2020-07-25-1.jpg: 20201008 161248, dim=1280x960, 0.1 MB"/></a>
-<a href="2020-07-25-2.jpg"><img src="thumbnails/post-2020-07-25-2.jpg.jpg" width="400" height="300" title="2020-07-25-2.jpg: 20201008 161248, dim=1280x960, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200725-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200725_155107_8.jpg"><img src="thumbnails/dcim-IMG_20200725_155107_8.jpg.jpg" width="300" height="225" title="IMG_20200725_155107_8.jpg: 20200725 155107, dim=4608x3456, 3.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200725_155245_2.jpg"><img src="thumbnails/dcim-IMG_20200725_155245_2.jpg.jpg" width="300" height="225" title="IMG_20200725_155245_2.jpg: 20200725 155245, dim=4608x3456, 2.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200725_155248_3.jpg"><img src="thumbnails/dcim-IMG_20200725_155248_3.jpg.jpg" width="300" height="225" title="IMG_20200725_155248_3.jpg: 20200725 155248, dim=4608x3456, 2.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200725_181340_4.jpg"><img src="thumbnails/dcim-IMG_20200725_181340_4.jpg.jpg" width="300" height="225" title="IMG_20200725_181340_4.jpg: 20200725 181340, dim=4608x3456, 4.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200725_183510_7.jpg"><img src="thumbnails/dcim-IMG_20200725_183510_7.jpg.jpg" width="300" height="225" title="IMG_20200725_183510_7.jpg: 20200725 183510, dim=4608x3456, 4.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200725_211224_3.jpg"><img src="thumbnails/dcim-IMG_20200725_211224_3.jpg.jpg" width="300" height="225" title="IMG_20200725_211224_3.jpg: 20200725 211224, dim=4608x3456, 4.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200725_211920_8.jpg"><img src="thumbnails/dcim-IMG_20200725_211920_8.jpg.jpg" width="300" height="225" title="IMG_20200725_211920_8.jpg: 20200725 211920, dim=4608x3456, 3.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200725_212436_7.jpg"><img src="thumbnails/dcim-IMG_20200725_212436_7.jpg.jpg" width="300" height="225" title="IMG_20200725_212436_7.jpg: 20200725 212436, dim=4608x3456, 2.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200725_212455_3.jpg"><img src="thumbnails/dcim-IMG_20200725_212455_3.jpg.jpg" width="300" height="225" title="IMG_20200725_212455_3.jpg: 20200725 212455, dim=4608x3456, 2.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200725_212621_2.jpg"><img src="thumbnails/dcim-IMG_20200725_212621_2.jpg.jpg" width="300" height="225" title="IMG_20200725_212621_2.jpg: 20200725 212621, dim=4608x3456, 2.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200725_212622_7.jpg"><img src="thumbnails/dcim-IMG_20200725_212622_7.jpg.jpg" width="300" height="225" title="IMG_20200725_212622_7.jpg: 20200725 212622, dim=4608x3456, 2.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200725_212624_4.jpg"><img src="thumbnails/dcim-IMG_20200725_212624_4.jpg.jpg" width="300" height="225" title="IMG_20200725_212624_4.jpg: 20200725 212624, dim=4608x3456, 2.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200725_212625_4.jpg"><img src="thumbnails/dcim-IMG_20200725_212625_4.jpg.jpg" width="300" height="225" title="IMG_20200725_212625_4.jpg: 20200725 212625, dim=4608x3456, 2.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200725_212627_0.jpg"><img src="thumbnails/dcim-IMG_20200725_212627_0.jpg.jpg" width="300" height="225" title="IMG_20200725_212627_0.jpg: 20200725 212627, dim=4608x3456, 2.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200725_212628_0.jpg"><img src="thumbnails/dcim-IMG_20200725_212628_0.jpg.jpg" width="300" height="225" title="IMG_20200725_212628_0.jpg: 20200725 212628, dim=4608x3456, 2.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200725_212654_8.jpg"><img src="thumbnails/dcim-IMG_20200725_212654_8.jpg.jpg" width="300" height="225" title="IMG_20200725_212654_8.jpg: 20200725 212654, dim=4608x3456, 2.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\VID_20200725_212814.mp4" rel="video"><img src="thumbnails/dcim-VID_20200725_212814.mp4.jpg" width="300" height="169" title="VID_20200725_212814.mp4: 20200725 212814, dim=1280x720, m:s=01:15, fps=29.6, 33.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200725_220313_8.jpg"><img src="thumbnails/dcim-IMG_20200725_220313_8.jpg.jpg" width="300" height="225" title="IMG_20200725_220313_8.jpg: 20200725 220313, dim=4608x3456, 3.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200725_222243_0.jpg"><img src="thumbnails/dcim-IMG_20200725_222243_0.jpg.jpg" width="300" height="225" title="IMG_20200725_222243_0.jpg: 20200725 222243, dim=4608x3456, 4.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200725_222259_8.jpg"><img src="thumbnails/dcim-IMG_20200725_222259_8.jpg.jpg" width="300" height="225" title="IMG_20200725_222259_8.jpg: 20200725 222259, dim=4608x3456, 4.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200725_222322_4.jpg"><img src="thumbnails/dcim-IMG_20200725_222322_4.jpg.jpg" width="300" height="225" title="IMG_20200725_222322_4.jpg: 20200725 222322, dim=4608x3456, 4.8 MB"/></a>
+<a href="2020-07-25-1.jpg"><img src=".thumbnails/post-2020-07-25-1.jpg.jpg" width="400" height="300" title="2020-07-25-1.jpg: 20201008 161248, dim=1280x960, 0.1 MB"/></a>
+<a href="2020-07-25-2.jpg"><img src=".thumbnails/post-2020-07-25-2.jpg.jpg" width="400" height="300" title="2020-07-25-2.jpg: 20201008 161248, dim=1280x960, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -408,30 +207,14 @@ musique Balkan Méditerranée).</p>
 verte au bord d'un canal tout droit (et le vent dans le dos), troisième partie
 : petite route (voire chemin) longeant de trop prêt la grosse nationale.</p>
 <div id="gallery-blog-20200726-1">
-<a href="2020-07-26-1.jpg"><img src="thumbnails/post-2020-07-26-1.jpg.jpg" width="400" height="300" title="2020-07-26-1.jpg: 20201008 161248, dim=1280x960, 0.1 MB"/></a>
-<a href="2020-07-26-2.jpg"><img src="thumbnails/post-2020-07-26-2.jpg.jpg" width="400" height="300" title="2020-07-26-2.jpg: 20201008 161248, dim=1280x960, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200726-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200726_115412_9.jpg"><img src="thumbnails/dcim-IMG_20200726_115412_9.jpg.jpg" width="300" height="225" title="IMG_20200726_115412_9.jpg: 20200726 115412, dim=4608x3456, 3.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200726_125558_7.jpg"><img src="thumbnails/dcim-IMG_20200726_125558_7.jpg.jpg" width="300" height="225" title="IMG_20200726_125558_7.jpg: 20200726 125558, dim=4608x3456, 4.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200726_132159_0.jpg"><img src="thumbnails/dcim-IMG_20200726_132159_0.jpg.jpg" width="300" height="225" title="IMG_20200726_132159_0.jpg: 20200726 132159, dim=4608x3456, 6.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200726_132614_0.jpg"><img src="thumbnails/dcim-IMG_20200726_132614_0.jpg.jpg" width="300" height="225" title="IMG_20200726_132614_0.jpg: 20200726 132614, dim=4608x3456, 6.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200726_133254_9.jpg"><img src="thumbnails/dcim-IMG_20200726_133254_9.jpg.jpg" width="300" height="225" title="IMG_20200726_133254_9.jpg: 20200726 133254, dim=4608x3456, 7.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200726_133302_5.jpg"><img src="thumbnails/dcim-IMG_20200726_133302_5.jpg.jpg" width="300" height="225" title="IMG_20200726_133302_5.jpg: 20200726 133302, dim=4608x3456, 6.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200726_133534_4.jpg"><img src="thumbnails/dcim-IMG_20200726_133534_4.jpg.jpg" width="300" height="225" title="IMG_20200726_133534_4.jpg: 20200726 133534, dim=4608x3456, 6.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200726_133811_0.jpg"><img src="thumbnails/dcim-IMG_20200726_133811_0.jpg.jpg" width="300" height="225" title="IMG_20200726_133811_0.jpg: 20200726 133811, dim=4608x3456, 7.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200726_135219_0.jpg"><img src="thumbnails/dcim-IMG_20200726_135219_0.jpg.jpg" width="300" height="225" title="IMG_20200726_135219_0.jpg: 20200726 135219, dim=4608x3456, 3.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200726_145056_9.jpg"><img src="thumbnails/dcim-IMG_20200726_145056_9.jpg.jpg" width="300" height="225" title="IMG_20200726_145056_9.jpg: 20200726 145056, dim=4608x3456, 6.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200726_175810_6.jpg"><img src="thumbnails/dcim-IMG_20200726_175810_6.jpg.jpg" width="300" height="225" title="IMG_20200726_175810_6.jpg: 20200726 175810, dim=4608x3456, 6.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200726_185420_6.jpg"><img src="thumbnails/dcim-IMG_20200726_185420_6.jpg.jpg" width="300" height="225" title="IMG_20200726_185420_6.jpg: 20200726 185420, dim=4608x3456, 5.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200726_185458_4.jpg"><img src="thumbnails/dcim-IMG_20200726_185458_4.jpg.jpg" width="300" height="225" title="IMG_20200726_185458_4.jpg: 20200726 185458, dim=4608x3456, 7.7 MB"/></a>
+<a href="2020-07-26-1.jpg"><img src=".thumbnails/post-2020-07-26-1.jpg.jpg" width="400" height="300" title="2020-07-26-1.jpg: 20201008 161248, dim=1280x960, 0.1 MB"/></a>
+<a href="2020-07-26-2.jpg"><img src=".thumbnails/post-2020-07-26-2.jpg.jpg" width="400" height="300" title="2020-07-26-2.jpg: 20201008 161248, dim=1280x960, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
 <div id="gallery-blog-20200726-2">
-<a href="2020-07-26-3.jpg"><img src="thumbnails/post-2020-07-26-3.jpg.jpg" width="400" height="300" title="2020-07-26-3.jpg: 20201008 161249, dim=1280x960, 0.1 MB"/></a>
-<a href="2020-07-26-4.jpg"><img src="thumbnails/post-2020-07-26-4.jpg.jpg" width="400" height="300" title="2020-07-26-4.jpg: 20201008 161249, dim=960x720, 0.1 MB"/></a>
+<a href="2020-07-26-3.jpg"><img src=".thumbnails/post-2020-07-26-3.jpg.jpg" width="400" height="300" title="2020-07-26-3.jpg: 20201008 161249, dim=1280x960, 0.1 MB"/></a>
+<a href="2020-07-26-4.jpg"><img src=".thumbnails/post-2020-07-26-4.jpg.jpg" width="400" height="300" title="2020-07-26-4.jpg: 20201008 161249, dim=960x720, 0.1 MB"/></a>
 <hr color="#C0C0C0" size="1" />
 </div>
 
@@ -441,31 +224,17 @@ remonte vers les éoliennes, en partie sur du chemin, et après ça, c'est de la
 route. Camping toujours plus loin que là où on aimerait le trouver mais vent
 toujours favorable.</p>
 <div id="gallery-blog-20200727-1">
-<a href="2020-07-27-1.jpg"><img src="thumbnails/post-2020-07-27-1.jpg.jpg" width="400" height="300" title="2020-07-27-1.jpg: 20201008 161253, dim=1280x960, 0.1 MB"/></a>
-<a href="2020-07-27-2.jpg"><img src="thumbnails/post-2020-07-27-2.jpg.jpg" width="400" height="300" title="2020-07-27-2.jpg: 20201008 161253, dim=1280x960, 0.1 MB"/></a>
-<a href="2020-07-27-3.jpg"><img src="thumbnails/post-2020-07-27-3.jpg.jpg" width="400" height="300" title="2020-07-27-3.jpg: 20201008 161254, dim=1280x960, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200727-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200727_111505_0.jpg"><img src="thumbnails/dcim-IMG_20200727_111505_0.jpg.jpg" width="300" height="225" title="IMG_20200727_111505_0.jpg: 20200727 111505, dim=4608x3456, 5.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200727_114951_4.jpg"><img src="thumbnails/dcim-IMG_20200727_114951_4.jpg.jpg" width="300" height="225" title="IMG_20200727_114951_4.jpg: 20200727 114951, dim=4608x3456, 6.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200727_123945_6.jpg"><img src="thumbnails/dcim-IMG_20200727_123945_6.jpg.jpg" width="300" height="225" title="IMG_20200727_123945_6.jpg: 20200727 123945, dim=4608x3456, 7.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200727_133844_8.jpg"><img src="thumbnails/dcim-IMG_20200727_133844_8.jpg.jpg" width="300" height="225" title="IMG_20200727_133844_8.jpg: 20200727 133844, dim=4608x3456, 4.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200727_184537_3.jpg"><img src="thumbnails/dcim-IMG_20200727_184537_3.jpg.jpg" width="300" height="225" title="IMG_20200727_184537_3.jpg: 20200727 184537, dim=4608x3456, 4.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200727_191638_4.jpg"><img src="thumbnails/dcim-IMG_20200727_191638_4.jpg.jpg" width="300" height="225" title="IMG_20200727_191638_4.jpg: 20200727 191638, dim=4608x3456, 7.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200727_200145_7.jpg"><img src="thumbnails/dcim-IMG_20200727_200145_7.jpg.jpg" width="300" height="225" title="IMG_20200727_200145_7.jpg: 20200727 200145, dim=4608x3456, 7.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200727_200741_5.jpg"><img src="thumbnails/dcim-IMG_20200727_200741_5.jpg.jpg" width="300" height="225" title="IMG_20200727_200741_5.jpg: 20200727 200741, dim=4608x3456, 5.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200727_200752_5.jpg"><img src="thumbnails/dcim-IMG_20200727_200752_5.jpg.jpg" width="300" height="225" title="IMG_20200727_200752_5.jpg: 20200727 200752, dim=4608x3456, 6.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200727_214123_3.jpg"><img src="thumbnails/dcim-IMG_20200727_214123_3.jpg.jpg" width="300" height="225" title="IMG_20200727_214123_3.jpg: 20200727 214123, dim=4608x3456, 4.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200727_214319_7.jpg"><img src="thumbnails/dcim-IMG_20200727_214319_7.jpg.jpg" width="300" height="225" title="IMG_20200727_214319_7.jpg: 20200727 214319, dim=4608x3456, 4.1 MB"/></a>
+<a href="2020-07-27-1.jpg"><img src=".thumbnails/post-2020-07-27-1.jpg.jpg" width="400" height="300" title="2020-07-27-1.jpg: 20201008 161253, dim=1280x960, 0.1 MB"/></a>
+<a href="2020-07-27-2.jpg"><img src=".thumbnails/post-2020-07-27-2.jpg.jpg" width="400" height="300" title="2020-07-27-2.jpg: 20201008 161253, dim=1280x960, 0.1 MB"/></a>
+<a href="2020-07-27-3.jpg"><img src=".thumbnails/post-2020-07-27-3.jpg.jpg" width="400" height="300" title="2020-07-27-3.jpg: 20201008 161254, dim=1280x960, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
 <p>Camping au bord de la Moselle. Je prends une bière à la réception et je la
 bois les pieds dans l'eau. Il en faut peu...</p>
 <div id="gallery-blog-20200727-2">
-<a href="2020-07-27-4.jpg"><img src="thumbnails/post-2020-07-27-4.jpg.jpg" width="400" height="300" title="2020-07-27-4.jpg: 20201008 161254, dim=1280x960, 0.2 MB"/></a>
-<a href="2020-07-27-5.jpg"><img src="thumbnails/post-2020-07-27-5.jpg.jpg" width="400" height="300" title="2020-07-27-5.jpg: 20201008 161300, dim=1280x960, 0.2 MB"/></a>
+<a href="2020-07-27-4.jpg"><img src=".thumbnails/post-2020-07-27-4.jpg.jpg" width="400" height="300" title="2020-07-27-4.jpg: 20201008 161254, dim=1280x960, 0.2 MB"/></a>
+<a href="2020-07-27-5.jpg"><img src=".thumbnails/post-2020-07-27-5.jpg.jpg" width="400" height="300" title="2020-07-27-5.jpg: 20201008 161300, dim=1280x960, 0.2 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -478,19 +247,10 @@ d'allure en plein jour. Pour le reste, de la route et du canal (canal de la
 Marne au Rhin) avec une très belle voie à partir de Toul. Et toujours le vent
 favorable.</p>
 <div id="gallery-blog-20200728-1">
-<a href="2020-07-28-1.jpg"><img src="thumbnails/post-2020-07-28-1.jpg.jpg" width="400" height="300" title="2020-07-28-1.jpg: 20201008 161301, dim=960x720, 0.1 MB"/></a>
-<a href="2020-07-28-2.jpg"><img src="thumbnails/post-2020-07-28-2.jpg.jpg" width="400" height="300" title="2020-07-28-2.jpg: 20201008 161302, dim=960x720, 0.1 MB"/></a>
-<a href="2020-07-28-3.jpg"><img src="thumbnails/post-2020-07-28-3.jpg.jpg" width="400" height="300" title="2020-07-28-3.jpg: 20201008 161302, dim=960x720, 0.1 MB"/></a>
-<a href="2020-07-28-4.jpg"><img src="thumbnails/post-2020-07-28-4.jpg.jpg" width="400" height="300" title="2020-07-28-4.jpg: 20201008 161303, dim=960x720, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200728-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200728_111430_5.jpg"><img src="thumbnails/dcim-IMG_20200728_111430_5.jpg.jpg" width="300" height="225" title="IMG_20200728_111430_5.jpg: 20200728 111430, dim=4608x3456, 5.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200728_112136_3.jpg"><img src="thumbnails/dcim-IMG_20200728_112136_3.jpg.jpg" width="300" height="225" title="IMG_20200728_112136_3.jpg: 20200728 112136, dim=4608x3456, 5.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200728_124641_2.jpg"><img src="thumbnails/dcim-IMG_20200728_124641_2.jpg.jpg" width="300" height="225" title="IMG_20200728_124641_2.jpg: 20200728 124641, dim=4608x3456, 4.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200728_134307_0.jpg"><img src="thumbnails/dcim-IMG_20200728_134307_0.jpg.jpg" width="300" height="225" title="IMG_20200728_134307_0.jpg: 20200728 134307, dim=4608x3456, 7.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200728_134419_6.jpg"><img src="thumbnails/dcim-IMG_20200728_134419_6.jpg.jpg" width="300" height="225" title="IMG_20200728_134419_6.jpg: 20200728 134419, dim=4608x3456, 3.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200728_165214_5.jpg"><img src="thumbnails/dcim-IMG_20200728_165214_5.jpg.jpg" width="300" height="225" title="IMG_20200728_165214_5.jpg: 20200728 165214, dim=4608x3456, 5.7 MB"/></a>
+<a href="2020-07-28-1.jpg"><img src=".thumbnails/post-2020-07-28-1.jpg.jpg" width="400" height="300" title="2020-07-28-1.jpg: 20201008 161301, dim=960x720, 0.1 MB"/></a>
+<a href="2020-07-28-2.jpg"><img src=".thumbnails/post-2020-07-28-2.jpg.jpg" width="400" height="300" title="2020-07-28-2.jpg: 20201008 161302, dim=960x720, 0.1 MB"/></a>
+<a href="2020-07-28-3.jpg"><img src=".thumbnails/post-2020-07-28-3.jpg.jpg" width="400" height="300" title="2020-07-28-3.jpg: 20201008 161302, dim=960x720, 0.1 MB"/></a>
+<a href="2020-07-28-4.jpg"><img src=".thumbnails/post-2020-07-28-4.jpg.jpg" width="400" height="300" title="2020-07-28-4.jpg: 20201008 161303, dim=960x720, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -500,37 +260,10 @@ canal, des étangs, des collines recouvertes de forêts, pas trop chaud et
 toujours le vent favorable. Discuté sur la route avec une dame à vélo qui
 était la semaine dernière en baie de Somme.</p>
 <div id="gallery-blog-20200729-1">
-<a href="2020-07-29-1.jpg"><img src="thumbnails/post-2020-07-29-1.jpg.jpg" width="400" height="300" title="2020-07-29-1.jpg: 20201008 161303, dim=960x720, 0.1 MB"/></a>
-<a href="2020-07-29-2.jpg"><img src="thumbnails/post-2020-07-29-2.jpg.jpg" width="400" height="300" title="2020-07-29-2.jpg: 20201008 161304, dim=960x720, 0.1 MB"/></a>
-<a href="2020-07-29-3.jpg"><img src="thumbnails/post-2020-07-29-3.jpg.jpg" width="400" height="300" title="2020-07-29-3.jpg: 20201008 161305, dim=960x720, 0.1 MB"/></a>
-<a href="2020-07-29-4.jpg"><img src="thumbnails/post-2020-07-29-4.jpg.jpg" width="400" height="300" title="2020-07-29-4.jpg: 20201008 161305, dim=960x720, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200729-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_105750_8.jpg"><img src="thumbnails/dcim-IMG_20200729_105750_8.jpg.jpg" width="300" height="225" title="IMG_20200729_105750_8.jpg: 20200729 105750, dim=4608x3456, 6.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_105850_9.jpg"><img src="thumbnails/dcim-IMG_20200729_105850_9.jpg.jpg" width="300" height="225" title="IMG_20200729_105850_9.jpg: 20200729 105850, dim=4608x3456, 7.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_111247_3.jpg"><img src="thumbnails/dcim-IMG_20200729_111247_3.jpg.jpg" width="300" height="225" title="IMG_20200729_111247_3.jpg: 20200729 111247, dim=4608x3456, 4.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_121158_3.jpg"><img src="thumbnails/dcim-IMG_20200729_121158_3.jpg.jpg" width="300" height="225" title="IMG_20200729_121158_3.jpg: 20200729 121158, dim=4608x3456, 3.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_121941_1.jpg"><img src="thumbnails/dcim-IMG_20200729_121941_1.jpg.jpg" width="300" height="225" title="IMG_20200729_121941_1.jpg: 20200729 121941, dim=4608x3456, 5.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_122641_7.jpg"><img src="thumbnails/dcim-IMG_20200729_122641_7.jpg.jpg" width="300" height="225" title="IMG_20200729_122641_7.jpg: 20200729 122641, dim=4608x3456, 5.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_123028_5.jpg"><img src="thumbnails/dcim-IMG_20200729_123028_5.jpg.jpg" width="300" height="225" title="IMG_20200729_123028_5.jpg: 20200729 123028, dim=4608x3456, 5.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_123104_5.jpg"><img src="thumbnails/dcim-IMG_20200729_123104_5.jpg.jpg" width="300" height="225" title="IMG_20200729_123104_5.jpg: 20200729 123104, dim=4608x3456, 6.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_123640_8.jpg"><img src="thumbnails/dcim-IMG_20200729_123640_8.jpg.jpg" width="300" height="225" title="IMG_20200729_123640_8.jpg: 20200729 123640, dim=4608x3456, 6.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_123831_1.jpg"><img src="thumbnails/dcim-IMG_20200729_123831_1.jpg.jpg" width="300" height="225" title="IMG_20200729_123831_1.jpg: 20200729 123831, dim=4608x3456, 6.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_124001_5.jpg"><img src="thumbnails/dcim-IMG_20200729_124001_5.jpg.jpg" width="300" height="225" title="IMG_20200729_124001_5.jpg: 20200729 124001, dim=4608x3456, 3.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_124654_3.jpg"><img src="thumbnails/dcim-IMG_20200729_124654_3.jpg.jpg" width="225" height="300" title="IMG_20200729_124654_3.jpg: 20200729 124654, dim=3456x4608, 4.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_133549_6.jpg"><img src="thumbnails/dcim-IMG_20200729_133549_6.jpg.jpg" width="300" height="225" title="IMG_20200729_133549_6.jpg: 20200729 133549, dim=4608x3456, 7.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_135437_0.jpg"><img src="thumbnails/dcim-IMG_20200729_135437_0.jpg.jpg" width="300" height="225" title="IMG_20200729_135437_0.jpg: 20200729 135437, dim=4608x3456, 5.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_135703_4.jpg"><img src="thumbnails/dcim-IMG_20200729_135703_4.jpg.jpg" width="300" height="225" title="IMG_20200729_135703_4.jpg: 20200729 135703, dim=4608x3456, 2.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_143718_6.jpg"><img src="thumbnails/dcim-IMG_20200729_143718_6.jpg.jpg" width="300" height="225" title="IMG_20200729_143718_6.jpg: 20200729 143718, dim=4608x3456, 7.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_145328_9.jpg"><img src="thumbnails/dcim-IMG_20200729_145328_9.jpg.jpg" width="300" height="225" title="IMG_20200729_145328_9.jpg: 20200729 145328, dim=4608x3456, 2.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_152456_6.jpg"><img src="thumbnails/dcim-IMG_20200729_152456_6.jpg.jpg" width="300" height="225" title="IMG_20200729_152456_6.jpg: 20200729 152456, dim=4608x3456, 5.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_153955_0.jpg"><img src="thumbnails/dcim-IMG_20200729_153955_0.jpg.jpg" width="300" height="225" title="IMG_20200729_153955_0.jpg: 20200729 153955, dim=4608x3456, 5.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_155141_3.jpg"><img src="thumbnails/dcim-IMG_20200729_155141_3.jpg.jpg" width="300" height="225" title="IMG_20200729_155141_3.jpg: 20200729 155141, dim=4608x3456, 8.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_155456_0.jpg"><img src="thumbnails/dcim-IMG_20200729_155456_0.jpg.jpg" width="300" height="225" title="IMG_20200729_155456_0.jpg: 20200729 155456, dim=4608x3456, 7.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_161215_1.jpg"><img src="thumbnails/dcim-IMG_20200729_161215_1.jpg.jpg" width="300" height="225" title="IMG_20200729_161215_1.jpg: 20200729 161215, dim=4608x3456, 5.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_161700_9.jpg"><img src="thumbnails/dcim-IMG_20200729_161700_9.jpg.jpg" width="300" height="225" title="IMG_20200729_161700_9.jpg: 20200729 161700, dim=4608x3456, 5.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200729_171426_3.jpg"><img src="thumbnails/dcim-IMG_20200729_171426_3.jpg.jpg" width="300" height="225" title="IMG_20200729_171426_3.jpg: 20200729 171426, dim=4608x3456, 2.9 MB"/></a>
+<a href="2020-07-29-1.jpg"><img src=".thumbnails/post-2020-07-29-1.jpg.jpg" width="400" height="300" title="2020-07-29-1.jpg: 20201008 161303, dim=960x720, 0.1 MB"/></a>
+<a href="2020-07-29-2.jpg"><img src=".thumbnails/post-2020-07-29-2.jpg.jpg" width="400" height="300" title="2020-07-29-2.jpg: 20201008 161304, dim=960x720, 0.1 MB"/></a>
+<a href="2020-07-29-3.jpg"><img src=".thumbnails/post-2020-07-29-3.jpg.jpg" width="400" height="300" title="2020-07-29-3.jpg: 20201008 161305, dim=960x720, 0.1 MB"/></a>
+<a href="2020-07-29-4.jpg"><img src=".thumbnails/post-2020-07-29-4.jpg.jpg" width="400" height="300" title="2020-07-29-4.jpg: 20201008 161305, dim=960x720, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -539,20 +272,13 @@ toujours le vent favorable. Discuté sur la route avec une dame à vélo qui
 camping, OK prêt du centre ville mais ça fait cher du mètre carré de gazon
 rabougri.</p>
 <div id="gallery-blog-20200730-1">
-<a href="2020-07-30-1.jpg"><img src="thumbnails/post-2020-07-30-1.jpg.jpg" width="400" height="300" title="2020-07-30-1.jpg: 20201008 161306, dim=1280x960, 0.2 MB"/></a>
-</div>
-<div id="gallery-dcim-20200730-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200730_104434_1.jpg"><img src="thumbnails/dcim-IMG_20200730_104434_1.jpg.jpg" width="300" height="225" title="IMG_20200730_104434_1.jpg: 20200730 104434, dim=4608x3456, 4.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200730_105149_1.jpg"><img src="thumbnails/dcim-IMG_20200730_105149_1.jpg.jpg" width="300" height="225" title="IMG_20200730_105149_1.jpg: 20200730 105149, dim=4608x3456, 5.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200730_114237_6.jpg"><img src="thumbnails/dcim-IMG_20200730_114237_6.jpg.jpg" width="300" height="225" title="IMG_20200730_114237_6.jpg: 20200730 114237, dim=4608x3456, 6.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200730_181734_5.jpg"><img src="thumbnails/dcim-IMG_20200730_181734_5.jpg.jpg" width="300" height="225" title="IMG_20200730_181734_5.jpg: 20200730 181734, dim=4608x3456, 3.8 MB"/></a>
+<a href="2020-07-30-1.jpg"><img src=".thumbnails/post-2020-07-30-1.jpg.jpg" width="400" height="300" title="2020-07-30-1.jpg: 20201008 161306, dim=1280x960, 0.2 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
 <p>Le trajet jusque là.</p>
 <div id="gallery-blog-20200730-2">
-<a href="2020-07-30-2.jpg"><img src="thumbnails/post-2020-07-30-2.jpg.jpg" width="400" height="400" title="2020-07-30-2.jpg: 20201008 161306, dim=1080x1080, 0.1 MB"/></a>
+<a href="2020-07-30-2.jpg"><img src=".thumbnails/post-2020-07-30-2.jpg.jpg" width="400" height="400" title="2020-07-30-2.jpg: 20201008 161306, dim=1080x1080, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -560,70 +286,15 @@ rabougri.</p>
 <p>Trois jours pour découvrir Strasbourg en touristes. Jolie ville. Joli tour à
 vélo d'une trentaine de kilomètres qui suit le Rhin côté allemand.</p>
 <div id="gallery-blog-20200731-1">
-<a href="2020-07-31-1.jpg"><img src="thumbnails/post-2020-07-31-1.jpg.jpg" width="400" height="300" title="2020-07-31-1.jpg: 20201008 161307, dim=960x720, 0.1 MB"/></a>
-<a href="2020-07-31-2.jpg"><img src="thumbnails/post-2020-07-31-2.jpg.jpg" width="400" height="300" title="2020-07-31-2.jpg: 20201008 161307, dim=960x720, 0.1 MB"/></a>
-<a href="2020-07-31-3.jpg"><img src="thumbnails/post-2020-07-31-3.jpg.jpg" width="400" height="300" title="2020-07-31-3.jpg: 20201008 161307, dim=960x720, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200731-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200731_093711_7.jpg"><img src="thumbnails/dcim-IMG_20200731_093711_7.jpg.jpg" width="300" height="225" title="IMG_20200731_093711_7.jpg: 20200731 093711, dim=4608x3456, 8.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200731_144336_6.jpg"><img src="thumbnails/dcim-IMG_20200731_144336_6.jpg.jpg" width="300" height="225" title="IMG_20200731_144336_6.jpg: 20200731 144336, dim=4608x3456, 3.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200731_144339_7.jpg"><img src="thumbnails/dcim-IMG_20200731_144339_7.jpg.jpg" width="300" height="225" title="IMG_20200731_144339_7.jpg: 20200731 144339, dim=4608x3456, 3.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200731_144340_6.jpg"><img src="thumbnails/dcim-IMG_20200731_144340_6.jpg.jpg" width="300" height="225" title="IMG_20200731_144340_6.jpg: 20200731 144340, dim=4608x3456, 3.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200731_163412_8.jpg"><img src="thumbnails/dcim-IMG_20200731_163412_8.jpg.jpg" width="300" height="225" title="IMG_20200731_163412_8.jpg: 20200731 163412, dim=4608x3456, 6.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200731_165052_9.jpg"><img src="thumbnails/dcim-IMG_20200731_165052_9.jpg.jpg" width="300" height="225" title="IMG_20200731_165052_9.jpg: 20200731 165052, dim=4608x3456, 4.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200731_165117_7.jpg"><img src="thumbnails/dcim-IMG_20200731_165117_7.jpg.jpg" width="300" height="225" title="IMG_20200731_165117_7.jpg: 20200731 165117, dim=4608x3456, 3.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200731_165622_3.jpg"><img src="thumbnails/dcim-IMG_20200731_165622_3.jpg.jpg" width="300" height="225" title="IMG_20200731_165622_3.jpg: 20200731 165622, dim=4608x3456, 5.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200731_165652_4.jpg"><img src="thumbnails/dcim-IMG_20200731_165652_4.jpg.jpg" width="300" height="225" title="IMG_20200731_165652_4.jpg: 20200731 165652, dim=4608x3456, 3.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200731_205603_0.jpg"><img src="thumbnails/dcim-IMG_20200731_205603_0.jpg.jpg" width="300" height="225" title="IMG_20200731_205603_0.jpg: 20200731 205603, dim=4608x3456, 5.5 MB"/></a>
+<a href="2020-07-31-1.jpg"><img src=".thumbnails/post-2020-07-31-1.jpg.jpg" width="400" height="300" title="2020-07-31-1.jpg: 20201008 161307, dim=960x720, 0.1 MB"/></a>
+<a href="2020-07-31-2.jpg"><img src=".thumbnails/post-2020-07-31-2.jpg.jpg" width="400" height="300" title="2020-07-31-2.jpg: 20201008 161307, dim=960x720, 0.1 MB"/></a>
+<a href="2020-07-31-3.jpg"><img src=".thumbnails/post-2020-07-31-3.jpg.jpg" width="400" height="300" title="2020-07-31-3.jpg: 20201008 161307, dim=960x720, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
-
-<div class="extra">
-<p>Samedi 01 août 2020</p>
-<div id="gallery-dcim-20200801-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200801_104534_8.jpg"><img src="thumbnails/dcim-IMG_20200801_104534_8.jpg.jpg" width="300" height="225" title="IMG_20200801_104534_8.jpg: 20200801 104534, dim=4608x3456, 3.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200801_104539_7.jpg"><img src="thumbnails/dcim-IMG_20200801_104539_7.jpg.jpg" width="300" height="225" title="IMG_20200801_104539_7.jpg: 20200801 104539, dim=4608x3456, 3.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200801_140256_9.jpg"><img src="thumbnails/dcim-IMG_20200801_140256_9.jpg.jpg" width="300" height="225" title="IMG_20200801_140256_9.jpg: 20200801 140256, dim=4608x3456, 3.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200801_140309_2.jpg"><img src="thumbnails/dcim-IMG_20200801_140309_2.jpg.jpg" width="300" height="225" title="IMG_20200801_140309_2.jpg: 20200801 140309, dim=4608x3456, 3.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200801_151714_0.jpg"><img src="thumbnails/dcim-IMG_20200801_151714_0.jpg.jpg" width="300" height="225" title="IMG_20200801_151714_0.jpg: 20200801 151714, dim=4608x3456, 4.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200801_153050_1.jpg"><img src="thumbnails/dcim-IMG_20200801_153050_1.jpg.jpg" width="300" height="225" title="IMG_20200801_153050_1.jpg: 20200801 153050, dim=4608x3456, 5.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200801_153115_3.jpg"><img src="thumbnails/dcim-IMG_20200801_153115_3.jpg.jpg" width="300" height="225" title="IMG_20200801_153115_3.jpg: 20200801 153115, dim=4608x3456, 4.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200801_193942_5.jpg"><img src="thumbnails/dcim-IMG_20200801_193942_5.jpg.jpg" width="300" height="225" title="IMG_20200801_193942_5.jpg: 20200801 193942, dim=4608x3456, 5.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200801_193954_6.jpg"><img src="thumbnails/dcim-IMG_20200801_193954_6.jpg.jpg" width="300" height="225" title="IMG_20200801_193954_6.jpg: 20200801 193954, dim=4608x3456, 3.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200801_213852_5.jpg"><img src="thumbnails/dcim-IMG_20200801_213852_5.jpg.jpg" width="300" height="225" title="IMG_20200801_213852_5.jpg: 20200801 213852, dim=4608x3456, 4.0 MB"/></a>
-</div>
-<hr color="#C0C0C0" size="1" />
-</div>
 
 <h3>J22 - 2 août - Erstein (Bas-Rhin) - 23 km (1350 km)</h3>
 <p>Petite étape en fin de journée pour rejoindre le camping le plus proche de
 Strasbourg.</p>
-<div id="gallery-dcim-20200802-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200802_105658_7.jpg"><img src="thumbnails/dcim-IMG_20200802_105658_7.jpg.jpg" width="300" height="225" title="IMG_20200802_105658_7.jpg: 20200802 105658, dim=4608x3456, 4.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200802_105713_0.jpg"><img src="thumbnails/dcim-IMG_20200802_105713_0.jpg.jpg" width="300" height="225" title="IMG_20200802_105713_0.jpg: 20200802 105713, dim=4608x3456, 3.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200802_105714_8.jpg"><img src="thumbnails/dcim-IMG_20200802_105714_8.jpg.jpg" width="300" height="225" title="IMG_20200802_105714_8.jpg: 20200802 105714, dim=4608x3456, 3.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200802_114245_6.jpg"><img src="thumbnails/dcim-IMG_20200802_114245_6.jpg.jpg" width="300" height="225" title="IMG_20200802_114245_6.jpg: 20200802 114245, dim=4608x3456, 4.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200802_114310_5.jpg"><img src="thumbnails/dcim-IMG_20200802_114310_5.jpg.jpg" width="300" height="225" title="IMG_20200802_114310_5.jpg: 20200802 114310, dim=4608x3456, 4.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200802_114314_1.jpg"><img src="thumbnails/dcim-IMG_20200802_114314_1.jpg.jpg" width="300" height="225" title="IMG_20200802_114314_1.jpg: 20200802 114314, dim=4608x3456, 3.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200802_115247_1.jpg"><img src="thumbnails/dcim-IMG_20200802_115247_1.jpg.jpg" width="300" height="225" title="IMG_20200802_115247_1.jpg: 20200802 115247, dim=4608x3456, 3.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200802_115249_1.jpg"><img src="thumbnails/dcim-IMG_20200802_115249_1.jpg.jpg" width="300" height="225" title="IMG_20200802_115249_1.jpg: 20200802 115249, dim=4608x3456, 3.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200802_115251_0.jpg"><img src="thumbnails/dcim-IMG_20200802_115251_0.jpg.jpg" width="300" height="225" title="IMG_20200802_115251_0.jpg: 20200802 115251, dim=4608x3456, 3.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200802_122508_3.jpg"><img src="thumbnails/dcim-IMG_20200802_122508_3.jpg.jpg" width="300" height="225" title="IMG_20200802_122508_3.jpg: 20200802 122508, dim=4608x3456, 4.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200802_123109_0.jpg"><img src="thumbnails/dcim-IMG_20200802_123109_0.jpg.jpg" width="300" height="225" title="IMG_20200802_123109_0.jpg: 20200802 123109, dim=4608x3456, 5.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200802_123121_4.jpg"><img src="thumbnails/dcim-IMG_20200802_123121_4.jpg.jpg" width="300" height="225" title="IMG_20200802_123121_4.jpg: 20200802 123121, dim=4608x3456, 5.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200802_140640_9.jpg"><img src="thumbnails/dcim-IMG_20200802_140640_9.jpg.jpg" width="300" height="225" title="IMG_20200802_140640_9.jpg: 20200802 140640, dim=4608x3456, 5.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200802_141059_9.jpg"><img src="thumbnails/dcim-IMG_20200802_141059_9.jpg.jpg" width="300" height="225" title="IMG_20200802_141059_9.jpg: 20200802 141059, dim=4608x3456, 4.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200802_141114_0.jpg"><img src="thumbnails/dcim-IMG_20200802_141114_0.jpg.jpg" width="300" height="225" title="IMG_20200802_141114_0.jpg: 20200802 141114, dim=4608x3456, 7.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200802_144638_1.jpg"><img src="thumbnails/dcim-IMG_20200802_144638_1.jpg.jpg" width="300" height="225" title="IMG_20200802_144638_1.jpg: 20200802 144638, dim=4608x3456, 4.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200802_144650_4.jpg"><img src="thumbnails/dcim-IMG_20200802_144650_4.jpg.jpg" width="300" height="225" title="IMG_20200802_144650_4.jpg: 20200802 144650, dim=4608x3456, 4.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200802_153921_0.jpg"><img src="thumbnails/dcim-IMG_20200802_153921_0.jpg.jpg" width="300" height="225" title="IMG_20200802_153921_0.jpg: 20200802 153921, dim=4608x3456, 4.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200802_154733_0.jpg"><img src="thumbnails/dcim-IMG_20200802_154733_0.jpg.jpg" width="300" height="225" title="IMG_20200802_154733_0.jpg: 20200802 154733, dim=4608x3456, 6.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200802_161323_2.jpg"><img src="thumbnails/dcim-IMG_20200802_161323_2.jpg.jpg" width="300" height="225" title="IMG_20200802_161323_2.jpg: 20200802 161323, dim=4608x3456, 5.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200802_161711_7.jpg"><img src="thumbnails/dcim-IMG_20200802_161711_7.jpg.jpg" width="300" height="225" title="IMG_20200802_161711_7.jpg: 20200802 161711, dim=4608x3456, 5.1 MB"/></a>
-</div>
 <hr color="#C0C0C0" size="1" />
 
 <h3>J23 - 3 août - Kembs (Haut-Rhin) - 97 km (1447 km)</h3>
@@ -632,17 +303,8 @@ Petite pluie pour les trente derniers kilomètres. Arrivé au camping, j'ai le
 temps de planter la tente et ensuite c'est le déluge. Heureusement, la tente
 résiste, un peu humide à l'intérieur, mais ça va.</p>
 <div id="gallery-blog-20200803-1">
-<a href="2020-08-03-1.jpg"><img src="thumbnails/post-2020-08-03-1.jpg.jpg" width="400" height="300" title="2020-08-03-1.jpg: 20201008 161307, dim=960x720, 0.1 MB"/></a>
-<a href="2020-08-03-2.jpg"><img src="thumbnails/post-2020-08-03-2.jpg.jpg" width="400" height="300" title="2020-08-03-2.jpg: 20201008 161308, dim=960x720, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200803-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200803_090132_9.jpg"><img src="thumbnails/dcim-IMG_20200803_090132_9.jpg.jpg" width="300" height="225" title="IMG_20200803_090132_9.jpg: 20200803 090132, dim=4608x3456, 7.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200803_093617_7.jpg"><img src="thumbnails/dcim-IMG_20200803_093617_7.jpg.jpg" width="300" height="225" title="IMG_20200803_093617_7.jpg: 20200803 093617, dim=4608x3456, 4.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200803_095555_8.jpg"><img src="thumbnails/dcim-IMG_20200803_095555_8.jpg.jpg" width="300" height="225" title="IMG_20200803_095555_8.jpg: 20200803 095555, dim=4608x3456, 4.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200803_104928_4.jpg"><img src="thumbnails/dcim-IMG_20200803_104928_4.jpg.jpg" width="300" height="225" title="IMG_20200803_104928_4.jpg: 20200803 104928, dim=4608x3456, 5.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200803_162038_3.jpg"><img src="thumbnails/dcim-IMG_20200803_162038_3.jpg.jpg" width="300" height="225" title="IMG_20200803_162038_3.jpg: 20200803 162038, dim=4608x3456, 4.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200803_195311_2.jpg"><img src="thumbnails/dcim-IMG_20200803_195311_2.jpg.jpg" width="300" height="225" title="IMG_20200803_195311_2.jpg: 20200803 195311, dim=4608x3456, 4.2 MB"/></a>
+<a href="2020-08-03-1.jpg"><img src=".thumbnails/post-2020-08-03-1.jpg.jpg" width="400" height="300" title="2020-08-03-1.jpg: 20201008 161307, dim=960x720, 0.1 MB"/></a>
+<a href="2020-08-03-2.jpg"><img src=".thumbnails/post-2020-08-03-2.jpg.jpg" width="400" height="300" title="2020-08-03-2.jpg: 20201008 161308, dim=960x720, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -655,11 +317,6 @@ créé un court circuit en voulant charger. Ballot pour un téléphone étanche.
 pars acheter un nouveau téléphone juste avant Bâle (un Xiaomi) mais le
 téléphone n'est pas chargé. Sans charge, sans cartes, sans routes, plus qu'à
 retourner au camping et tout recharger.</p>
-<div id="gallery-dcim-20200804-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200804_201914.jpg"><img src="thumbnails/dcim-IMG_20200804_201914.jpg.jpg" width="300" height="224" title="IMG_20200804_201914.jpg: 20200804 201914, dim=4000x2992, 3.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200804_202113.jpg"><img src="thumbnails/dcim-IMG_20200804_202113.jpg.jpg" width="300" height="225" title="IMG_20200804_202113.jpg: 20200804 202113, dim=4000x3000, 2.6 MB"/></a>
-</div>
 <hr color="#C0C0C0" size="1" />
 
 <h3>J25 - 5 août - Aarau (Suisse) - 89 km (1572 km)</h3>
@@ -671,35 +328,9 @@ une grosse bosse à passer (950 mètres de dénivelé aujourd'hui). Pour finir l
 journée, le camping que j'avais bookmarké sur mon appli GPS est introuvable,
 alors c'est camping sauvage dans les bois.</p>
 <div id="gallery-blog-20200805-1">
-<a href="2020-08-05-1.jpg"><img src="thumbnails/post-2020-08-05-1.jpg.jpg" width="400" height="299" title="2020-08-05-1.jpg: 20201008 161309, dim=960x718, 0.0 MB"/></a>
-<a href="2020-08-05-2.jpg"><img src="thumbnails/post-2020-08-05-2.jpg.jpg" width="400" height="299" title="2020-08-05-2.jpg: 20201008 161311, dim=960x718, 0.1 MB"/></a>
-<a href="2020-08-05-3.jpg"><img src="thumbnails/post-2020-08-05-3.jpg.jpg" width="400" height="299" title="2020-08-05-3.jpg: 20201008 161316, dim=960x718, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200805-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_080124.jpg"><img src="thumbnails/dcim-IMG_20200805_080124.jpg.jpg" width="300" height="224" title="IMG_20200805_080124.jpg: 20200805 080124, dim=4000x2992, 5.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_103601.jpg"><img src="thumbnails/dcim-IMG_20200805_103601.jpg.jpg" width="300" height="224" title="IMG_20200805_103601.jpg: 20200805 103601, dim=4000x2992, 6.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_113221.jpg"><img src="thumbnails/dcim-IMG_20200805_113221.jpg.jpg" width="224" height="300" title="IMG_20200805_113221.jpg: 20200805 113221, dim=2992x4000, 3.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_120159.jpg"><img src="thumbnails/dcim-IMG_20200805_120159.jpg.jpg" width="300" height="224" title="IMG_20200805_120159.jpg: 20200805 120159, dim=4000x2992, 4.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_120229.jpg"><img src="thumbnails/dcim-IMG_20200805_120229.jpg.jpg" width="300" height="224" title="IMG_20200805_120229.jpg: 20200805 120229, dim=4000x2992, 3.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_120235.jpg"><img src="thumbnails/dcim-IMG_20200805_120235.jpg.jpg" width="300" height="224" title="IMG_20200805_120235.jpg: 20200805 120235, dim=4000x2992, 3.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_121827.jpg"><img src="thumbnails/dcim-IMG_20200805_121827.jpg.jpg" width="300" height="224" title="IMG_20200805_121827.jpg: 20200805 121827, dim=4000x2992, 8.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_123017.jpg"><img src="thumbnails/dcim-IMG_20200805_123017.jpg.jpg" width="300" height="224" title="IMG_20200805_123017.jpg: 20200805 123017, dim=4000x2992, 4.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_123848.jpg"><img src="thumbnails/dcim-IMG_20200805_123848.jpg.jpg" width="300" height="224" title="IMG_20200805_123848.jpg: 20200805 123848, dim=4000x2992, 4.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_125337.jpg"><img src="thumbnails/dcim-IMG_20200805_125337.jpg.jpg" width="300" height="224" title="IMG_20200805_125337.jpg: 20200805 125337, dim=4000x2992, 3.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_125353.jpg"><img src="thumbnails/dcim-IMG_20200805_125353.jpg.jpg" width="300" height="224" title="IMG_20200805_125353.jpg: 20200805 125353, dim=4000x2992, 3.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_125814.jpg"><img src="thumbnails/dcim-IMG_20200805_125814.jpg.jpg" width="300" height="224" title="IMG_20200805_125814.jpg: 20200805 125814, dim=4000x2992, 3.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_134431.jpg"><img src="thumbnails/dcim-IMG_20200805_134431.jpg.jpg" width="300" height="224" title="IMG_20200805_134431.jpg: 20200805 134431, dim=4000x2992, 4.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_141206.jpg"><img src="thumbnails/dcim-IMG_20200805_141206.jpg.jpg" width="300" height="224" title="IMG_20200805_141206.jpg: 20200805 141206, dim=4000x2992, 4.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_152120.jpg"><img src="thumbnails/dcim-IMG_20200805_152120.jpg.jpg" width="300" height="224" title="IMG_20200805_152120.jpg: 20200805 152120, dim=4000x2992, 6.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_154442.jpg"><img src="thumbnails/dcim-IMG_20200805_154442.jpg.jpg" width="300" height="224" title="IMG_20200805_154442.jpg: 20200805 154442, dim=4000x2992, 3.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_155947.jpg"><img src="thumbnails/dcim-IMG_20200805_155947.jpg.jpg" width="300" height="224" title="IMG_20200805_155947.jpg: 20200805 155947, dim=4000x2992, 5.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_160044.jpg"><img src="thumbnails/dcim-IMG_20200805_160044.jpg.jpg" width="300" height="224" title="IMG_20200805_160044.jpg: 20200805 160044, dim=4000x2992, 3.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_160655.jpg"><img src="thumbnails/dcim-IMG_20200805_160655.jpg.jpg" width="300" height="224" title="IMG_20200805_160655.jpg: 20200805 160655, dim=4000x2992, 3.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_162533.jpg"><img src="thumbnails/dcim-IMG_20200805_162533.jpg.jpg" width="300" height="224" title="IMG_20200805_162533.jpg: 20200805 162533, dim=4000x2992, 3.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_170321.jpg"><img src="thumbnails/dcim-IMG_20200805_170321.jpg.jpg" width="300" height="224" title="IMG_20200805_170321.jpg: 20200805 170321, dim=4000x2992, 3.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_173512.jpg"><img src="thumbnails/dcim-IMG_20200805_173512.jpg.jpg" width="300" height="224" title="IMG_20200805_173512.jpg: 20200805 173512, dim=4000x2992, 3.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200805_173936.jpg"><img src="thumbnails/dcim-IMG_20200805_173936.jpg.jpg" width="300" height="224" title="IMG_20200805_173936.jpg: 20200805 173936, dim=4000x2992, 4.3 MB"/></a>
+<a href="2020-08-05-1.jpg"><img src=".thumbnails/post-2020-08-05-1.jpg.jpg" width="400" height="299" title="2020-08-05-1.jpg: 20201008 161309, dim=960x718, 0.0 MB"/></a>
+<a href="2020-08-05-2.jpg"><img src=".thumbnails/post-2020-08-05-2.jpg.jpg" width="400" height="299" title="2020-08-05-2.jpg: 20201008 161311, dim=960x718, 0.1 MB"/></a>
+<a href="2020-08-05-3.jpg"><img src=".thumbnails/post-2020-08-05-3.jpg.jpg" width="400" height="299" title="2020-08-05-3.jpg: 20201008 161316, dim=960x718, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -710,7 +341,7 @@ moyenne. En fait, ça commence doucement et ça peut même redescendre. Et quand
 plus rapide (sans blague) avec une pointe à 60 km/h, jamais été aussi vite sur
 un vélo.</p>
 <div id="gallery-blog-20200805-2">
-<a href="2020-08-05-4.jpg"><img src="thumbnails/post-2020-08-05-4.jpg.jpg" width="400" height="299" title="2020-08-05-4.jpg: 20201008 161319, dim=1280x957, 0.2 MB"/></a>
+<a href="2020-08-05-4.jpg"><img src=".thumbnails/post-2020-08-05-4.jpg.jpg" width="400" height="299" title="2020-08-05-4.jpg: 20201008 161319, dim=1280x957, 0.2 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -724,37 +355,15 @@ la campagne mais quelques beaux paysages. Fin de la journée en arrivant au lac
 de Bienne. Gros camping familial à la ferme. Le camping n'est pas loin du lac
 et je finis la journée dans l'eau (bien fraîche).</p>
 <div id="gallery-blog-20200806-1">
-<a href="2020-08-06-1.jpg"><img src="thumbnails/post-2020-08-06-1.jpg.jpg" width="400" height="299" title="2020-08-06-1.jpg: 20201008 161321, dim=960x718, 0.1 MB"/></a>
-<a href="2020-08-06-2.jpg"><img src="thumbnails/post-2020-08-06-2.jpg.jpg" width="400" height="299" title="2020-08-06-2.jpg: 20201008 161322, dim=960x718, 0.1 MB"/></a>
-<a href="2020-08-06-3.jpg"><img src="thumbnails/post-2020-08-06-3.jpg.jpg" width="400" height="299" title="2020-08-06-3.jpg: 20201008 161322, dim=960x718, 0.1 MB"/></a>
-<a href="2020-08-06-4.jpg"><img src="thumbnails/post-2020-08-06-4.jpg.jpg" width="400" height="299" title="2020-08-06-4.jpg: 20201008 161323, dim=960x718, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200806-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200806_081211.jpg"><img src="thumbnails/dcim-IMG_20200806_081211.jpg.jpg" width="300" height="224" title="IMG_20200806_081211.jpg: 20200806 081211, dim=4000x2992, 3.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200806_082526.jpg"><img src="thumbnails/dcim-IMG_20200806_082526.jpg.jpg" width="300" height="224" title="IMG_20200806_082526.jpg: 20200806 082526, dim=4000x2992, 6.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200806_095527.jpg"><img src="thumbnails/dcim-IMG_20200806_095527.jpg.jpg" width="300" height="224" title="IMG_20200806_095527.jpg: 20200806 095527, dim=4000x2992, 4.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200806_100449.jpg"><img src="thumbnails/dcim-IMG_20200806_100449.jpg.jpg" width="300" height="224" title="IMG_20200806_100449.jpg: 20200806 100449, dim=4000x2992, 2.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200806_104832.jpg"><img src="thumbnails/dcim-IMG_20200806_104832.jpg.jpg" width="300" height="225" title="IMG_20200806_104832.jpg: 20200806 104832, dim=3264x2448, 2.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200806_121241.jpg"><img src="thumbnails/dcim-IMG_20200806_121241.jpg.jpg" width="300" height="224" title="IMG_20200806_121241.jpg: 20200806 121241, dim=4000x2992, 5.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200806_124150.jpg"><img src="thumbnails/dcim-IMG_20200806_124150.jpg.jpg" width="300" height="224" title="IMG_20200806_124150.jpg: 20200806 124150, dim=4000x2992, 4.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200806_125215.jpg"><img src="thumbnails/dcim-IMG_20200806_125215.jpg.jpg" width="300" height="224" title="IMG_20200806_125215.jpg: 20200806 125215, dim=4000x2992, 4.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200806_130206.jpg"><img src="thumbnails/dcim-IMG_20200806_130206.jpg.jpg" width="300" height="224" title="IMG_20200806_130206.jpg: 20200806 130206, dim=4000x2992, 4.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200806_131133.jpg"><img src="thumbnails/dcim-IMG_20200806_131133.jpg.jpg" width="300" height="224" title="IMG_20200806_131133.jpg: 20200806 131133, dim=4000x2992, 4.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200806_131722.jpg"><img src="thumbnails/dcim-IMG_20200806_131722.jpg.jpg" width="300" height="224" title="IMG_20200806_131722.jpg: 20200806 131722, dim=4000x2992, 2.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200806_133827.jpg"><img src="thumbnails/dcim-IMG_20200806_133827.jpg.jpg" width="300" height="224" title="IMG_20200806_133827.jpg: 20200806 133827, dim=4000x2992, 3.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200806_134548.jpg"><img src="thumbnails/dcim-IMG_20200806_134548.jpg.jpg" width="300" height="224" title="IMG_20200806_134548.jpg: 20200806 134548, dim=4000x2992, 3.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200806_135008.jpg"><img src="thumbnails/dcim-IMG_20200806_135008.jpg.jpg" width="225" height="300" title="IMG_20200806_135008.jpg: 20200806 135008, dim=720x960, 0.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200806_143352.jpg"><img src="thumbnails/dcim-IMG_20200806_143352.jpg.jpg" width="300" height="224" title="IMG_20200806_143352.jpg: 20200806 143352, dim=4000x2992, 3.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200806_150109.jpg"><img src="thumbnails/dcim-IMG_20200806_150109.jpg.jpg" width="300" height="224" title="IMG_20200806_150109.jpg: 20200806 150109, dim=4000x2992, 5.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200806_162110.jpg"><img src="thumbnails/dcim-IMG_20200806_162110.jpg.jpg" width="300" height="224" title="IMG_20200806_162110.jpg: 20200806 162110, dim=4000x2992, 4.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200806_171920.jpg"><img src="thumbnails/dcim-IMG_20200806_171920.jpg.jpg" width="300" height="224" title="IMG_20200806_171920.jpg: 20200806 171920, dim=4000x2992, 4.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200806_190726.jpg"><img src="thumbnails/dcim-IMG_20200806_190726.jpg.jpg" width="300" height="224" title="IMG_20200806_190726.jpg: 20200806 190726, dim=4000x2992, 3.7 MB"/></a>
+<a href="2020-08-06-1.jpg"><img src=".thumbnails/post-2020-08-06-1.jpg.jpg" width="400" height="299" title="2020-08-06-1.jpg: 20201008 161321, dim=960x718, 0.1 MB"/></a>
+<a href="2020-08-06-2.jpg"><img src=".thumbnails/post-2020-08-06-2.jpg.jpg" width="400" height="299" title="2020-08-06-2.jpg: 20201008 161322, dim=960x718, 0.1 MB"/></a>
+<a href="2020-08-06-3.jpg"><img src=".thumbnails/post-2020-08-06-3.jpg.jpg" width="400" height="299" title="2020-08-06-3.jpg: 20201008 161322, dim=960x718, 0.1 MB"/></a>
+<a href="2020-08-06-4.jpg"><img src=".thumbnails/post-2020-08-06-4.jpg.jpg" width="400" height="299" title="2020-08-06-4.jpg: 20201008 161323, dim=960x718, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
 <div id="gallery-blog-20200806-2">
-<a href="2020-08-06-5.jpg"><img src="thumbnails/post-2020-08-06-5.jpg.jpg" width="400" height="299" title="2020-08-06-5.jpg: 20201008 161324, dim=1280x957, 0.2 MB"/></a>
+<a href="2020-08-06-5.jpg"><img src=".thumbnails/post-2020-08-06-5.jpg.jpg" width="400" height="299" title="2020-08-06-5.jpg: 20201008 161324, dim=1280x957, 0.2 MB"/></a>
 <hr color="#C0C0C0" size="1" />
 </div>
 
@@ -768,32 +377,15 @@ Pour compenser, j'enregistre le tracé GPS. Pas de chance, ça n'enregistre pas
 jusqu'au bout. Il ne me reste que le tracé téléchargé de la route n&#176;5
 pour estimer les distances.</p>
 <div id="gallery-blog-20200807-1">
-<a href="2020-08-07-1.jpg"><img src="thumbnails/post-2020-08-07-1.jpg.jpg" width="400" height="299" title="2020-08-07-1.jpg: 20201008 161324, dim=960x718, 0.1 MB"/></a>
-<a href="2020-08-07-2.jpg"><img src="thumbnails/post-2020-08-07-2.jpg.jpg" width="400" height="299" title="2020-08-07-2.jpg: 20201008 161325, dim=960x718, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200807-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200807_093057.jpg"><img src="thumbnails/dcim-IMG_20200807_093057.jpg.jpg" width="300" height="224" title="IMG_20200807_093057.jpg: 20200807 093057, dim=4000x2992, 6.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200807_100002.jpg"><img src="thumbnails/dcim-IMG_20200807_100002.jpg.jpg" width="300" height="224" title="IMG_20200807_100002.jpg: 20200807 100002, dim=4000x2992, 5.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200807_101637.jpg"><img src="thumbnails/dcim-IMG_20200807_101637.jpg.jpg" width="300" height="224" title="IMG_20200807_101637.jpg: 20200807 101637, dim=4000x2992, 4.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200807_102955.jpg"><img src="thumbnails/dcim-IMG_20200807_102955.jpg.jpg" width="300" height="224" title="IMG_20200807_102955.jpg: 20200807 102955, dim=4000x2992, 3.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200807_120413.jpg"><img src="thumbnails/dcim-IMG_20200807_120413.jpg.jpg" width="300" height="224" title="IMG_20200807_120413.jpg: 20200807 120413, dim=4000x2992, 4.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200807_120858.jpg"><img src="thumbnails/dcim-IMG_20200807_120858.jpg.jpg" width="300" height="224" title="IMG_20200807_120858.jpg: 20200807 120858, dim=4000x2992, 4.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200807_120912.jpg"><img src="thumbnails/dcim-IMG_20200807_120912.jpg.jpg" width="300" height="224" title="IMG_20200807_120912.jpg: 20200807 120912, dim=4000x2992, 4.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200807_120927.jpg"><img src="thumbnails/dcim-IMG_20200807_120927.jpg.jpg" width="300" height="224" title="IMG_20200807_120927.jpg: 20200807 120927, dim=4000x2992, 4.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200807_120935.jpg"><img src="thumbnails/dcim-IMG_20200807_120935.jpg.jpg" width="300" height="224" title="IMG_20200807_120935.jpg: 20200807 120935, dim=4000x2992, 4.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200807_124226.jpg"><img src="thumbnails/dcim-IMG_20200807_124226.jpg.jpg" width="300" height="224" title="IMG_20200807_124226.jpg: 20200807 124226, dim=4000x2992, 3.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200807_133459.jpg"><img src="thumbnails/dcim-IMG_20200807_133459.jpg.jpg" width="300" height="224" title="IMG_20200807_133459.jpg: 20200807 133459, dim=4000x2992, 3.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200807_133605.jpg"><img src="thumbnails/dcim-IMG_20200807_133605.jpg.jpg" width="300" height="224" title="IMG_20200807_133605.jpg: 20200807 133605, dim=4000x2992, 6.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200807_144819.jpg"><img src="thumbnails/dcim-IMG_20200807_144819.jpg.jpg" width="300" height="224" title="IMG_20200807_144819.jpg: 20200807 144819, dim=4000x2992, 6.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200807_151613.jpg"><img src="thumbnails/dcim-IMG_20200807_151613.jpg.jpg" width="300" height="224" title="IMG_20200807_151613.jpg: 20200807 151613, dim=4000x2992, 4.0 MB"/></a>
+<a href="2020-08-07-1.jpg"><img src=".thumbnails/post-2020-08-07-1.jpg.jpg" width="400" height="299" title="2020-08-07-1.jpg: 20201008 161324, dim=960x718, 0.1 MB"/></a>
+<a href="2020-08-07-2.jpg"><img src=".thumbnails/post-2020-08-07-2.jpg.jpg" width="400" height="299" title="2020-08-07-2.jpg: 20201008 161325, dim=960x718, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
 <p>Sur un banc sur la route. Pour le repos, je peux me débrouiller tout seul. Une
 bière bien fraîche, ça serait plus vendeur.</p>
 <div id="gallery-blog-20200807-2">
-<a href="2020-08-07-3.jpg"><img src="thumbnails/post-2020-08-07-3.jpg.jpg" width="400" height="299" title="2020-08-07-3.jpg: 20201008 161328, dim=1280x957, 0.2 MB"/></a>
+<a href="2020-08-07-3.jpg"><img src=".thumbnails/post-2020-08-07-3.jpg.jpg" width="400" height="299" title="2020-08-07-3.jpg: 20201008 161328, dim=1280x957, 0.2 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -811,37 +403,10 @@ photos. En regardant 200 mètres plus bas, je vois un belle route, toute plate,
 au ras du lac et avec une bande cyclable. Je redescend tout et je finis sur la
 grande route.</p>
 <div id="gallery-blog-20200808-1">
-<a href="2020-08-08-1.jpg"><img src="thumbnails/post-2020-08-08-1.jpg.jpg" width="400" height="299" title="2020-08-08-1.jpg: 20201008 161330, dim=960x718, 0.0 MB"/></a>
-<a href="2020-08-08-2.jpg"><img src="thumbnails/post-2020-08-08-2.jpg.jpg" width="400" height="300" title="2020-08-08-2.jpg: 20201008 161331, dim=960x720, 0.1 MB"/></a>
-<a href="2020-08-08-3.jpg"><img src="thumbnails/post-2020-08-08-3.jpg.jpg" width="400" height="299" title="2020-08-08-3.jpg: 20201008 161331, dim=960x718, 0.1 MB"/></a>
-<a href="2020-08-08-4.jpg"><img src="thumbnails/post-2020-08-08-4.jpg.jpg" width="400" height="299" title="2020-08-08-4.jpg: 20201008 161331, dim=960x718, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200808-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_112538.jpg"><img src="thumbnails/dcim-IMG_20200808_112538.jpg.jpg" width="300" height="224" title="IMG_20200808_112538.jpg: 20200808 112538, dim=4000x2992, 3.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_114015.jpg"><img src="thumbnails/dcim-IMG_20200808_114015.jpg.jpg" width="300" height="224" title="IMG_20200808_114015.jpg: 20200808 114015, dim=4000x2992, 3.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_120452.jpg"><img src="thumbnails/dcim-IMG_20200808_120452.jpg.jpg" width="300" height="224" title="IMG_20200808_120452.jpg: 20200808 120452, dim=4000x2992, 4.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_124445.jpg"><img src="thumbnails/dcim-IMG_20200808_124445.jpg.jpg" width="300" height="224" title="IMG_20200808_124445.jpg: 20200808 124445, dim=4000x2992, 2.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_133416.jpg"><img src="thumbnails/dcim-IMG_20200808_133416.jpg.jpg" width="300" height="224" title="IMG_20200808_133416.jpg: 20200808 133416, dim=4000x2992, 6.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_151100.jpg"><img src="thumbnails/dcim-IMG_20200808_151100.jpg.jpg" width="300" height="224" title="IMG_20200808_151100.jpg: 20200808 151100, dim=4000x2992, 3.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_151128.jpg"><img src="thumbnails/dcim-IMG_20200808_151128.jpg.jpg" width="300" height="224" title="IMG_20200808_151128.jpg: 20200808 151128, dim=4000x2992, 3.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_151256.jpg"><img src="thumbnails/dcim-IMG_20200808_151256.jpg.jpg" width="300" height="224" title="IMG_20200808_151256.jpg: 20200808 151256, dim=4000x2992, 3.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_151747.jpg"><img src="thumbnails/dcim-IMG_20200808_151747.jpg.jpg" width="300" height="224" title="IMG_20200808_151747.jpg: 20200808 151747, dim=4000x2992, 3.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_153800.jpg"><img src="thumbnails/dcim-IMG_20200808_153800.jpg.jpg" width="300" height="224" title="IMG_20200808_153800.jpg: 20200808 153800, dim=4000x2992, 4.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_160355.jpg"><img src="thumbnails/dcim-IMG_20200808_160355.jpg.jpg" width="300" height="224" title="IMG_20200808_160355.jpg: 20200808 160355, dim=4000x2992, 2.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_160459.jpg"><img src="thumbnails/dcim-IMG_20200808_160459.jpg.jpg" width="300" height="224" title="IMG_20200808_160459.jpg: 20200808 160459, dim=4000x2992, 3.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_161045.jpg"><img src="thumbnails/dcim-IMG_20200808_161045.jpg.jpg" width="300" height="224" title="IMG_20200808_161045.jpg: 20200808 161045, dim=4000x2992, 3.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_162832.jpg"><img src="thumbnails/dcim-IMG_20200808_162832.jpg.jpg" width="300" height="224" title="IMG_20200808_162832.jpg: 20200808 162832, dim=4000x2992, 5.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_170121.jpg"><img src="thumbnails/dcim-IMG_20200808_170121.jpg.jpg" width="300" height="224" title="IMG_20200808_170121.jpg: 20200808 170121, dim=4000x2992, 2.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_170135.jpg"><img src="thumbnails/dcim-IMG_20200808_170135.jpg.jpg" width="300" height="225" title="IMG_20200808_170135.jpg: 20200808 170135, dim=3264x2448, 3.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_170311.jpg"><img src="thumbnails/dcim-IMG_20200808_170311.jpg.jpg" width="300" height="224" title="IMG_20200808_170311.jpg: 20200808 170311, dim=4000x2992, 3.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_175006.jpg"><img src="thumbnails/dcim-IMG_20200808_175006.jpg.jpg" width="300" height="224" title="IMG_20200808_175006.jpg: 20200808 175006, dim=4000x2992, 5.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_180541.jpg"><img src="thumbnails/dcim-IMG_20200808_180541.jpg.jpg" width="300" height="224" title="IMG_20200808_180541.jpg: 20200808 180541, dim=4000x2992, 2.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_200901.jpg"><img src="thumbnails/dcim-IMG_20200808_200901.jpg.jpg" width="300" height="224" title="IMG_20200808_200901.jpg: 20200808 200901, dim=4000x2992, 4.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_200932.jpg"><img src="thumbnails/dcim-IMG_20200808_200932.jpg.jpg" width="300" height="224" title="IMG_20200808_200932.jpg: 20200808 200932, dim=4000x2992, 4.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_201555.jpg"><img src="thumbnails/dcim-IMG_20200808_201555.jpg.jpg" width="300" height="224" title="IMG_20200808_201555.jpg: 20200808 201555, dim=4000x2992, 4.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_203252.jpg"><img src="thumbnails/dcim-IMG_20200808_203252.jpg.jpg" width="300" height="224" title="IMG_20200808_203252.jpg: 20200808 203252, dim=4000x2992, 5.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200808_203255.jpg"><img src="thumbnails/dcim-IMG_20200808_203255.jpg.jpg" width="300" height="224" title="IMG_20200808_203255.jpg: 20200808 203255, dim=4000x2992, 4.8 MB"/></a>
+<a href="2020-08-08-1.jpg"><img src=".thumbnails/post-2020-08-08-1.jpg.jpg" width="400" height="299" title="2020-08-08-1.jpg: 20201008 161330, dim=960x718, 0.0 MB"/></a>
+<a href="2020-08-08-2.jpg"><img src=".thumbnails/post-2020-08-08-2.jpg.jpg" width="400" height="300" title="2020-08-08-2.jpg: 20201008 161331, dim=960x720, 0.1 MB"/></a>
+<a href="2020-08-08-3.jpg"><img src=".thumbnails/post-2020-08-08-3.jpg.jpg" width="400" height="299" title="2020-08-08-3.jpg: 20201008 161331, dim=960x718, 0.1 MB"/></a>
+<a href="2020-08-08-4.jpg"><img src=".thumbnails/post-2020-08-08-4.jpg.jpg" width="400" height="299" title="2020-08-08-4.jpg: 20201008 161331, dim=960x718, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -853,13 +418,13 @@ vélo" et me montre les inscriptions sur sa voiture. C'est le représentant
 Giant, la marque de mon vélo, pour la Suisse allemande. Du coup, on discute
 pendant une demi heure de vélo et de randonnée.</p>
 <div id="gallery-blog-20200808-2">
-<a href="2020-08-08-5.jpg"><img src="thumbnails/post-2020-08-08-5.jpg.jpg" width="400" height="299" title="2020-08-08-5.jpg: 20201008 161332, dim=1280x957, 0.2 MB"/></a>
+<a href="2020-08-08-5.jpg"><img src=".thumbnails/post-2020-08-08-5.jpg.jpg" width="400" height="299" title="2020-08-08-5.jpg: 20201008 161332, dim=1280x957, 0.2 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
 <p>Pratique.</p>
 <div id="gallery-blog-20200808-3">
-<a href="2020-08-08-6.jpg"><img src="thumbnails/post-2020-08-08-6.jpg.jpg" width="400" height="299" title="2020-08-08-6.jpg: 20201008 161332, dim=1280x957, 0.2 MB"/></a>
+<a href="2020-08-08-6.jpg"><img src=".thumbnails/post-2020-08-08-6.jpg.jpg" width="400" height="299" title="2020-08-08-6.jpg: 20201008 161332, dim=1280x957, 0.2 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -871,35 +436,20 @@ longe le lac Léman et emprunte essentiellement de la route souvent chargée.
 Moins rigolo qu'hier. Seul intérêt c'est de voir de l'autre côté du lac la
 région traversée hier.</p>
 <div id="gallery-blog-20200809-1">
-<a href="2020-08-09-1.jpg"><img src="thumbnails/post-2020-08-09-1.jpg.jpg" width="400" height="299" title="2020-08-09-1.jpg: 20201008 161333, dim=960x718, 0.1 MB"/></a>
-<a href="2020-08-09-2.jpg"><img src="thumbnails/post-2020-08-09-2.jpg.jpg" width="400" height="299" title="2020-08-09-2.jpg: 20201008 161333, dim=960x718, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200809-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200809_111244.jpg"><img src="thumbnails/dcim-IMG_20200809_111244.jpg.jpg" width="300" height="224" title="IMG_20200809_111244.jpg: 20200809 111244, dim=4000x2992, 4.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200809_112142.jpg"><img src="thumbnails/dcim-IMG_20200809_112142.jpg.jpg" width="300" height="224" title="IMG_20200809_112142.jpg: 20200809 112142, dim=4000x2992, 5.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200809_114857.jpg"><img src="thumbnails/dcim-IMG_20200809_114857.jpg.jpg" width="300" height="224" title="IMG_20200809_114857.jpg: 20200809 114857, dim=4000x2992, 3.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200809_120422.jpg"><img src="thumbnails/dcim-IMG_20200809_120422.jpg.jpg" width="300" height="224" title="IMG_20200809_120422.jpg: 20200809 120422, dim=4000x2992, 4.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200809_124951.jpg"><img src="thumbnails/dcim-IMG_20200809_124951.jpg.jpg" width="300" height="224" title="IMG_20200809_124951.jpg: 20200809 124951, dim=4000x2992, 3.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200809_130110.jpg"><img src="thumbnails/dcim-IMG_20200809_130110.jpg.jpg" width="300" height="225" title="IMG_20200809_130110.jpg: 20200809 130110, dim=3264x2448, 2.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200809_135338.jpg"><img src="thumbnails/dcim-IMG_20200809_135338.jpg.jpg" width="300" height="224" title="IMG_20200809_135338.jpg: 20200809 135338, dim=4000x2992, 5.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200809_144247.jpg"><img src="thumbnails/dcim-IMG_20200809_144247.jpg.jpg" width="300" height="224" title="IMG_20200809_144247.jpg: 20200809 144247, dim=4000x2992, 2.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200809_154722.jpg"><img src="thumbnails/dcim-IMG_20200809_154722.jpg.jpg" width="300" height="224" title="IMG_20200809_154722.jpg: 20200809 154722, dim=4000x2992, 3.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200809_172010.jpg"><img src="thumbnails/dcim-IMG_20200809_172010.jpg.jpg" width="224" height="300" title="IMG_20200809_172010.jpg: 20200809 172010, dim=2992x4000, 3.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200809_183118.jpg"><img src="thumbnails/dcim-IMG_20200809_183118.jpg.jpg" width="300" height="224" title="IMG_20200809_183118.jpg: 20200809 183118, dim=4000x2992, 2.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200809_183359.jpg"><img src="thumbnails/dcim-IMG_20200809_183359.jpg.jpg" width="300" height="224" title="IMG_20200809_183359.jpg: 20200809 183359, dim=4000x2992, 4.5 MB"/></a>
+<a href="2020-08-09-1.jpg"><img src=".thumbnails/post-2020-08-09-1.jpg.jpg" width="400" height="299" title="2020-08-09-1.jpg: 20201008 161333, dim=960x718, 0.1 MB"/></a>
+<a href="2020-08-09-2.jpg"><img src=".thumbnails/post-2020-08-09-2.jpg.jpg" width="400" height="299" title="2020-08-09-2.jpg: 20201008 161333, dim=960x718, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
 <p>Le départ de la ViaRhôna.</p>
 <div id="gallery-blog-20200809-2">
-<a href="2020-08-09-3.jpg"><img src="thumbnails/post-2020-08-09-3.jpg.jpg" width="400" height="299" title="2020-08-09-3.jpg: 20201008 161333, dim=1280x957, 0.2 MB"/></a>
+<a href="2020-08-09-3.jpg"><img src=".thumbnails/post-2020-08-09-3.jpg.jpg" width="400" height="299" title="2020-08-09-3.jpg: 20201008 161333, dim=1280x957, 0.2 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
 <p>Piste cyclable.</p>
 <div id="gallery-blog-20200809-3">
-<a href="2020-08-09-4.jpg"><img src="thumbnails/post-2020-08-09-4.jpg.jpg" width="400" height="299" title="2020-08-09-4.jpg: 20201008 161334, dim=1280x957, 0.1 MB"/></a>
+<a href="2020-08-09-4.jpg"><img src=".thumbnails/post-2020-08-09-4.jpg.jpg" width="400" height="299" title="2020-08-09-4.jpg: 20201008 161334, dim=1280x957, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -913,51 +463,17 @@ mais ce qu'on voit vaut le coup d'œil. Après une longue descente, on se
 retrouve au niveau du Rhône et je m'arrête au premier camping qui me tend les
 bras.</p>
 <div id="gallery-blog-20200810-1">
-<a href="2020-08-10-1.jpg"><img src="thumbnails/post-2020-08-10-1.jpg.jpg" width="400" height="299" title="2020-08-10-1.jpg: 20201008 161335, dim=960x718, 0.1 MB"/></a>
-<a href="2020-08-10-2.jpg"><img src="thumbnails/post-2020-08-10-2.jpg.jpg" width="400" height="299" title="2020-08-10-2.jpg: 20201008 161335, dim=960x718, 0.1 MB"/></a>
-<a href="2020-08-10-3.jpg"><img src="thumbnails/post-2020-08-10-3.jpg.jpg" width="400" height="299" title="2020-08-10-3.jpg: 20201008 161336, dim=960x718, 0.1 MB"/></a>
-<a href="2020-08-10-4.jpg"><img src="thumbnails/post-2020-08-10-4.jpg.jpg" width="400" height="299" title="2020-08-10-4.jpg: 20201008 161336, dim=960x718, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200810-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_101745.jpg"><img src="thumbnails/dcim-IMG_20200810_101745.jpg.jpg" width="300" height="224" title="IMG_20200810_101745.jpg: 20200810 101745, dim=4000x2992, 6.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_112651.jpg"><img src="thumbnails/dcim-IMG_20200810_112651.jpg.jpg" width="300" height="224" title="IMG_20200810_112651.jpg: 20200810 112651, dim=4000x2992, 3.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_113104.jpg"><img src="thumbnails/dcim-IMG_20200810_113104.jpg.jpg" width="300" height="224" title="IMG_20200810_113104.jpg: 20200810 113104, dim=4000x2992, 3.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_113111.jpg"><img src="thumbnails/dcim-IMG_20200810_113111.jpg.jpg" width="225" height="300" title="IMG_20200810_113111.jpg: 20200810 113111, dim=720x960, 0.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_113434.jpg"><img src="thumbnails/dcim-IMG_20200810_113434.jpg.jpg" width="300" height="224" title="IMG_20200810_113434.jpg: 20200810 113434, dim=4000x2992, 4.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_115101.jpg"><img src="thumbnails/dcim-IMG_20200810_115101.jpg.jpg" width="300" height="224" title="IMG_20200810_115101.jpg: 20200810 115101, dim=4000x2992, 4.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_124207.jpg"><img src="thumbnails/dcim-IMG_20200810_124207.jpg.jpg" width="300" height="224" title="IMG_20200810_124207.jpg: 20200810 124207, dim=4000x2992, 2.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_125606.jpg"><img src="thumbnails/dcim-IMG_20200810_125606.jpg.jpg" width="300" height="224" title="IMG_20200810_125606.jpg: 20200810 125606, dim=4000x2992, 3.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_132105.jpg"><img src="thumbnails/dcim-IMG_20200810_132105.jpg.jpg" width="300" height="224" title="IMG_20200810_132105.jpg: 20200810 132105, dim=4000x2992, 3.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_133911.jpg"><img src="thumbnails/dcim-IMG_20200810_133911.jpg.jpg" width="300" height="224" title="IMG_20200810_133911.jpg: 20200810 133911, dim=4000x2992, 3.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_133931.jpg"><img src="thumbnails/dcim-IMG_20200810_133931.jpg.jpg" width="300" height="224" title="IMG_20200810_133931.jpg: 20200810 133931, dim=4000x2992, 6.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_134022.jpg"><img src="thumbnails/dcim-IMG_20200810_134022.jpg.jpg" width="300" height="224" title="IMG_20200810_134022.jpg: 20200810 134022, dim=4000x2992, 5.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_134202.jpg"><img src="thumbnails/dcim-IMG_20200810_134202.jpg.jpg" width="300" height="224" title="IMG_20200810_134202.jpg: 20200810 134202, dim=4000x2992, 3.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_140952.jpg"><img src="thumbnails/dcim-IMG_20200810_140952.jpg.jpg" width="300" height="224" title="IMG_20200810_140952.jpg: 20200810 140952, dim=4000x2992, 5.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_150222.jpg"><img src="thumbnails/dcim-IMG_20200810_150222.jpg.jpg" width="300" height="224" title="IMG_20200810_150222.jpg: 20200810 150222, dim=4000x2992, 4.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_153811.jpg"><img src="thumbnails/dcim-IMG_20200810_153811.jpg.jpg" width="300" height="224" title="IMG_20200810_153811.jpg: 20200810 153811, dim=4000x2992, 4.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_153820.jpg"><img src="thumbnails/dcim-IMG_20200810_153820.jpg.jpg" width="300" height="224" title="IMG_20200810_153820.jpg: 20200810 153820, dim=4000x2992, 4.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_154459.jpg"><img src="thumbnails/dcim-IMG_20200810_154459.jpg.jpg" width="300" height="224" title="IMG_20200810_154459.jpg: 20200810 154459, dim=4000x2992, 4.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_154522.jpg"><img src="thumbnails/dcim-IMG_20200810_154522.jpg.jpg" width="300" height="225" title="IMG_20200810_154522.jpg: 20200810 154522, dim=3264x2448, 3.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_154535.jpg"><img src="thumbnails/dcim-IMG_20200810_154535.jpg.jpg" width="300" height="224" title="IMG_20200810_154535.jpg: 20200810 154535, dim=4000x2992, 2.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_154711.jpg"><img src="thumbnails/dcim-IMG_20200810_154711.jpg.jpg" width="300" height="224" title="IMG_20200810_154711.jpg: 20200810 154711, dim=4000x2992, 4.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_154945.jpg"><img src="thumbnails/dcim-IMG_20200810_154945.jpg.jpg" width="300" height="224" title="IMG_20200810_154945.jpg: 20200810 154945, dim=4000x2992, 5.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_155510.jpg"><img src="thumbnails/dcim-IMG_20200810_155510.jpg.jpg" width="300" height="224" title="IMG_20200810_155510.jpg: 20200810 155510, dim=4000x2992, 5.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_160412.jpg"><img src="thumbnails/dcim-IMG_20200810_160412.jpg.jpg" width="300" height="224" title="IMG_20200810_160412.jpg: 20200810 160412, dim=4000x2992, 7.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_161508.jpg"><img src="thumbnails/dcim-IMG_20200810_161508.jpg.jpg" width="300" height="224" title="IMG_20200810_161508.jpg: 20200810 161508, dim=4000x2992, 4.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_161529.jpg"><img src="thumbnails/dcim-IMG_20200810_161529.jpg.jpg" width="300" height="224" title="IMG_20200810_161529.jpg: 20200810 161529, dim=4000x2992, 5.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_161752.jpg"><img src="thumbnails/dcim-IMG_20200810_161752.jpg.jpg" width="300" height="224" title="IMG_20200810_161752.jpg: 20200810 161752, dim=4000x2992, 5.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_162408.jpg"><img src="thumbnails/dcim-IMG_20200810_162408.jpg.jpg" width="300" height="224" title="IMG_20200810_162408.jpg: 20200810 162408, dim=4000x2992, 3.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_165022.jpg"><img src="thumbnails/dcim-IMG_20200810_165022.jpg.jpg" width="300" height="224" title="IMG_20200810_165022.jpg: 20200810 165022, dim=4000x2992, 2.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_172049.jpg"><img src="thumbnails/dcim-IMG_20200810_172049.jpg.jpg" width="300" height="224" title="IMG_20200810_172049.jpg: 20200810 172049, dim=4000x2992, 2.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200810_180705.jpg"><img src="thumbnails/dcim-IMG_20200810_180705.jpg.jpg" width="300" height="225" title="IMG_20200810_180705.jpg: 20200810 180705, dim=3264x2448, 2.4 MB"/></a>
+<a href="2020-08-10-1.jpg"><img src=".thumbnails/post-2020-08-10-1.jpg.jpg" width="400" height="299" title="2020-08-10-1.jpg: 20201008 161335, dim=960x718, 0.1 MB"/></a>
+<a href="2020-08-10-2.jpg"><img src=".thumbnails/post-2020-08-10-2.jpg.jpg" width="400" height="299" title="2020-08-10-2.jpg: 20201008 161335, dim=960x718, 0.1 MB"/></a>
+<a href="2020-08-10-3.jpg"><img src=".thumbnails/post-2020-08-10-3.jpg.jpg" width="400" height="299" title="2020-08-10-3.jpg: 20201008 161336, dim=960x718, 0.1 MB"/></a>
+<a href="2020-08-10-4.jpg"><img src=".thumbnails/post-2020-08-10-4.jpg.jpg" width="400" height="299" title="2020-08-10-4.jpg: 20201008 161336, dim=960x718, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
 <p>Profil de la ViaRhôna avec la grande descente pour arriver à Seyssel. Ça
 devrait être plus facile à partir de maintenant.</p>
 <div id="gallery-blog-20200810-2">
-<a href="2020-08-10-5.jpg"><img src="thumbnails/post-2020-08-10-5.jpg.jpg" width="332" height="400" title="2020-08-10-5.jpg: 20201008 161337, dim=1067x1287, 0.1 MB"/></a>
+<a href="2020-08-10-5.jpg"><img src=".thumbnails/post-2020-08-10-5.jpg.jpg" width="332" height="400" title="2020-08-10-5.jpg: 20201008 161337, dim=1067x1287, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -965,17 +481,8 @@ devrait être plus facile à partir de maintenant.</p>
 <p>Camping bien ombragé avec des tables et des chaises. Parfait pour une journée
 de repos. Camping vide le matin mais plein de cyclistes le soir.</p>
 <div id="gallery-blog-20200811-1">
-<a href="2020-08-11-1.jpg"><img src="thumbnails/post-2020-08-11-1.jpg.jpg" width="400" height="299" title="2020-08-11-1.jpg: 20201008 161337, dim=960x718, 0.2 MB"/></a>
-<a href="2020-08-11-2.jpg"><img src="thumbnails/post-2020-08-11-2.jpg.jpg" width="400" height="299" title="2020-08-11-2.jpg: 20201008 161337, dim=960x718, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200811-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200811_144039.jpg"><img src="thumbnails/dcim-IMG_20200811_144039.jpg.jpg" width="300" height="224" title="IMG_20200811_144039.jpg: 20200811 144039, dim=4000x2992, 6.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200811_170115.jpg"><img src="thumbnails/dcim-IMG_20200811_170115.jpg.jpg" width="300" height="224" title="IMG_20200811_170115.jpg: 20200811 170115, dim=4000x2992, 4.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200811_171045.jpg"><img src="thumbnails/dcim-IMG_20200811_171045.jpg.jpg" width="300" height="224" title="IMG_20200811_171045.jpg: 20200811 171045, dim=4000x2992, 3.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200811_171353.jpg"><img src="thumbnails/dcim-IMG_20200811_171353.jpg.jpg" width="300" height="224" title="IMG_20200811_171353.jpg: 20200811 171353, dim=4000x2992, 3.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200811_171618.jpg"><img src="thumbnails/dcim-IMG_20200811_171618.jpg.jpg" width="300" height="224" title="IMG_20200811_171618.jpg: 20200811 171618, dim=4000x2992, 2.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200811_173520.jpg"><img src="thumbnails/dcim-IMG_20200811_173520.jpg.jpg" width="300" height="224" title="IMG_20200811_173520.jpg: 20200811 173520, dim=4000x2992, 3.1 MB"/></a>
+<a href="2020-08-11-1.jpg"><img src=".thumbnails/post-2020-08-11-1.jpg.jpg" width="400" height="299" title="2020-08-11-1.jpg: 20201008 161337, dim=960x718, 0.2 MB"/></a>
+<a href="2020-08-11-2.jpg"><img src=".thumbnails/post-2020-08-11-2.jpg.jpg" width="400" height="299" title="2020-08-11-2.jpg: 20201008 161337, dim=960x718, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -986,31 +493,10 @@ de près. Le bonheur. Après les paysages sont moins spectaculaires, la campagne
 avec des grosses collines au loin. Pas de camping plus proche, 35° à 14h.
 Content d'arriver.</p>
 <div id="gallery-blog-20200812-1">
-<a href="2020-08-12-1.jpg"><img src="thumbnails/post-2020-08-12-1.jpg.jpg" width="400" height="299" title="2020-08-12-1.jpg: 20201008 161338, dim=960x718, 0.1 MB"/></a>
-<a href="2020-08-12-2.jpg"><img src="thumbnails/post-2020-08-12-2.jpg.jpg" width="400" height="299" title="2020-08-12-2.jpg: 20201008 161338, dim=960x718, 0.1 MB"/></a>
-<a href="2020-08-12-3.jpg"><img src="thumbnails/post-2020-08-12-3.jpg.jpg" width="400" height="299" title="2020-08-12-3.jpg: 20201008 161338, dim=960x718, 0.1 MB"/></a>
-<a href="2020-08-12-4.jpg"><img src="thumbnails/post-2020-08-12-4.jpg.jpg" width="400" height="299" title="2020-08-12-4.jpg: 20201008 161339, dim=960x718, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200812-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200812_093742.jpg"><img src="thumbnails/dcim-IMG_20200812_093742.jpg.jpg" width="300" height="224" title="IMG_20200812_093742.jpg: 20200812 093742, dim=4000x2992, 4.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200812_094735.jpg"><img src="thumbnails/dcim-IMG_20200812_094735.jpg.jpg" width="300" height="224" title="IMG_20200812_094735.jpg: 20200812 094735, dim=4000x2992, 4.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200812_100921.jpg"><img src="thumbnails/dcim-IMG_20200812_100921.jpg.jpg" width="300" height="224" title="IMG_20200812_100921.jpg: 20200812 100921, dim=4000x2992, 5.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200812_102728.jpg"><img src="thumbnails/dcim-IMG_20200812_102728.jpg.jpg" width="300" height="224" title="IMG_20200812_102728.jpg: 20200812 102728, dim=4000x2992, 3.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200812_103014.jpg"><img src="thumbnails/dcim-IMG_20200812_103014.jpg.jpg" width="300" height="224" title="IMG_20200812_103014.jpg: 20200812 103014, dim=4000x2992, 2.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200812_103156.jpg"><img src="thumbnails/dcim-IMG_20200812_103156.jpg.jpg" width="300" height="224" title="IMG_20200812_103156.jpg: 20200812 103156, dim=4000x2992, 4.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200812_105007.jpg"><img src="thumbnails/dcim-IMG_20200812_105007.jpg.jpg" width="300" height="224" title="IMG_20200812_105007.jpg: 20200812 105007, dim=4000x2992, 5.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200812_105609.jpg"><img src="thumbnails/dcim-IMG_20200812_105609.jpg.jpg" width="300" height="224" title="IMG_20200812_105609.jpg: 20200812 105609, dim=4000x2992, 3.9 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200812_105822.jpg"><img src="thumbnails/dcim-IMG_20200812_105822.jpg.jpg" width="300" height="224" title="IMG_20200812_105822.jpg: 20200812 105822, dim=4000x2992, 4.3 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200812_112429.jpg"><img src="thumbnails/dcim-IMG_20200812_112429.jpg.jpg" width="300" height="224" title="IMG_20200812_112429.jpg: 20200812 112429, dim=4000x2992, 4.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200812_113757.jpg"><img src="thumbnails/dcim-IMG_20200812_113757.jpg.jpg" width="300" height="224" title="IMG_20200812_113757.jpg: 20200812 113757, dim=4000x2992, 5.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200812_113821.jpg"><img src="thumbnails/dcim-IMG_20200812_113821.jpg.jpg" width="300" height="224" title="IMG_20200812_113821.jpg: 20200812 113821, dim=4000x2992, 5.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200812_115956.jpg"><img src="thumbnails/dcim-IMG_20200812_115956.jpg.jpg" width="300" height="224" title="IMG_20200812_115956.jpg: 20200812 115956, dim=4000x2992, 4.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200812_122349.jpg"><img src="thumbnails/dcim-IMG_20200812_122349.jpg.jpg" width="300" height="224" title="IMG_20200812_122349.jpg: 20200812 122349, dim=4000x2992, 2.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200812_134639.jpg"><img src="thumbnails/dcim-IMG_20200812_134639.jpg.jpg" width="300" height="224" title="IMG_20200812_134639.jpg: 20200812 134639, dim=4000x2992, 3.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200812_135751.jpg"><img src="thumbnails/dcim-IMG_20200812_135751.jpg.jpg" width="300" height="224" title="IMG_20200812_135751.jpg: 20200812 135751, dim=4000x2992, 3.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200812_160322.jpg"><img src="thumbnails/dcim-IMG_20200812_160322.jpg.jpg" width="224" height="300" title="IMG_20200812_160322.jpg: 20200812 160322, dim=2992x4000, 5.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200812_183043.jpg"><img src="thumbnails/dcim-IMG_20200812_183043.jpg.jpg" width="300" height="224" title="IMG_20200812_183043.jpg: 20200812 183043, dim=4000x2992, 6.2 MB"/></a>
+<a href="2020-08-12-1.jpg"><img src=".thumbnails/post-2020-08-12-1.jpg.jpg" width="400" height="299" title="2020-08-12-1.jpg: 20201008 161338, dim=960x718, 0.1 MB"/></a>
+<a href="2020-08-12-2.jpg"><img src=".thumbnails/post-2020-08-12-2.jpg.jpg" width="400" height="299" title="2020-08-12-2.jpg: 20201008 161338, dim=960x718, 0.1 MB"/></a>
+<a href="2020-08-12-3.jpg"><img src=".thumbnails/post-2020-08-12-3.jpg.jpg" width="400" height="299" title="2020-08-12-3.jpg: 20201008 161338, dim=960x718, 0.1 MB"/></a>
+<a href="2020-08-12-4.jpg"><img src=".thumbnails/post-2020-08-12-4.jpg.jpg" width="400" height="299" title="2020-08-12-4.jpg: 20201008 161339, dim=960x718, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
@@ -1021,112 +507,66 @@ trop mal. Traversée de Lyon par les quais sous une petite pluie qui termine en
 orage. J'attends que ça se passe sous un pont de l'autoroute avant de
 rejoindre un hôtel.</p>
 <div id="gallery-blog-20200813-1">
-<a href="2020-08-13-1.jpg"><img src="thumbnails/post-2020-08-13-1.jpg.jpg" width="400" height="299" title="2020-08-13-1.jpg: 20201008 161339, dim=960x718, 0.0 MB"/></a>
-<a href="2020-08-13-2.jpg"><img src="thumbnails/post-2020-08-13-2.jpg.jpg" width="400" height="299" title="2020-08-13-2.jpg: 20201008 161339, dim=960x718, 0.1 MB"/></a>
-<a href="2020-08-13-3.jpg"><img src="thumbnails/post-2020-08-13-3.jpg.jpg" width="400" height="299" title="2020-08-13-3.jpg: 20201008 161340, dim=960x718, 0.2 MB"/></a>
-<a href="2020-08-13-4.jpg"><img src="thumbnails/post-2020-08-13-4.jpg.jpg" width="400" height="299" title="2020-08-13-4.jpg: 20201008 161340, dim=960x718, 0.1 MB"/></a>
-</div>
-<div id="gallery-dcim-20200813-1">
-<hr color="#C0C0C0" size="1" />
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200813_092307.jpg"><img src="thumbnails/dcim-IMG_20200813_092307.jpg.jpg" width="300" height="224" title="IMG_20200813_092307.jpg: 20200813 092307, dim=4000x2992, 2.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200813_092746.jpg"><img src="thumbnails/dcim-IMG_20200813_092746.jpg.jpg" width="300" height="224" title="IMG_20200813_092746.jpg: 20200813 092746, dim=4000x2992, 3.0 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200813_093030.jpg"><img src="thumbnails/dcim-IMG_20200813_093030.jpg.jpg" width="300" height="224" title="IMG_20200813_093030.jpg: 20200813 093030, dim=4000x2992, 3.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200813_094112.jpg"><img src="thumbnails/dcim-IMG_20200813_094112.jpg.jpg" width="300" height="224" title="IMG_20200813_094112.jpg: 20200813 094112, dim=4000x2992, 3.5 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200813_094434.jpg"><img src="thumbnails/dcim-IMG_20200813_094434.jpg.jpg" width="300" height="224" title="IMG_20200813_094434.jpg: 20200813 094434, dim=4000x2992, 4.6 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200813_094634.jpg"><img src="thumbnails/dcim-IMG_20200813_094634.jpg.jpg" width="300" height="225" title="IMG_20200813_094634.jpg: 20200813 094634, dim=3264x2448, 2.4 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200813_095846.jpg"><img src="thumbnails/dcim-IMG_20200813_095846.jpg.jpg" width="300" height="224" title="IMG_20200813_095846.jpg: 20200813 095846, dim=4000x2992, 5.2 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200813_115534.jpg"><img src="thumbnails/dcim-IMG_20200813_115534.jpg.jpg" width="300" height="224" title="IMG_20200813_115534.jpg: 20200813 115534, dim=4000x2992, 3.8 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200813_120536.jpg"><img src="thumbnails/dcim-IMG_20200813_120536.jpg.jpg" width="300" height="224" title="IMG_20200813_120536.jpg: 20200813 120536, dim=4000x2992, 7.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200813_125255.jpg"><img src="thumbnails/dcim-IMG_20200813_125255.jpg.jpg" width="300" height="224" title="IMG_20200813_125255.jpg: 20200813 125255, dim=4000x2992, 7.1 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200813_155422.jpg"><img src="thumbnails/dcim-IMG_20200813_155422.jpg.jpg" width="300" height="224" title="IMG_20200813_155422.jpg: 20200813 155422, dim=4000x2992, 2.7 MB"/></a>
-<a href="file:///D:\Gilles\Velo\Voyages\2020-Tour-de-France\photos\IMG_20200813_170501.jpg"><img src="thumbnails/dcim-IMG_20200813_170501.jpg.jpg" width="300" height="224" title="IMG_20200813_170501.jpg: 20200813 170501, dim=4000x2992, 3.4 MB"/></a>
+<a href="2020-08-13-1.jpg"><img src=".thumbnails/post-2020-08-13-1.jpg.jpg" width="400" height="299" title="2020-08-13-1.jpg: 20201008 161339, dim=960x718, 0.0 MB"/></a>
+<a href="2020-08-13-2.jpg"><img src=".thumbnails/post-2020-08-13-2.jpg.jpg" width="400" height="299" title="2020-08-13-2.jpg: 20201008 161339, dim=960x718, 0.1 MB"/></a>
+<a href="2020-08-13-3.jpg"><img src=".thumbnails/post-2020-08-13-3.jpg.jpg" width="400" height="299" title="2020-08-13-3.jpg: 20201008 161340, dim=960x718, 0.2 MB"/></a>
+<a href="2020-08-13-4.jpg"><img src=".thumbnails/post-2020-08-13-4.jpg.jpg" width="400" height="299" title="2020-08-13-4.jpg: 20201008 161340, dim=960x718, 0.1 MB"/></a>
 </div>
 <hr color="#C0C0C0" size="1" />
 
 <div id="gallery-blog-20200813-2">
-<a href="2020-08-13-5.jpg"><img src="thumbnails/post-2020-08-13-5.jpg.jpg" width="400" height="299" title="2020-08-13-5.jpg: 20201008 161341, dim=960x718, 0.1 MB"/></a>
-<a href="2020-08-13-6.jpg"><img src="thumbnails/post-2020-08-13-6.jpg.jpg" width="400" height="299" title="2020-08-13-6.jpg: 20201008 161342, dim=960x718, 0.1 MB"/></a>
+<a href="2020-08-13-5.jpg"><img src=".thumbnails/post-2020-08-13-5.jpg.jpg" width="400" height="299" title="2020-08-13-5.jpg: 20201008 161341, dim=960x718, 0.1 MB"/></a>
+<a href="2020-08-13-6.jpg"><img src=".thumbnails/post-2020-08-13-6.jpg.jpg" width="400" height="299" title="2020-08-13-6.jpg: 20201008 161342, dim=960x718, 0.1 MB"/></a>
 <hr color="#C0C0C0" size="1" />
 </div>
 
 <script>
 $('#gallery-blog-20200712-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200712-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200713-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200713-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200714-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200714-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200715-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200715-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200716-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200716-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200717-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200717-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200718-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200718-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200719-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200719-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200720-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200720-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200721-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200721-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200721-2').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200722-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200722-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200723-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200723-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200724-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200724-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200724-2').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200725-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200725-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200726-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200726-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200726-2').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200727-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200727-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200727-2').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200728-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200728-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200729-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200729-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200730-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200730-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200730-2').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200731-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200731-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200801-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200802-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200803-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200803-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200804-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200805-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200805-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200805-2').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200806-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200806-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200806-2').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200807-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200807-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200807-2').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200808-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200808-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200808-2').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200808-3').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200809-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200809-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200809-2').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200809-3').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200810-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200810-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200810-2').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200811-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200811-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200812-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200812-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200813-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-dcim-20200813-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20200813-2').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 </script>
+</div>
+</div>
 </body>
 </html>
