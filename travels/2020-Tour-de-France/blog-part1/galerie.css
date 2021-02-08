@@ -65,8 +65,8 @@ p.banniere2 {
       box-sizing: border-box;
   }
 
-#header,#footer,#content {
-    position:absolute; left:2; width:96%;
+#header, #content {
+    position:absolute; left:2%; width:96%;
     /*background:#CCC*/
 }
 
