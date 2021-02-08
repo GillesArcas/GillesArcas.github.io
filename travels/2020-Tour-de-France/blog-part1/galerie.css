@@ -71,4 +71,11 @@
   height:100px; bottom:10px;
 }
 
+.banniere {
+    position: relative;
+    width: 100%;
+    height: 226px;
+}
+
+
 }
