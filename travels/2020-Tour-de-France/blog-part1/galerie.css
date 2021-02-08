@@ -17,7 +17,7 @@
 
 /* https://codepen.io/grohit/pen/zYxMOjR */
 
-.btn-1 {
+.button_desk {
   font-family: Hack, monospace;
   background: #0F0F6D;
   color: #ffffff;
@@ -31,7 +31,7 @@
   position: relative;
 }
 
-.btn-1:hover {
+.button_desk-1:hover {
   background: #2b2bff;
   transition: all 0.5s;
   border-radius: 10px;
@@ -45,6 +45,9 @@
 		box-sizing: border-box;
 	}
 	
+    .button_desk {
+        visibility: hidden;
+    }
     
     #footer{
   height:100px; bottom:10px;
