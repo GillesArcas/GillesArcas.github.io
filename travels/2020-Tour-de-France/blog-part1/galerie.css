@@ -1,19 +1,17 @@
-#header,#footer,#content {
-    position:absolute; left:10%; width:80%;
+#header, #content {
+    position:fixed; left:10%; width:80%;
     /*background:#CCC*/
 }
 
 #header{
     top: 1;
-    height: 20px;
+    height: 21px;
     background:#CCC;
 }
-#footer{
-}
+
 #content{
-  top:22px;
+  top:23px;
   bottom:10px;
-    /*background:#DBEAF9;*/
     overflow:hidden
 }
 
@@ -27,6 +25,15 @@
     background-repeat: repeat-x;
 }
 
+p.banniere1 {
+    font-family: sans-serif;
+    font-size:3em;
+}
+
+p.banniere2 {
+    font-family: sans-serif;
+    font-size:2em;
+}
 
 /* https://codepen.io/grohit/pen/zYxMOjR */
 
@@ -59,22 +66,35 @@
   }
 
 #header,#footer,#content {
-    position:absolute; left:0; width:100%;
+    position:absolute; left:2; width:96%;
     /*background:#CCC*/
 }
 
-    .button_desk {
-        visibility: hidden;
-    }
+#header{
+    top: 1;
+    height: 23px;
+    background:#CCC;
+}
 
-    #footer{
-  height:100px; bottom:10px;
+#content{
+    top:25px;
+    bottom:10px;
 }
 
 .banniere {
     position: relative;
     width: 100%;
     height: 226px;
+}
+
+p.banniere1 {
+    font-family: sans-serif;
+    font-size:2em;
+}
+
+p.banniere2 {
+    font-family: sans-serif;
+    font-size:1.5em;
 }
 
 
