@@ -6,11 +6,13 @@
 #header{
     top: 1;
     height: 21px;
-    background:#CCC;
+    /*background:#CCC;*/
+    background-image: url('clouds.jpg');
+    background-repeat: repeat-x repeat-y;
 }
 
 #content{
-  top:23px;
+  top:25px;
   bottom:10px;
     overflow:hidden
 }
