@@ -57,8 +57,6 @@ p.banniere2 {
 #content{
     top:25px;
     bottom:10px;
-    padding-left:5px;
-    padding-right:5px;
 }
 
 .banniere {
@@ -75,6 +73,13 @@ p.banniere1 {
 p.banniere2 {
     font-family: sans-serif;
     font-size:1.5em;
+}
+
+p { 
+    margin-top:0px; 
+    margin-bottom:0px; 
+    padding-left:2px;
+    padding-right:2px;
 }
 
 
