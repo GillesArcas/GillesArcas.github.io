@@ -81,17 +81,17 @@ option from alternate move display to next move display, but when I reload the f
 are displayed again. Is it a bug, what can I do?
 </b>
 <hr>
-<p>The problem comes from SGF files with some setting of the ST property. This 
-property enables SGF writers, or SGF clients, to configure the 
-display of next moves or variations with some markups on board. The 
+<p>The problem comes from SGF files with some setting of the ST property. This
+property enables SGF writers, or SGF clients, to configure the
+display of next moves or variations with some markups on board. The
 ST (STyle property) enables to specify:
 <p>- if the marks are visible or not
 <p>- if the marks are associated with next moves or variations
-<p>In accordance with SGF specification, the STyle property has priority over current settings, unless 
-the user forces the settings. But changing the settings does not change the 
+<p>In accordance with SGF specification, the STyle property has priority over current settings, unless
+the user forces the settings. But changing the settings does not change the
 file, and you find back the setting you do not want when reloading the file!
 <p>To solve the problem, open the Information dialog
-(the "I" button), the Misc tab, select "No style defined for current game" in the Style combobox, 
+(the "I" button), the Misc tab, select "No style defined for current game" in the Style combobox,
 save the file, and check if you can save and retrieve your settings.
 <p><img src="Images/ST.png">
 <p>
@@ -134,10 +134,10 @@ White stones, and nodes without move properties are displayed with grey circles,
 <p>Do you plan to port Drago for Linux or Mac?
 </b>
 <hr>
-<p>Yes but this is a very long term goal. Here are some explanation why it is Windows only, and why it will be difficult to port. 
+<p>Yes but this is a very long term goal. Here are some explanation why it is Windows only, and why it will be difficult to port.
 <p>First draft of Drago was written with Turbo Pascal. Its purpose
 was to store and print the lesson games I had with my teacher. After some years, I got the free personal version of Delphi and there were
-no doubts I wanted to start again Drago developement with it. Of course, it was Windows only but this was not an issue as I had no ambition of 
+no doubts I wanted to start again Drago developement with it. Of course, it was Windows only but this was not an issue as I had no ambition of
 running it on another platform than my own personal computer!
 <p>Things have changed but Drago has grown. It includes now a lot of code and some external libraries. There is a way to port it by using
 the Free Pascal Compiler which is multi platform. But this will need a lot of work, rewrite and compromises. I am very sorry for Mac and Linux
@@ -185,18 +185,6 @@ align="absbottom" border="0" width="16" height="16"> Home</a>
 </table>
 <small class="x">Copyright &copy; 2006-2016 Drago - All rights reserved</small>
 
-<!-- Piwik -->
-<script type="text/javascript">
-var pkBaseURL = (("https:" == document.location.protocol) ? "https://www.godrago.net/piwik/" : "http://www.godrago.net/piwik/");
-document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script type="text/javascript">
-try {
-var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
-piwikTracker.trackPageView();
-piwikTracker.enableLinkTracking();
-} catch( err ) {}
-</script><noscript><p><img src="http://www.godrago.net/piwik/piwik.php?idsite=1" style="border:0" alt=""/></p></noscript>
-<!-- End Piwik Tag -->
 
 </body>
 </html>
