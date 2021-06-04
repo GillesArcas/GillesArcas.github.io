@@ -33,4 +33,14 @@ Encore une belle journée. D'abord, voie verte toute neuve sur le chemin de hala
 ![](IMG_20210603_185854_resize_65.jpg)
 
 ______
+[2021/06/04]
+
+### J4 - 4 juin - Cosnes sur Loire-Sancoins (Cher) - 89 km (328 km)
+
+Cinquante kilomètres de Loire á vélo très agréables, puis des petites routes tranquilles. Temps qui ne sait pas ce qu'il veut (chaud, couvert, crachin, éclaircies) mais pas de grosses pluies.
+
+![](IMG_20210604_104525_resize_85.jpg)
+![](IMG_20210604_125745_resize_0.jpg)
+
+______
 
