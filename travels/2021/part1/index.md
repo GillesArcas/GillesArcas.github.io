@@ -43,4 +43,22 @@ Cinquante kilomètres de Loire à vélo très agréables, puis des petites route
 ![](IMG_20210604_125745_resize_0.jpg)
 
 ______
+[2021/06/05]
+
+### J5 -  5 juin - Sancoins-Néris les Bains (Allier) - 92 km (420 km)
+
+Temps maussade, 13º à un moment sur la route ce matin. Ça c'est quand même réchauffé
+un peu dans l'après midi. Des petites routes, pas mal de voies vertes dont 20 km au
+bord du canal de Berry, et 130 mètres de dénivelé sur une voie verte en pente douce et continue
+pour arriver à Néris.
+
+![](IMG_20210605_105358_resize_28.jpg)
+![](IMG_20210605_141756_resize_47.jpg)
+
+______
+[2021/06/05]
+
+![](IMG_20210605_150437_resize_6.jpg)
+Pour le jeu de mot, pas pour le selfie.
+______
 
