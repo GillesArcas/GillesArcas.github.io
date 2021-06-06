@@ -61,4 +61,14 @@ ______
 ![](IMG_20210605_150437_resize_6.jpg)
 Pour le jeu de mot, pas pour le selfie.
 ______
+[2021/06/06]
+
+### J6 -  6 juin - Néris les Bains-Aubusson (Creuse) - 78 km (498 km)
+
+Toujours grisâtre, un peu meilleur le matin mais 16º dans l'après-midi. C'est peut-être aussi bien pour rouler finalement. Que des petites routes dans un paysage un peu plus vallonné (850 mètres de dénivelé aujourd'hui).
+
+![](IMG_20210606_124524_resize_83.jpg)
+![](IMG_20210606_124832_resize_38.jpg)
+
+______
 
