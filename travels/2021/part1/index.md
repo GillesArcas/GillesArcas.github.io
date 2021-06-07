@@ -71,4 +71,16 @@ Toujours grisâtre, un peu meilleur le matin mais 16º dans l'après-midi. C'est
 ![](IMG_20210606_124832_resize_38.jpg)
 
 ______
+[2021/07/07]
+
+### J7 -  7 juin - Aubusson-Chaumeil (Corrèze) - 87 km (585 km)
+
+Temps toujours aussi morose le matin mais enfin du soleil en fin de journée. Traversée du parc régional de Millevaches. Pas mal de dénivelé (1235 mètres) mais la pente est raisonnable et les montées sont longues mais pas pénibles. J'ai suivi des morceaux de la véloroute v87, dite Trans-Massif Central, mais elle n'est pas encore fléchée ici. 
+
+![](IMG_20210607_142114_resize_5.jpg)
+![](IMG_20210607_171036_resize_2.jpg)
+![](IMG_20210607_145013_resize_47.jpg)
+![](IMG_20210607_160408_resize_27.jpg)
+
+______
 
