@@ -19,28 +19,6 @@
 </head>
 
 <body>
-<button id="btn_full" type="button" style="position: fixed; width: 50px; top: 20px; right: 20px; background-color:white">Full</button>
-<button id="btn_blog" type="button" style="position: fixed; width: 50px; top: 40px; right: 20px; background-color:white">Diary</button>
-<button id="btn_text" type="button" style="position: fixed; width: 50px; top: 60px; right: 20px; background-color:white">Text</button>
-
-<script>
-$('#btn_full').click(function() {
-    $("[id^=gallery-blog]").show();
-    $("[id^=gallery-dcim]").show();
-    $("div.extra").show();
-});
-$('#btn_text').click(function() {
-    $("[id^=gallery-blog]").hide();
-    $("[id^=gallery-dcim]").hide();
-    $("div.extra").hide();
-});
-$('#btn_blog').click(function() {
-    $("[id^=gallery-blog]").show();
-    $("[id^=gallery-dcim]").hide();
-    $("div.extra").hide();
-});
-</script>
-
 <h3>J1 - 1er juin - Cachan-Melun - 67 km</h3>
 <p>Quelques kilomètres de banlieue pour rejoindre l'Eurovélo 3 à Vitry. La route
 jusqu'à Melun est faite de bric et de broc, mais les vingt derniers kilomètres
@@ -104,8 +82,8 @@ pour arriver à Néris.</p>
 <hr color="#C0C0C0" size="1" />
 
 <h3>J7 - 7 juin - Aubusson-Chaumeil (Corrèze) - 87 km (585 km)</h3>
-<p>Temps toujours aussi morose le matin mais enfin du soleil en fin de journée. Traversée du parc régional de Millevaches. Pas mal de dénivelé (1235 mètres) mais la pente est raisonnable et les montées sont longues mais pas pénibles. J'ai suivi des morceaux de la véloroute v87, dite Trans-Massif Central, mais elle n'est pas encore fléchée ici. </p>
-<div id="gallery-blog-20210707-1">
+<p>Temps toujours aussi morose le matin mais enfin du soleil en fin de journée. Traversée du parc régional de Millevaches. Pas mal de dénivelé (1235 mètres) mais la pente est raisonnable et les montées sont longues mais pas pénibles. J'ai suivi des morceaux de la véloroute v87, dite Trans-Massif Central, mais elle n'est pas encore fléchée ici.</p>
+<div id="gallery-blog-20210607-1">
 <a href="IMG_20210607_142114_resize_5.jpg"><img src="thumbnails/post-IMG_20210607_142114_resize_5.jpg.jpg" width="400" height="299" title="IMG_20210607_142114_resize_5.jpg: 20210607 142114, dim=1280x957, 0.2 MB"/></a>
 <a href="IMG_20210607_171036_resize_2.jpg"><img src="thumbnails/post-IMG_20210607_171036_resize_2.jpg.jpg" width="400" height="299" title="IMG_20210607_171036_resize_2.jpg: 20210607 171036, dim=1280x957, 0.2 MB"/></a>
 <a href="IMG_20210607_145013_resize_47.jpg"><img src="thumbnails/post-IMG_20210607_145013_resize_47.jpg.jpg" width="400" height="299" title="IMG_20210607_145013_resize_47.jpg: 20210607 145013, dim=1280x957, 0.4 MB"/></a>
@@ -114,8 +92,8 @@ pour arriver à Néris.</p>
 <hr color="#C0C0C0" size="1" />
 
 <h3>J8 - 8 juin - Chaumeil,Beaulieu-sur-Dordogne (Corrèze) - 82 km (667 km)</h3>
-<p>Enfin du beau temps ! Toujours pas mal de dénivelé. Petites routes calmes. Très joli dans les vingt derniers kilomètres en longeant la Dordogne. </p>
-<div id="gallery-blog-20210808-1">
+<p>Enfin du beau temps ! Toujours pas mal de dénivelé et toujours des petites routes calmes. Très joli dans les vingt derniers kilomètres en longeant la Dordogne.</p>
+<div id="gallery-blog-20210608-1">
 <span>
 <a href="IMG_20210608_102946_resize_26.jpg"><img src=thumbnails/post-IMG_20210608_102946_resize_26.jpg.jpg width="400" height="299" title="IMG_20210608_102946_resize_26.jpg: 20210608 102946, dim=1280x957, 0.4 MB"/></a>
 <p>La Corrèze</p>
@@ -127,6 +105,14 @@ pour arriver à Néris.</p>
 </div>
 <hr color="#C0C0C0" size="1" />
 
+<h3>J9 - 9 juin - Beaulieu-sur-Dordogne</h3>
+<p>Jour de repos. Pas trop mal installé dans un camping au bord de la Dordogne. Belle piscine dont je profite (je n'avais pas nager depuis septembre). Visite du village et de l'église romane d'une ancienne abbaye, et routine des jours off.</p>
+<div id="gallery-blog-20210609-1">
+<a href="IMG_20210608_181707_resize_78.jpg"><img src="thumbnails/post-IMG_20210608_181707_resize_78.jpg.jpg" width="400" height="299" title="IMG_20210608_181707_resize_78.jpg: 20210608 181707, dim=1280x957, 0.4 MB"/></a>
+<a href="IMG_20210609_130331_resize_88.jpg"><img src="thumbnails/post-IMG_20210609_130331_resize_88.jpg.jpg" width="400" height="299" title="IMG_20210609_130331_resize_88.jpg: 20210609 130331, dim=1280x957, 0.2 MB"/></a>
+</div>
+<hr color="#C0C0C0" size="1" />
+
 <script>
 $('#gallery-blog-20210601-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20210602-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
@@ -135,8 +121,9 @@ $('#gallery-blog-20210604-1').photobox('a', {loop:false,thumbs:true,autoplay:fal
 $('#gallery-blog-20210605-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20210605-2').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20210606-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-blog-20210707-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
-$('#gallery-blog-20210808-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
+$('#gallery-blog-20210607-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
+$('#gallery-blog-20210608-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
+$('#gallery-blog-20210609-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 </script>
 </body>
 </html>

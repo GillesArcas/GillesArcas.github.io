@@ -71,11 +71,11 @@ Toujours grisâtre, un peu meilleur le matin mais 16º dans l'après-midi. C'est
 ![](IMG_20210606_124832_resize_38.jpg)
 
 ______
-[2021/07/07]
+[2021/06/07]
 
 ### J7 - 7 juin - Aubusson-Chaumeil (Corrèze) - 87 km (585 km)
 
-Temps toujours aussi morose le matin mais enfin du soleil en fin de journée. Traversée du parc régional de Millevaches. Pas mal de dénivelé (1235 mètres) mais la pente est raisonnable et les montées sont longues mais pas pénibles. J'ai suivi des morceaux de la véloroute v87, dite Trans-Massif Central, mais elle n'est pas encore fléchée ici. 
+Temps toujours aussi morose le matin mais enfin du soleil en fin de journée. Traversée du parc régional de Millevaches. Pas mal de dénivelé (1235 mètres) mais la pente est raisonnable et les montées sont longues mais pas pénibles. J'ai suivi des morceaux de la véloroute v87, dite Trans-Massif Central, mais elle n'est pas encore fléchée ici.
 
 ![](IMG_20210607_142114_resize_5.jpg)
 ![](IMG_20210607_171036_resize_2.jpg)
@@ -83,16 +83,25 @@ Temps toujours aussi morose le matin mais enfin du soleil en fin de journée. Tr
 ![](IMG_20210607_160408_resize_27.jpg)
 
 ______
-[2021/08/08]
+[2021/06/08]
 
 ### J8 - 8 juin - Chaumeil,Beaulieu-sur-Dordogne (Corrèze) - 82 km (667 km)
 
-Enfin du beau temps ! Toujours pas mal de dénivelé et toujours des petites routes calmes. Très joli dans les vingt derniers kilomètres en longeant la Dordogne. 
+Enfin du beau temps ! Toujours pas mal de dénivelé et toujours des petites routes calmes. Très joli dans les vingt derniers kilomètres en longeant la Dordogne.
 
 ![](IMG_20210608_102946_resize_26.jpg)
 La Corrèze
 ![](IMG_20210608_155018_resize_31.jpg)
 La Dordogne
 
+______
+[2021/06/09]
+
+### J9 - 9 juin - Beaulieu-sur-Dordogne
+
+Jour de repos. Pas trop mal installé dans un camping au bord de la Dordogne. Belle piscine dont je profite (je n'avais pas nager depuis septembre). Visite du village et de l'église romane d'une ancienne abbaye, et routine des jours off.
+
+![](IMG_20210608_181707_resize_78.jpg)
+![](IMG_20210609_130331_resize_88.jpg)
 ______
 
