@@ -104,4 +104,25 @@ Jour de repos. Pas trop mal installé dans un camping au bord de la Dordogne. Be
 ![](IMG_20210608_181707_resize_78.jpg)
 ![](IMG_20210609_130331_resize_88.jpg)
 ______
+[2021/06/10]
+
+### J10 - 10 juin - Beaulieu-sur-Dordogne,Larnagol (Lot) - 82 km (749 km)
+
+Beau temps mais pas encore trop chaud. Mon itinéraire me fait prendre des toutes petites routes bien perdues dans un paysage bien valloné (presque 1000 mètres de dénivelé). Petit soutien au moral quand des touristes à vélo que je dépasse me demande si j'ai un moteur.
+
+![](IMG_20210610_160407_resize_73.jpg)
+![](IMG_20210610_173227_resize_30.jpg)
+______
+[2021/06/10]
+
+Je n'avais pas réalisé que mon itinéraire passait par Padirac. Je me décide à faire la visite mais il faut deux heures d'attente. Ça sera pour la prochaine fois.
+
+![](IMG_20210610_122236_resize_62.jpg)
+______
+[2021/06/10]
+
+Elle était prévisible celle-là.
+
+![](IMG_20210610_130548_resize_99.jpg)
+______
 
