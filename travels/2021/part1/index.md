@@ -108,7 +108,7 @@ ______
 
 ### J10 - 10 juin - Beaulieu-sur-Dordogne,Larnagol (Lot) - 82 km (749 km)
 
-Beau temps mais pas encore trop chaud. Mon itinéraire me fait prendre des toutes petites routes bien perdues dans un paysage bien valloné (presque 1000 mètres de dénivelé). Petit soutien au moral quand des touristes à vélo que je dépasse me demande si j'ai un moteur.
+Beau temps mais pas encore trop chaud. Mon itinéraire me fait prendre des toutes petites routes bien perdues dans un paysage bien vallonné (presque 1000 mètres de dénivelé). Petit soutien au moral quand des touristes à vélo que je dépasse me demandent si j'ai un moteur.
 
 ![](IMG_20210610_160407_resize_73.jpg)
 ![](IMG_20210610_173227_resize_30.jpg)
