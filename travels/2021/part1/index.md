@@ -125,4 +125,14 @@ Elle était prévisible celle-là.
 
 ![](IMG_20210610_130548_resize_99.jpg)
 ______
+[2021/06/11]
+
+### J11 - 11 juin - Larnagol,Montech (Tarn-et-Garonne) - 90 km (839 km)
+
+Grosse côte dès le démarrage ce matin, mais points de vue magnifiques sur la vallée du Lot. Après ça, le relief s'atténue petit à petit et j'arrive finalement sur le canal de Montech à la sortie de Montauban. Passage par le Décathlon où j'achète un petit sac à dos (j'ai réussi à oublier le mien dans un camping) et un bidon (un des miens s'est percé pour une raison inconnue). Très beau camping ici. Comme il est près du canal du Midi, il y a des cyclistes et on mange ensemble en échangeant nos itinéraires et nos expériences.
+
+![](IMG_20210611_104126_resize_26.jpg)
+![](IMG_20210611_110344_resize_53.jpg)
+![](IMG_20210611_182242_resize_47.jpg)
+______
 
