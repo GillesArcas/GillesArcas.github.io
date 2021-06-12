@@ -135,4 +135,14 @@ Grosse côte dès le démarrage ce matin, mais points de vue magnifiques sur la 
 ![](IMG_20210611_110344_resize_53.jpg)
 ![](IMG_20210611_182242_resize_47.jpg)
 ______
+[2021/06/12]
+
+### J12 - 12 juin - Montech,Avignonet-Lauragais (Haute-Garonne) - 93 km (932 km)
+
+Sur les quatre cyclistes au camping, je pars le dernier (comme d'hab). Temps tout gris le matin. Je retrouve vite le canal du Midi. Large et rectiligne avant Toulouse, plus pittoresque après. Traversée de Toulouse en coup de vent (il faudra bien que je prenne le temps de visiter un jour). Arrivée au camping en même temps qu'un monsieur avec un vélo électrique, grosses sacoches et remorque, environ 50 kg de charge. Le camping sert des repas de fortune et on mange ensemble.
+
+![](IMG_20210612_100650_resize_87.jpg)
+![](IMG_20210612_123501_resize_26.jpg)
+![](IMG_20210612_141205_resize_50.jpg)
+______
 
