@@ -145,4 +145,13 @@ Temps tout gris le matin. Sur les quatre cyclistes au camping, je pars le dernie
 ![](IMG_20210612_123501_resize_26.jpg)
 ![](IMG_20210612_141205_resize_50.jpg)
 ______
+[2021/06/13]
+
+### J13 - 13 juin - Avignonet-Lauragais,Rennes-les-Bains (Aude) - 102 km (1034 km)
+
+J'abandonne le canal du Midi en quittant Avignonet direction Perpignan. C'est l'option avec dénivelé mais je connais déjà le canal et il va devenir difficile à partir de Castelnaudary. Du coup, paysages plus escarpés et 900 mètres de dénivelé. Rennes-les-Bains oblige, je termine la journée dans la piscine.
+
+![](IMG_20210613_154729_resize_78.jpg)
+![](IMG_20210613_163504_resize_59.jpg)
+______
 
