@@ -158,11 +158,12 @@ ______
 
 ### J14 - 14 juin - Rennes-les-Bains,Villeneuve-de-la-Raho (Pyrénnées-Orientales) - 88 km (1122 km)
 
-Une heure et demi de montée à 4% dès le départ du camping. Ça fait quand même un col ! et le paysage est pas mal. La surprise vient un peu après avec les gorges de Galamus et là, c'est vraiment spectaculaire. Ensuite, ma route essaye de me faire éviter au maximum la départementale en me baladant dans les vignes. Traversée de Perpignan sans problème et plouf de fin de journée dans le lac à côté du camping.
+Une heure et demi de montée à 4% dès le départ du camping. Ça fait quand même un col ! et le paysage est pas mal. La surprise vient un peu après avec les gorges de Galamus et là, c'est vraiment spectaculaire. Ensuite, ma route essaye de me faire éviter au maximum la départementale en me baladant dans les vignes. Pas mal de vent mais heureusement favorable. Traversée de Perpignan sans problème et plouf de fin de journée dans le lac à côté du camping.
 
 ![](IMG_20210614_100929_resize_8.jpg)
 ![](IMG_20210614_103335_resize_46.jpg)
 ![](IMG_20210614_112135_resize_30.jpg)
 ![](IMG_20210614_112613_resize_87.jpg)
 ![](IMG_20210614_113204_resize_80.jpg)
+
 ______
