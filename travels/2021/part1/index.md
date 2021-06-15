@@ -165,5 +165,15 @@ Une heure et demi de montée à 4% dès le départ du camping. Ça fait quand m�
 ![](IMG_20210614_112135_resize_30.jpg)
 ![](IMG_20210614_112613_resize_87.jpg)
 ![](IMG_20210614_113204_resize_80.jpg)
+______
+[2021/06/15]
+
+### J15 - 15 juin - Villeneuve-de-la-Raho,Saus (Gérone) - 82 km (1204 km)
+
+Je ne m'étais pas méfié en voyant l'altitude du col du Perthus (283 mètres), mais ça monte bien et avec la chaleur, j'étais content d'arriver au sommet (et d'arriver en Espagne). Ensuite une vingtaine de kilomètres sur de la grosse route, mais avec une bande latérale large, donc ça allait (à part le vent devenu défavorable). Plus sympa ensuite sur des routes moyennes même si Google me perd dans les bois à la recherche d'un camping fermé. Finalement, j'achète quatre litres d'eau dans une station et je me trouve une place en bordure de champ pour bivouaquer.
+
+![](IMG_20210615_121757_resize_10.jpg)
+![](IMG_20210615_173141_resize_71.jpg)
+![](IMG_20210615_201623_resize_43.jpg)
 
 ______
