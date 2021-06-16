@@ -175,5 +175,16 @@ Je ne m'étais pas méfié en voyant l'altitude du col du Perthus (283 mètres),
 ![](IMG_20210615_121757_resize_10.jpg)
 ![](IMG_20210615_173141_resize_71.jpg)
 ![](IMG_20210615_201623_resize_43.jpg)
+______
+[2021/06/16]
+
+### J16 - 16 juin - Saus,Sant Celoni (Barcelone) - 86 km (1290 km)
+
+L'application que j'utilise jusqu'à maintenant me propose un itinéraire à base de chemins (qui peuvent dégénérer en chemins à tracteur) et à base de grosses routes. Pas si mal les grosses routes quand il y a une bande latérale assez large : simple, en bon état et dénivelé minimum. Evidemment, il faut sacrifier le pittoresque.
+
+![](IMG_20210616_104056_resize_63.jpg)
+![](IMG_20210616_111559_resize_53.jpg)
+![](IMG_20210616_112130_resize_62.jpg)
+![](IMG_20210616_120730_resize_91.jpg)
 
 ______
