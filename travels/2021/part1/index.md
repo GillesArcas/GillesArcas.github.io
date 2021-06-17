@@ -186,5 +186,16 @@ L'application que j'utilise jusqu'à maintenant me propose un itinéraire à bas
 ![](IMG_20210616_111559_resize_53.jpg)
 ![](IMG_20210616_112130_resize_62.jpg)
 ![](IMG_20210616_120730_resize_91.jpg)
+______
+[2021/06/17]
+
+### J17 - 17 juin - Sant Celoni,Castelldefels (Barcelone) - 92 km (1382 km)
+
+Petite pluie et quelques grosses routes pour arriver à Barcelone. Puis direction Castelldefels où je retrouve mon cousin Rafa qui va m'héberger quelques jours chez lui. Chez lui, c'est-à-dire sur son bateau ! 
+
+![](IMG_20210617_125442_resize_90.jpg)
+![](IMG_20210617_131421_resize_99.jpg)
+![](IMG_20210617_133820_resize_93.jpg)
+![](IMG_20210617_181815_resize_2.jpg)
 
 ______
