@@ -197,5 +197,13 @@ Petite pluie et quelques grosses routes pour arriver à Barcelone. Puis directio
 ![](IMG_20210617_131421_resize_99.jpg)
 ![](IMG_20210617_133820_resize_93.jpg)
 ![](IMG_20210617_181815_resize_2.jpg)
+______
+[2021/06/18]
 
+### J18 - 18 juin - Castelldefels
+
+Jour de repos. Rencontres avec Merchita, Eva, Irene, Pol. Courses diverses avec Rafa á moto ou en voiture, et ballade á Sitges oú on visite le musee du Cau Ferrat, très joli.
+
+![](IMG_20210618_132248_resize_32.jpg)
+![](IMG_20210618_124611_crop_61.jpg)
 ______
