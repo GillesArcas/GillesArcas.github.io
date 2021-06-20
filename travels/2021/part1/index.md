@@ -202,8 +202,24 @@ ______
 
 ### J18 - 18 juin - Castelldefels
 
-Jour de repos. Rencontres avec Merchita, Eva, Irene, Pol. Courses diverses avec Rafa á moto ou en voiture, et ballade á Sitges oú on visite le musee du Cau Ferrat, très joli.
+Jour de repos. Rencontres avec Merchita, Eva, Irene, Pol. Courses diverses avec Rafa à moto ou en voiture, et ballade à Sitges où on visite le musée du Cau Ferrat, très joli.
 
 ![](IMG_20210618_132248_resize_32.jpg)
 ![](IMG_20210618_124611_crop_61.jpg)
+______
+[2021/06/18]
+
+Le trajet jusque ici (et la carte en https://gilles-arcas.travelmap.net/tour-2021 et le journal en https://gillesarcas.github.io/travels/2021/part1/).
+
+![](IMG-trajet-20210618.jpg)
+______
+[2021/06/19]
+
+### J19 - 19 juin - Castelldefels
+
+Le soir de mon arrivée, nous sommes montés en moto au col de Rat Penat qui surplombe le port. En fait, c'est une montée bien connue des cyclistes en Catalogne. Rafa la fait au moins deux fois par semaine et évidemment, tout ça donne envie de la refaire à vélo. De 0 à presque 600 mètres en 6 kilomètres, ça pique un peu (i. e. j'ai jamais transpiré autant à vélo) mais ça passe.
+
+![](IMG-RatPenat.jpg)
+![](IMG_20210619_102731_resize_58.jpg)
+
 ______
