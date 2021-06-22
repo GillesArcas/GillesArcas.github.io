@@ -191,7 +191,7 @@ ______
 
 ### J17 - 17 juin - Sant Celoni,Castelldefels (Barcelone) - 92 km (1382 km)
 
-Petite pluie et quelques grosses routes pour arriver à Barcelone. Puis direction Castelldefels où je retrouve mon cousin Rafa qui va m'héberger quelques jours chez lui. Chez lui, c'est-à-dire sur son bateau ! 
+Petite pluie et quelques grosses routes pour arriver à Barcelone. Puis direction Castelldefels où je retrouve mon cousin Rafa qui va m'héberger quelques jours chez lui. Chez lui, c'est-à-dire sur son bateau !
 
 ![](IMG_20210617_125442_resize_90.jpg)
 ![](IMG_20210617_131421_resize_99.jpg)
@@ -217,9 +217,19 @@ ______
 
 ### J19 - 19 juin - Castelldefels
 
-Le soir de mon arrivée, nous sommes montés en moto au col de Rat Penat qui surplombe le port. En fait, c'est une montée bien connue des cyclistes en Catalogne. Rafa la fait au moins deux fois par semaine et évidemment, tout ça donne envie de la refaire à vélo. De 0 à presque 600 mètres en 6 kilomètres, ça pique un peu (i. e. j'ai jamais transpiré autant à vélo) mais ça passe.
+Le soir de mon arrivée, nous sommes montés en moto au col de Rat Penat qui surplombe le port. En fait, c'est une montée bien connue des cyclistes en Catalogne. Rafa la fait au moins deux fois par semaine et évidemment, tout ça donne envie de la refaire à vélo pour voir ce que ça donne. De 0 à presque 600 mètres en 6 kilomètres, ça pique un peu (i. e. j'ai jamais transpiré autant à vélo) mais ça passe.
 
 ![](IMG-RatPenat.jpg)
 ![](IMG_20210619_102731_resize_58.jpg)
+______
+[2021/06/22]
+
+### J22 - 22 juin - Castelldefels,Villa-seca (Tarragona), 88 km (1470 km)
+
+Bon c'est pas le tout, il y a un moment, faut s'y remettre. Départ avec Rafa jusqu'à Sitges pour 13 km de virages le long de la mer. Ensuite, c'est beaucoup plus urbanisé mais je profite quand même de quelques passages sur les bords de mer. Ma carte indique que je suis des bouts d'Eurovélo 8 mais il n'y a aucune signalisation.
+
+![](IMG_20210622_102136_resize_83.jpg)
+![](IMG-20210622-WA0006_resize_95.jpg)
+![](IMG_20210622_130838_resize_63.jpg)
 
 ______
