@@ -236,7 +236,7 @@ ______
 
 ### J23 - 23 juin - Vila-seca,Deltebre (Tarragona), 77 km (1547 km)
 
-Deux heures de pluie ce matin. Une seule chose à faire, regonfler le matelas et se remettre dans le duvet. Donc départ tardif. Ensuite, mélange de grosses routes et de dérivations diverses pour les éviter. La mer n'est pas très loin mais je ne la vois que de temps en temps. Quelques problèmes avec l'itinéraire (tracé avec le site BRouter) aujourd'hui. D'abord, ca me propose de longer une petite voie ferrée mais il n'y a aucun chemin. Ensuite, ca passe le long d'une plage mais dans le sable, je préfère contourner. Finalement, je me retrouve dans une impasse face à un chemin de randonnée bien cabossé mais qui évite en fait un gros détour. Après une reconnaissance à pied, j'enlève tout ce qu'il y a sur le vélo et je passe la partie difficile.
+Deux heures de pluie ce matin. Une seule chose à faire, regonfler le matelas et se remettre dans le duvet. Donc départ tardif. Ensuite, mélange de grosses routes et de dérivations diverses pour les éviter. La mer n'est pas très loin mais je ne la vois que de temps en temps. Quelques problèmes avec l'itinéraire (tracé avec le site BRouter) aujourd'hui. D'abord, ça me propose de longer une petite voie ferrée mais il n'y a aucun chemin. Ensuite, ça passe le long d'une plage mais dans le sable, je préfère contourner. Finalement, je me retrouve dans une impasse face à un chemin de randonnée bien cabossé mais qui évite en fait un gros détour. Après une reconnaissance à pied, j'enlève tout ce qu'il y a sur le vélo et je passe la partie difficile.
 
 ![](IMG_20210623_112256_resize_91.jpg)
 ![](IMG_20210623_172924_resize_79.jpg)
