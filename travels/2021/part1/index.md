@@ -241,5 +241,16 @@ Deux heures de pluie ce matin. Une seule chose à faire, regonfler le matelas et
 ![](IMG_20210623_112256_resize_91.jpg)
 ![](IMG_20210623_172924_resize_79.jpg)
 ![](IMG_20210623_174013_resize_10.jpg)
+______
+[2021/06/24]
+
+### J24 - 24 juin - Deltebre, 56 km (1603 km)
+
+Une journée pour visiter le delta de l'Èbre. En fait, j'ai seulement le temps de faire le tour des deux lagunes de la partie sud. Des rizières, les deux lagunes, des petites routes et des chemins, beaucoup d'oiseaux et des flamands, et absolument plat. Une belle journée.
+
+![](IMG_20210624_125001_resize_47.jpg)
+![](IMG_20210624_133021_resize_91.jpg)
+![](IMG_20210624_135848_resize_16.jpg)
+![](IMG_20210624_175748_resize_48.jpg)
 
 ______
