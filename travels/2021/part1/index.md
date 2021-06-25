@@ -224,7 +224,7 @@ Le soir de mon arrivée, nous sommes montés en moto au col de Rat Penat qui sur
 ______
 [2021/06/22]
 
-### J22 - 22 juin - Castelldefels,Vila-seca (Tarragona), 88 km (1470 km)
+### J22 - 22 juin - Castelldefels,Vila-seca (Tarragona) - 88 km (1470 km)
 
 Bon c'est pas le tout, il y a un moment, faut s'y remettre. Départ avec Rafa jusqu'à Sitges pour 13 km de virages le long de la mer. Ensuite, c'est beaucoup plus urbanisé mais je profite quand même de quelques passages sur les bords de mer. Ma carte indique que je suis des bouts d'Eurovélo 8 mais il n'y a aucune signalisation.
 
@@ -234,7 +234,7 @@ Bon c'est pas le tout, il y a un moment, faut s'y remettre. Départ avec Rafa ju
 ______
 [2021/06/23]
 
-### J23 - 23 juin - Vila-seca,Deltebre (Tarragona), 77 km (1547 km)
+### J23 - 23 juin - Vila-seca,Deltebre (Tarragona) - 77 km (1547 km)
 
 Deux heures de pluie ce matin. Une seule chose à faire, regonfler le matelas et se remettre dans le duvet. Donc départ tardif. Ensuite, mélange de grosses routes et de dérivations diverses pour les éviter. La mer n'est pas très loin mais je ne la vois que de temps en temps. Quelques problèmes avec l'itinéraire (tracé avec le site BRouter) aujourd'hui. D'abord, ça me propose de longer une petite voie ferrée mais il n'y a aucun chemin. Ensuite, ça passe le long d'une plage mais dans le sable, je préfère contourner. Finalement, je me retrouve dans une impasse face à un chemin de randonnée bien cabossé mais qui évite en fait un gros détour. Après une reconnaissance à pied, j'enlève tout ce qu'il y a sur le vélo et je passe la partie difficile.
 
@@ -252,5 +252,22 @@ Une journée pour visiter le delta de l'Èbre. En fait, j'ai seulement le temps 
 ![](IMG_20210624_133021_resize_91.jpg)
 ![](IMG_20210624_135848_resize_16.jpg)
 ![](IMG_20210624_175748_resize_48.jpg)
+______
+[2021/06/25]
+
+### J25 - 25 juin - Deltebre,Arnes (Tarragona) - 82 km (1685 km)
+
+Une vingtaine de kilomètres tout plat jusqu'à Tortosa pour sortir du delta. Là, je me retrouve sur une très belle voie verte, une ancienne voie ferrée. D'abord, elle suit l'Èbre, puis elle commence à monter, doucement mais surement, dans les collines. Des très beaux paysages, des gorges, des à pics, des viaducs et des tunnels. Et à chaque sortie de tunnels, une nouvelle gorge ou un nouveau point de vue. Vraiment très joli.
+
+![](1624648256560_resize_11.jpg)
+![](1624648242654_resize_22.jpg)
+![](1624648183516_resize_97.jpg)
+![](1624648166898_resize_43.jpg)
+______
+[2021/06/25]
+
+Le plan de la voie verte.
+
+![](1624648290491_resize_43.jpg)
 
 ______
