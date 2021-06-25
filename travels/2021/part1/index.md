@@ -257,7 +257,7 @@ ______
 
 ### J25 - 25 juin - Deltebre,Arnes (Tarragona) - 82 km (1685 km)
 
-Une vingtaine de kilomètres tout plat jusqu'à Tortosa pour sortir du delta. Là, je me retrouve sur une très belle voie verte, une ancienne voie ferrée. D'abord, elle suit l'Èbre, puis elle commence à monter, doucement mais surement, dans les collines. Des très beaux paysages, des gorges, des à pics, des viaducs et des tunnels. Et à chaque sortie de tunnels, une nouvelle gorge ou un nouveau point de vue. Vraiment très joli.
+Une vingtaine de kilomètres tout plat jusqu'à Tortosa pour sortir du delta. Là, je me retrouve sur une très belle voie verte, une ancienne voie ferrée. D'abord, elle suit l'Èbre, puis elle commence à monter, doucement mais surement, dans les collines. Des très beaux paysages, des gorges, des à pics, des viaducs et des tunnel. Et à chaque sortie de tunnels, une nouvelle gorge ou un nouveau point de vue. Vraiment très joli.
 
 ![](1624648256560_resize_11.jpg)
 ![](1624648242654_resize_22.jpg)
