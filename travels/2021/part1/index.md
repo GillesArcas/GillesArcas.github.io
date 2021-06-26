@@ -269,5 +269,16 @@ ______
 Le plan de la voie verte.
 
 ![](1624648290491_resize_43.jpg)
+______
+[2021/06/26]
+
+### J26 - 26 juin - Arnes - 45 km (1730 km)
+
+Une autre journée pour visiter par ici (Beceite et le parc naturel dels Ports) sous les conseils de Rafa et Merche. En fait, je ne pense pas avoir visité les endroits les plus jolis. On m'envoie vers des coins jolis mais transformés en baignade, et comme c'est samedi, il y a du monde. Malgré ca, bonne balade dans les collines par des chemins bien caillouteux. Dénivelé plus cailloux, je n'aurais pas pu faire beaucoup plus. Et retour par la route sous un début de pluie d'orage.
+
+![](1624729029097_resize_72.jpg)
+![](1624729061833_resize_13.jpg)
+![](1624729079091_resize_55.jpg)
+![](1624729095673_resize_45.jpg)
 
 ______
