@@ -274,11 +274,28 @@ ______
 
 ### J26 - 26 juin - Arnes - 45 km (1730 km)
 
-Une autre journée pour visiter par ici (Beceite et le parc naturel dels Ports) sous les conseils de Rafa et Merche. En fait, je ne pense pas avoir visité les endroits les plus jolis. On m'envoie vers des coins jolis mais transformés en baignade, et comme c'est samedi, il y a du monde. Malgré ca, bonne balade dans les collines par des chemins bien caillouteux. Dénivelé plus cailloux, je n'aurais pas pu faire beaucoup plus. Et retour par la route sous un début de pluie d'orage.
+Une autre journée pour visiter par ici sous les conseils de Rafa et Merche. En fait, je ne pense pas avoir visité les endroits les plus jolis. On m'envoie vers des coins jolis mais transformés en baignade, et comme c'est samedi, il y a du monde. Malgré ça, bonne balade dans les collines par des chemins bien caillouteux. Dénivelé plus cailloux, je n'aurais pas pu faire beaucoup plus. Et retour par la route sous un début de pluie d'orage.
 
 ![](1624729029097_resize_72.jpg)
 ![](1624729061833_resize_13.jpg)
 ![](1624729079091_resize_55.jpg)
 ![](1624729095673_resize_45.jpg)
+______
+[2021/06/27]
 
+### J27 - 27 juin - La Puebla de Híjar (Teruel) - 89 km (1819 km)
+
+Après quelques kilomètres, je retrouve la voie verte. Autant ça montait doucement avant hier, autant ça descend doucement aujourd'hui et il y a des grandes sections où je ne pédale pas, très agréable. Après Alcañiz, la voie verte est toujours là mais elle a dû changé de statut. Son revêtement est beaucoup moins confortable et j'ai droit à toutes les variantes de gravillon, gravier et cailloux. Mais le vent est favorable et ça descend encore souvent alors tout va bien. Fin de la voie verte ici.
+
+![](1624820840018_resize_69.jpg)
+![](1624820801214_resize_85.jpg)
+![](1624820756559_resize_23.jpg)
+![](1624820737584_resize_27.jpg)
+______
+[2021/06/27]
+
+Arrivé au village, je vais au seul bar ouvert pour demander si il y a possibilité de logement quelque part. La dame du bar est cap-verdienne, parle un peu français et a une sœur à Paris. On papote, elle appelle sa sœur et me laisse faire la causette avec elle, et essaye de téléphoner au propriétaire de ce qui doit être une pension en face du bar. Réponse négative au bout d'un bon moment (elle doit servir, rappeler). Après une deuxième tentative, elle remplit mes bouteilles d'eau et je fais un bout de chemin pour trouver un endroit pour bivouaquer.
+
+![](1624823346692_resize_8.jpg)
+![](1624823056132_resize_13.jpg)
 ______
