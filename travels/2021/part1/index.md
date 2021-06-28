@@ -299,3 +299,14 @@ Arrivé au village, je vais au seul bar ouvert pour demander si il y a possibili
 ![](1624823346692_resize_8.jpg)
 ![](1624823056132_resize_13.jpg)
 ______
+[2021/06/28]
+
+### J28 - 28 juin - La Puebla de Híjar,Luesma (Zaragoza) - 73 km (1892 km)
+
+Trente premiers kilomètres sur du chemin rural ou des routes sans revêtement. Paysage tout plat mais vent contraire, pas facile. Après c'est de la route tranquille. Ça monte de 300 à 900 mètres d'altitude en pente douce, sans trop d'effort à part le vent, je vais dans le même sens que les éoliennes.
+
+![](1624904339034_resize_60.jpg)
+![](1624904349301_resize_98.jpg)
+![](1624904269744_resize_16.jpg)
+
+______
