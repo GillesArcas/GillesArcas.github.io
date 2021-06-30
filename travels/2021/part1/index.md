@@ -313,10 +313,18 @@ ______
 
 ### J29 - 29 juin - Luesma,Calatayud (Zaragoza) - 66 km (1958 km)
 
-Encore 150 mètres d'altitude en plus en démarrant. Ensuite, ca redescend de 600 mètres, mais entre le vent et les petites routes cabossées, ça n'est pas la descente tranquille que j'avais imaginée. Cela dit, toujours des beaux paysages, pas trop chaud et pas embêté par la foule.
+Encore 150 mètres d'altitude en plus en démarrant. Ensuite, ça redescend de 600 mètres, mais entre le vent et les petites routes cabossées, ça n'est pas la descente tranquille que j'avais imaginée. Cela dit, toujours des beaux paysages, pas trop chaud et pas embêté par la foule.
 
 ![](1625043484380_resize_93.jpg)
 ![](1625043466152_resize_35.jpg)
 ![](1625043430532_resize_5.jpg)
+______
+[2021/06/30]
 
+### J30 - 30 juin - Calatayud
+
+Journée de repos, pas touché au vélo. Visité un peu la ville, petite, mais pleine de choses arabo-judéo-mudéjares (les clochers en forme de minarets). Et plein de cigognes sur les hauteurs au-dessus de la ville.
+
+![](1625087080121_resize_46.jpg)
+![](1625087063572_resize_5.jpg)
 ______
