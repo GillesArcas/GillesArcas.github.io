@@ -323,8 +323,9 @@ ______
 
 ### J30 - 30 juin - Calatayud
 
-Journée de repos, pas touché au vélo. Visité un peu la ville, petite, mais pleine de choses arabo-judéo-mudéjares (les clochers en forme de minarets). Et plein de cigognes sur les hauteurs au-dessus de la ville.
+Journée de repos, pas touché au vélo. Visité un peu la ville, petite mais pleine de choses arabo-judéo-mudéjares (les clochers en forme de minarets). Et plein de cigognes sur les hauteurs au-dessus de la ville.
 
 ![](1625087080121_resize_46.jpg)
 ![](1625087063572_resize_5.jpg)
+
 ______
