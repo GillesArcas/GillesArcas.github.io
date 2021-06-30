@@ -303,10 +303,20 @@ ______
 
 ### J28 - 28 juin - La Puebla de Híjar,Luesma (Zaragoza) - 73 km (1892 km)
 
-Trente premiers kilomètres sur du chemin rural ou des routes sans revêtement. Paysage tout plat mais vent contraire, pas facile. Après c'est de la route tranquille. Ça monte de 300 à 900 mètres d'altitude en pente douce, sans trop d'effort à part le vent, je vais dans le même sens que les éoliennes.
+Trente premiers kilomètres sur du chemin rural ou des routes sans revêtement. Paysage tout plat, mais cailloux plus vent contraire, pas facile. Après, c'est de la route tranquille. Ça monte de 300 à 900 mètres d'altitude en pente douce, sans trop d'effort à part le vent (je vais dans le même sens que les éoliennes).
 
 ![](1624904339034_resize_60.jpg)
 ![](1624904349301_resize_98.jpg)
 ![](1624904269744_resize_16.jpg)
+______
+[2021/06/29]
+
+### J29 - 29 juin - Luesma,Calatayud (Zaragoza) - 66 km (1958 km)
+
+Encore 150 mètres d'altitude en plus en démarrant. Ensuite, ca redescend de 600 mètres, mais entre le vent et les petites routes cabossées, ça n'est pas la descente tranquille que j'avais imaginée. Cela dit, toujours des beaux paysages, pas trop chaud et pas embêté par la foule.
+
+![](1625043484380_resize_93.jpg)
+![](1625043466152_resize_35.jpg)
+![](1625043430532_resize_5.jpg)
 
 ______
