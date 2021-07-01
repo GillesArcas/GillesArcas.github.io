@@ -327,5 +327,15 @@ Journée de repos, pas touché au vélo. Visité un peu la ville, petite mais pl
 
 ![](1625087080121_resize_46.jpg)
 ![](1625087063572_resize_5.jpg)
+______
+[2021/07/01]
 
+### J31 - 1er juillet - Calatayud,Arcos de Jalón (Soria) - 79 km (2037 km)
+
+Trente kilomètres de chemins déserts  aujourd'hui. Dénivelé plus chemin plus vent contraire, heureusement il ne fait pas trop chaud (31° à la pause). Mention spéciale pour l'endroit où le chemin est inondé. En fait, il y a un passage praticable sur le coté, mais je ne l'ai vu qu'après avoir essayé de passer tout droit en déchargeant le vélo et en me retrouvant bloquer avec de l'eau au dessus des genoux.
+
+![](1625166833260_resize_80.jpg)
+![](1625166801254_resize_49.jpg)
+![](1625166791523_resize_62.jpg)
+![](1625166685649_resize_50.jpg)
 ______
