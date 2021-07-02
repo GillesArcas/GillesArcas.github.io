@@ -332,10 +332,21 @@ ______
 
 ### J31 - 1er juillet - Calatayud,Arcos de Jalón (Soria) - 79 km (2037 km)
 
-Trente kilomètres de chemins déserts  aujourd'hui. Dénivelé plus chemin plus vent contraire, heureusement il ne fait pas trop chaud (31° à la pause). Mention spéciale pour l'endroit où le chemin est inondé. En fait, il y a un passage praticable sur le coté, mais je ne l'ai vu qu'après avoir essayé de passer tout droit en déchargeant le vélo et en me retrouvant bloquer avec de l'eau au dessus des genoux.
+Trente kilomètres de chemins déserts aujourd'hui. Dénivelé plus chemin plus vent contraire, heureusement il ne fait pas trop chaud (31° à la pause). Mention spéciale pour l'endroit où le chemin est inondé. En fait, il y a un passage praticable sur le coté, mais je ne l'ai vu qu'après avoir essayé de passer tout droit en déchargeant le vélo et en me retrouvant bloquer avec de l'eau au dessus des genoux.
 
 ![](1625166833260_resize_80.jpg)
 ![](1625166801254_resize_49.jpg)
 ![](1625166791523_resize_62.jpg)
 ![](1625166685649_resize_50.jpg)
+______
+[2021/07/02]
+
+### J32 - 2 juillet - Arcos de Jalón,Gajanejos (Guadalajara) - 81 km (2118 km)
+
+Presque pas de chemin aujourd'hui, nettement plus confortable malgré du dénivelé et le passage du plus haut point sur ma route à 1180 mètres. Le seul chemin, c'est quand je rate un embranchement. Je m'en aperçois au milieu d'une très longue côte. Plutôt que de redescendre, je préfère finir la côte et prendre un chemin qui rattrape ma route. Coup de chance de la journée, le chemin est facile et presque plat . Tout va bien !
+
+![](1625243937622_resize_68.jpg)
+![](1625243959179_resize_75.jpg)
+![](1625244318046_resize_24.jpg)
+
 ______
