@@ -343,10 +343,20 @@ ______
 
 ### J32 - 2 juillet - Arcos de Jalón,Gajanejos (Guadalajara) - 81 km (2118 km)
 
-Presque pas de chemin aujourd'hui, nettement plus confortable malgré du dénivelé et le passage du plus haut point sur ma route à 1180 mètres. Le seul chemin, c'est quand je rate un embranchement. Je m'en aperçois au milieu d'une très longue côte. Plutôt que de redescendre, je préfère finir la côte et prendre un chemin qui rattrape ma route. Coup de chance de la journée, le chemin est facile et presque plat . Tout va bien !
+Presque pas de chemin aujourd'hui, nettement plus confortable malgré du dénivelé et le passage du plus haut point sur ma route à 1180 mètres. Le seul chemin, c'est quand je rate un embranchement. Je m'en aperçois au milieu d'une très longue côte. Plutôt que de redescendre, je préfère finir la côte et prendre un chemin qui rattrape ma route. Coup de chance de la journée, le chemin est facile et presque plat. Tout va bien !
 
 ![](1625243937622_resize_68.jpg)
 ![](1625243959179_resize_75.jpg)
 ![](1625244318046_resize_24.jpg)
+______
+[2021/07/03]
+
+### J33 - 3 juillet - Gajanejos,Alcalá de Henares (Madrid) - 74 km (2192 km)
+
+Beaucoup plus plat aujourd'hui. Plus urbanisé aussi. J'arrive vite sur des routes plus importantes avec des portions sur la voie de service qui longe l'autoroute. Arrivé assez tôt, j'ai le choix entre la piscine et un musée Cervantes. Ça sera sieste !
+
+![](1625344362399_resize_71.jpg)
+![](1625344163854_resize_42.jpg)
+![](1625344146733_resize_69.jpg)
 
 ______
