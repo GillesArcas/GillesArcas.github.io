@@ -358,5 +358,14 @@ Beaucoup plus plat aujourd'hui. Plus urbanisé aussi. J'arrive vite sur des rout
 ![](1625344362399_resize_71.jpg)
 ![](1625344163854_resize_42.jpg)
 ![](1625344146733_resize_69.jpg)
+______
+[2021/07/04]
+
+### J34 - 4 juillet - Alcalá de Henares,Madrid - 48 km (2240 km)
+
+Balade dans le centre historique de Alcalá ce matin. L'idée était de visiter l'ancienne université mais c'est seulement en visite guidée et il faut attendre presque une heure. Ensuite, c'est la route pour Madrid avec beaucoup de grosses routes. Mention spéciale à la quatre voies avec pas mal de circulation, ambiance c'est moche mais ca roule tranquille sur la bande d'arrêt. Et là, arrive un pont, ça se rétrécit et plus de bande d'arrêt. Finalement, arrivée chez Joaquin (mon cousin) qui est à Grenade pour le mariage de sa nièce mais a laissé une clé à un voisin.
+
+![](1625430749588_resize_19.jpg)
+![](1625430637466_crop_21.jpg)
 
 ______
