@@ -363,9 +363,14 @@ ______
 
 ### J34 - 4 juillet - Alcalá de Henares,Madrid - 48 km (2240 km)
 
-Balade dans le centre historique de Alcalá ce matin. L'idée était de visiter l'ancienne université mais c'est seulement en visite guidée et il faut attendre presque une heure. Ensuite, c'est la route pour Madrid avec beaucoup de grosses routes. Mention spéciale à la quatre voies avec pas mal de circulation, ambiance c'est moche mais ca roule tranquille sur la bande d'arrêt. Et là, arrive un pont, ça se rétrécit et plus de bande d'arrêt. Finalement, arrivée chez Joaquin (mon cousin) qui est à Grenade pour le mariage de sa nièce mais a laissé une clé à un voisin.
+Balade dans le centre historique de Alcalá ce matin. L'idée était de visiter l'ancienne université mais c'est seulement en visite guidée et il faut attendre presque une heure. Ensuite, c'est la route pour Madrid avec beaucoup de grosses routes. Mention spéciale à la quatre voies avec pas mal de circulation, ambiance c'est moche mais ça roule tranquille sur la bande d'arrêt. Et là, arrive un pont, ça se rétrécit et plus de bande d'arrêt. Finalement, arrivée chez Joaquin (mon cousin) qui est à Grenade pour le mariage de sa nièce mais a laissé une clé à un voisin.
 
 ![](1625430749588_resize_19.jpg)
 ![](1625430637466_crop_21.jpg)
+______
+[2021/07/05]
 
+Le trajet jusque ici. La carte https://gilles-arcas.travelmap.net/tour-2021 et le journal https://gillesarcas.github.io/travels/2021/part1/ sont tenus à jour.
+
+![](IMG-trajet-20210705.jpg)
 ______
