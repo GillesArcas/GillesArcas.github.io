@@ -374,3 +374,13 @@ Le trajet jusque ici. La carte https://gilles-arcas.travelmap.net/tour-2021 et l
 
 ![](IMG-trajet-20210705.jpg)
 ______
+[2021/07/08]
+
+### J38 - 8 juillet - Madrid,Villatobas (Toledo) - 91 km (2331 km)
+
+Sortie de Madrid sans problèmes. Au bout d'une heure, je suis dans les champs. Option route pour l'instant, sans mauvaises surprises. Généralement plat, pas beaucoup d'arbres, pas beaucoup d'ombre. Bivouac au fond du champ d'oliviers derrière le cimetière.
+
+![](1625766955668_resize_84.jpg)
+![](1625766969458_resize_88.jpg)
+
+______
