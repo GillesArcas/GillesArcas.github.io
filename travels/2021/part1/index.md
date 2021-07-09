@@ -382,5 +382,14 @@ Sortie de Madrid sans problèmes. Au bout d'une heure, je suis dans les champs. 
 
 ![](1625766955668_resize_84.jpg)
 ![](1625766969458_resize_88.jpg)
+______
+[2021/07/09]
+
+### J39 - 9 juillet - Villatobas,Llanos del Caudillo (Ciudad Real) - 92 km (2423 km)
+
+À peu près le même scénario qu'hier. De la route avec peu de dénivelé et des champs sans interruption. Par contre, le vent est moins sympa et la chaleur a augmenté (35 en fin de journée).
+
+![](1625849617180_resize_67.jpg)
+![](1625849632188_resize_71.jpg)
 
 ______
