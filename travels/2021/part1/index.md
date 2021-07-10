@@ -396,7 +396,7 @@ ______
 
 ### J40 - 10 juillet - Llanos del Caudillo,Torre de Juan Abad (Ciudad Real) - 91 km (2514 km)
 
-Chaud aujourd'hui, 38 enfin après-midi. Départ à 6h, avant le lever du soleil, et arrivée vers 13h30. Paysage un peu plus animé, cultures un peu moins denses et vent un peu plus favorable.
+Chaud aujourd'hui, 38 en fin après-midi. Départ à 6h, avant le lever du soleil, et arrivée vers 13h30. Paysage un peu plus animé, cultures un peu moins denses et vent un peu plus favorable.
 
 ![](1625941756484_resize_51.jpg)
 ![](1625941738372_resize_25.jpg)
