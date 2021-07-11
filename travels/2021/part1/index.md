@@ -401,5 +401,14 @@ Chaud aujourd'hui, 38 en fin après-midi. Départ à 6h, avant le lever du solei
 ![](1625941756484_resize_51.jpg)
 ![](1625941738372_resize_25.jpg)
 ![](1625941713868_resize_51.jpg)
+______
+[2021/07/11]
 
+### J41 - 11 juillet - Torre de Juan Abad,Úbeda (Jaén) - 97 km (2611 km)
+
+Un peu plus chaud qu'hier (43º prévu). Départ à 6h30. Le relief est devenu plus vallonné et il n'y a plus que des oliviers. C'est moins monotone mais il y a plus de dénivelé. Plus de 1200 mètres dont le clou de la journée, la montée pour arriver à Sabiote que j'ai vu arriver de très loin en me disant "oops, c'est par là que ça passe" (en fait, j'étais prévenu, je regarde les courbes de dénivelé). Quatre cent mètres sur 10 kilomètres en fin de trajet.
+
+![](1626036452767_resize_78.jpg)
+![](1626036413906_resize_44.jpg)
+![](1626036380912_resize_48.jpg)
 ______
