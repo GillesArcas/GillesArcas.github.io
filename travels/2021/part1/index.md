@@ -406,9 +406,20 @@ ______
 
 ### J41 - 11 juillet - Torre de Juan Abad,Úbeda (Jaén) - 97 km (2611 km)
 
-Un peu plus chaud qu'hier (43º prévu). Départ à 6h30. Le relief est devenu plus vallonné et il n'y a plus que des oliviers. C'est moins monotone mais il y a plus de dénivelé. Plus de 1200 mètres dont le clou de la journée, la montée pour arriver à Sabiote que j'ai vu arriver de très loin en me disant "oops, c'est par là que ça passe" (en fait, j'étais prévenu, je regarde les courbes de dénivelé). Quatre cent mètres sur 10 kilomètres en fin de trajet.
+Un peu plus chaud qu'hier (43º prévu). Départ à 6h30. Le relief est devenu plus vallonné et il n'y a plus que des oliviers. C'est moins monotone mais il y a plus de dénivelé. Plus de 1200 mètres aujourd’hui, dont le clou de la journée, la montée pour arriver à Sabiote que j'ai vu arriver de très loin en me disant "oops, c'est par là que ça passe" (en fait, j'étais prévenu, je regarde les courbes de dénivelé). Quatre cent mètres sur 10 kilomètres en fin de trajet.
 
 ![](1626036452767_resize_78.jpg)
 ![](1626036413906_resize_44.jpg)
 ![](1626036380912_resize_48.jpg)
+______
+[2021/07/12]
+
+### J42 - 12 juillet - Úbeda
+
+Úbeda est une ville historique avec plein de choses à voir, surtout Renaissance. Pour être efficace, j'opte pour une visite guidée. Comme c'est lundi, plusieurs agences sont fermées ou ne font pas de visites. Comme c'est l'été, on m'explique qu'il y a peu de monde et qu'il faut être au moins deux pour une visite. Finalement, pas de visite le matin, ni l'après-midi, et je fais un tour dans la ville proposé par un dépliant. L'occasion de voir les bâtiments principaux et de se balader dans les petites rues. La seule chose que j'aurais pu visiter, c'est la Sacra Capilla del Salvador, mais ça ferme à 14h à peu près quand je finis ma balade. La prochaine fois, j'essaierai d'être plus organisé !
+
+![](1626113399708_resize_38.jpg)
+![](1626113384353_resize_48.jpg)
+![](1626113346594_resize_33.jpg)
+
 ______
