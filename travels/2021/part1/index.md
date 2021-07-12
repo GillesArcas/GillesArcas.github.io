@@ -416,10 +416,9 @@ ______
 
 ### J42 - 12 juillet - Úbeda
 
-Úbeda est une ville historique avec plein de choses à voir, surtout Renaissance. Pour être efficace, j'opte pour une visite guidée. Comme c'est lundi, plusieurs agences sont fermées ou ne font pas de visites. Comme c'est l'été, on m'explique qu'il y a peu de monde et qu'il faut être au moins deux pour une visite. Finalement, pas de visite le matin, ni l'après-midi, et je fais un tour dans la ville proposé par un dépliant. L'occasion de voir les bâtiments principaux et de se balader dans les petites rues. La seule chose que j'aurais pu visiter, c'est la Sacra Capilla del Salvador, mais ça ferme à 14h à peu près quand je finis ma balade. La prochaine fois, j'essaierai d'être plus organisé !
+Úbeda est une ville historique avec plein de choses à voir, surtout Renaissance. Pour être efficace, j'opte pour une visite guidée. Comme c'est lundi, plusieurs agences sont fermées ou ne font pas de visites. Comme c'est l'été, on m'explique qu'il y a peu de monde et qu'il faut être au moins deux pour une visite. Finalement, pas de visite le matin, ni l'après-midi, et je fais un tour dans la ville proposé par un dépliant. L'occasion de voir les bâtiments principaux et de se balader dans les petites rues. La seule chose que j'aurais pu visiter, c'est la Sacra Capilla del Salvador, mais ça ferme à 14h à peu près quand je finis ma balade. On essaiera de faire mieux la prochaine fois.
 
 ![](1626113399708_resize_38.jpg)
 ![](1626113384353_resize_48.jpg)
 ![](1626113346594_resize_33.jpg)
-
 ______
