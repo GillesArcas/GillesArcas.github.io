@@ -431,5 +431,15 @@ Grande descente en sortie d'Úbeda sur un chemin dans les plantations d'oliviers
 ![](1626197983289_resize_59.jpg)
 ![](1626197967934_resize_68.jpg)
 ![](1626197949703_resize_97.jpg)
+______
+[2021/07/14]
+
+### J44 - 14 juillet - Úbeda,Grenade - 58 km (2739 km)
+
+Départ sur la nationale tranquille qui devient moins tranquille au bout d'un moment. Puis petite route et décision à prendre : suivre une route parallèle aux grands axes ou passer par les collines. Un peu saoulé par la nationale, je choisis les collines. Ça monte de 700 à 1100 mètres en 6 kilomètres et je passe les passages les plus raides en poussant le vélo. Pas de regret, les paysages sont superbes et l'entrée à Grenade se fait tranquillement. Arrivée chez Joaquin (le même cousin qu'à Madrid).
+
+![](1626285458574_resize_28.jpg)
+![](1626285443567_resize_46.jpg)
+![](1626285432134_resize_18.jpg)
 
 ______
