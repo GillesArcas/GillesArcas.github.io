@@ -434,11 +434,39 @@ Grande descente en sortie d'Úbeda sur un chemin dans les plantations d'oliviers
 ______
 [2021/07/14]
 
-### J44 - 14 juillet - Guadahortuna,Grenade - 58 km (2739 km)
+### J44 - 14 juillet - Úbeda,Grenade - 58 km (2739 km)
 
-Départ sur la nationale tranquille qui devient moins tranquille au bout d'un moment. Puis petite route et décision à prendre : suivre une route parallèle aux grands axes ou passer par les collines. Un peu saoulé par la nationale, je choisis les collines. Ça monte de 700 à 1100 mètres en 6 kilomètres et je passe les passages les plus raides en poussant le vélo. Pas de regret, très beau paysage et entrée à Grenade tranquille. Arrivée chez Joaquin (le même cousin qu'à Madrid).
+Départ sur la nationale tranquille qui devient moins tranquille au bout d'un moment. Puis petite route et décision à prendre : suivre une route parallèle aux grands axes ou passer par les collines. Un peu saoulé par la nationale, je choisis les collines. Ça monte de 700 à 1100 mètres en 6 kilomètres et je passe les passages les plus raides en poussant le vélo. Pas de regret, les paysages sont superbes et l'entrée à Grenade se fait tranquillement. Arrivée chez Joaquin (le même cousin qu'à Madrid).
 
 ![](1626285458574_resize_28.jpg)
 ![](1626285443567_resize_46.jpg)
 ![](1626285432134_resize_18.jpg)
+______
+[2021/07/15]
+______
+[2021/07/16]
+
+### 16 juillet - Grenade
+
+Balade de 40 kilomètres pour ne pas perdre la main (et les mollets) en direction de la Sierra Nevada. Grande boucle qui fait passer de 700 mètres à 1500 mètres d'altitude. En fait, plus ça monte, plus c'est joli.
+
+![](1626635315507_resize_29.jpg)
+![](1626635344442_resize_8.jpg)
+______
+[2021/07/17]
+______
+[2021/07/18]
+______
+[2021/07/18]
+
+### 14-18 juillet - Grenade
+
+Quatre jours pour voir la famille (que je n'ai pas vue depuis quelques décennies) et visiter Grenade avec mon guide particulier (Joaquin bien sur) qui connait tout sur le  bout des doigts.
+
+![](1626634036079_resize_42.jpg)
+![](1626634012161_resize_81.jpg)
+![](1626633964248_resize_59.jpg)
+![](1626633938931_resize_32.jpg)
+![](1626633925384_resize_26.jpg)
+![](1626633906425_resize_35.jpg)
 ______
