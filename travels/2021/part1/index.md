@@ -470,3 +470,13 @@ Quatre jours pour voir la famille (que je n'ai pas vue depuis quelques décennie
 ![](1626633925384_resize_26.jpg)
 ![](1626633906425_resize_35.jpg)
 ______
+[2021/07/19]
+
+### J49 - 19 juillet - Grenade,Alhama de Granada - 77 km (2855 km)
+
+Départ à 7h du matin. Sortie de Grenade facile mais un peu de circulation, ça doit être l'heure d'aller travailler. Après ça, routes tranquilles. Mille mètres de dénivelé quand même et bivouac dans les collines.
+
+![](1626716894373_resize_36.jpg)
+![](1626716861564_resize_73.jpg)
+
+______
