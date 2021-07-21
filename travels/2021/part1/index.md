@@ -478,5 +478,16 @@ Départ à 7h du matin. Sortie de Grenade facile mais un peu de circulation, ça
 
 ![](1626716894373_resize_36.jpg)
 ![](1626716861564_resize_73.jpg)
+______
+[2021/07/20]
+
+### J50 - 20 juillet - Alhama de Granada,Málaga - 67 km (2922 km)
+
+Après les collines, j'arrive très vite dans la plaine de Zafarraya, toute plate et remplie de cultures maraichères. On voit un passage dans les montagnes et on comprend vite que la route va passer par là. Par contre, je ne m'attendais pas à la grande descente spectaculaire juste après. Ensuite, les routes s'élargissent et deviennent moyennement sympas en approchant de Malaga. Arrivée chez mon primo Fernando en fin de matinée. Plage, sieste, ballade dans la ville et tapas pour bien finir la journée. 
+
+![](1626858513762_resize_58.jpg)
+![](1626858527078_resize_80.jpg)
+![](1626858539555_resize_54.jpg)
+![](1626858556079_resize_27.jpg)
 
 ______
