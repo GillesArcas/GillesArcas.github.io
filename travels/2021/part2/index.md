@@ -19,3 +19,13 @@ Départ dans les collines mais après Osuna (30 km après le départ), la route 
 ![](1627420077442_resize_87.jpg)
 ![](1627418075492_resize_35.jpg)
 ______
+[2021/07/28]
+### J58 - 28 juillet - Carmona,Séville - 41 km (3215 km)
+
+Petite étape qui me laisse un peu de temps pour visiter. Guère plus que la cathédrale. Evidemment sans mes guides habituels (Joaquin et Fernando), je perds beaucoup de choses. Moment embarrassant quand le préposé au tickets de la cathédrale me donne des explications auxquelles je ne comprends rien. En le faisant répéter, je réalise qu'il parle en anglais alors que je lui parle en espagnol. Mon accent doit avoir des faiblesses (mais le sien aussi !).
+
+![](1627501036180_resize_3.jpg)
+![](1627501057278_resize_30.jpg)
+![](1627501013529_resize_78.jpg)
+
+______
