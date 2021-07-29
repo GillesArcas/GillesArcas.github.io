@@ -27,5 +27,15 @@ Petite étape qui me laisse un peu de temps pour visiter. Guère plus que la cat
 ![](1627501036180_resize_3.jpg)
 ![](1627501057278_resize_30.jpg)
 ![](1627501013529_resize_78.jpg)
+______
+[2021/07/29]
+### J59 - 29 juillet - Séville,El Real de la Jara (Sevilla) - 87 km (3302 km)
+
+Sortie de Séville par les quais du Guadalquivir très agréable. Ensuite, traversée de la plaine par des routes moyennes. Et ensuite, on arrive dans les collines et c'est les montagnes russes tout le reste du chemin sur une route déserte. Principalement des plantations d'arbres (non identifiés) moins denses que les champs d'oliviers (il y a aussi quelques eucalyptus). Officiellement sur le chemin de Saint-Jacques alors je trouve une auberge pour dormir. Diner avec l'autre occupante de l'auberge, une Allemande qui parle très bien espagnol.
+
+![](1627593873584_resize_47.jpg)
+![](1627593858532_resize_6.jpg)
+![](1627593837142_resize_65.jpg)
+![](1627593819451_resize_40.jpg)
 
 ______
