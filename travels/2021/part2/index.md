@@ -37,5 +37,15 @@ Sortie de Séville par les quais du Guadalquivir très agréable. Ensuite, trave
 ![](1627593858532_resize_6.jpg)
 ![](1627593837142_resize_65.jpg)
 ![](1627593819451_resize_40.jpg)
+______
+[2021/07/30]
 
+### J60 - 30 juillet - El Real de la Jara,Zafra (Badajoz) - 68 km (3370 km)
+
+Beaucoup de chemin aujourd'hui. Normal, la route que je suis depuis hier, l'Eurovélo 1, suit la Via de la Plata (la route de l'argent) qui est un des chemins de Saint-Jacques. Au départ dans les collines et les plantations d'arbres, puis le paysage se transforme en plaines moins pittoresques. J'arrive un peu plus fatigué que d'habitude et je retrouve une auberge. Comme il n'y a personne (trop chaud, pas la bonne saison), il n'y a personne et c'est tranquille.
+
+![](1627669189550_resize_73.jpg)
+![](1627669415927_resize_25.jpg)
+![](1627669145086_resize_39.jpg)
+![](1627669425425_resize_93.jpg)
 ______
