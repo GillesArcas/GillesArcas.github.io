@@ -53,7 +53,8 @@ ______
 
 ### J61 - 31 juillet - Zafra,Mérida (Badajoz) - 69 km (3439 km)
 
-Aujourd'hui, chemins rectilignes dans un paysage plat. Ça doit être éprouvant pour ceux qui le font à pied. Avec ça, du vent frais toute la matinée. Je finis par sortir le coupe-vent pour l'enlever seulement vers 13h. Le bon côté des choses évidemment, c'est qu'il fait nettement moins chaud.![](1627761717338_resize_75.jpg)
-![](1627761700348_resize_38.jpg)
+Aujourd'hui, chemins rectilignes dans un paysage plat. Ça doit être éprouvant pour ceux qui le font à pied. Avec ça, du vent frais toute la matinée. Je finis par sortir le coupe-vent pour l'enlever seulement vers 13h. Le bon côté des choses évidemment, c'est qu'il fait nettement moins chaud.
 
+![](1627761717338_resize_75.jpg)
+![](1627761700348_resize_38.jpg)
 ______
