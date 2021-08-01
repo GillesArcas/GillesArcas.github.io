@@ -58,3 +58,15 @@ Aujourd'hui, chemins rectilignes dans un paysage plat. Ça doit être éprouvant
 ![](1627761717338_resize_75.jpg)
 ![](1627761700348_resize_38.jpg)
 ______
+[2021/08/01]
+
+### J62 - 1er aout - Mérida
+
+Jour de repos passé à visiter les monuments surtout romains. Mention spéciale pour le décor kitsch ajouté au théâtre romain (il y a un festival en ce moment).
+
+![](1627843757583_resize_38.jpg)
+![](1627843464870_resize_66.jpg)
+![](1627843452382_resize_11.jpg)
+![](1627843403843_resize_40.jpg)
+
+______
