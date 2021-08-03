@@ -68,5 +68,24 @@ Jour de repos passé à visiter les monuments surtout romains. Mention spéciale
 ![](1627843464870_resize_66.jpg)
 ![](1627843452382_resize_11.jpg)
 ![](1627843403843_resize_40.jpg)
-
 ______
+[2021/08/02]
+
+### J63 - 2 aout - Mérida,Trujillo (Cáceres) - 124 km (3563 km)
+
+Les 65 premiers kilomètres se font tout seul. Tout plat (c'est la plaine du Guadiana), vent favorable et même quelques petites routes tranquilles. Après, ça se gâte, la route est coupée. Alors retour en arrière et je commence à suivre la route proposée par Google. D'abord, de la route sans revêtement bien pourrie qui longe l'autoroute. Puis un chemin de terre qui s'enfonce dans les champs, mais là aussi, c'est coupé, ça arrive dans un pâturage plein de grosses bêtes. Retour le long de l'autoroute. Et enfin, il faut passer une grosse colline (avec une pente qui atteint 18%) pour atteindre Ibahernando, mon objectif initial. Vingt kilomètres de détour bien acrobatiques. Pour conclure, je fais le ravitaillement en eau et je cherche un coin pour dormir, mais rien à faire. Tout est clôturé des deux cotés de la route et j'arrive finalement à Trujillo où je trouve un hostal.
+
+![](1627975954539_resize_12.jpg)
+![](1627975927539_resize_67.jpg)
+![](1627975871352_resize_26.jpg)
+![](1627975855616_resize_88.jpg)
+
+_____
+[2021/08/02]
+
+Souvent, avec les routes barrées à vélo, on essaye de forcer un peu le passage. Mais là, rien à faire, ça passe pas.
+
+![](1627975885032_resize_15.jpg)
+![](1627975915835_resize_62.jpg)
+
+_____
