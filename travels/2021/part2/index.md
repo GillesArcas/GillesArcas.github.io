@@ -91,11 +91,22 @@ _____
 
 ### J64 - 3 août - Trujillo,Plasencia (Cáceres) - 80 km (3643 km)
 
-Itinéraire bien plus simple qu'hier. Une seule route tout du long, la route principale qui relie Trujillo à Plasencia. Peu de circulation et elle passe par Monfragüe, des gorges sur le Tage. Les paysages sont supers mais surtout c'est un repère de rapaces, dont des aigles et des vautours, et je passe un moment à les regarder. 
+Itinéraire bien plus simple qu'hier. Une seule route tout du long, la route principale qui relie Trujillo à Plasencia. Peu de circulation et elle passe par Monfragüe, des gorges sur le Tage. Les paysages sont supers mais surtout c'est un repère de rapaces, dont des aigles et des vautours, et je passe un moment à les regarder.
 
 ![](1628018750483_resize_30.jpg)
 ![](1628018723454_resize_70.jpg)
 ![](IMG_20210803_151038.jpg)
 [](VID_20210803_152041-small.mp4)
+_____
+[2021/08/04]
+
+### J65 - 4 août - Plasencia,Aldeanueva del Camino (Cáceres) - 60 km (3703 km)
+
+Belle étape. De retour sur le chemin (la route à vélo s'en éloigne souvent), j'ai rencontré plusieurs marcheurs. Une française en arrivant à l'arc de Cáparra (qui est le symbole du chemin en Extrémadure) et un belge à l'auberge. Les deux parlent de la longueur des étapes par ici. Il peut y avoir quinze kilomètres sans village et  trente sans hébergement. 
+
+![](1628107325188_resize_65.jpg)
+![](1628107342392_resize_88.jpg)
+![](1628107360773_resize_21.jpg)
+![](1628107378088_resize_55.jpg)
 
 _____
