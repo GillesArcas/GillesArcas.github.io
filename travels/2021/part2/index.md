@@ -102,7 +102,7 @@ _____
 
 ### J65 - 4 août - Plasencia,Aldeanueva del Camino (Cáceres) - 60 km (3703 km)
 
-Belle étape. De retour sur le chemin (la route à vélo s'en éloigne souvent), j'ai rencontré plusieurs marcheurs. Une française en arrivant à l'arc de Cáparra (qui est le symbole du chemin en Extrémadure) et un belge à l'auberge. Les deux parlent de la longueur des étapes par ici. Il peut y avoir quinze kilomètres sans village et  trente sans hébergement. 
+Belle étape. De retour sur le chemin (la route à vélo s'en éloigne souvent), j'ai rencontré des marcheurs. Une française en arrivant à l'arc de Cáparra (qui est le symbole du chemin en Extrémadure) et un belge à l'auberge. Les deux parlent de la longueur des étapes par ici. Il peut y avoir quinze kilomètres sans village et  trente sans hébergement. 
 
 ![](1628107325188_resize_65.jpg)
 ![](1628107342392_resize_88.jpg)
