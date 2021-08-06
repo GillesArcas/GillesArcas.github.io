@@ -102,11 +102,22 @@ _____
 
 ### J65 - 4 août - Plasencia,Aldeanueva del Camino (Cáceres) - 60 km (3703 km)
 
-Belle étape. De retour sur le chemin (la route à vélo s'en éloigne souvent), j'ai rencontré des marcheurs. Une française en arrivant à l'arc de Cáparra (qui est le symbole du chemin en Extrémadure) et un belge à l'auberge. Les deux parlent de la longueur des étapes par ici. Il peut y avoir quinze kilomètres sans village et  trente sans hébergement. 
+Belle étape. De retour sur le chemin (la route à vélo s'en éloigne souvent), j'ai rencontré des marcheurs. Une française en arrivant à l'arc de Cáparra (qui est le symbole du chemin en Estrémadure) et un belge à l'auberge. Les deux parlent de la longueur des étapes par ici. Il peut y avoir quinze kilomètres sans village et  trente sans hébergement.
 
 ![](1628107325188_resize_65.jpg)
 ![](1628107342392_resize_88.jpg)
 ![](1628107360773_resize_21.jpg)
 ![](1628107378088_resize_55.jpg)
+_____
+[2021/08/05]
+
+### J66 - 5 août - Aldeanueva del Camino,Los Santos (Salamanca) - 52 km (3755 km)
+
+Aujourd'hui, il faut passer la barre de collines qu'on voyait toute la journée hier. Apres quelques kilomètres de montée, j'arrive à l'embranchement entre les deux routes que j'ai tracées. Une qui continue à monter (pendant longtemps) et une voie verte, ancienne voie ferrée donc presque plate. Je n'hésite pas très longtemps et je prends la voie verte jusqu'à Béjar. Là, peut-être pas la meilleure idée, je me dis que je vais acheter une chambre à air pour remplacer celle que je n'arrive pas à réparer. Béjar est construite en haut d'un ravin et il faut pousser le vélo pour arriver en ville. Pour retrouver la route de l'autre côté du ravin, je fais confiance à Google. Il me fait passer par un chemin bétonné, que je monte en poussant et qui finit en escalier. Plutôt que de tout redescendre, je fais la navette avec les sacoches et le vélo vide jusqu'en haut. Beau point de vue !
+
+![](1628234640973_resize_6.jpg)
+![](1628234654043_resize_62.jpg)
+![](1628234618215_resize_63.jpg)
+![](1628234598829_resize_58.jpg)
 
 _____
