@@ -113,11 +113,43 @@ _____
 
 ### J66 - 5 août - Aldeanueva del Camino,Los Santos (Salamanca) - 52 km (3755 km)
 
-Aujourd'hui, il faut passer la barre de collines qu'on voyait toute la journée hier. Apres quelques kilomètres de montée, j'arrive à l'embranchement entre les deux routes que j'ai tracées. Une qui continue à monter (pendant longtemps) et une voie verte, ancienne voie ferrée donc presque plate. Je n'hésite pas très longtemps et je prends la voie verte jusqu'à Béjar. Là, peut-être pas la meilleure idée, je me dis que je vais acheter une chambre à air pour remplacer celle que je n'arrive pas à réparer. Béjar est construite en haut d'un ravin et il faut pousser le vélo pour arriver en ville. Pour retrouver la route de l'autre côté du ravin, je fais confiance à Google. Il me fait passer par un chemin bétonné, que je monte en poussant et qui finit en escalier. Plutôt que de tout redescendre, je fais la navette avec les sacoches et le vélo vide jusqu'en haut. Beau point de vue !
+Aujourd'hui, il faut passer la barre de collines qu'on voyait toute la journée hier. Après quelques kilomètres de montée, j'arrive à l'embranchement entre les deux routes que j'ai tracées. Une qui continue à monter (pendant longtemps) et une voie verte, ancienne voie ferrée donc presque plate. Je n'hésite pas très longtemps et je prends la voie verte jusqu'à Béjar. Là, peut-être pas la meilleure idée, je me dis que je vais acheter une chambre à air pour remplacer celle que je n'arrive pas à réparer. Béjar est construite en haut d'un ravin et il faut pousser le vélo pour arriver en ville. Pour retrouver la route de l'autre côté du ravin, je fais confiance à Google. Il me fait passer par un chemin bétonné, que je monte en poussant et qui finit en escalier. Plutôt que de tout redescendre, je fais la navette avec les sacoches et le vélo vide jusqu'en haut. Beau point de vue !
 
 ![](1628234640973_resize_6.jpg)
 ![](1628234654043_resize_62.jpg)
 ![](1628234618215_resize_63.jpg)
 ![](1628234598829_resize_58.jpg)
+_____
+[2021/08/06]
 
+Avant de quitter Los Santos, je fais un tour au parc thématique du granit (il y a des carrières dans la région). Des sculptures faites d'empilements de blocs, un Stonehenge un peu shadock et une belle vue sur les sierras tout autour.
+
+![](1628347582892_resize_43.jpg)
+![](1628347596897_resize_65.jpg)
+![](1628347569662_resize_19.jpg)
+![](1628347535774_resize_12.jpg)
+_____
+[2021/08/06]
+
+### J67 - 6 août - Los Santos,Salamanque - 55 km (3810 km)
+
+Programme en deux parties aujourd'hui. Ça commence par monter doucement mais avec un vent défavorable (comme depuis quelques jours) jusqu'au point le plus haut de ma route entre Mérida et Salamanque à 1100 mètres. Et ensuite, ça redescend, le vent devient favorable, et on quitte les prés et les arbres pour se retrouver dans la plaine et les champs presque jusqu'à Salamanque.
+
+![](1628349544478_resize_10.jpg)
+![](1628349516604_resize_82.jpg)
+![](1628349506816_resize_78.jpg)
+![](1628349493503_resize_24.jpg)
+_____
+[2021/08/07]
+_____
+[2021/08/08]
+
+### 7,8 août - Salamanque
+
+Deux jours de repos, un c'était pas assez. Au programme,  grasse matinée, procrastination et farniente. Et quand même visite du centre historique, de la Plaza Mayor, de la Maison aux coquillages et des deux cathédrales (l'ancienne et la nouvelle communiquent). Meilleur moment, la visite d'une tour des cathédrales qui fait passer par les galeries à mi-hauteur et surplomber les nefs.
+
+![](1628456009359_resize_6.jpg)
+![](1628455995325_resize_51.jpg)
+![](1628455966540_resize_5.jpg)
+![](1628455943561_resize_47.jpg)
 _____
