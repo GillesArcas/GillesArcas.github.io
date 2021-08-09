@@ -153,3 +153,13 @@ Deux jours de repos, un c'était pas assez. Au programme,  grasse matinée, proc
 ![](1628455966540_resize_5.jpg)
 ![](1628455943561_resize_47.jpg)
 _____
+[2021/08/09]
+
+### J70 - 9 août - Salamanque,Nava del Rey (Valladolid) - 82 km (3892 km)
+
+Ça devait être une journée tranquille, pas trop chaud, pas de dénivelé. Mais j'ai crevé une première fois à l'arrière, puis une deuxième fois à l'avant. J'ai réparé mais ça n'a pas tenu, alors j'ai fait les derniers kilomètres pneu à plat jusqu'au village. Là, j'ai finalement pu réparer la chambre crevée à l'arrière. Ensuite, quelques kilomètres pour trouver une pinède où passer la nuit, pas d'hébergement dans le coin. A part ça, paysage de plaine et routes tranquilles.
+
+![](1628537354959_resize_10.jpg)
+![](1628537366542_resize_63.jpg)
+
+_____
