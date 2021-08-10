@@ -161,5 +161,16 @@ _____
 
 ![](1628537354959_resize_10.jpg)
 ![](1628537366542_resize_63.jpg)
+_____
+[2021/08/10]
+
+### J71 - 10 août - Nava del Rey,Cevico de la Torre (Palencia) - 103 km (3995 km)
+
+Routes moyennes jusqu'à Valladolid. Je rentre à peine dans la ville, juste pour trouver un marchand de vélos et acheter deux chambres à air (on n'est jamais trop prudent). Puis encore un peu de routes moyennes et enfin de la petite route dans un paysage agréable de plaines et de cultures encadrées par des collines.
+
+![](1628616244350_resize_16.jpg)
+![](1628616226061_resize_73.jpg)
+![](1628616202690_resize_52.jpg)
+![](1628616257363_resize_37.jpg)
 
 _____
