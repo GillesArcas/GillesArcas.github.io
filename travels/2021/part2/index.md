@@ -183,5 +183,16 @@ Dormi dans les bois. Pneu arrière à plat au réveil. Pas grave, j'ai des chamb
 ![](1628761241220_resize_14.jpg)
 ![](1628761225267_resize_75.jpg)
 ![](1628761206463_resize_85.jpg)
+_____
+[2021/08/12]
+
+### 12 août - Burgos
+
+Jour de repos. Changé mon pneu arrière et essayé de réparer les chambres à air. Diagnostic : une vraie crevaison, les deux autres chambres, même modèle, sont pincées au niveau de la valve. Je pense qu'elles étaient trop larges et qu'il y avait un problème de montage. Sinon visite de la ville : la cathédrale (sans blague) et le château où il n'y a plus grand chose sauf une belle vue.
+
+![](1628796868161_resize_12.jpg)
+![](1628796855229_resize_55.jpg)
+![](1628796820241_resize_76.jpg)
+![](1628796835860_resize_98.jpg)
 
 _____
