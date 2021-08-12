@@ -172,5 +172,16 @@ Routes moyennes jusqu'à Valladolid. Je rentre à peine dans la ville, juste pou
 ![](1628616226061_resize_73.jpg)
 ![](1628616202690_resize_52.jpg)
 ![](1628616257363_resize_37.jpg)
+_____
+[2021/08/11]
+
+### J72 - 11 août - Cevico de la Torre,Burgos - 94 km (4089 km)
+
+Dormi dans les bois. Pneu arrière à plat au réveil. Pas grave, j'ai des chambres de rechange. Cinquante kilomètres jusqu'à la pause casse-croute. Au départ, pneu arrière à plat. Ça tombe bien, il me reste une chambre. A quatre kilomètres de Burgos, pneu arrière à plat. Si, si. Le pneu est entaillé à plusieurs endroits, c'est peut-être pour ça. Je pousse et roule sur la jante jusqu'au magasin de vélo le plus proche. J'achète encore une chambre, un pneu et une pompe, la mienne commence à être fatiguée de tout ça. Puis encore quatre kilomètre pneu à plat pour rejoindre le camping. À part ça, quatre vingt kilomètres de petites routes vides et de beaux paysages (des plateaux entrecoupés de vallées) et on passe presque sans transition des champs à la ville.
+
+![](1628761256978_resize_89.jpg)
+![](1628761241220_resize_14.jpg)
+![](1628761225267_resize_75.jpg)
+![](1628761206463_resize_85.jpg)
 
 _____
