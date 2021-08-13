@@ -194,5 +194,15 @@ Jour de repos. Changé mon pneu arrière et essayé de réparer les chambres à 
 ![](1628796855229_resize_55.jpg)
 ![](1628796820241_resize_76.jpg)
 ![](1628796835860_resize_98.jpg)
+_____
+[2021/08/13]
 
+### J74 - 13 août - Burgos,Leiva (La Rioja) - 86 km (4175 km)
+
+Même paysage qu'avant-hier. Des plateaux couverts de champs fauchés, et des vallées. Plus souvent dans les vallées, ça tombe bien, les paysages sont bien plus intéressants. Exceptionnellement, pas de crevaison aujourd'hui.
+
+![](1628873283937_resize_10.jpg)
+![](1628873254436_resize_62.jpg)
+![](1628873239667_resize_55.jpg)
+![](1628873216619_resize_35.jpg)
 _____
