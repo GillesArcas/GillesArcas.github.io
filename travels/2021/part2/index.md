@@ -206,3 +206,14 @@ Même paysage qu'avant-hier. Des plateaux couverts de champs fauchés, et des va
 ![](1628873239667_resize_55.jpg)
 ![](1628873216619_resize_35.jpg)
 _____
+[2021/08/14]
+
+### J75 - 14 août - Leiva,Vitoria (Alava) - 77 km (4252 km)
+
+Petites routes sur les plateaux, puis passage de l'autre coté d'une sierra par un col masqué par les arbres (c'est devenu nettement plus vert). Encore des petites routes et je rate une embranchement (un peu assoupi après manger surement). Après trois kilomètres de bonne montée, je m'aperçois de l'erreur et j'essaye de rattraper la route. Quelques centaine de mètres à pousser le vélo dans un chemin de tracteur et j'arrive sur une barrière fermée. C'est la vie, demi-tour. Finalement, 370 mètres de montée vent force 4 à 5 défavorable juste avant l'arrivée. Belle journée. PS : Vitoria by night joli et animé. Du centre de tri, on ne voyait pas tout ça. Pas beaucoup de restaurants par contre.
+
+![](1628965143071_resize_39.jpg)
+![](1628965130075_resize_83.jpg)
+![](1628965116594_resize_44.jpg)
+![](1628965097858_resize_87.jpg)
+_____
