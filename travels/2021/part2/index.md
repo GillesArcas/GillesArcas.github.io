@@ -217,3 +217,15 @@ Petites routes sur les plateaux, puis passage de l'autre coté d'une sierra par 
 ![](1628965116594_resize_44.jpg)
 ![](1628965097858_resize_87.jpg)
 _____
+[2021/08/15]
+
+### J76 - 15 août - Vitoria,Salvatierra (Alava) - 87 km (4339 km)
+
+J'avais vu sur mes cartes qu'il y a un circuit vélo autour d'un lac à une dizaine de kilomètres de Vitoria et je me suis dit que ça ferait une bonne balade. Effectivement, beaucoup de beaux paysages tout autour du lac. Il y a eu quelques difficultés quand même. Côté est du circuit où j'ai  commencé, c'est du chemin tranquille, mais côté ouest, il y a des morceaux de route, des presque sentiers et surtout deux montées, et deux descentes, vraiment difficiles. Autre péripétie, je me retrouve dans un cul de sac, devant une barrière, et je lis "Perros sueltos". Les chiens sont bien lâchés, ne s'arrêtent pas à la barrière et je me suis fait coursé.
+
+![](1629050896795_resize_35.jpg)
+![](1629050912315_resize_10.jpg)
+![](1629050871133_resize_26.jpg)
+![](1629050883081_resize_79.jpg)
+
+_____
