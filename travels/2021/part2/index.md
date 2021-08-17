@@ -227,5 +227,26 @@ J'avais vu sur mes cartes qu'il y a un circuit vélo autour d'un lac à une diza
 ![](1629050912315_resize_10.jpg)
 ![](1629050871133_resize_26.jpg)
 ![](1629050883081_resize_79.jpg)
+_____
+[2021/08/16]
 
+### J77 - 16 août - Salvatierra,Pampelune (Navarre) - 81 km (4420 km)
+
+Dormi dans les champs. 17º au démarrage et 22º au meilleur de la journée avec un petit peu de soleil. Pendant la moitié du chemin, la route est tranquille mais suit l'autoroute. On finit par s'en éloigner sur des toutes petites routes. Dans tous les cas, paysages escarpés, les Pyrénées approchent.
+
+![](1629134792560_resize_12.jpg)
+![](1629134770368_resize_20.jpg)
+![](1629134758769_resize_33.jpg)
+![](1629134746864_resize_26.jpg)
+_____
+[2021/08/17]
+
+### J78 - 17 août - Pampelune,Saint-Jean-Pied-de-Port (Pyrénées-Atlantiques) - 84 km (4504 km)
+
+Aujourd'hui, il faut passer les Pyrénées. J'ai choisi une route un peu plus longue mais avec moins de dénivelé que le col de Roncevaux. Un premier col se passe par une route moyenne avec beaucoup d'arbres et pas trop de paysage. Par contre, le deuxième col est sur une toute petite route déserte au milieu des prés en pleine montagne. Très, très joli même avec le vent froid qui essaye de me faire reculer.
+
+![](1629231838413_resize_37.jpg)
+![](1629231818827_resize_61.jpg)
+![](1629231757568_resize_19.jpg)
+![](1629231740677_resize_63.jpg)
 _____
