@@ -250,3 +250,14 @@ Aujourd'hui, il faut passer les Pyrénées. J'ai choisi une route un peu plus lo
 ![](1629231757568_resize_19.jpg)
 ![](1629231740677_resize_63.jpg)
 _____
+[2021/08/18]
+
+### J79 - 18 août - Saint-Jean-Pied-de-Port,Urt (Pyrénées-Atlantiques) - 86 km (4590 km)
+
+De moins en moins de dénivelé au cours de la journée pour finir en bordure de rivière (la Bidouze puis l'Adour). Je suis l'Eurovélo 3 qui relie l'Espagne à la Norvège. Comme d'habitude, la voie essaye éviter les grandes routes  et zigzague de chaque côté sur les petites routes en se prenant quelques grosses bosses. Au final, presque autant de dénivelé qu'hier malgré les vingt derniers kilomètres tout plat (1100 hier, 900 aujourd'hui).
+
+![](1629309124457_resize_9.jpg)
+![](1629309135416_resize_13.jpg)
+![](1629309150510_resize_1.jpg)
+
+_____
