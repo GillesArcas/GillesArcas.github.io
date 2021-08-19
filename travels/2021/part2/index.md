@@ -259,5 +259,13 @@ De moins en moins de dénivelé au cours de la journée pour finir en bordure de
 ![](1629309124457_resize_9.jpg)
 ![](1629309135416_resize_13.jpg)
 ![](1629309150510_resize_1.jpg)
+_____
+[2021/08/19]
 
+### J80 - 19 août - Urt,Dax (Landes) - 61 km (4651 km)
+
+La plus grande partie du trajet le long de l'Adour. Plat, emménagé, signalé, ça nous change.
+
+![](1629404640663_resize_20.jpg)
+![](1629404627336_resize_50.jpg)
 _____
