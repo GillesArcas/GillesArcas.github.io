@@ -269,3 +269,11 @@ La plus grande partie du trajet le long de l'Adour. Plat, emménagé, signalé, 
 ![](1629404640663_resize_20.jpg)
 ![](1629404627336_resize_50.jpg)
 _____
+[2021/08/20]
+
+### J81 - 20 août - Dax
+
+Relâche.
+
+![](1629493290757_resize_13.jpg)
+_____
