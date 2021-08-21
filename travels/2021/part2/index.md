@@ -277,3 +277,14 @@ Relâche.
 
 ![](1629493290757_resize_13.jpg)
 _____
+[2021/08/21]
+
+### J82 - 21 août - Dax,Villeneuve-de-Marsan (Landes) - 91 km (4742 km)
+
+Des petites routes dans les bois. Une partie en longeant une quatre voies et des bouts de voies vertes. Presque chaud mais pas beaucoup de soleil.
+
+![](1629567568457_resize_40.jpg)
+![](1629567549719_resize_64.jpg)
+![](1629567531994_resize_74.jpg)
+
+_____
