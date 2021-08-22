@@ -287,3 +287,14 @@ Des petites routes dans les bois. Une partie en longeant une quatre voies et des
 ![](1629567549719_resize_64.jpg)
 ![](1629567531994_resize_74.jpg)
 _____
+[2021/08/22]
+
+### J83 - 22 août - Villeneuve-de-Marsan,Nérac (Lot-et-Garonne) - 75 km (4817 km)
+
+Trente cinq premiers kilomètres sur une voie verte sans revêtement. Pas beaucoup d'ouverture sur le paysage mais plat. Ensuite petites routes désertes et paysage vallonné. 
+
+![](20210822_190142_resize_65.jpg)
+![](1629651511810_resize_55.jpg)
+![](1629651498683_resize_84.jpg)
+
+_____
