@@ -301,7 +301,7 @@ _____
 
 ### J84 - 23 août - Nérac,La Réole (Gironde) - 75 km (4892 km)
 
-Ambiance canal aujourd'hui. Je me disais bien que j'étais déjà passé par ici et je finis par réaliser que je suis sur le canal du Midi (ou plus précisément le canal latéral à la Garonne). Du coup, beaucoup de gens à vélo. Je discute une bonne demi-heure avec un bonhomme de 71 ans qui vit sans domicile avec tous ses bagages sur son vélo et une remorque. Il a une bonne retraite et a l'air de prendre du bon temps. Je discute aussi avec un gars qui perd une pédale impossible à revisser. Pas de chance.  
+Ambiance canal aujourd'hui. Je me disais bien que j'étais déjà passé par ici et je finis par réaliser que je suis sur le canal du Midi (plus précisément le canal latéral à la Garonne). Du coup, beaucoup de gens à vélo. Je discute une bonne demi-heure avec un bonhomme de 71 ans qui vit sans domicile avec tous ses bagages sur son vélo et une remorque. Il a une bonne retraite et a l'air de prendre du bon temps. Je discute aussi avec un gars qui perd une pédale impossible à revisser. Pas de chance.  
 
 ![](1629741022180_resize_81.jpg)
 ![](1629741004884_resize_7.jpg)
