@@ -301,10 +301,19 @@ _____
 
 ### J84 - 23 août - Nérac,La Réole (Gironde) - 75 km (4892 km)
 
-Ambiance canal aujourd'hui. Je me disais bien que j'étais déjà passé par ici et je finis par réaliser que je suis sur le canal du Midi (plus précisément le canal latéral à la Garonne). Du coup, beaucoup de gens à vélo. Je discute une bonne demi-heure avec un bonhomme de 71 ans qui vit sans domicile avec tous ses bagages sur son vélo et une remorque. Il a une bonne retraite et a l'air de prendre du bon temps. Je discute aussi avec un gars qui perd une pédale impossible à revisser. Pas de chance.  
+Ambiance canal aujourd'hui. Je me disais bien que j'étais déjà passé par ici et je finis par réaliser que je suis sur le canal du Midi (plus précisément le canal latéral à la Garonne). Du coup, beaucoup de gens à vélo. Je discute une bonne demi-heure avec un bonhomme de 71 ans qui vit sans domicile avec tous ses bagages sur son vélo et une remorque. Il a une bonne retraite et a l'air de prendre du bon temps. Je discute aussi avec un gars qui perd une pédale impossible à revisser. Pas de chance.
 
 ![](1629741022180_resize_81.jpg)
 ![](1629741004884_resize_7.jpg)
 ![](1629740990226_resize_3.jpg)
+_____
+[2021/08/24]
 
+### J85 - 24 août - La Réole,Saint-Magne (Gironde) - 97 km (4989 km)
+
+Encore un bout de canal, puis l'Eurovélo fait un immense détour pour arriver à Bordeaux par le sud. C'est peut-être pour profiter de très belles voies cyclables à travers les forêts de pins.  Dans l'euphorie de bien rouler sur la voie verte, je rate une intersection et je finis par me taper un détour de quinze bons kilomètres pour retrouver ma route. Camping new age, boudha sous les arbres, stage de champ mongol et douche déco ciment.
+
+![](1629825716493_resize_46.jpg)
+![](1629825731712_resize_52.jpg)
+![](1629825757825_resize_30.jpg)
 _____
