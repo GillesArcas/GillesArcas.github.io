@@ -317,3 +317,15 @@ Encore un bout de canal, puis l'Eurovélo fait un immense détour pour arriver �
 ![](1629825731712_resize_52.jpg)
 ![](1629825757825_resize_30.jpg)
 _____
+[2021/08/25]
+
+### J86 - 25 août - Saint-Magne,Bordeaux (Gironde) - 58 km (5047 km)
+
+Encore un peu de voies vertes avec la vigne qui remplace les pins. Ensuite c'est l'arrivée à Bordeaux par des pistes cyclables bien balisées mais pas vraiment intéressant. Comme l'étape a été courte, j'ai le temps de faire une visite minimale du centre. Déjà mieux que l'année dernière où je n'avais fait que traverser la ville par les quais de la Garonne.
+
+![](1629923953771_resize_89.jpg)
+![](1629923856009_resize_30.jpg)
+![](1629923822374_resize_33.jpg)
+![](1629923806497_resize_93.jpg)
+
+_____
