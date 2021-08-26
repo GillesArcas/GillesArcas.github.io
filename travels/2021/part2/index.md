@@ -327,5 +327,15 @@ Encore un peu de voies vertes avec la vigne qui remplace les pins. Ensuite c'est
 ![](1629923856009_resize_30.jpg)
 ![](1629923822374_resize_33.jpg)
 ![](1629923806497_resize_93.jpg)
+_____
+[2021/08/26]
+
+### J87 - 26 août - Bordeaux,Bayas (Gironde) - 87 km (5134 km)
+
+Départ sur un bout de Garonne en repartant vers l'est. En fait, je reprends la route du canal du Midi mais dans l'autre sens maintenant. Très belle voie verte en sous-bois. Ensuite, un petit bout de Dordogne puis des petites routes à travers les vignes pour arriver à Saint-Emilion (sans arrêt dégustation). Ensuite banlieue viticole pour arriver jusqu'à Libourne et dépasser Pomerol, et enfin des petites routes un peu plus sympas pour arriver jusqu'au camping.
+
+![](1629997003948_resize_60.jpg)
+![](1629996955046_resize_76.jpg)
+![](1629996903468_resize_28.jpg)
 
 _____
