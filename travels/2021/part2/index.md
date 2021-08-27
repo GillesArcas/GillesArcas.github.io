@@ -337,5 +337,15 @@ Départ sur un bout de Garonne en repartant vers l'est. En fait, je reprends la 
 ![](1629997003948_resize_60.jpg)
 ![](1629996955046_resize_76.jpg)
 ![](1629996903468_resize_28.jpg)
+_____
+[2021/08/27]
+
+### J88 - 27 août - Bayas,Sireuil (Charente) - 85 km (5219 km)
+
+Une vingtaine de kilomètres de petites routes dans les bois et le bocage, puis une trentaine de kilomètres sur la voie verte de la Haute Saintonge. Ensuite, c'est moins bien : routes moyennes, vent contraire et plus de dénivelé.
+
+![](1630082282998_resize_11.jpg)
+![](1630081783578_crop_59.jpg)
+![](1630082235519_resize_58.jpg)
 
 _____
