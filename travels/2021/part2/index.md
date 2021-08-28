@@ -347,5 +347,15 @@ Une vingtaine de kilomètres de petites routes dans les bois et le bocage, puis 
 ![](1630082282998_resize_11.jpg)
 ![](1630081783578_crop_59.jpg)
 ![](1630082235519_resize_58.jpg)
+_____
+[2021/08/28]
+
+### J89 - 28 août - Sireuil,Eymouthiers (Charente) - 82 km (5301 km)
+
+Gros détour en démarrant pour aller au Decathlon d'Angoulême racheter un coupe-vent. Le mien s'est échappé de la sacoche où il était juste coincé sous le rabat. Ensuite, après avoir rattrapé l'EV3, contournement d'Angoulême en bord de Charente, très agréable. Par contre, sortie fastidieuse par un dédale de bouts de truc. On finit par rattraper deux grands bouts de voies vertes mais les jonctions se font sur routes moyennes. Un peu de trafic, du vent et du dénivelé. Et une crevaison, ça faisait longtemps. Pas grave, je change la chambre à air. Par contre, plus embêtant, la pompe achetée à Burgos casse et je me retrouve avec un morceau de pompe dans chaque main. Heureusement, il y a une station à deux kilomètres où je peux regonfler. 
+
+![](1630177945413_resize_50.jpg)
+![](1630177930073_resize_59.jpg)
+![](1630177909273_resize_16.jpg)
 
 _____
