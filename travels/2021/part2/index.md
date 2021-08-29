@@ -352,10 +352,20 @@ _____
 
 ### J89 - 28 août - Sireuil,Eymouthiers (Charente) - 82 km (5301 km)
 
-Gros détour en démarrant pour aller au Decathlon d'Angoulême racheter un coupe-vent. Le mien s'est échappé de la sacoche où il était juste coincé sous le rabat. Ensuite, après avoir rattrapé l'EV3, contournement d'Angoulême en bord de Charente, très agréable. Par contre, sortie fastidieuse par un dédale de bouts de truc. On finit par rattraper deux grands bouts de voies vertes mais les jonctions se font sur routes moyennes. Un peu de trafic, du vent et du dénivelé. Et une crevaison, ça faisait longtemps. Pas grave, je change la chambre à air. Par contre, plus embêtant, la pompe achetée à Burgos casse et je me retrouve avec un morceau de pompe dans chaque main. Heureusement, il y a une station à deux kilomètres où je peux regonfler. 
+Gros détour en démarrant pour aller au Decathlon d'Angoulême racheter un coupe-vent. Le mien s'est échappé de la sacoche où il était juste coincé sous le rabat. Ensuite, après avoir rattrapé l'EV3, contournement d'Angoulême en bord de Charente, très agréable. Par contre, sortie fastidieuse par un dédale de bouts de truc. On finit par rattraper deux grands bouts de voies vertes mais les jonctions se font sur routes moyennes. Un peu de trafic, du vent et du dénivelé. Et une crevaison, ça faisait longtemps. Pas grave, je change la chambre à air. Par contre, plus embêtant, la pompe achetée à Burgos casse et je me retrouve avec un morceau de pompe dans chaque main. Heureusement, il y a une station à deux kilomètres où je peux regonfler.
 
 ![](1630177945413_resize_50.jpg)
 ![](1630177930073_resize_59.jpg)
 ![](1630177909273_resize_16.jpg)
+_____
+[2021/08/29]
+
+### J90 - 29 août - Eymouthiers,Availles-Limouzine (Vienne) - 75 km (5376 km)
+
+Petites routes dans un paysage très vert et très vallonné. Du coup, pas mal de dénivelé (mille mètres) auquel s'ajoute beaucoup de vent (frais et défavorable). 
+
+![](1630255562490_resize_72.jpg)
+![](1630255576431_resize_77.jpg)
+![](1630255592770_resize_66.jpg)
 
 _____
