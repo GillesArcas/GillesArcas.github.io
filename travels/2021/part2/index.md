@@ -376,4 +376,12 @@ Toute la journée le long de la Vienne mais on n'en profite pas tellement. La ro
 
 ![](1630343956353_resize_10.jpg)
 _____
+[2021/08/31]
 
+### J92 - 31 août - Chatellerault,Montlouis-sur-Loire (Indre-et-Loire) - 95 km (5571 km)
+
+Trente premiers kilomètres sur une route un peu trop passante. Ensuite, c'est mieux pour la route mais le paysage a moins de caractère. Beaucoup plus plat en tout cas mais toujours autant de vent. Traversée de Tours à l'heure de la sortie et un petit bout de Loire à Vélo pour arriver au camping.
+
+![](1630433353692_resize_1.jpg)
+
+_____
