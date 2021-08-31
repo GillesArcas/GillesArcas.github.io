@@ -362,10 +362,18 @@ _____
 
 ### J90 - 29 août - Eymouthiers,Availles-Limouzine (Vienne) - 75 km (5376 km)
 
-Petites routes dans un paysage très vert et très vallonné. Du coup, pas mal de dénivelé (mille mètres) auquel s'ajoute beaucoup de vent (frais et défavorable). 
+Petites routes dans un paysage très vert et très vallonné. Du coup, pas mal de dénivelé (mille mètres) auquel s'ajoute beaucoup de vent (frais et défavorable).
 
 ![](1630255562490_resize_72.jpg)
 ![](1630255576431_resize_77.jpg)
 ![](1630255592770_resize_66.jpg)
-
 _____
+[2021/08/30]
+
+### J91 - 30 août - Availles-Limouzine,Chatellerault (Vienne) - 100 km (5476 km)
+
+Toute la journée le long de la Vienne mais on n'en profite pas tellement. La route est presque toujours un peu éloignée de la rivière et monte de temps en temps dans les collines. Moins de dénivelé quand même, un peu moins de vent, moins joli qu'hier aussi.
+
+![](1630343956353_resize_10.jpg)
+_____
+
