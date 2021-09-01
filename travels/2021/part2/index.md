@@ -383,5 +383,15 @@ _____
 Trente premiers kilomètres sur une route un peu trop passante. Ensuite, c'est mieux pour la route mais le paysage a moins de caractère. Beaucoup plus plat en tout cas mais toujours autant de vent. Traversée de Tours à l'heure de la sortie et un petit bout de Loire à Vélo pour arriver au camping.
 
 ![](1630433353692_resize_1.jpg)
+_____
+[2021/09/01]
+
+### J93 - 1er septembre - Montlouis-sur-Loire,Beaugency (Loiret) - 98 km (5669 km)
+
+En début de journée, la route fait des allers-retours entre les bords de Loire et les vignobles au-dessus. Ensuite, la route (beaucoup de chemins réservés aux vélos) reste presque tout le temps au bord de la Loire, souvent assez proche, et on en profite bien. Comme tous ces derniers jours, beaucoup de vent (est-nord-est).
+
+![](1630515816307_resize_81.jpg)
+![](1630515801319_resize_91.jpg)
+![](1630515786081_resize_54.jpg)
 
 _____
