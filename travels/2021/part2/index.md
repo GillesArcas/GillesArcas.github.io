@@ -393,5 +393,14 @@ En début de journée, la route fait des allers-retours entre les bords de Loire
 ![](1630515816307_resize_81.jpg)
 ![](1630515801319_resize_91.jpg)
 ![](1630515786081_resize_54.jpg)
+_____
+[2021/09/02]
+
+### J94 - 2 septembre - Beaugency,Pithiviers (Loiret) - 82 km (5751 km)
+
+Un bout de Loire puis traversée d'Orléans par les quais très agréable. Ensuite, un bout de canal d'Orléans, puis un bout de forêt d'Orléans, tout ça très joli. Enfin, arrivée à Pithiviers par la plaine où je retrouve le vent. Ce matin, je discute au camping avec un des cyclistes qui vient d'Ardèche (Gael), on se retrouve sur la route et on prend finalement un café à Orléans. On discute et il apparait qu'il a fait son stage de fin étude à Solystic Bourg-les-Valence en 2009 et qu'il y connait plein de gens (pour les solysticiens, en particulier, Eric Moulard avec qui il a fait du triathlon). Trop fort.
+
+![](1630601600510_resize_58.jpg)
+![](1630601617272_resize_81.jpg)
 
 _____
