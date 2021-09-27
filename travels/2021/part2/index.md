@@ -402,5 +402,12 @@ Un bout de Loire puis traversée d'Orléans par les quais très agréable. Ensui
 
 ![](1630601600510_resize_58.jpg)
 ![](1630601617272_resize_81.jpg)
+_____
+[2021/09/03]
 
+### J95 - 3 septembre - Pithiviers,Cachan (Val-de-Marne) - 85 km (5836 km)
+
+Arrivé ! Merci à tous pour la compagnie. Un abrazo muy fuerte a todos. A la prochaine !
+
+![](IMG-trajet-20210903-bing.jpg)
 _____
