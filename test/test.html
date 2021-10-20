@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Add Map</title>
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&libraries=drawing&v=weekly"
+      defer
+    ></script>
+    <style type="text/css">
+      #map {
+        height: 400px;
+        width: 400px;
+      }
+    </style>
+    <script>
+        function initMap() {
+            const map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 3,
+                center: { lat: 0, lng: -180 },
+                mapTypeId: "satellite",
+                disableDefaultUI: true,
+            });
+
+            fetch('2011-nevers-nantes.gpx')
+                .then(response => response.text())
+                .then(str => (new window.DOMParser()).parseFromString(str, "text/xml"))
+                //.then(data => console.log(data))
+                .then(doc =>
+                {
+                    var points = [];
+                    var bounds = new google.maps.LatLngBounds();
+
+                    const nodes = [...doc.getElementsByTagName('trkpt')];
+                    nodes.forEach(node =>
+                    {
+                        var lat = node.getAttribute("lat");
+                        var lon = node.getAttribute("lon");
+                        //console.log(lat);
+
+                        var p = new google.maps.LatLng(lat, lon);
+                        points.push(p);
+                        bounds.extend(p);
+                    })
+
+                    var poly = new google.maps.Polyline({
+                             path: points,
+                             strokeColor: "#0000FF",
+                             strokeOpacity: 1,
+                             strokeWeight: 4
+                        });
+                        poly.setMap(map);
+                        // fit bounds to track
+                        map.fitBounds(bounds);
+                })
+        }
+    </script>
+  </head>
+  <body>
+    <h3>My Google Maps Demo</h3>
+    <!--The div element for the map -->
+    <div id="map"></div>
+  </body>
+</html>
