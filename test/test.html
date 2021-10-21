@@ -33,6 +33,7 @@
                     const trks = [...doc.getElementsByTagName('trk')];
                     trks.foreach(trk =>
                     {
+                        console.log("trk");
                         var points = [];
                         const nodes = [trk.getElementsByTagName('trkpt')];
                         nodes.forEach(node =>
