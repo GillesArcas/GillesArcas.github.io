@@ -28,18 +28,18 @@
                 //.then(data => console.log(data))
                 .then(doc =>
                 {
-                    var points = [];
                     var bounds = new google.maps.LatLngBounds();
 
                     const trks = [...doc.getElementsByTagName('trk')];
                     trks.foreach(trk =>
                     {
+                        var points = [];
                         const nodes = [trk.getElementsByTagName('trkpt')];
                         nodes.forEach(node =>
                         {
                             var lat = node.getAttribute("lat");
                             var lon = node.getAttribute("lon");
-                            //console.log(lat);
+                            console.log(lat);
 
                             var p = new google.maps.LatLng(lat, lon);
                             points.push(p);
