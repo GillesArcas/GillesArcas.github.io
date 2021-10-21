@@ -31,27 +31,31 @@
                     var points = [];
                     var bounds = new google.maps.LatLngBounds();
 
-                    const nodes = [...doc.getElementsByTagName('trkpt')];
-                    nodes.forEach(node =>
+                    const trks = [...doc.getElementsByTagName('trk')];
+                    trks.foreach(trk =>
                     {
-                        var lat = node.getAttribute("lat");
-                        var lon = node.getAttribute("lon");
-                        //console.log(lat);
+                        const nodes = [...trk.getElementsByTagName('trkpt')];
+                        nodes.forEach(node =>
+                        {
+                            var lat = node.getAttribute("lat");
+                            var lon = node.getAttribute("lon");
+                            //console.log(lat);
 
-                        var p = new google.maps.LatLng(lat, lon);
-                        points.push(p);
-                        bounds.extend(p);
-                    })
+                            var p = new google.maps.LatLng(lat, lon);
+                            points.push(p);
+                            bounds.extend(p);
+                        })
 
-                    var poly = new google.maps.Polyline({
-                             path: points,
-                             strokeColor: "#0000FF",
-                             strokeOpacity: 1,
-                             strokeWeight: 4
-                        });
-                        poly.setMap(map);
-                        // fit bounds to track
-                        map.fitBounds(bounds);
+                        var poly = new google.maps.Polyline({
+                                 path: points,
+                                 strokeColor: "#0000FF",
+                                 strokeOpacity: 1,
+                                 strokeWeight: 4
+                            });
+                    }
+                    poly.setMap(map);
+                    // fit bounds to track
+                    map.fitBounds(bounds);
                 })
         }
     </script>
