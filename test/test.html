@@ -22,7 +22,7 @@
                 disableDefaultUI: true,
             });
 
-            fetch('2011-nevers-nantes.gpx')
+            fetch('tmp.gpx')
                 .then(response => response.text())
                 .then(str => (new window.DOMParser()).parseFromString(str, "text/xml"))
                 //.then(data => console.log(data))
