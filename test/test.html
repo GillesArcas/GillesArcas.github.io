@@ -35,7 +35,7 @@
                     {
                         console.log("trk");
                         var points = [];
-                        const nodes = [trk.getElementsByTagName('trkpt')];
+                        const nodes = [...trk.getElementsByTagName('trkpt')];
                         nodes.forEach(node =>
                         {
                             var lat = node.getAttribute("lat");
