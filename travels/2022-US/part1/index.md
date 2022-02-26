@@ -20,3 +20,13 @@ Début de journée pour faire des courses mais pas trouvé de recharges de gaz. 
 ![](IMG_20220225_171348.jpg)
 ![](IMG_20220225_163305.jpg)
 ______
+[2022/02/26]
+
+### J3 - 26 février - Jacksonville - 89 km (137 km)
+
+J'ai finalement trouvé des cartouches de gaz mais il a fallu aller les chercher à 40 kilomètres, de l'autre côté du centre ville. Deux itinéraires, un pour l'aller, un pour le retour, tracés avec Komoot et BRouter, qui évitent à peu près les plus grosses routes. Finalement pas si mal, il y a souvent un couloir cyclable. Par contre, pas beaucoup de vélos.
+
+![](IMG_20220226_154950.jpg)
+![](IMG_20220226_155953.jpg)
+![](IMG_20220226_162459.jpg)
+______

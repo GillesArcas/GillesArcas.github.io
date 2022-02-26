@@ -19,16 +19,30 @@
 </head>
 
 <body>
+<button id="btn_full" type="button" style="position: fixed; width: 50px; top: 20px; right: 20px; background-color:white">Full</button>
+<button id="btn_text" type="button" style="position: fixed; width: 50px; top: 40px; right: 20px; background-color:white">Text</button>
+</script>
+
+<script>
+$('#btn_full').click(function() {
+    $("[id^=gallery-blog]").show();
+    $("[id^=gallery-dcim]").show();
+    $("div.extra").show();
+});
+$('#btn_text').click(function() {
+    $("[id^=gallery-blog]").hide();
+    $("[id^=gallery-dcim]").hide();
+    $("div.extra").hide();
+});
+$('#btn_blog').click(function() {
+    $("[id^=gallery-blog]").show();
+    $("[id^=gallery-dcim]").hide();
+    $("div.extra").hide();
+});
+</script>
+
 <h3>J1 - 24 février - Jacksonville (Floride) - 9 km (sans compter l'avion)</h3>
-<p>Voyage longuet mais sans histoire sauf à la correspondance à Miami. Là, il faut
-récupérer les bagages et je retrouve le carton à vélo
-ouvert. Le scotch d'origine du fond du carton n'a pas tenu, pas glop. Je paye 8
-dollars pour un charriot (!) et j'apporte le carton à l'enregistrement.
-Impossible de trouver du scotch mais les préposés m'assurent que de toute façon,
-le carton sera ouvert pour le contrôler et je suppose qu'il sera refermé. Plus qu'à
-croiser les doigts. A l’arrivée à Jacksonville, le carton est toujours ouvert
-mais rien ne manque. (Il n'y a pas que le vélo dans le carton, il y a la tente
-, les outils, une sacoche, du bazar). Ouf ! Ça m'apprendra à lésiner sur le scotch.</p>
+<p>Voyage longuet mais sans histoire sauf à la correspondance à Miami. Là, il faut récupérer les bagages et je retrouve le carton à vélo ouvert. Le scotch d'origine du fond du carton n'a pas tenu, pas glop. Je paye 8 dollars pour un charriot (!) et j'apporte le carton à l'enregistrement. Impossible de trouver du scotch mais les préposés m'assurent que de toute façon, le carton sera ouvert pour le contrôler et je suppose qu'il sera refermé. Plus qu'à croiser les doigts. A l’arrivée à Jacksonville, le carton est toujours ouvert mais rien ne manque. (Il n'y a pas que le vélo dans le carton, il y a la tente, les outils, une sacoche, du bazar). Ouf ! Ça m'apprendra à lésiner sur le scotch.</p>
 <div id="gallery-blog-20220224-1">
 <a href="IMG_20220224_161702.jpg"><img src="thumbnails/post-IMG_20220224_161702.jpg.jpg" width="400" height="300" title="IMG_20220224_161702.jpg: 20220224 161702, dim=1280x960, 0.2 MB"/></a>
 <a href="IMG_20220224_161723.jpg"><img src="thumbnails/post-IMG_20220224_161723.jpg.jpg" width="400" height="300" title="IMG_20220224_161723.jpg: 20220224 161723, dim=1280x960, 0.2 MB"/></a>
@@ -37,7 +51,7 @@ mais rien ne manque. (Il n'y a pas que le vélo dans le carton, il y a la tente
 <hr color="#C0C0C0" size="1" />
 
 <h3>J2 - 25 février - Jacksonville - 49 km (58 km)</h3>
-<p>Début de journée pour faire des courses mais pas trouvé de recharges de gaz. Premier magasin à quelques kilomètres mais il n'y en a plus, deuxième magasin, mauvais tuyau, troisième magasin, fermé le vendredi, quatrième à 40 kilomètres, j'ai lâché l'affaire. Ça risque d’être dur pour le café du matin. Ensuite, un peu de route (à 4 voies) pour faire un tour dans le centre ville. Au retour, je prends quelques rues paralleles et c'est nettement plus sympa. Et exceptionnellement, j'ai fait un selfie.</p>
+<p>Début de journée pour faire des courses mais pas trouvé de recharges de gaz. Premier magasin à quelques kilomètres mais il n'y en a plus, deuxième magasin, mauvais tuyau, troisième magasin, fermé le vendredi, quatrième à 40 kilomètres, j'ai lâché l'affaire. Ça risque d’être dur pour le café du matin. Ensuite, un peu de route (à 4 voies) pour faire un tour dans le centre ville. Au retour, je prends quelques rues parallèles et c'est nettement plus sympa. Et une fois n'est pas coutume, j'ai fait un selfie.</p>
 <div id="gallery-blog-20220225-1">
 <a href="IMG_20220225_165525.jpg"><img src="thumbnails/post-IMG_20220225_165525.jpg.jpg" width="400" height="300" title="IMG_20220225_165525.jpg: 20220225 165525, dim=1280x960, 0.3 MB"/></a>
 <a href="IMG_20220225_171348.jpg"><img src="thumbnails/post-IMG_20220225_171348.jpg.jpg" width="400" height="300" title="IMG_20220225_171348.jpg: 20220225 171348, dim=1280x960, 0.6 MB"/></a>
@@ -45,9 +59,19 @@ mais rien ne manque. (Il n'y a pas que le vélo dans le carton, il y a la tente
 </div>
 <hr color="#C0C0C0" size="1" />
 
+<h3>J3 - 26 février - Jacksonville - 89 km (137 km)</h3>
+<p>J'ai finalement trouvé des cartouches de gaz mais il a fallu aller les chercher à 40 kilomètres, de l'autre côté du centre ville. Deux itinéraires, un pour l'aller, un pour le retour, tracés avec Komoot et BRouter, qui évitent à peu près les plus grosses routes. Finalement pas si mal, il y a souvent un couloir cyclable. Par contre, pas beaucoup de vélos.</p>
+<div id="gallery-blog-20220226-1">
+<a href="IMG_20220226_154950.jpg"><img src="thumbnails/post-IMG_20220226_154950.jpg.jpg" width="400" height="300" title="IMG_20220226_154950.jpg: 20220226 154950, dim=1280x960, 0.4 MB"/></a>
+<a href="IMG_20220226_155953.jpg"><img src="thumbnails/post-IMG_20220226_155953.jpg.jpg" width="400" height="300" title="IMG_20220226_155953.jpg: 20220226 155953, dim=1280x960, 0.2 MB"/></a>
+<a href="IMG_20220226_162459.jpg"><img src="thumbnails/post-IMG_20220226_162459.jpg.jpg" width="400" height="300" title="IMG_20220226_162459.jpg: 20220226 162459, dim=1280x960, 0.5 MB"/></a>
+</div>
+<hr color="#C0C0C0" size="1" />
+
 <script>
 $('#gallery-blog-20220224-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20220225-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
+$('#gallery-blog-20220226-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 </script>
 </body>
 </html>
