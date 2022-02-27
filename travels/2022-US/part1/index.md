@@ -30,3 +30,13 @@ J'ai finalement trouvé des cartouches de gaz mais il a fallu aller les chercher
 ![](IMG_20220226_155953.jpg)
 ![](IMG_20220226_162459.jpg)
 ______
+[2022/02/27]
+
+### J4 - 27 février - Saint Augustine (Floride) - 96 km (243 km)
+
+Grosses routes puis ferry pour rejoindre la côte. Encore des grosses routes pour traverser Atlantic Beach et Jacksonville Beach. Ensuite 40 kilomètres de ligne droite sur une deux voies un peu chargées. Il y a des maisons presque tout du long et on ne voit presque pas la mer, je m’arrête quand même pour prendre une photo. Première expérience avec WarmShowers, un site d'échange d’hébergement pour les cyclistes. Je suis accueilli par Dan, très sympa, qui vit sur son bateau.
+
+![](IMG_20220227_111628.jpg)
+![](IMG_20220227_135708.jpg)
+![](IMG_20220227_172547.jpg)
+______

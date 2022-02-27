@@ -19,28 +19,6 @@
 </head>
 
 <body>
-<button id="btn_full" type="button" style="position: fixed; width: 50px; top: 20px; right: 20px; background-color:white">Full</button>
-<button id="btn_text" type="button" style="position: fixed; width: 50px; top: 40px; right: 20px; background-color:white">Text</button>
-</script>
-
-<script>
-$('#btn_full').click(function() {
-    $("[id^=gallery-blog]").show();
-    $("[id^=gallery-dcim]").show();
-    $("div.extra").show();
-});
-$('#btn_text').click(function() {
-    $("[id^=gallery-blog]").hide();
-    $("[id^=gallery-dcim]").hide();
-    $("div.extra").hide();
-});
-$('#btn_blog').click(function() {
-    $("[id^=gallery-blog]").show();
-    $("[id^=gallery-dcim]").hide();
-    $("div.extra").hide();
-});
-</script>
-
 <h3>J1 - 24 février - Jacksonville (Floride) - 9 km (sans compter l'avion)</h3>
 <p>Voyage longuet mais sans histoire sauf à la correspondance à Miami. Là, il faut récupérer les bagages et je retrouve le carton à vélo ouvert. Le scotch d'origine du fond du carton n'a pas tenu, pas glop. Je paye 8 dollars pour un charriot (!) et j'apporte le carton à l'enregistrement. Impossible de trouver du scotch mais les préposés m'assurent que de toute façon, le carton sera ouvert pour le contrôler et je suppose qu'il sera refermé. Plus qu'à croiser les doigts. A l’arrivée à Jacksonville, le carton est toujours ouvert mais rien ne manque. (Il n'y a pas que le vélo dans le carton, il y a la tente, les outils, une sacoche, du bazar). Ouf ! Ça m'apprendra à lésiner sur le scotch.</p>
 <div id="gallery-blog-20220224-1">
@@ -68,10 +46,20 @@ $('#btn_blog').click(function() {
 </div>
 <hr color="#C0C0C0" size="1" />
 
+<h3>J4 - 27 février - Saint Augustine (Floride) - 96 km (243 km)</h3>
+<p>Grosses routes puis ferry pour rejoindre la côte. Encore des grosses routes pour traverser Atlantic Beach et Jacksonville Beach. Ensuite 40 kilomètres de ligne droite sur une deux voies un peu chargées. Il y a des maisons presque tout du long et on ne voit presque pas la mer, je m’arrête quand même pour prendre une photo. Première expérience avec WarmShowers, un site d'échange d’hébergement pour les cyclistes. Je suis accueilli par Dan, très sympa, qui vit sur son bateau.</p>
+<div id="gallery-blog-20220227-1">
+<a href="IMG_20220227_111628.jpg"><img src="thumbnails/post-IMG_20220227_111628.jpg.jpg" width="400" height="300" title="IMG_20220227_111628.jpg: 20220227 111628, dim=1280x960, 0.2 MB"/></a>
+<a href="IMG_20220227_135708.jpg"><img src="thumbnails/post-IMG_20220227_135708.jpg.jpg" width="400" height="300" title="IMG_20220227_135708.jpg: 20220227 135708, dim=1280x960, 0.2 MB"/></a>
+<a href="IMG_20220227_172547.jpg"><img src="thumbnails/post-IMG_20220227_172547.jpg.jpg" width="400" height="300" title="IMG_20220227_172547.jpg: 20220227 172547, dim=1280x960, 0.3 MB"/></a>
+</div>
+<hr color="#C0C0C0" size="1" />
+
 <script>
 $('#gallery-blog-20220224-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20220225-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 $('#gallery-blog-20220226-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
+$('#gallery-blog-20220227-1').photobox('a', {loop:false,thumbs:true,autoplay:false,time:3000,zoomable:true ,rotatable:true,wheelNextPrev:true});
 </script>
 </body>
 </html>
