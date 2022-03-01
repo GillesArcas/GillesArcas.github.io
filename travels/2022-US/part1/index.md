@@ -48,3 +48,10 @@ Temps très moche, froid, du vent et de la pluie. Dan me propose de rester encor
 
 ![](IMG_20220227_111628.jpg)
 ______
+[2022/03/01]
+
+### J6 - 1er mars - Palatka (Floride) - 50 km (293 km)
+
+.
+![](IMG_20220227_111628.jpg)
+______
