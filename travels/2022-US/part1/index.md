@@ -40,3 +40,11 @@ Grosses routes puis ferry pour rejoindre la côte. Encore des grosses routes pou
 ![](IMG_20220227_135708.jpg)
 ![](IMG_20220227_172547.jpg)
 ______
+[2022/02/28]
+
+### J5 - 28 février - Saint Augustine
+
+Temps très moche, froid, du vent et de la pluie. Dan me propose de rester encore un jour et j'accepte avec reconnaissance. On va quand même faire un petit tour en ville. Saint Augustine est consideree comme la plus ancienne ville des Etats-Unis et il y a une zone avec plein de petites rues.
+
+![](IMG_20220227_111628.jpg)
+______
