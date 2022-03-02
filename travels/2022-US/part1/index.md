@@ -44,9 +44,11 @@ ______
 
 ### J5 - 28 février - Saint Augustine
 
-Temps très moche, froid, du vent et de la pluie. Dan me propose de rester encore un jour et j'accepte avec reconnaissance. On va quand même faire un petit tour en ville. Saint Augustine est consideree comme la plus ancienne ville des Etats-Unis et il y a une zone avec plein de petites rues.
+Temps très moche, froid, du vent et de la pluie. Dan me propose de rester encore un jour et j'accepte avec reconnaissance. On va quand même faire un petit tour en ville. Saint Augustine est considérée comme la plus ancienne ville des Etats-Unis et il y a une zone avec plein de petites rues.
 
-![](IMG_20220227_111628.jpg)
+![](IMG_20220228_141131.jpg)
+![](IMG_20220228_140740.jpg)
+![](IMG_20220228_144413.jpg)
 ______
 [2022/03/01]
 
