@@ -69,3 +69,13 @@ Vingt kilomètres d'une belle voie verte quasiment rectiligne en sous-bois. Puis
 ![](IMG_20220302_121804.jpg)
 ![](IMG_20220302_151928.jpg)
 ______
+[2022/03/03]
+
+### J8 - 3 mars - Ichetucknee Springs (Floride) - 65 km (461 km)
+
+Pas de voies vertes aujourd'hui. Un peu de grosses routes et beaucoup de deux voies assez tranquilles au milieu de la campagne. Première nuit en camping (en campground). Dix dollars pour les cyclistes. Il y a même un âne qui gueule de temps en temps.
+
+![](IMG_20220303_111625.jpg)
+![](IMG_20220303_115553.jpg)
+![](IMG_20220303_161138.jpg)
+______
