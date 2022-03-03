@@ -54,6 +54,18 @@ ______
 
 ### J6 - 1er mars - Palatka (Floride) - 50 km (293 km)
 
-.
-![](IMG_20220227_111628.jpg)
+Départ tôt (8h), Dan doit changer de marina. Étape courte (avec un bout de vraie voie verte ) et vent favorable. Du coup, je fais tout mon possible pour traîner en route et arriver à 1pm pour rentrer dans mon logement. 
+
+![](IMG_20220301_100158.jpg)
+![](IMG_20220301_111940.jpg)
+![](IMG_20220301_132104.jpg)
+______
+[2022/03/02]
+
+### J7 - 2 mars - Gainesville (Floride) - 103 km (396 km)
+
+Vingt kilomètres d'une belle voie verte quasiment rectiligne en sous-bois. Puis de la quatre voies et de la deux voies. (En fait, la quatre voies, c'est plutôt mieux, plus de place sur le côté). Et pour finir, encore quinze kilomètres de belle voie verte. 
+
+![](IMG_20220302_121804.jpg)
+![](IMG_20220302_151928.jpg)
 ______
