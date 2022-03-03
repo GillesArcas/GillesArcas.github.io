@@ -64,7 +64,7 @@ ______
 
 ### J7 - 2 mars - Gainesville (Floride) - 103 km (396 km)
 
-Vingt kilomètres d'une belle voie verte quasiment rectiligne en sous-bois. Puis de la quatre voies et de la deux voies. (En fait, la quatre voies, c'est plutôt mieux, plus de place sur le côté). Et pour finir, encore quinze kilomètres de belle voie verte. 
+Vingt kilomètres d'une belle voie verte quasiment rectiligne en sous-bois. Puis de la grosse quatre voies et de la deux voies dans la campagne. (En fait, la quatre voies, c'est plutôt mieux, plus de place sur le côté). Et pour finir, encore quinze kilomètres de belle voie verte. 
 
 ![](IMG_20220302_121804.jpg)
 ![](IMG_20220302_151928.jpg)
