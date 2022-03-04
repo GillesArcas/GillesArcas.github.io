@@ -79,3 +79,15 @@ Pas de voies vertes aujourd'hui. Un peu de grosses routes et beaucoup de deux vo
 ![](IMG_20220303_115553.jpg)
 ![](IMG_20220303_171947.jpg)
 ______
+[2022/03/04]
+
+### J9 - 4 mars - Suwannee River State Park (Floride) - 92 km (553 km)
+
+Que des petites routes dans la campagne et vent favorable. Arrivé au parc, la ranger (une Philippine) me demande si j'ai réservé. Bien sûr que non mais c'est complet. Comme je suis à vélo, elle me propose quand même un emplacement réservé en cas de problème. Comme l'emplacement est bétonné, elle me dit de vérifier que je peux planter ma tente après la partie bétonnée. Un peu juste et un peu en pente, mais ça passe. Tout ça pour 38,40 dollars. Pas de monnaie et la CB ne passe pas, ça sera 40 dollars. Je lui demande combien de temps avant j'aurais dû réserver et elle me répond que ça peut être des mois avant. OK. Jolie balade le long de la rivière après l’installation.
+
+![](IMG_20220304_094358.jpg)
+![](IMG_20220304_121807.jpg)
+![](IMG_20220304_154435.jpg)
+![](IMG_20220304_161552.jpg)
+![](IMG_20220304_163142.jpg)
+______
