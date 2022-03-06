@@ -91,3 +91,14 @@ Que des petites routes dans la campagne et vent favorable. Arrivé au parc, la r
 ![](IMG_20220304_161552.jpg)
 ![](IMG_20220304_163142.jpg)
 ______
+[2022/03/05]
+
+### J10 - 5 mars - Tallahassee (Floride) - 125 km (678 km)
+
+Grosse deux voies avec peu de circulation et vent favorable jusqu'à Monticello (70 premiers kilomètres). Après petites routes, puis grosses routes moins sympa, surtout à l’arrivée à Tallahassee. La route a obliqué vers le sud-ouest et le vent est moins sympa, plus de montées et descentes aussi. J'ai pris un WarmShowers à la Bicycle House, un endroit associatif qui répare des vélos. Dans ma chambre, matelas par terre et poignées de porte fabriquées avec des guidons de vélo. Les gens sont très sympas.
+
+![](IMG_20220305_113558.jpg)
+![](IMG_20220305_113034.jpg)
+![](IMG_20220305_155323.jpg)
+![](IMG_20220305_171552.jpg)
+______
