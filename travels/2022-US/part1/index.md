@@ -102,3 +102,12 @@ Grosse deux voies avec peu de circulation et vent favorable jusqu'à Monticello 
 ![](IMG_20220305_155323.jpg)
 ![](IMG_20220305_171552.jpg)
 ______
+[2022/03/06]
+
+### J11 - 6 mars - Tallahassee
+
+Jour de repos. Ballade au parc à côté en allant faire des courses. Grosse partie de l'après-midi avec Scott, le propriétaire des lieux, qui me commente la route sur écran géant. Repas du soir avec un autre cycliste qui vient d'arriver et qui va faire la même route que moi.
+
+![](IMG_20220306_135524.jpg)
+![](IMG_20220306_140905.jpg)
+______
