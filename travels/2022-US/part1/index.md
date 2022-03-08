@@ -115,7 +115,7 @@ ______
 
 ### J12 - 7 mars - Carrabelle (Floride) - 95 km (773 km) 
 
-Roue avant à plat au départ. Une fois sorti de la ville, je pars pour quarante kilomètres de voies vertes parfaites. Ensuite, c'est moins bien surtout les quinze derniers kilomètres où il n'y a plus d'accotement. En fait, j'ai traversé la Floride (la presqu’île pas l’état, l’état continue encore très loin vers l'ouest) et je suis arrivé au bord du golfe du Mexique. Je suis hébergé par des amis de Scott de la Bicycle House de Tallahassee.
+Roue avant à plat au départ. Une fois sorti de la ville, je pars pour quarante kilomètres de voies vertes parfaites. Ensuite, c'est moins bien surtout les quinze derniers kilomètres où il n'y a plus d'accotement. En fait, j'ai traversé la Floride (la presqu’île, pas l’état, l’état continue encore vers l'ouest) et je suis arrivé au bord du golfe du Mexique. Je suis hébergé par des amis de Scott de la Bicycle House de Tallahassee.
 
 ![](IMG_20220307_115156.jpg)
 ![](IMG_20220307_152456.jpg)
