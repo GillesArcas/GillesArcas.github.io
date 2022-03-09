@@ -124,7 +124,7 @@ ______
 
 ### J13 - 8 mars - Indian Pass (Floride) - 71 km (844 km) 
 
-Patricia et Michael ont été adorables. Michael tient une boutique de vélo et avant de partir, il règle les freins et les vitesses de mon vélo aux petits oignons. Et comme il fait ça en m'expliquant tout, j'en apprends plus en vingt minutes avec lui qu'en dix ans de vélo. Il m'accompagne ensuite pendant quelques kilomètres. Temps brumeux ce matin, plus dégagé mais quand même grisâtre ensuite. La route suit maintenant la mer, ou pas très loin, et le vent est favorable. Par contre, pluie attendue cette nuit et demain. Réfugié sous la tente sinon attaqué par les petits moucherons qui piquent.
+Patricia et Michael sont adorables. Michael tient une boutique de vélo et avant mon départ, il règle les freins et les vitesses de mon vélo aux petits oignons. Et comme il fait ça en m'expliquant tout, j'en apprends plus en vingt minutes avec lui qu'en dix ans de vélo. Il m'accompagne ensuite pendant quelques kilomètres. Temps brumeux ie matin, plus dégagé mais quand même grisâtre ensuite. La route suit maintenant la mer, ou pas très loin, et le vent est favorable. Par contre, pluie attendue cette nuit et demain. Ce soir, dans un campground. Réfugié sous la tente sinon attaqué par les petits moucherons qui piquent.
 
 ![](IMG_20220308_110733.jpg)
 ![](IMG_20220308_171517.jpg)
