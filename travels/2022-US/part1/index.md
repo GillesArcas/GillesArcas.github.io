@@ -129,3 +129,12 @@ Patricia et Michael sont adorables. Michael tient une boutique de vélo et avant
 ![](IMG_20220308_110733.jpg)
 ![](IMG_20220308_171517.jpg)
 ______
+[2022/03/09]
+
+### J14 - 9 mars - Panama City Beach (Floride) - 98 km (942 km) 
+
+Un peu de pluie pendant la nuit mais départ au sec. À 10 heures, la pluie arrive à l'heure prévue. Au bout de quelques instants, c'est un déluge qui va durer une demi-heure. Heureusement, j'ai pu m'abriter. Ensuite, il va pleuvoir plus ou moins jusqu'au soir. Heureusement, il ne fait pas froid et c'est pas trop la misère. Scott et Michael m'avaient prévenu tous les deux que Panama City n’était pas très fréquentable et de rester sur la highway. C’est ce que je fais mais c'est une route énorme et pas sympa (deux fois quatre voies à un moment). Opération séchage dans la chambre du motel en arrivant.
+
+![](IMG_20220309_095816.jpg)
+![](IMG_20220309_155139.jpg)
+______
