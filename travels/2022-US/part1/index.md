@@ -138,3 +138,14 @@ Un peu de pluie pendant la nuit mais départ au sec. À 10 heures, la pluie arri
 ![](IMG_20220309_095816.jpg)
 ![](IMG_20220309_155139.jpg)
 ______
+[2022/03/10]
+
+### J15 - 10 mars - Fort Walton Beach (Floride) - 88 km (1030 km) 
+
+J'ai réalisé hier soir qu'il y a un changement de fuseau horaire au milieu de la Floride, donc une heure de plus de décalage. Panama City Beach n'est pas exactement une petite station balnéaire. Grosses routes, buildings tout du long du front de mer et attractions gigantesques. Assez pénible d'en sortir. Après, ça va mieux et une grosse partie de la journée se passe sur une piste cyclable qui longe la route. En WarmShowers chez Tyler et Christina. Tyler me recommande d'aller voir le coucher de soleil sur la plage juste à coté. C’était une bonne idée ! Bien meilleur temps aujourd'hui, pluie annoncée pour demain.
+
+![](IMG_20220310_100450.jpg)
+![](IMG_20220310_151945.jpg)
+![](IMG_20220310_153329.jpg)
+![](IMG_20220310_174734.jpg)
+______
