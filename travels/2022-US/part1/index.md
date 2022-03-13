@@ -160,3 +160,12 @@ Pluie le matin, j'attends 13h30 pour laisser passer la dernière averse. Premiè
 ![](IMG_20220311_161711.jpg)
 ![](IMG_20220311_165933.jpg)
 ______
+[2022/03/12]
+
+### J16 - 12 mars - Pensacola
+
+Jour de repos forcé. Beaucoup de vent, la température a chuté, 10º dans l'après-midi, 1º prévu cette nuit. Je n'ai pas trouvé d’hébergement en dur sur la route et je ne suis pas équipé pour passer une nuit sous la tente avec cette température. Je passe donc une journée et une nuit de plus dans mon Airbnb russe (Victor a son gamin et je les entends parler russe). Ça doit être mieux demain.
+
+![](IMG_20220312_153826.jpg)
+![](IMG_20220312_165235.jpg)
+______
