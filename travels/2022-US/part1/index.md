@@ -162,10 +162,23 @@ Pluie le matin, j'attends 13h30 pour laisser passer la dernière averse. Premiè
 ______
 [2022/03/12]
 
-### J16 - 12 mars - Pensacola
+### J17 - 12 mars - Pensacola
 
 Jour de repos forcé. Beaucoup de vent, la température a chuté, 10º dans l'après-midi, 1º prévu cette nuit. Je n'ai pas trouvé d’hébergement en dur sur la route et je ne suis pas équipé pour passer une nuit sous la tente avec cette température. Je passe donc une journée et une nuit de plus dans mon Airbnb russe (Victor a son gamin et je les entends parler russe). Ça doit être mieux demain.
 
 ![](IMG_20220312_153826.jpg)
 ![](IMG_20220312_165235.jpg)
 ______
+[2022/03/13]
+
+### J18 - 13 mars - Dauphin Island (Alabama) - 94 km (1193 km) 
+
+10º au réveil dans la maison. Pas mal de grosses routes, toujours avec accotement, et de la voie verte. Température supportable et vent favorable. Une demi-heure de ferry pour arriver dans l’île où je rejoins un WarmShowers. La maison est sur pilotis (comme beaucoup) et je campe sous la maison.
+
+![](IMG_20220313_122627.jpg)
+![](IMG_20220313_123944.jpg)
+![](IMG_20220313_131401.jpg)
+![](IMG_20220313_161454.jpg)
+![](IMG_20220313_175104.jpg)
+______
+
