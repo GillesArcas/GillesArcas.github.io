@@ -181,4 +181,15 @@ ______
 ![](IMG_20220313_161454.jpg)
 ![](IMG_20220313_175104.jpg)
 ______
+[2022/03/14]
+
+### J19 - 14 mars - Pascagoula (Mississippi) - 72 km (1265 km) 
+
+Tente secouée par le vent au petit matin. Ça se calme dans la journée et de toute façon, il va dans le bon sens. Sortie de l’île par un pont très long. Je m’arrête au bout du pont faire des photos et je suis rejoint par Czarina puis Matt. On avait partagé le même WarmShowers à Panama City Beach. Ils suivent la même route que moi, mais eux sont partis depuis huit mois et font le tour des États-Unis. Routes de toutes les tailles pour arriver ici (de la quatre voies à la petite route de campagne).
+
+![](IMG_20220314_103235.jpg)
+![](IMG_20220314_120010.jpg)
+![](IMG_20220314_121527.jpg)
+![](IMG_20220314_134529.jpg)
+______
 
