@@ -192,4 +192,21 @@ Tente secouée par le vent au petit matin. Ça se calme dans la journée et de t
 ![](IMG_20220314_121527.jpg)
 ![](IMG_20220314_134529.jpg)
 ______
+[2022/03/15]
+
+Le propriétaire de la maison où j'ai campé sur Dauphin Island était absent, mais il m'avait prévenu que je ne serai pas seul. Effectivement, j'arrive un peu après une famille à qui j'explique que je vais camper sous la maison avec WarmShowers. Pas de soucis et ils me demandent si j'ai besoin de quelque chose. Dans la soirée, le monsieur viendra même m'offrir une bière. Le matin, j'ai eu un peu plus le temps de discuter avec lui et avec son fils Sawyer. Thanks a lot, Kyle!
+
+![](275631858_548151713170717_5118038596579324927_n.jpg)
+______
+[2022/03/15]
+
+### J20 - 15 mars - Bay Saint Louis (Mississippi) - 93 km (1358 km) 
+
+Grosses pluies ce matin qui se terminent à 11h, l'heure où je dois quitter le motel. Ça tombe bien. Grosse route pour commencer (une six voies pittoresque) puis traversée de Ocean Springs (station balnéaire à taille humaine) puis de Biloxi (station balnéaire que des buildings). Ensuite, ça continue par des kilomètres et des kilomètres de plages immenses longées sans intermédiaire par une quatre voies. Le vent est devenu moins sympa, surtout le long des plages (11 km/h dans les plus mauvais moments). 
+
+![](IMG_20220315_084828.jpg)
+![](IMG_20220315_141315.jpg)
+![](IMG_20220315_141752.jpg)
+![](IMG_20220315_142743.jpg)
+______
 
