@@ -202,11 +202,22 @@ ______
 
 ### J20 - 15 mars - Bay Saint Louis (Mississippi) - 93 km (1358 km) 
 
-Grosses pluies ce matin qui se terminent à 11h, l'heure où je dois quitter le motel. Ça tombe bien. Grosse route pour commencer (une six voies pittoresque) puis traversée de Ocean Springs (station balnéaire à taille humaine) puis de Biloxi (station balnéaire que des buildings). Ensuite, ça continue par des kilomètres et des kilomètres de plages immenses longées sans intermédiaire par une quatre voies. Le vent est devenu moins sympa, surtout le long des plages (11 km/h dans les plus mauvais moments). 
+Grosses pluies ce matin qui se terminent à 11h, l'heure où je dois quitter le motel. Ça tombe bien. Grosse route pour commencer (une six voies pittoresque avec accotement confortable) puis traversée de Ocean Springs (station balnéaire à taille humaine) puis de Biloxi (station balnéaire que des buildings). Ensuite, ça continue par des kilomètres et des kilomètres de plages immenses longées sans intermédiaire par une quatre voies. Le vent est devenu moins sympa, surtout le long des plages (je roule à 11 km/h dans les plus mauvais moments). 
 
 ![](IMG_20220315_084828.jpg)
 ![](IMG_20220315_141315.jpg)
 ![](IMG_20220315_141752.jpg)
 ![](IMG_20220315_142743.jpg)
+______
+[2022/03/16]
+
+### J21 - 16 mars - Nouvelle-Orléans (Louisiane) - 105 km (1463 km) 
+
+Quarante premiers kilomètres en deux lignes droites (à peu près) pour arriver en Louisiane. Ensuite, je traverse une région de lacs avec de l'eau jamais très loin des deux cotés de la route. Arrivé à la Nouvelle-Orléans, je rejoins une proposition de WarmShowers. C'est loin du centre, dans une zone un peu limite et ça tient plutôt du squat occupé par des marginaux. Je me vois mal traverser la zone de nuit après une sortie en ville et je finis par réserver dans une auberge. Première sortie dans le centre pour aller manger. Effectivement, il y a de l'ambiance.
+
+![](IMG_20220316_114744.jpg)
+![](IMG_20220316_132359.jpg)
+![](IMG_20220316_140242.jpg)
+![](IMG_20220316_165609.jpg)
 ______
 
