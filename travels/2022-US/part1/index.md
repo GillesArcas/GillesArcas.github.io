@@ -220,4 +220,20 @@ Quarante premiers kilomètres en deux lignes droites (à peu près) pour arriver
 ![](IMG_20220316_140242.jpg)
 ![](IMG_20220316_165609.jpg)
 ______
+[2022/03/17]
+
+La route jusque là. Résumé des chapitres précédents en https://gillesarcas.github.io/travels/2022-US/part1/ et carte au jour le jour en https://gilles-arcas.travelmap.net/ .
+
+![](route-2022-03-16.jpg)
+______
+[2022/03/17]
+
+Ambiances.
+
+![](IMG_20220317_135638.jpg)
+![](IMG_20220317_144342.jpg)
+![](IMG_20220317_150254.jpg)
+[](VID_20220317_215849-640.mp4)
+______
+
 
