@@ -235,5 +235,16 @@ Ambiances.
 ![](IMG_20220317_150254.jpg)
 [](VID_20220317_215849-640.mp4)
 ______
+[2022/03/18]
+______
+[2022/03/19]
+
+Visite du musée du vaudou (qui mélange le vaudou avec ce tout ce qui vient d'Afrique plus un peu de new age) et balade en hydroglisseur dans le bayou pour aller voir les alligators. Mais la balade sur le Mississippi a été annulée. Ça sera pour la prochaine fois.
+
+![](IMG_20220318_140913.jpg)
+![](IMG_20220318_141305.jpg)
+![](IMG_20220319_122401-crop.jpg)
+![](IMG_20220319_125511-crop.jpg)
+______
 
 
