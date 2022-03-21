@@ -246,5 +246,16 @@ Visite du musée du vaudou (qui mélange le vaudou avec ce tout ce qui vient d'A
 ![](IMG_20220319_122401-crop.jpg)
 ![](IMG_20220319_125511-crop.jpg)
 ______
+[2022/03/20]
+
+### J25 - 20 mars - Convent (Louisiane) - 99 km (1562 km) 
+
+Soixante dix kilomètres de voie cyclable tracée sur une grosse digue qui longe le Mississippi. Très agréable, en plus le vent est favorable. La voie est interrompue sur quelques centaines de mètres où il faut suivre une route traversant un déversoir. Il y a un panneau "Route fermée" mais ça passe quand même. L'eau déborde sur la route et effectivement, ça doit être coupé facilement. Campement dans un RV park. RV c'est pour Recreational Vehicule, en fait tout ce qui est caravane et mobile home (qui sont souvent gros comme un autobus). Le bonhomme de l'accueil a l'air un peu embêté et me dit qu'il n'a jamais eu à faire payer pour une tente. Il me demande combien j'ai payé ailleurs et me propose dix dollars. Il conclut en me répétant "I don't see any problem with you". 
+
+![](IMG_20220320_101544.jpg)
+![](IMG_20220320_112247.jpg)
+![](IMG_20220320_125746.jpg)
+![](IMG_20220320_155912.jpg)
+______
 
 
