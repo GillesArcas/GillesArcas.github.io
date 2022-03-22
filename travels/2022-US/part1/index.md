@@ -250,12 +250,21 @@ ______
 
 ### J25 - 20 mars - Convent (Louisiane) - 99 km (1562 km) 
 
-Soixante dix kilomètres de voie cyclable tracée sur une grosse digue qui longe le Mississippi. Très agréable, en plus le vent est favorable. La voie est interrompue sur quelques centaines de mètres où il faut suivre une route traversant un déversoir. Il y a un panneau "Route fermée" mais ça passe quand même. L'eau déborde sur la route et effectivement, ça doit être coupé facilement. Campement dans un RV park. RV c'est pour Recreational Vehicule, en fait tout ce qui est caravane et mobile home (qui sont souvent gros comme un autobus). Le bonhomme de l'accueil a l'air un peu embêté et me dit qu'il n'a jamais eu à faire payer pour une tente. Il me demande combien j'ai payé ailleurs et me propose dix dollars. Il conclut en me répétant "I don't see any problem with you". 
+Soixante dix kilomètres de voie cyclable tracée sur une grosse digue qui longe le Mississippi. Très agréable, en plus le vent est favorable. La voie est interrompue sur quelques centaines de mètres où il faut suivre une route traversant un déversoir. Il y a un panneau "Route fermée" mais ça passe quand même. L'eau déborde sur la route et effectivement, ça doit être coupé facilement. Campement dans un RV park. RV c'est pour Recreational Vehicule, en fait tout ce qui est caravane et mobile home (qui sont souvent gros comme un autobus). Le bonhomme de l'accueil a l'air un peu embêté et me dit qu'il n'a jamais eu à faire payer pour une tente. Il me demande combien j'ai payé ailleurs et me propose dix dollars. Il conclut en répétant "I don't see any problem with you". 
 
 ![](IMG_20220320_101544.jpg)
 ![](IMG_20220320_112247.jpg)
 ![](IMG_20220320_125746.jpg)
 ![](IMG_20220320_155912.jpg)
 ______
+[2022/03/20]
 
+### J26 - 21 mars - Baton Rouge (Louisiane) - 109 km (1671 km) 
 
+Cinquante premiers kilomètres en suivant le Mississippi mais cette fois en bas de la digue et on ne voit plus le fleuve. Vent globalement favorable et ma vitesse passe du simple au double en fonction des méandres. Après 50 km, la route coupe un méandre. Je vois un panneau route fermée, je pousse un peu quand même, mais là, ça ne passe pas. Demi-tour et je suis la route qui fait le tour du méandre. Pas de chance, route coupée et je n'insiste pas. Résultat, 15 km de détour. En y repensant, j'ai dû voir des panneaux de déviation en me disant que ça ne devait pas être pour moi. Une fois sur la bonne route, crevaison. J'allais vite vent dans le dos et j'ai roulé sur un tube en ferraille. Avec tout ça, j'avais réservé un Airbnb, confirmé et encaissé, mais quand je lui demande les instructions pour rentrer, il me répond "Pas disponible" et fait le mort ensuite. Apres appel à Airbnb, la réservation est annulée, je serai remboursé et je trouve un motel 10 km plus loin. Ça fait une bonne journée ! Demain, pluie annoncée.
+
+![](IMG_20220321_133857.jpg)
+![](IMG_20220321_135833.jpg)
+![](IMG_20220321_142855.jpg)
+![](IMG_20220321_173618.jpg)
+______
