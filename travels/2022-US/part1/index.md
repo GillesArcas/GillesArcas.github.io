@@ -54,7 +54,7 @@ ______
 
 ### J6 - 1er mars - Palatka (Floride) - 50 km (293 km)
 
-Départ tôt (8h), Dan doit changer de marina. Étape courte (avec un bout de vraie voie verte ) et vent favorable. Du coup, je fais tout mon possible pour traîner en route et arriver à 1pm pour rentrer dans mon logement. 
+Départ tôt (8h), Dan doit changer de marina. Étape courte (avec un bout de vraie voie verte ) et vent favorable. Du coup, je fais tout mon possible pour traîner en route et arriver à 1pm pour rentrer dans mon logement.
 
 ![](IMG_20220301_100158.jpg)
 ![](IMG_20220301_111940.jpg)
@@ -64,7 +64,7 @@ ______
 
 ### J7 - 2 mars - Gainesville (Floride) - 103 km (396 km)
 
-Vingt kilomètres d'une belle voie verte quasiment rectiligne en sous-bois. Puis de la grosse quatre voies et de la deux voies dans la campagne. (En fait, la quatre voies, c'est plutôt mieux, plus de place sur le côté). Et pour finir, encore quinze kilomètres de belle voie verte. 
+Vingt kilomètres d'une belle voie verte quasiment rectiligne en sous-bois. Puis de la grosse quatre voies et de la deux voies dans la campagne. (En fait, la quatre voies, c'est plutôt mieux, plus de place sur le côté). Et pour finir, encore quinze kilomètres de belle voie verte.
 
 ![](IMG_20220302_121804.jpg)
 ![](IMG_20220302_151928.jpg)
@@ -113,7 +113,7 @@ Jour de repos. Ballade au parc à côté en allant faire des courses. Grosse par
 ______
 [2022/03/07]
 
-### J12 - 7 mars - Carrabelle (Floride) - 95 km (773 km) 
+### J12 - 7 mars - Carrabelle (Floride) - 95 km (773 km)
 
 Roue avant à plat au départ. Une fois sorti de la ville, je pars pour quarante kilomètres de voies vertes parfaites. Ensuite, c'est moins bien surtout les quinze derniers kilomètres où il n'y a plus d'accotement. En fait, j'ai traversé la Floride (la presqu’île, pas l’état, l’état continue encore vers l'ouest) et je suis arrivé au bord du golfe du Mexique. Je suis hébergé par des amis de Scott de la Bicycle House de Tallahassee.
 
@@ -122,7 +122,7 @@ Roue avant à plat au départ. Une fois sorti de la ville, je pars pour quarante
 ______
 [2022/03/08]
 
-### J13 - 8 mars - Indian Pass (Floride) - 71 km (844 km) 
+### J13 - 8 mars - Indian Pass (Floride) - 71 km (844 km)
 
 Patricia et Michael sont adorables. Michael tient une boutique de vélo et avant mon départ, il règle les freins et les vitesses de mon vélo aux petits oignons. Et comme il fait ça en m'expliquant tout, j'en apprends plus en vingt minutes avec lui qu'en dix ans de vélo. Il m'accompagne ensuite pendant quelques kilomètres. Temps brumeux ie matin, plus dégagé mais quand même grisâtre ensuite. La route suit maintenant la mer, ou pas très loin, et le vent est favorable. Par contre, pluie attendue cette nuit et demain. Ce soir, dans un campground. Réfugié sous la tente sinon attaqué par les petits moucherons qui piquent.
 
@@ -131,7 +131,7 @@ Patricia et Michael sont adorables. Michael tient une boutique de vélo et avant
 ______
 [2022/03/09]
 
-### J14 - 9 mars - Panama City Beach (Floride) - 98 km (942 km) 
+### J14 - 9 mars - Panama City Beach (Floride) - 98 km (942 km)
 
 Un peu de pluie pendant la nuit mais départ au sec. À 10 heures, la pluie arrive à l'heure prévue. Au bout de quelques instants, c'est un déluge qui va durer une demi-heure. Heureusement, j'ai pu m'abriter. Ensuite, il va pleuvoir plus ou moins jusqu'au soir. Heureusement, il ne fait pas froid et c'est pas trop la misère. Scott et Michael m'avaient prévenu tous les deux que Panama City n’était pas très fréquentable et de rester sur la highway. C’est ce que je fais mais c'est une route énorme et pas sympa (deux fois quatre voies à un moment). Opération séchage dans la chambre du motel en arrivant.
 
@@ -140,7 +140,7 @@ Un peu de pluie pendant la nuit mais départ au sec. À 10 heures, la pluie arri
 ______
 [2022/03/10]
 
-### J15 - 10 mars - Fort Walton Beach (Floride) - 88 km (1030 km) 
+### J15 - 10 mars - Fort Walton Beach (Floride) - 88 km (1030 km)
 
 J'ai réalisé hier soir qu'il y a un changement de fuseau horaire au milieu de la Floride, donc une heure de plus de décalage. Panama City Beach n'est pas exactement une petite station balnéaire. Grosses routes, buildings tout du long du front de mer et attractions gigantesques. Assez pénible d'en sortir. Après, ça va mieux et une grosse partie de la journée se passe sur une piste cyclable qui longe la route. En WarmShowers chez Tyler et Christina. Tyler me recommande d'aller voir le coucher de soleil sur la plage juste à coté. C’était une bonne idée ! Bien meilleur temps aujourd'hui, pluie annoncée pour demain.
 
@@ -151,7 +151,7 @@ J'ai réalisé hier soir qu'il y a un changement de fuseau horaire au milieu de 
 ______
 [2022/03/11]
 
-### J16 - 11 mars - Pensacola (Floride) - 69 km (1099 km) 
+### J16 - 11 mars - Pensacola (Floride) - 69 km (1099 km)
 
 Pluie le matin, j'attends 13h30 pour laisser passer la dernière averse. Première partie sur une quatre voies avec vent dans le dos. Deuxième partie sur une presqu’île étroite, en sable, la mer des deux côtés, et rien de construit sur des kilomètres. Malheureusement, ça se termine soudainement et curieusement par une résidence de plusieurs buildings de vingt étages. Ensuite, pour arriver à Pensacola, il faut passer un pont. Il a été abîmé par un ouragan et est en travaux. Selon les avis, il est ouvert ou fermé. Si il est fermé, c’est un détour de 70 kilomètres. Arrivé au début du pont, je constate que les voitures circulent mais que les voies piétons et vélos sont fermées, qu’il n'y a pas d'accotement et que le trafic est intense (c'est l'heure de pointe). Un peu embêté, je demande à quelqu'un comment on peut traverser. Après quelques explications, il me propose de mettre le vélo dans sa voiture et de m'emmener de l’autre coté. Reconnaissance infinie. En Airbnb sur le canapé du salon d'une maison partagée (21$, ça va). Le proprio, Victor est russe, ravagé par la guerre (il a des parents en Russie et en Ukraine, ses économies en roubles se sont effondrées) et il vient de perdre son chien renversé par une voiture. Pas au mieux de sa forme.
 
@@ -171,7 +171,7 @@ Jour de repos forcé. Beaucoup de vent, la température a chuté, 10º dans l'ap
 ______
 [2022/03/13]
 
-### J18 - 13 mars - Dauphin Island (Alabama) - 94 km (1193 km) 
+### J18 - 13 mars - Dauphin Island (Alabama) - 94 km (1193 km)
 
 10º au réveil dans la maison. Pas mal de grosses routes, toujours avec accotement, et de la voie verte. Température supportable et vent favorable. Une demi-heure de ferry pour arriver dans l’île où je rejoins un WarmShowers. La maison est sur pilotis (comme beaucoup) et je campe sous la maison.
 
@@ -183,7 +183,7 @@ ______
 ______
 [2022/03/14]
 
-### J19 - 14 mars - Pascagoula (Mississippi) - 72 km (1265 km) 
+### J19 - 14 mars - Pascagoula (Mississippi) - 72 km (1265 km)
 
 Tente secouée par le vent au petit matin. Ça se calme dans la journée et de toute façon, il va dans le bon sens. Sortie de l’île par un pont très long. Je m’arrête au bout du pont faire des photos et je suis rejoint par Czarina puis Matt. On avait partagé le même WarmShowers à Panama City Beach. Ils suivent la même route que moi, mais eux sont partis depuis huit mois et font le tour des États-Unis. Routes de toutes les tailles pour arriver ici (de la quatre voies à la petite route de campagne).
 
@@ -200,9 +200,9 @@ Le propriétaire de la maison où j'ai campé sur Dauphin Island était absent, 
 ______
 [2022/03/15]
 
-### J20 - 15 mars - Bay Saint Louis (Mississippi) - 93 km (1358 km) 
+### J20 - 15 mars - Bay Saint Louis (Mississippi) - 93 km (1358 km)
 
-Grosses pluies ce matin qui se terminent à 11h, l'heure où je dois quitter le motel. Ça tombe bien. Grosse route pour commencer (une six voies pittoresque avec accotement confortable) puis traversée de Ocean Springs (station balnéaire à taille humaine) puis de Biloxi (station balnéaire que des buildings). Ensuite, ça continue par des kilomètres et des kilomètres de plages immenses longées sans intermédiaire par une quatre voies. Le vent est devenu moins sympa, surtout le long des plages (je roule à 11 km/h dans les plus mauvais moments). 
+Grosses pluies ce matin qui se terminent à 11h, l'heure où je dois quitter le motel. Ça tombe bien. Grosse route pour commencer (une six voies pittoresque avec accotement confortable) puis traversée de Ocean Springs (station balnéaire à taille humaine) puis de Biloxi (station balnéaire que des buildings). Ensuite, ça continue par des kilomètres et des kilomètres de plages immenses longées sans intermédiaire par une quatre voies. Le vent est devenu moins sympa, surtout le long des plages (je roule à 11 km/h dans les plus mauvais moments).
 
 ![](IMG_20220315_084828.jpg)
 ![](IMG_20220315_141315.jpg)
@@ -211,7 +211,7 @@ Grosses pluies ce matin qui se terminent à 11h, l'heure où je dois quitter le 
 ______
 [2022/03/16]
 
-### J21 - 16 mars - Nouvelle-Orléans (Louisiane) - 105 km (1463 km) 
+### J21 - 16 mars - Nouvelle-Orléans (Louisiane) - 105 km (1463 km)
 
 Quarante premiers kilomètres en deux lignes droites (à peu près) pour arriver en Louisiane. Ensuite, je traverse une région de lacs avec de l'eau jamais très loin des deux cotés de la route. Arrivé à la Nouvelle-Orléans, je rejoins une proposition de WarmShowers. C'est loin du centre, dans une zone un peu limite et ça tient plutôt du squat occupé par des marginaux. Je me vois mal traverser la zone de nuit après une sortie en ville et je finis par réserver dans une auberge. Première sortie dans le centre pour aller manger. Effectivement, il y a de l'ambiance.
 
@@ -248,23 +248,31 @@ Visite du musée du vaudou (qui mélange le vaudou avec ce tout ce qui vient d'A
 ______
 [2022/03/20]
 
-### J25 - 20 mars - Convent (Louisiane) - 99 km (1562 km) 
+### J25 - 20 mars - Convent (Louisiane) - 99 km (1562 km)
 
-Soixante dix kilomètres de voie cyclable tracée sur une grosse digue qui longe le Mississippi. Très agréable, en plus le vent est favorable. La voie est interrompue sur quelques centaines de mètres où il faut suivre une route traversant un déversoir. Il y a un panneau "Route fermée" mais ça passe quand même. L'eau déborde sur la route et effectivement, ça doit être coupé facilement. Campement dans un RV park. RV c'est pour Recreational Vehicule, en fait tout ce qui est caravane et mobile home (qui sont souvent gros comme un autobus). Le bonhomme de l'accueil a l'air un peu embêté et me dit qu'il n'a jamais eu à faire payer pour une tente. Il me demande combien j'ai payé ailleurs et me propose dix dollars. Il conclut en répétant "I don't see any problem with you". 
+Soixante dix kilomètres de voie cyclable tracée sur une grosse digue qui longe le Mississippi. Très agréable, en plus le vent est favorable. La voie est interrompue sur quelques centaines de mètres où il faut suivre une route traversant un déversoir. Il y a un panneau "Route fermée" mais ça passe quand même. L'eau déborde sur la route et effectivement, ça doit être coupé facilement. Campement dans un RV park. RV c'est pour Recreational Vehicule, en fait tout ce qui est caravane et mobile home (qui sont souvent gros comme un autobus). Le bonhomme de l'accueil a l'air un peu embêté et me dit qu'il n'a jamais eu à faire payer pour une tente. Il me demande combien j'ai payé ailleurs et me propose dix dollars. Il conclut en répétant "I don't see any problem with you".
 
 ![](IMG_20220320_101544.jpg)
 ![](IMG_20220320_112247.jpg)
 ![](IMG_20220320_125746.jpg)
 ![](IMG_20220320_155912.jpg)
 ______
-[2022/03/20]
+[2022/03/21]
 
-### J26 - 21 mars - Baton Rouge (Louisiane) - 109 km (1671 km) 
+### J26 - 21 mars - Baton Rouge (Louisiane) - 109 km (1671 km)
 
-Cinquante premiers kilomètres en suivant le Mississippi mais cette fois en bas de la digue et on ne voit plus le fleuve. Vent globalement favorable et ma vitesse passe du simple au double en fonction des méandres. Après 50 km, la route coupe un méandre. Je vois un panneau route fermée, je pousse un peu quand même, mais là, ça ne passe pas. Demi-tour et je suis la route qui fait le tour du méandre. Pas de chance, route coupée et je n'insiste pas. Résultat, 15 km de détour. En y repensant, j'ai dû voir des panneaux de déviation en me disant que ça ne devait pas être pour moi. Une fois sur la bonne route, crevaison. J'allais vite vent dans le dos et j'ai roulé sur un tube en ferraille. Avec tout ça, j'avais réservé un Airbnb, confirmé et encaissé, mais quand je lui demande les instructions pour rentrer, il me répond "Pas disponible" et fait le mort ensuite. Apres appel à Airbnb, la réservation est annulée, je serai remboursé et je trouve un motel 10 km plus loin. Ça fait une bonne journée ! Demain, pluie annoncée.
+Cinquante premiers kilomètres en suivant le Mississippi mais cette fois en bas de la digue et on ne voit plus le fleuve. Vent globalement favorable et ma vitesse passe du simple au double en fonction des méandres. Après 50 km, la route coupe un méandre. Je vois un panneau route fermée, je pousse un peu quand même, mais là, ça ne passe pas. Demi-tour et je suis la route qui fait le tour du méandre. Pas de chance, route coupée et je n'insiste pas. Résultat, 15 km de détour. En y repensant, j'ai dû voir des panneaux de déviation en me disant que ça ne devait pas être pour moi. Une fois sur la bonne route, crevaison. J'allais vite vent dans le dos et j'ai roulé sur un tube en ferraille. Avec tout ça, j'avais réservé un Airbnb, confirmé et encaissé, mais quand je lui demande les instructions pour rentrer, il me répond "Pas disponible" et fait le mort ensuite. Après appel à Airbnb, la réservation est annulée, je serai remboursé et je trouve un motel 10 km plus loin. Ça fait une bonne journée ! Demain, pluie annoncée.
 
 ![](IMG_20220321_133857.jpg)
 ![](IMG_20220321_135833.jpg)
 ![](IMG_20220321_142855.jpg)
 ![](IMG_20220321_173618.jpg)
+______
+[2022/03/22]
+
+### J27 - 22 mars - Baton Rouge
+
+Pluie et orage prévus dans l’après-midi et dans la nuit. En principe, je campe à la prochaine étape et je ne suis pas trop chaud pour me prendre l'orage en roulant puis sous la tente, alors je prends une deuxième nuit au motel. Journée à buller, à réparer mes chambres à air et préparer les étapes suivantes.
+
+![](IMG_20220322_165216.jpg)
 ______
