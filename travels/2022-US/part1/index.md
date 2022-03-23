@@ -276,3 +276,15 @@ Pluie et orage prévus dans l’après-midi et dans la nuit. En principe, je cam
 
 ![](IMG_20220322_165216.jpg)
 ______
+[2022/03/23]
+
+### J28 - 23 mars - Morganza (Louisiane) - 87 km (1758 km)
+
+Première moitie sur de la grosse route toute droite, deuxième moitié sur de la route un peu moins grosse et un peu moins droite. Entre les deux, un pont au-dessus du Mississippi et un bout de route dans la forêt avec un peu de dénivelé. Vent pas sympa. À un moment, un vélo s'est mis à ma hauteur. C’était un jeune qui faisait le même route que moi mais qui faisait plus de 200 km par jour en moyenne. On a discuté trois minutes, on s'est souhaité bonne route et je l'ai vu s’éloigner.
+
+
+![](IMG_20220323_101800.jpg)
+![](IMG_20220323_121320.jpg)
+![](IMG_20220323_141651.jpg)
+![](IMG_20220323_150602.jpg)
+______
