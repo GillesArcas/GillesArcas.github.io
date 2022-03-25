@@ -288,3 +288,14 @@ Première moitie sur de la grosse route toute droite, deuxième moitié sur de l
 ![](IMG_20220323_141651.jpg)
 ![](IMG_20220323_150602.jpg)
 ______
+[2022/03/24]
+
+### J29 - 24 mars - Marksville (Louisiane) - 94 km (1852 km)
+
+7º dans la nuit sous la tente. Je dors avec à peu près tout ce que j'ai comme vêtements. Par contre, le matin, la température est vite remontée. Paysage très rural maintenant : petites routes, prés, champs, bétail, chiens (je me suis fait coursé). Arrivé à ma destination initiale (Simmesport), je voulais dormir dans un des parcs de la ville. Quand c'est possible, il faut aller à la mairie demander une autorisation. Mais le parc est un peu à l'écart, les emplacements sont face à la route. Ça plus le froid dans la nuit, j'opte pour le motel. Celui de la ville est plein mais le gars m'explique qu'il y a quatre motels dans la ville suivante. Je comprends 8 miles (12 km) et c'est sur ma route, pas de soucis. Mais c'est la ville d’après et plutôt 20 miles. Pas grave, je trouve un motel et je vais dormir au chaud.
+
+![](IMG_20220324_123620.jpg)
+![](IMG_20220324_124705.jpg)
+![](IMG_20220324_124712.jpg)
+![](IMG_20220324_141512.jpg)
+______
