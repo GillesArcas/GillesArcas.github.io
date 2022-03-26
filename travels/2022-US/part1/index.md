@@ -299,3 +299,13 @@ ______
 ![](IMG_20220324_124712.jpg)
 ![](IMG_20220324_141512.jpg)
 ______
+[2022/03/25]
+
+### J30 - 25 mars - Ville Platte (Louisiane) - 91 km (1943 km)
+
+Même paysage qu'hier. Plat et rural. Il y a des maisons tout du long de la route, espacées mais il y a toujours une maison en vue. A un moment, une voiture qui me croise s’arrête à ma hauteur et le conducteur me souhaite bienvenue en Louisiane d'un air jovial. Quand je lui dis que je suis français, il me répond que son nom de famille est Cher Ami et il me resouhaite la bienvenue. Le campement au Chicot State Park est complet. Le truc qu'il y a toujours une place pour les cyclistes ne marche pas ici. Ça sera encore motel (46$, prestations à l'avenant). Pas plus mal, il commence à faire chaud le jour, mais toujours aussi froid la nuit. 
+
+![](IMG_20220325_111145.jpg)
+![](IMG_20220325_125537.jpg)
+![](IMG_20220325_143510.jpg)
+______
