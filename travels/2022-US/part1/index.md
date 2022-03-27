@@ -301,11 +301,21 @@ ______
 ______
 [2022/03/25]
 
-### J30 - 25 mars - Ville Platte (Louisiane) - 91 km (1943 km)
+### J30 - 25 mars - Ville Platte (avec 2 t)(Louisiane) - 91 km (1943 km)
 
-Même paysage qu'hier. Plat et rural. Il y a des maisons tout du long de la route, espacées mais il y a toujours une maison en vue. A un moment, une voiture qui me croise s’arrête à ma hauteur et le conducteur me souhaite bienvenue en Louisiane d'un air jovial. Quand je lui dis que je suis français, il me répond que son nom de famille est Cher Ami et il me resouhaite la bienvenue. Le campement au Chicot State Park est complet. Le truc qu'il y a toujours une place pour les cyclistes ne marche pas ici. Ça sera encore motel (46$, prestations à l'avenant). Pas plus mal, il commence à faire chaud le jour, mais toujours aussi froid la nuit. 
+Même paysage qu'hier. Plat et rural. Il y a des maisons tout du long de la route, espacées mais il y a toujours une maison en vue. A un moment, une voiture qui me croise s’arrête à ma hauteur et le conducteur me souhaite bienvenue en Louisiane d'un air jovial. Quand je lui dis que je suis français, il me répond que son nom de famille est Cher Ami et il me resouhaite la bienvenue. Le campement au Chicot State Park est complet. Le truc qu'il y a toujours une place pour les cyclistes ne marche pas ici. Ça sera encore motel (46$, prestations à l'avenant). Pas plus mal, il commence à faire chaud le jour, mais toujours aussi froid la nuit.
 
 ![](IMG_20220325_111145.jpg)
 ![](IMG_20220325_125537.jpg)
 ![](IMG_20220325_143510.jpg)
+______
+[2022/03/26]
+
+### J31 - 26 mars - Oberlin (Louisiane) - 61 km (2004 km)
+
+Encore plus plat qu'hier. Des petites routes, moins de maisons et des prés à écrevisses (des prés inondés où les gens posent des nasses et les ramassent avec des petits bateaux avec une roue à aube). Avec WarmShowers, j’ai eu l'autorisation de camper dans un petit parc à la sortie de la ville. Un peu bizarre comme sensation.
+
+![](IMG_20220326_140030.jpg)
+![](IMG_20220326_142432.jpg)
+![](IMG_20220326_190848.jpg)
 ______
