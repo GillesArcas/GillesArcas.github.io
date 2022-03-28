@@ -319,3 +319,13 @@ Encore plus plat qu'hier. Des petites routes, moins de maisons et des prés à �
 ![](IMG_20220326_142432.jpg)
 ![](IMG_20220326_190848.jpg)
 ______
+[2022/03/27]
+
+### J32 - 27 mars - Merryville (Louisiane) - 90 km (2094 km)
+
+Changement de paysage. Un peu d'ondulations, moins de maisons, fin des écrevisses mais des forêts de pins. Route pas trop passante, avec un accotement aussi large que la route mais un peu de vent globalement pas sympa. Encore un WarmShowers, cette fois dans une cabine sur le terrain du petit musée de la ville. C'est tout mignon et bien équipé. Parfait !
+
+![](IMG_20220327_155025.jpg)
+![](IMG_20220327_173755.jpg)
+![](IMG_20220327_175231.jpg)
+______
