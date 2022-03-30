@@ -329,3 +329,14 @@ Changement de paysage. Un peu d'ondulations, moins de maisons, fin des écreviss
 ![](IMG_20220327_173755.jpg)
 ![](IMG_20220327_175231.jpg)
 ______
+[2022/03/30]
+
+### 30 mars - Merryville
+
+Toujours à Merryville. J'avais prévu un jour de repos mais la météo annonçant de la pluie pour aujourd'hui, j'ai préféré rester au sec et laisser passer le mauvais temps. Beaucoup de vent et deux heures de grosse pluie vers midi. Ça avait l'air plus violent ailleurs, j'ai même reçu une alerte tornade sur le téléphone. Inactivité totale pendant trois jours, j'ai quand même visité le musée.
+
+![](IMG_20220328_112948.jpg)
+![](IMG_20220329_115721.jpg)
+![](IMG_20220330_121721.jpg)
+![](Screenshot_2022-03-30-12-05-29-103_com.weather.Weather.jpg)
+______
