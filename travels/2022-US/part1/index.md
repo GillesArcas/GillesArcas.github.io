@@ -340,3 +340,13 @@ Toujours à Merryville. J'avais prévu un jour de repos mais la météo annonça
 ![](IMG_20220330_121721.jpg)
 ![](Screenshot_2022-03-30-12-05-29-103_com.weather.Weather.jpg)
 ______
+[2022/03/31]
+
+### J36 - 31 mars - Silsbee (Texas) - 84 km (2178 km)
+
+Après quelques kilomètres, je passe la rivière qui marque la fin de la Louisiane et je me retrouve au Texas. Trente kilomètres de route sympa dans la forêt au début, mais avec de plus en plus de camions ensuite. Tout le reste sur une quatre voies, aussi large qu'une piste d’atterissage. Accotement très large. Confortable à défaut d’être pittoresque. A un moment, je croise un cycliste qui s’arrête et vient me rejoindre. On tape la causette pendant vingt minutes et j'en sais un peu plus sur la suite. Il connaît déjà la Louisiane et a acheté ce matin un manche en bois, qu'il tient à porter de main, pour faire peur aux chiens qui le poursuivraient. Pour la météo, un peu frais ce matin mais plus un seul nuage.
+
+![](IMG_20220331_110655.jpg)
+![](IMG_20220331_110923.jpg)
+![](IMG_20220331_131855.jpg)
+______
