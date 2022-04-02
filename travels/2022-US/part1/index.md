@@ -350,3 +350,14 @@ Après quelques kilomètres, je passe la rivière qui marque la fin de la Louisi
 ![](IMG_20220331_110923.jpg)
 ![](IMG_20220331_131855.jpg)
 ______
+[2022/04/01]
+
+### J37 - 1er avril - Sheferd (Texas) - 98 km (2276 km)
+
+Des routes moyennes moyennement passantes mais sans accotement. Longues lignes droites au milieu des forêts de pins. Encore croisé deux cyclistes et on a encore parlé de chiens. Ce n'est pas moi qui aborde le sujet mais ça a l'air d’être une préoccupation par ici.  D'ailleurs je me suis fait un peu coursé. Je pensais dormir sous la tente dans un endroit indiqué comme campgroud. En y arrivant (c'est perdu dans la campagne) et en voyant l'endroit, je demande si ils ont des cabines. Il se trouve que oui et on me propose pour vingt dollars (comprenne qui peut) une véritable chambre d’hôte. Tout ça dans un endroit décoré d'une multitude d'objets moitié brocante, moitie déco. (Et encore un selfie).
+
+![](IMG_20220401_133315.jpg)
+![](IMG_20220401_162102.jpg)
+![](IMG_20220401_181042.jpg)
+![](IMG_20220401_182111.jpg)
+______
