@@ -352,12 +352,22 @@ Après quelques kilomètres, je passe la rivière qui marque la fin de la Louisi
 ______
 [2022/04/01]
 
-### J37 - 1er avril - Sheferd (Texas) - 98 km (2276 km)
+### J37 - 1er avril - Shepherd (Texas) - 98 km (2276 km)
 
-Des routes moyennes moyennement passantes mais sans accotement. Longues lignes droites au milieu des forêts de pins. Encore croisé deux cyclistes et on a encore parlé de chiens. Ce n'est pas moi qui aborde le sujet mais ça a l'air d’être une préoccupation par ici.  D'ailleurs je me suis fait un peu coursé. Je pensais dormir sous la tente dans un endroit indiqué comme campgroud. En y arrivant (c'est perdu dans la campagne) et en voyant l'endroit, je demande si ils ont des cabines. Il se trouve que oui et on me propose pour vingt dollars (comprenne qui peut) une véritable chambre d’hôte. Tout ça dans un endroit décoré d'une multitude d'objets moitié brocante, moitie déco. (Et encore un selfie).
+Des routes moyennes moyennement passantes mais sans accotement. Longues lignes droites au milieu des forêts de pins. Encore croisé deux cyclistes et on a encore parlé de chiens. Ce n'est pas moi qui aborde le sujet mais ça a l'air d’être une préoccupation par ici.  D'ailleurs je me suis fait un peu coursé. Je pensais dormir sous la tente dans un endroit indiqué comme campgroud. En y arrivant (c'est perdu dans la campagne) et en voyant l'endroit, je demande si ils ont des cabines. Il se trouve que oui et on me propose pour vingt dollars une véritable chambre d’hôte (comprenne qui peut). Tout ça dans un endroit décoré d'une multitude d'objets moitié brocante, moitie déco. (Et encore un selfie).
 
 ![](IMG_20220401_133315.jpg)
 ![](IMG_20220401_162102.jpg)
 ![](IMG_20220401_181042.jpg)
 ![](IMG_20220401_182111.jpg)
+______
+[2022/04/02]
+
+### J38 - 2 avril - New Waverly (Texas) - 83 km (2359 km)
+
+Même paysage qu'hier. Des forêts de pins, des prés, très vert. Par contre, plus de dénivelé. Jamais plus de 3 ou 4%, mais ça monte ou ça descend tout le temps. Je voulais camper dans un campground (décrit comme primitif sur ma route) dans la Sam Houston National Forest. En fait, il y a huit emplacements répertoriés, occupés, et pas d'eau (mais j'avais prévu le coup). En y arrivant, j'ai vu plusieurs tentes installées au bord du chemin alors j'ai fait pareil. Doit y avoir une tolérance.
+
+![](IMG_20220402_134840.jpg)
+![](IMG_20220402_154431.jpg)
+![](IMG_20220402_165308.jpg)
 ______
