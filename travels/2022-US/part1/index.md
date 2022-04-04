@@ -365,9 +365,10 @@ ______
 
 ### J38 - 2 avril - New Waverly (Texas) - 83 km (2359 km)
 
-Même paysage qu'hier. Des forêts de pins, des prés, très vert. Par contre, plus de dénivelé. Jamais plus de 3 ou 4%, mais ça monte ou ça descend tout le temps. Je voulais camper dans un campground (décrit comme primitif sur ma route) dans la Sam Houston National Forest. En fait, il y a huit emplacements répertoriés, occupés, et pas d'eau (mais j'avais prévu le coup). En y arrivant, j'ai vu plusieurs tentes installées au bord du chemin alors j'ai fait pareil. Doit y avoir une tolérance.
+Même paysage qu'hier. Des forêts de pins, des prés, très vert. Par contre, plus de dénivelé. Jamais plus de 3 ou 4%, mais ça monte ou ça descend tout le temps. Je voulais camper dans un campground (décrit comme primitif sur ma route) dans la Sam Houston National Forest. En fait, il y a huit emplacements répertoriés, occupés, et pas d'eau (mais j'avais prévu le coup). En y arrivant, j'ai vu plusieurs tentes installées au bord du chemin alors j'ai fait pareil. Ça doit être toléré.
 
 ![](IMG_20220402_134840.jpg)
 ![](IMG_20220402_154431.jpg)
 ![](IMG_20220402_165308.jpg)
+![](IMG_20220403_094726.jpg)
 ______
