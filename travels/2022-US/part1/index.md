@@ -386,7 +386,7 @@ ______
 
 ### J40 - 4 avril - Round Top (Texas) - 87 km (2505 km)
 
-Petit tour dans Navasota avant de partir, en particulier pour voir les maisons victoriennes. Ensuite, que de la campagne et des ondulations (754 mètres de dénivelé positif, jusqu'ici ça dépassait à peine 200). Des petites routes, peu de circulation et des prés recouverts de fleurs. Round Top est un endroit étrange, ça doit être la capitale des magasins d'"antiques". Il n'y a que ça.
+Petit tour dans Navasota avant de partir, en particulier pour voir les maisons victoriennes. Ensuite, que de la campagne et des ondulations (754 mètres de dénivelé positif, jusqu'ici ça dépassait à peine 200). Des petites routes, peu de circulation et des prés recouverts de fleurs. Belle région. Round Top est un endroit étrange, ça doit être la capitale des magasins d'"antiques". Il n'y a que ça.
 
 ![](IMG_20220404_105000.jpg)
 ![](IMG_20220404_105730.jpg)
