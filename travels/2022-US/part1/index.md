@@ -372,13 +372,25 @@ Même paysage qu'hier. Des forêts de pins, des prés, très vert. Par contre, p
 ![](IMG_20220402_165308.jpg)
 ![](IMG_20220403_094726.jpg)
 ______
-[2022/04/02]
+[2022/04/03]
 
 ### J39 - 3 avril - Navasota (Texas) - 59 km (2418 km)
 
-Majeure partie vraiment super. D'abord dans la foret puis dans la campagne. Plus grosse route en arrivant sur Navasota. Denivelé un peu plus prononcé, c'est fini les paysages tout plats.
+Majeure partie vraiment super. D'abord dans la forêt puis dans la campagne. Plus grosse route en arrivant sur Navasota. Dénivelé un peu plus prononcé, c'est fini les paysages tout plats.
 
 ![](IMG_20220403_104543.jpg)
 ![](IMG_20220403_112518.jpg)
 ![](IMG_20220403_130644.jpg)
+______
+[2022/04/04]
+
+### J40 - 4 avril - Round Top (Texas) - 87 km (2505 km)
+
+Petit tour dans Navasota avant de partir, en particulier pour voir les maisons victoriennes. Ensuite, que de la campagne et des ondulations (754 mètres de dénivelé positif, jusqu'ici ça dépassait à peine 200). Des petites routes, peu de circulation et des prés recouverts de fleurs. Round Top est un endroit étrange, ça doit être la capitale des magasins d'"antiques". Il n'y a que ça.
+
+![](IMG_20220404_105000.jpg)
+![](IMG_20220404_105730.jpg)
+![](IMG_20220404_123053.jpg)
+![](IMG_20220404_123430.jpg)
+![](IMG_20220404_164538.jpg)
 ______
