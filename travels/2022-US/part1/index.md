@@ -394,3 +394,14 @@ Petit tour dans Navasota avant de partir, en particulier pour voir les maisons v
 ![](IMG_20220404_123430.jpg)
 ![](IMG_20220404_164538.jpg)
 ______
+[2022/04/05]
+
+### J41 - 5 avril - Bastrop (Texas) - 91 km (2596 km)
+
+Route moyenne avec accotement limité jusqu'à La Grange. Ensuite, petite route de campagne avec une voiture de temps en temps. Vingt derniers kilomètres dans le parc d’état de Buescher, puis dans celui de Bastrop (qui a brûlé il y a quelques années). Les deux parcs sont reliés par une petite route qui doit suivre une ligne de crête (on voit de temps en temps le paysage des deux côtés). C'est vraiment joli et isolé mais ça fait montagnes russes. Jour le plus chaud jusqu'à maintenant (32º à 14h) mais ça devrait baisser un peu.
+
+![](IMG_20220405_112329.jpg)
+![](IMG_20220405_131659.jpg)
+![](IMG_20220405_163616.jpg)
+![](IMG_20220405_195748.jpg)
+______
