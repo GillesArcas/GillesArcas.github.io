@@ -405,3 +405,13 @@ Route moyenne avec accotement limité jusqu'à La Grange. Ensuite, petite route 
 ![](IMG_20220405_163616.jpg)
 ![](IMG_20220405_195748.jpg)
 ______
+[2022/04/06]
+
+### J42 - 6 avril - Austin (Texas) - 72 km (2668 km)
+
+Du vent, défavorable, genre dans les rafales, 10 km/h sur le plat sur le plus petit développement. Moyenne déprimante. Arrivée à Austin par des petites routes, puis des pistes cyclables, des banlieues tranquilles et un pont sur le Colorado, pas bien gros ici. Arrivé au motel, où j'ai réservé trois nuits, le monsieur me dit que le motel ne fait pas de réservation en ligne. Bon. Je devais payer en arrivant et il reste des chambres. Tout va bien, sauf que le monsieur refuse mon passeport et veut un ID US. Je finis par trouver un motel un peu plus loin qui m'accepte.
+
+![](IMG_20220406_150908.jpg)
+![](IMG_20220406_152532.jpg)
+[](VID_20220406_103759.mp4)
+______
