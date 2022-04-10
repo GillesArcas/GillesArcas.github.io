@@ -431,3 +431,7 @@ Trouvé un WarmShowers pour la nuit chez Nicole (adorable, le moins qu'on puisse
 ![](IMG_20220408_151922.jpg)
 ![](IMG_20220408_161224.jpg)
 ______
+[2022/12/31]
+
+[Suite](../part2/index.html)
+______
