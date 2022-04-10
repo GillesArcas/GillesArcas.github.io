@@ -415,3 +415,19 @@ Du vent, défavorable, genre dans les rafales, 10 km/h sur le plat sur le plus p
 ![](IMG_20220406_152532.jpg)
 [](VID_20220406_103759.mp4)
 ______
+[2022/04/07]
+La route jusque là. Résumé des chapitres précédents en https://gillesarcas.github.io/travels/2022-US/part1/ et carte au jour le jour en https://gilles-arcas.travelmap.net/ .
+
+![](route-2022-04-07.jpg)
+______
+[2022/04/08]
+
+### J44 - 8 avril - Austin
+
+Trouvé un WarmShowers pour la nuit chez Nicole (adorable, le moins qu'on puisse dire). Super balade dans l'après-midi (trente kilomètres quand même) dans les parcs autour de la rivière, très animé, plein de gens sur l'eau. Je voulais y retourner en fin d’après-midi pour voir l'envol des chauves-souris (une des curiosités d’Austin) mais motivation moyenne de redescendre dans le centre à cinq kilomètres. En plus, Nicole me propose d’aller dîner, tant pis pour les chauves-souris. On finit la soirée en rejoignant Matt et Czarina qui viennent d'arriver à Austin. Chouette moment.
+
+![](IMG_20220408_144245.jpg)
+![](IMG_20220408_144027.jpg)
+![](IMG_20220408_151922.jpg)
+![](IMG_20220408_161224.jpg)
+______
