@@ -15,3 +15,14 @@ Départ par les parcs le long de la rivière, très fréquentés ce samedi matin
 ![](IMG_20220409_153829.jpg)
 ![](IMG_20220409_160115.jpg)
 ______
+[2022/04/10]
+
+### J46 - 10 avril - Fredericksburg (Texas) - 63 km (2814 km)
+
+Petites routes, pas beaucoup de circulation ni d'habitations, même si c'est clôturé des deux côtés tout du long. Toujours du vent et du dénivelé. J'ai vu un tatou ! Pas pu faire une bonne photo, il a décampé, mais content quand même.
+
+![](IMG_20220410_121109.jpg)
+![](IMG_20220410_141254.jpg)
+![](IMG_20220410_142528.jpg)
+![](IMG_20220410_154113.jpg)
+______
