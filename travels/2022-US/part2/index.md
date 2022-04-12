@@ -26,3 +26,14 @@ Petites routes, pas beaucoup de circulation ni d'habitations, même si c'est cl�
 ![](IMG_20220410_142528.jpg)
 ![](IMG_20220410_154113.jpg)
 ______
+[2022/04/11]
+
+### J47 - 11 avril - Hunt (Texas) - 81 km (2895 km)
+
+Première partie sur des petites routes (voire toutes petites) sans circulation qui finissent par monter sur un plateau. Plus beaux paysages jusqu’à maintenant. Ensuite, la route redescend un peu, devient plus fréquentée et suit la Guadalupe river. On m'a déconseillé plusieurs fois de chercher un endroit pour dormir à côté de la route (le copain de Nicole s'est fait viré deux fois, les texans sont assez susceptibles concernant leur propriété). Alors, je passe la nuit dans un resort un peu au-dessus de mon budget, mais ça vaut le coup : deux pièces tout équipé au bord de la rivière avec baignade aménagée (j'en ai profité bien sûr).
+
+![](IMG_20220411_115526.jpg)
+![](IMG_20220411_124158.jpg)
+![](IMG_20220411_122648.jpg)
+![](IMG_20220411_153446.jpg)
+______
