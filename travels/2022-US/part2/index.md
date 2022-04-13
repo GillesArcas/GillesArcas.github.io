@@ -37,3 +37,14 @@ Première partie sur des petites routes (voire toutes petites) sans circulation 
 ![](IMG_20220411_122648.jpg)
 ![](IMG_20220411_153446.jpg)
 ______
+[2022/04/11]
+
+### J48 - 12 avril - Leakey (Texas) - 76 km (2971 km)
+
+Petites routes presque sans voitures et très peu d'habitations. La route se balade entre 500 mètres au pied des collines et 700 mètres en haut des collines. Beaucoup de dénivelé, beaucoup de vent, 34º, mais des beaux paysages et un peu de sensation d'isolement.
+
+![](IMG_20220412_155610.jpg)
+![](IMG_20220412_162905.jpg)
+![](IMG_20220412_154710.jpg)
+![](IMG_20220412_152651.jpg)
+______
