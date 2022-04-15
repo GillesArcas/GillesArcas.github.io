@@ -37,7 +37,7 @@ Première partie sur des petites routes (voire toutes petites) sans circulation 
 ![](IMG_20220411_122648.jpg)
 ![](IMG_20220411_153446.jpg)
 ______
-[2022/04/11]
+[2022/04/12]
 
 ### J48 - 12 avril - Leakey (Texas) - 76 km (2971 km)
 
@@ -47,4 +47,23 @@ Petites routes presque sans voitures et très peu d'habitations. La route se bal
 ![](IMG_20220412_162905.jpg)
 ![](IMG_20220412_154710.jpg)
 ![](IMG_20220412_152651.jpg)
+______
+[2022/04/13]
+
+### J49 - 13 avril - Bracketville (Texas) - 116 km (3087 km)
+
+Retour en haut des collines pendant trente kilomètres par des petites routes pour commencer la journée. Changement d'ambiance à Campwood, seule ville et seul point de ravitaillement aujourd’hui. C'est parti pour trente kilomètres de plus grosse route toute plate, plein sud, vent dans le dos, le bonheur. Ensuite, la route repart vers l'ouest et je retrouve le vent et un peu de dénivelé. Route et paysage assez vides.
+
+![](IMG_20220413_100924.jpg)
+![](IMG_20220413_105504.jpg)
+![](IMG_20220413_121804.jpg)
+![](IMG_20220413_152250.jpg)
+______
+[2022/04/13]
+
+### J50 - 14 avril - Del Rio (Texas) - 52 km (3139 km)
+
+
+
+![](IMG_20220413_100924.jpg)
 ______
