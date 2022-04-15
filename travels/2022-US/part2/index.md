@@ -63,7 +63,9 @@ ______
 
 ### J50 - 14 avril - Del Rio (Texas) - 52 km (3139 km)
 
+Changement de décor, fin des collines, de moins en moins d'arbres. Route toute droite et toute plate. Vent presque toujours favorable. Je croise un cycliste, on discute cinq minutes et il me dit que j'ai fait la partie la plus fun.
 
-
-![](IMG_20220413_100924.jpg)
+![](IMG_20220414_111215.jpg)
+![](IMG_20220414_112602.jpg)
+![](IMG_20220414_122220-crop.jpg)
 ______
