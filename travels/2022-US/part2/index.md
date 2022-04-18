@@ -59,7 +59,7 @@ Retour en haut des collines pendant trente kilomètres par des petites routes po
 ![](IMG_20220413_121804.jpg)
 ![](IMG_20220413_152250.jpg)
 ______
-[2022/04/13]
+[2022/04/14]
 
 ### J50 - 14 avril - Del Rio (Texas) - 52 km (3139 km)
 
@@ -68,4 +68,26 @@ Changement de décor, fin des collines, de moins en moins d'arbres. Route toute 
 ![](IMG_20220414_111215.jpg)
 ![](IMG_20220414_112602.jpg)
 ![](IMG_20220414_122220-crop.jpg)
+______
+[2022/04/15]
+
+### J51 - 15 avril - Del Rio
+
+Jour de repos. Visite du Whitehead Memorial Museum consacré à l'histoire de la ville et en particulier à celle du juge Roy Bean (https://fr.wikipedia.org/wiki/Roy_Bean).
+
+![](IMG_20220415_172121.jpg)
+![](IMG_20220415_161357.jpg)
+![](IMG_20220415_154939.jpg)
+![](IMG_20220415_155517.jpg)
+______
+[2022/04/16]
+
+### J52 - 16 avril - Langtry (Texas) - 98 km (3237 km)
+
+Maintenant, il n'y a presque plus d'arbres, paysages bien vides et vue sur l'horizon. Route moyenne, pas mal de camions, mais accotement large. Traversée de la rivière Pecos. Du coup, c'est officiel, je suis dans l'ouest sauvage. Arrivé à Langtry, visite rapide du musée Roy Bean. En fait, il n'y a pas grand chose à part une reconstitution du saloon où il officiait. Arrivée au motel, rustique, ambiance mexicaine, puis balade à un endroit appelé Eagle's Nest qui surplombe le Rio Grande. Endroit magnifique mais on ne voit que des arbres au fond du canyon. Croisé un cycliste ce matin (qui n'a vu que deux cyclistes dont moi depuis son départ de San Diego), puis deux autres l’après-midi.
+
+![](IMG_20220416_120133.jpg)
+![](IMG_20220416_135820.jpg)
+![](IMG_20220416_143628.jpg)
+![](IMG_20220416_185021.jpg)
 ______
