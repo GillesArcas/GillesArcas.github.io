@@ -91,3 +91,25 @@ Maintenant, il n'y a presque plus d'arbres, paysages bien vides et vue sur l'hor
 ![](IMG_20220416_143628.jpg)
 ![](IMG_20220416_185021.jpg)
 ______
+[2022/04/17]
+
+### J53 - 17 avril - Sanderson (Texas) - 96 km (3333 km)
+
+Même ambiance qu'hier, un peu plus sec, un peu plus de dénivelé (je gagne 400 mètres d'altitude) et retour du vent en début d’après-midi. Arrivée à Sanderson roue arrière presque à plat. Je trouve un minuscule bout de fil de fer planté dans le pneu. Je pense que c'est un bout d'armature de pneu éclaté. J'ai lu un blog où le gars se plaignait de ça. 
+
+![](IMG_20220417_101306.jpg)
+![](IMG_20220417_104809.jpg)
+![](IMG_20220417_105002.jpg)
+![](IMG_20220417_132624.jpg)
+______
+[2022/04/18]
+
+### J54 - 18 avril - Marathon (Texas) - 89 km (3422 km)
+
+Le vent a tourné dans la nuit et est devenu favorable. Pourvu que ça dure ! Encore gagné 400 mètres d'altitude (puis reperdu un peu), mais ça monte de façon insensible (rarement plus de 1%). Sanderson et la route sur les cinquante premiers kilomètres sont entourés de collines. Du coup, paysages supers et super étape. Le WarmShowers de Marathon m'a aiguillé sur un endroit original, La Loma del Chivo, qui reçoit des hôtes dans des chambres un peu new age, un peu bricolées. On m'a donné la Ruche, toute petite chambre en forme de dôme, mais très agréable et presque fraîche.
+
+![](IMG_20220418_112552.jpg)
+![](IMG_20220418_114810.jpg)
+![](IMG_20220418_130140.jpg)
+![](IMG_20220418_172305.jpg)
+______
