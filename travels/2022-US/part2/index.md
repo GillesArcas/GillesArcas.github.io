@@ -106,7 +106,7 @@ ______
 
 ### J54 - 18 avril - Marathon (Texas) - 89 km (3422 km)
 
-Le vent a tourné dans la nuit et est devenu favorable. Pourvu que ça dure ! Encore gagné 400 mètres d'altitude (puis reperdu un peu), mais ça monte de façon insensible (rarement plus de 1%). Sanderson et la route sur les cinquante premiers kilomètres sont entourés de collines. Du coup, paysages supers et super étape. Le WarmShowers de Marathon m'a aiguillé sur un endroit original, La Loma del Chivo, qui reçoit des hôtes dans des chambres un peu new age, un peu bricolées. On m'a donné la Ruche, toute petite chambre en forme de dôme, mais très agréable et presque fraîche.
+Le vent a tourné dans la nuit et est devenu favorable. Pourvu que ça dure ! Encore gagné 400 mètres d'altitude (puis reperdu un peu), mais ça monte de façon insensible (rarement plus de 1%). Sanderson et la route sur les cinquante premiers kilomètres sont entourés de collines. Du coup, paysages supers et super étape. Le WarmShowers de Marathon m'a aiguillé sur un endroit original, La Loma del Chivo, qui reçoit des hôtes dans des chambres new age un peu décaties. On m'a donné la Ruche, toute petite chambre très agréable en forme de dôme.
 
 ![](IMG_20220418_112552.jpg)
 ![](IMG_20220418_114810.jpg)
