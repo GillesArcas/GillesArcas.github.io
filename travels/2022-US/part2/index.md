@@ -95,7 +95,7 @@ ______
 
 ### J53 - 17 avril - Sanderson (Texas) - 96 km (3333 km)
 
-Même ambiance qu'hier, un peu plus sec, un peu plus de dénivelé (je gagne 400 mètres d'altitude) et retour du vent en début d’après-midi. Arrivée à Sanderson roue arrière presque à plat. Je trouve un minuscule bout de fil de fer planté dans le pneu. Je pense que c'est un bout d'armature de pneu éclaté. J'ai lu un blog où le gars se plaignait de ça. 
+Même ambiance qu'hier, un peu plus sec, un peu plus de dénivelé (je gagne 400 mètres d'altitude) et retour du vent en début d’après-midi. Arrivée à Sanderson roue arrière presque à plat. Je trouve un minuscule bout de fil de fer planté dans le pneu. Je pense que c'est un bout d'armature de pneu éclaté. J'ai lu un blog où le gars se plaignait de ça.
 
 ![](IMG_20220417_101306.jpg)
 ![](IMG_20220417_104809.jpg)
@@ -111,5 +111,5 @@ Le vent a tourné dans la nuit et est devenu favorable. Pourvu que ça dure ! En
 ![](IMG_20220418_112552.jpg)
 ![](IMG_20220418_114810.jpg)
 ![](IMG_20220418_130140.jpg)
-![](IMG_20220418_172305.jpg)
+![](IMG_20220418_204252.jpg)
 ______
