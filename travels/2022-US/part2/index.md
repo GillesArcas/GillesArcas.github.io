@@ -113,3 +113,25 @@ Le vent a tourné dans la nuit et est devenu favorable. Pourvu que ça dure ! En
 ![](IMG_20220418_130140.jpg)
 ![](IMG_20220418_204252.jpg)
 ______
+[2022/04/19]
+
+### J55 - 19 avril - Marfa (Texas) - 94 km (3516 km)
+
+Départ vent calme, puis moment d'euphorie quand le vent s'est levé et qu'il est favorable. Malheureusement, la route change d'orientation et ça ne dure pas longtemps. Pente un peu plus accentuée aujourd’hui et à force de monter, je franchis le col du Paisano (Paisano Pass) à 1500 mètres. En fait, la pente est tellement faible qu'il y a même un train parallèle à la route. Après le col, la paysage change et ca devient tout plat. En WarmSowers, chez Manu, mais je ne le verrai pas. Parti dans le centre du Texas, il n'a pas le temps de revenir et passe la nuit ailleurs. Dommage.
+
+![](IMG_20220419_104121.jpg)
+![](IMG_20220419_150338.jpg)
+![](IMG_20220419_151813.jpg)
+![](IMG_20220419_165301.jpg)
+______
+[2022/04/19]
+
+### J56 - 20 avril - Valentine (Texas) - 61 km (3577 km)
+
+Finalement, mon hôte, Manu, arrive juste avant que je parte. Franco-québécois, il parle français et a encore de la famille en France. Il s’est installé à Marfa à cause de sa proximité avec le parc national de Big Bend (je me suis posé la question d'y aller mais il aurait fallu une semaine de plus). Départ tardif après café et discussion. Ça commence à descendre mais de façon insensible. À peu près toute la journée sur une seule ligne droite. Paysage plat et vide des deux côtés avec des collines au loin. Plaine à 1400 mètres, le vent d’ouest se régale. Pas moi.
+
+![](IMG_20220420_112937.jpg)
+![](IMG_20220420_145202.jpg)
+![](IMG_20220420_161132.jpg)
+[](VID_20220420_140258-small.mp4)
+______
