@@ -124,7 +124,7 @@ Départ vent calme, puis moment d'euphorie quand le vent s'est levé et qu'il es
 ![](IMG_20220419_151813.jpg)
 ![](IMG_20220419_165301.jpg)
 ______
-[2022/04/19]
+[2022/04/20]
 
 ### J56 - 20 avril - Valentine (Texas) - 61 km (3577 km)
 
@@ -134,4 +134,15 @@ Finalement, mon hôte, Manu, arrive juste avant que je parte. Franco-québécois
 ![](IMG_20220420_145202.jpg)
 ![](IMG_20220420_161132.jpg)
 [](VID_20220420_140258-small.mp4)
+______
+[2022/04/21]
+
+### J57 - 21 avril - Sierra Blanca (Texas) - 116 km (3693 km)
+
+Départ à 8h pour essayer d’échapper un peu au vent. Ça ne marche pas tout à fait. Quelques kilomètres après le départ, crevaison. Cette fois, c'est une petite épine. En fait, il y a plein de petites épines dans les deux pneus et je les enlève à la pince à épiler. J'ai dû rouler dans un truc qui fallait pas. Retour du vent à 10h30. Fin de la plaine à Van Horn. Là, ma route me fait prendre un bout d'Interstate 10, de la grosse route, mais ça traverse les collines et c'est quand même pas mal. Après les collines, nouvelle plaine, petite route parallèle à la Interstate et vent moins défavorable.
+
+![](IMG_20220421_094711.jpg)
+![](IMG_20220421_103035.jpg)
+![](IMG_20220421_114231.jpg)
+[](VID_20220421_135335-small.mp4)
 ______
