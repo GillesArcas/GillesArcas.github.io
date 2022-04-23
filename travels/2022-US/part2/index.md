@@ -146,3 +146,14 @@ Départ à 8h pour essayer d’échapper un peu au vent. Ça ne marche pas tout 
 ![](IMG_20220421_114231.jpg)
 [](VID_20220421_135335-small.mp4)
 ______
+[2022/04/22]
+
+### J58 - 22 avril - Fort Hancock (Texas) - 72 km (3785 km)
+
+Quarante premiers kilomètres sur la petite route qui suit l'Interstate. Ensuite, c'est une petite route déserte entre l'Interstate et la frontière. D'abord complètement isolée puis dans un paysage agricole. Il y a des canaux d'irrigation qui doivent être alimentés par le Rio Grande tout proche. Paysages toujours aussi intéressants mais il fait un peu chaud, 35°.
+
+![](IMG_20220422_121600.jpg)
+![](IMG_20220422_142545.jpg)
+![](IMG_20220422_143148.jpg)
+![](IMG_20220422_151537.jpg)
+______
