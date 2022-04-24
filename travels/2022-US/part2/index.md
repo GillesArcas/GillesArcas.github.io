@@ -161,7 +161,7 @@ ______
 
 ### J59 - 23 avril - El Paso (Texas) - 85 km (3850 km)
 
-Fin des petites routes. De plus en plus urbanisé et de plus en plus de circulation. Je croise un canadien en mode bikepacking (ultraléger) qui me dit que le vent devrait changer de direction à partir de lundi. Ça serait une bonne idée.
+Fin des petites routes. De plus en plus urbanisé et de plus en plus de circulation. Moins chaud. Je croise un canadien en mode ultraléger (pas celui de la photo) qui me dit que le vent devrait changer de direction à partir de lundi. Ça serait une bonne idée.
 
 ![](IMG_20220423_095432.jpg)
 ![](IMG_20220423_110228.jpg)
