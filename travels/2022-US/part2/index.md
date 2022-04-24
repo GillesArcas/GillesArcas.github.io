@@ -148,7 +148,7 @@ Départ à 8h pour essayer d’échapper un peu au vent. Ça ne marche pas tout 
 ______
 [2022/04/22]
 
-### J58 - 22 avril - Fort Hancock (Texas) - 72 km (3785 km)
+### J58 - 22 avril - Fort Hancock (Texas) - 72 km (3765 km)
 
 Quarante premiers kilomètres sur la petite route qui suit l'Interstate. Ensuite, c'est une petite route déserte entre l'Interstate et la frontière. D'abord complètement isolée puis dans un paysage agricole. Il y a des canaux d'irrigation qui doivent être alimentés par le Rio Grande tout proche. Paysages toujours aussi intéressants mais il fait un peu chaud, 35°.
 
@@ -156,4 +156,15 @@ Quarante premiers kilomètres sur la petite route qui suit l'Interstate. Ensuite
 ![](IMG_20220422_142545.jpg)
 ![](IMG_20220422_143148.jpg)
 ![](IMG_20220422_151537.jpg)
+______
+[2022/04/23]
+
+### J59 - 23 avril - El Paso (Texas) - 85 km (3850 km)
+
+Fin des petites routes. De plus en plus urbanisé et de plus en plus de circulation. Je croise un canadien en mode bikepacking (ultraléger) qui me dit que le vent devrait changer de direction à partir de lundi. Ça serait une bonne idée.
+
+![](IMG_20220423_095432.jpg)
+![](IMG_20220423_110228.jpg)
+![](IMG_20220423_115347.jpg)
+![](IMG_20220423_144037.jpg)
 ______
