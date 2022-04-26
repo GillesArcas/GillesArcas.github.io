@@ -168,3 +168,18 @@ Fin des petites routes. De plus en plus urbanisé et de plus en plus de circulat
 ![](IMG_20220423_115347.jpg)
 ![](IMG_20220423_144037.jpg)
 ______
+[2022/04/24]
+
+La route jusque là.
+
+![](route-2022-04-23.PNG)
+______
+[2022/04/25]
+
+Deux jours de repos. Commencé par chercher un magasin de vélos pour acheter un pneu (mon pneu arrière est entaillé sur un centimètre) et deux chambres à air (la valve d'une de mes chambres de rechange fuit). Ensuite, petit tour coté mexicain pour dire que j'y ai été et pour voir le Rio Grande. En fait de Grande, c'est plutôt un canal un peu zone. Aujourd'hui, c’était entretien vélo, préparation des prochaines étapes, courses et balade dans un parc pas trop loin.
+
+![](IMG_20220424_162738.jpg)
+![](IMG_20220424_165016.jpg)
+![](IMG_20220424_171548.jpg)
+![](IMG_20220424_175546.jpg)
+______
