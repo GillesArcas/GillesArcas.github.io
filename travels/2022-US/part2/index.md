@@ -187,7 +187,7 @@ ______
 
 ### J62 - 26 avril - Las Cruces (Nouveau-Mexique) - 85 km (3995 km)
 
-Après la sortie de El Paso, treize kilomètres de piste cyclable très agréable le long du Rio Grande. Nettement plus joli qu'en pleine ville mais pas une goutte d'eau. Ensuite, c'est de la campagne avec beaucoup de plantations de pécan. Près de Las Cruces, il y a juste un petit peu d'eau dans le Rio Grande. On imagine quand même que ça peut être plus impressionnant. 
+Après la sortie de El Paso, treize kilomètres de piste cyclable très agréable le long du Rio Grande. Nettement plus joli qu'en pleine ville mais pas une goutte d'eau. Ensuite, c'est de la campagne avec beaucoup de plantations de pécan. Je retrouve le Rio Grande près de Las Cruces et là il y a juste un peu d'eau.
 
 ![](IMG_20220426_113946.jpg)
 ![](IMG_20220426_113404.jpg)
