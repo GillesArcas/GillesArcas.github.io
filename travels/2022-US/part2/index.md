@@ -176,10 +176,22 @@ La route jusque là.
 ______
 [2022/04/25]
 
-Deux jours de repos. Commencé par chercher un magasin de vélos pour acheter un pneu (mon pneu arrière est entaillé sur un centimètre) et deux chambres à air (la valve d'une de mes chambres de rechange fuit). Ensuite, petit tour coté mexicain pour dire que j'y ai été et pour voir le Rio Grande. En fait de Grande, c'est plutôt un canal un peu zone. Aujourd'hui, c’était entretien vélo, préparation des prochaines étapes, courses et balade dans un parc pas trop loin.
+Deux jours de repos. Commencé par chercher un magasin de vélos pour acheter un pneu et deux chambres à air. Ensuite, petit tour coté mexicain pour dire que j'y ai été et pour voir le Rio Grande. En fait de Grande, c'est plutôt un canal un peu zone. Aujourd'hui, c’était entretien vélo, préparation des prochaines étapes, courses et balade dans un parc pas trop loin.
 
 ![](IMG_20220424_162738.jpg)
 ![](IMG_20220424_165016.jpg)
 ![](IMG_20220424_171548.jpg)
 ![](IMG_20220424_175546.jpg)
+______
+[2022/04/26]
+
+### J62 - 26 avril - Las Cruces (Nouveau-Mexique) - 85 km (3995 km)
+
+Après la sortie de El Paso, treize kilomètres de piste cyclable très agréable le long du Rio Grande. Nettement plus joli qu'en pleine ville mais pas une goutte d'eau. Ensuite, c'est de la campagne avec beaucoup de plantations de pécan. Près de Las Cruces, il y a juste un petit peu d'eau dans le Rio Grande. On imagine quand même que ça peut être plus impressionnant. 
+
+![](IMG_20220426_113946.jpg)
+![](IMG_20220426_113404.jpg)
+![](IMG_20220426_173218.jpg)
+![](IMG_20220426_173745.jpg)
+![](IMG_20220426_172941.jpg)
 ______
