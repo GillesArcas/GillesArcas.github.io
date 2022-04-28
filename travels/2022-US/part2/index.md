@@ -195,3 +195,14 @@ Après la sortie de El Paso, treize kilomètres de piste cyclable très agréabl
 ![](IMG_20220426_173745.jpg)
 ![](IMG_20220426_172941.jpg)
 ______
+[2022/04/27]
+
+### J63 - 27 avril - Caballo (Nouveau-Mexique) - 104 km (4039 km)
+
+La route suit à peu près le Rio Grande vers le nord. Changement de paysage à Radium Springs où les collines se rapprochent et où ça devient un peu plus aride. Ça redevient un paysage de plaine un peu après, quand même un peu plus sec mais avec toujours des cultures et des plantations de pécan. Vent revenu au sud-ouest mais pas trop gênant aujourd'hui.
+
+![](IMG_20220427_110006.jpg)
+![](IMG_20220427_110241.jpg)
+![](IMG_20220427_115606.jpg)
+![](IMG_20220427_190853.jpg)
+______
