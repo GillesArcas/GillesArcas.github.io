@@ -206,3 +206,15 @@ La route suit à peu près le Rio Grande vers le nord. Changement de paysage à 
 ![](IMG_20220427_115606.jpg)
 ![](IMG_20220427_190853.jpg)
 ______
+[2022/04/28]
+
+### J64 - 87 avril - Mimbres (Nouveau-Mexique) - 88 km (4127 km)
+
+Direction à l'ouest vers les collines, puis dans les collines et ça monte jusqu'au col d'Emory (Emory pass) à 2500 mètres. 1200 mètres de dénivelé pour 1500 mètres de dénivelé positif (la somme de toutes les montées). Ça monte assez doucement à 4 ou 5% sans dépasser 7%. Un point de vue est aménagé au sommet et surplombe toute le région que je viens de traverser. Très beau mais je m'y reprends à trois fois pour faire une vidéo tellement le vent est fort et me fait bouger.
+
+![](IMG_20220428_093811.jpg)
+![](IMG_20220428_105220.jpg)
+![](IMG_20220428_135514.jpg)
+![](IMG_20220428_152515.jpg)
+[](VID_20220428_140817-small.mp4)
+______
