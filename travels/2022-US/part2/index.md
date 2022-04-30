@@ -208,13 +208,24 @@ La route suit à peu près le Rio Grande vers le nord. Changement de paysage à 
 ______
 [2022/04/28]
 
-### J64 - 87 avril - Mimbres (Nouveau-Mexique) - 88 km (4127 km)
+### J64 - 28 avril - Mimbres (Nouveau-Mexique) - 88 km (4127 km)
 
-Direction à l'ouest vers les collines, puis dans les collines et ça monte jusqu'au col d'Emory (Emory pass) à 2500 mètres. 1200 mètres de dénivelé pour 1500 mètres de dénivelé positif (la somme de toutes les montées). Ça monte assez doucement à 4 ou 5% sans dépasser 7%. Un point de vue est aménagé au sommet et surplombe toute le région que je viens de traverser. Très beau mais je m'y reprends à trois fois pour faire une vidéo tellement le vent est fort et me fait bouger.
+Direction à l'ouest vers les collines, puis dans les collines et ça monte jusqu'au col d'Emory (Emory pass) à 2500 mètres. 1200 mètres de dénivelé pour 1500 mètres de dénivelé positif (la somme de toutes les montées). Ça monte assez doucement à 4 ou 5% sans dépasser 7%. Un point de vue est aménagé au sommet et surplombe toute le région que je viens de traverser.
 
 ![](IMG_20220428_093811.jpg)
 ![](IMG_20220428_105220.jpg)
 ![](IMG_20220428_135514.jpg)
 ![](IMG_20220428_152515.jpg)
 [](VID_20220428_140817-small.mp4)
+______
+[2022/04/29]
+
+### J65 - 29 avril - 20 km au sud de Silver City (Nouveau-Mexique) - 66 km (4193 km)
+
+J'avais décidé de faire une petite étape (40 km) pour couper une grosse étape en deux. Pas de chance, arrivé à Silver City, tout est complet (sauf les hôtels à plus de 100$) parce qu'il y a une course cycliste sur cinq jours ici (et qui va passer par le col d'hier). Je vais faire des courses parce qu'il ne me reste plus grand chose et je fais vingt kilomètres supplémentaires jusqu'à un RV park complètement isolé dans les collines. Paysage moins spectaculaire aujourd’hui, ça a l'air de devenir plus plat mais presque mille mètres de D+ quand même. Avant Silver City, je me suis arrêté au point de vue sur les mines de Santa Rita, immense mine de cuivre à ciel ouvert.
+
+![](IMG_20220429_101226.jpg)
+![](IMG_20220429_113346.jpg)
+![](IMG_20220429_121530.jpg)
+![](IMG_20220429_165115.jpg)
 ______
