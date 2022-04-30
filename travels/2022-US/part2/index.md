@@ -222,7 +222,7 @@ ______
 
 ### J65 - 29 avril - 20 km au sud de Silver City (Nouveau-Mexique) - 66 km (4193 km)
 
-J'avais décidé de faire une petite étape (40 km) pour couper une grosse étape en deux. Pas de chance, arrivé à Silver City, tout est complet (sauf les hôtels à plus de 100$) parce qu'il y a une course cycliste sur cinq jours ici (et qui va passer par le col d'hier). Je vais faire des courses parce qu'il ne me reste plus grand chose et je fais vingt kilomètres supplémentaires jusqu'à un RV park complètement isolé dans les collines. Paysage moins spectaculaire aujourd’hui, ça a l'air de devenir plus plat mais presque mille mètres de D+ quand même. Avant Silver City, je me suis arrêté au point de vue sur les mines de Santa Rita, immense mine de cuivre à ciel ouvert.
+J'avais décidé de faire une petite étape (40 km) pour couper une grosse étape en deux. Arrivé à Silver City, tout est complet (sauf les hôtels à plus de 100$) parce qu'il y a une course cycliste. Je vais faire des courses parce qu'il ne me reste plus grand chose et je fais vingt kilomètres supplémentaires jusqu'à un RV park complètement isolé dans les collines. Paysage moins spectaculaire aujourd’hui, ça a l'air de devenir plus plat mais presque mille mètres de D+ quand même entre 1700 et 1900 mètres.
 
 ![](IMG_20220429_101226.jpg)
 ![](IMG_20220429_113346.jpg)
