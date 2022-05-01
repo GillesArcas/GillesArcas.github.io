@@ -229,3 +229,14 @@ J'avais décidé de faire une petite étape (40 km) pour couper une grosse étap
 ![](IMG_20220429_121530.jpg)
 ![](IMG_20220429_165115.jpg)
 ______
+[2022/04/30]
+
+### J66 - 30 avril - Lordsburg (Nouveau-Mexique) - 52 km (4245 km)
+
+Première partie dans les collines. Très beaux paysages, j'aurais presque envie de descendre du vélo et le pousser pour en profiter plus longtemps. Deuxième partie, une immense descente, qui passe en gros de 1800 mètres à 1300 mètres en une seule ligne droite, et qui se termine dans une grande plaine complètement plate. Étonnant comme changement de paysage. Dans la descente, je croise un couple d'anglais qui va faire la même route que moi. Premiers cyclistes depuis 500 kilomètres.
+
+![](IMG_20220430_072739.jpg)
+![](IMG_20220430_100321.jpg)
+![](IMG_20220430_121425.jpg)
+![](IMG_20220430_124238.jpg)
+______
