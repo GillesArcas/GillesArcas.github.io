@@ -240,3 +240,14 @@ Première partie dans les collines. Très beaux paysages, j'aurais presque envie
 ![](IMG_20220430_121425.jpg)
 ![](IMG_20220430_124238.jpg)
 ______
+[2022/05/01]
+
+### J67 - 1er mai - Duncan (Arizona) - 61 km (4306 km)
+
+Même paysage qu'hier et arrivée en Arizona. Je croise un Espagnol qui va en Floride, mais lui, il est parti de Perth en Australie, traversé l'Australie, et pris l'avion à Sydney pour Los Angeles. Pas mal. Je passe la nuit dans un endroit très douillet, plein de tableaux et de belles choses, surprenant dans un tout petit endroit comme Duncan.
+
+![](IMG_20220501_144122.jpg)
+![](IMG_20220501_152255.jpg)
+![](IMG_20220501_153533.jpg)
+![](IMG_20220501_180639.jpg)
+______
