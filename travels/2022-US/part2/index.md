@@ -251,3 +251,14 @@ Même paysage qu'hier et arrivée en Arizona. Je croise un Espagnol qui va en Fl
 ![](IMG_20220501_153533.jpg)
 ![](IMG_20220501_180639.jpg)
 ______
+[2022/05/02]
+
+### J68 - 2 mai - Safford (Arizona) - 64 km (4370 km)
+
+Début du trajet dans les collines avec des super paysages. Puis la route sort des collines pour arriver dans une plaine aride. Finalement, la plaine devient cultivée, les habitations plus nombreuses et la circulation plus importante.
+
+![](IMG_20220502_105008.jpg)
+![](IMG_20220502_122546.jpg)
+![](IMG_20220502_125258.jpg)
+![](IMG_20220502_145128.jpg)
+______
