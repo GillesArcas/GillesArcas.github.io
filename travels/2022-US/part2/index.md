@@ -262,3 +262,14 @@ Début du trajet dans les collines avec des super paysages. Puis la route sort d
 ![](IMG_20220502_125258.jpg)
 ![](IMG_20220502_145128.jpg)
 ______
+[2022/05/03]
+
+### J69 - 3 mai - Apache Gold RV Park (Arizona) - 116 km (4486 km)
+
+Trente premiers kilomètres de cultures puis ça redevient désert. Encore trente kilomètres et c'est le retour du vent, des collines mais aussi des beaux paysages. Par contre, pas mal de circulation. Et presque tout du long, l’accotement est crevassé tous les quelques mètres, très inconfortable. La route traverse une réserve indienne. À Peridot (20 km avant le RV park), je m’arrête dans un supermarché prendre une boisson, que des indiens.
+
+![](IMG_20220503_100021.jpg)
+![](IMG_20220503_104317.jpg)
+![](IMG_20220503_141857.jpg)
+![](IMG_20220503_142705.jpg)
+______
