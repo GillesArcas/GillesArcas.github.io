@@ -275,9 +275,9 @@ Trente premiers kilomètres de cultures puis ça redevient désert. Encore trent
 ______
 [2022/05/04]
 
-### J70 - 4 mai - Tonto Basin (Arizona) - 101 km (4586 km)
+### J70 - 4 mai - Tonto Basin (Arizona) - 101 km (4587 km)
 
-Dix kilomètres pour arriver à Globe, une petite ville. Encore quelques kilomètres et je quitte la route d'hier, qui va directement à Phoenix, pour prendre la direction du nord. Ensuite une grande montée (ça monte de 200 mètres) suivie d'une grande descente (ça descend de 400 mètres) vers un lac de barrage. Super point de vue et super paysages comme tout le reste de la journée. Il y a un parc national sur la route avec deux villages indiens dans les falaises alors je fais le détour. L’accès au plus grand village est fermé et je monte (à pied) au plus petit. Le paysage était super au niveau du lac mais ça devient encore plus beau en montant vers le village. Après la viste, plus que 40 kilomètres pour arriver au motel. La dame (qui s'appelle Rochelle) me demande 90$. Je prends un air éberlué en demandant si il n'y a pas une autre solution et elle me dit 70$, manifestement de préférence en cash. Je sors un billet de vingt, puis deux, puis trois et la dame finit par me dire que ça va comme ça.
+Dix kilomètres pour arriver à Globe, une petite ville. Encore quelques kilomètres et je quitte la route d'hier, qui va directement à Phoenix, pour prendre la direction du nord. Ensuite une grande montée (ça monte de 200 mètres) suivie d'une grande descente (ça descend de 400 mètres) vers un lac de barrage. Super point de vue et super paysages comme tout le reste de la journée. Il y a un parc national sur la route avec deux villages indiens dans les falaises alors je fais le détour. L’accès au plus grand village est fermé et je monte (à pied) au plus petit. Le paysage était super au niveau du lac mais ça devient encore plus beau en montant vers le village. Après la visite, plus que 40 kilomètres pour arriver au motel. La dame (qui s'appelle Rochelle) me demande 90$. Je prends un air éberlué en demandant si il n'y a pas une autre solution et elle me dit 70$, manifestement de préférence en cash. Je sors un billet de vingt, puis deux, puis trois et la dame finit par me dire que ça va comme ça.
 
 ![](IMG_20220504_093057.jpg)
 ![](IMG_20220504_103405.jpg)
@@ -285,4 +285,15 @@ Dix kilomètres pour arriver à Globe, une petite ville. Encore quelques kilomè
 ![](IMG_20220504_140438.jpg)
 ![](IMG_20220504_142418.jpg)
 ![](IMG_20220504_154830.jpg)
+______
+[2022/05/05]
+
+### J71 - 5 mai - Usery Mountain Regional Park (Arizona) - 106 km (4693 km)
+
+Après une vingtaine de kilomètres vers le nord, je retrouve une quatre voies direction sud ouest vers Phoenix. Longue montée qui fait passer de 900 à 1300 mètres (en fait, ça monte de 200, redescend de 200 et remonte de 400 mètres). Malgré la quatre voies, les paysages sont superbes, peut-être parce que les collines sont plus découpées. Après soixante kilomètres de quatre voies, je suis des routes moins larges pour rejoindre le parc. Paysages plus escarpé avec des éboulis et des falaises. Mention spéciale à la dernière montée de 200 mètres pour arriver au parc.
+
+![](IMG_20220505_114032.jpg)
+![](IMG_20220505_150041.jpg)
+![](IMG_20220505_165312.jpg)
+![](IMG_20220505_193434.jpg)
 ______
