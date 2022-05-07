@@ -290,10 +290,23 @@ ______
 
 ### J71 - 5 mai - Usery Mountain Regional Park (Arizona) - 106 km (4693 km)
 
-Après une vingtaine de kilomètres vers le nord, je retrouve une quatre voies direction sud ouest vers Phoenix. Longue montée qui fait passer de 900 à 1300 mètres (en fait, ça monte de 200, redescend de 200 et remonte de 400 mètres). Malgré la quatre voies, les paysages sont superbes, peut-être parce que les collines sont plus découpées. Après soixante kilomètres de quatre voies, je suis des routes moins larges pour rejoindre le parc. Paysages plus escarpé avec des éboulis et des falaises. Mention spéciale à la dernière montée de 200 mètres pour arriver au parc.
+Après une vingtaine de kilomètres vers le nord, je retrouve une quatre voies direction sud ouest vers Phoenix. Longue montée qui fait passer de 900 à 1300 mètres (en fait, ça monte de 200, redescend de 200 et remonte de 400 mètres). Malgré la quatre voies, les paysages sont superbes, peut-être parce que les collines sont plus découpées. Après soixante kilomètres de quatre voies, je suis des routes moins larges pour rejoindre le parc. Paysages plus escarpé avec des éboulis et des falaises. Mention spéciale à la dernière montée de 200 mètres pour arriver au parc (et aux 1500 mètres de D+ dans la journée).
 
 ![](IMG_20220505_114032.jpg)
 ![](IMG_20220505_150041.jpg)
 ![](IMG_20220505_165312.jpg)
 ![](IMG_20220505_193434.jpg)
+______
+[2022/05/06]
+
+### J72 - 6 mai - Phoenix (Arizona) - 85 km (4778 km)
+
+Avant de reprendre la route, je pars faire un sentier qui monte presque en haut de la falaise qui domine le parc. L’arrivée est dans une wind cave, un porche sculpté par le vent. Montée dans les cactus et paysage grandiose. La civilisation revient très vite après le parc. Rues interminables avec des alignements de maisons, de plus en plus de trafic, mais je passe d'est en ouest sans voir le centre de Phoenix. Il y a quelques canaux qui traversent la zone. Google me fait suivre l'un deux pour rejoindre le AirBnB. Ça me donne l'occasion de croiser les sans-abri qui squattent le long du canal et dont on m'avait parlé sur la route.
+
+![](IMG_20220506_133338.jpg)
+![](IMG_20220506_115722.jpg)
+![](IMG_20220506_124209.jpg)
+[](VID_20220506_124507-small.mp4)
+![](IMG_20220506_172746.jpg)
+![](IMG_20220506_173121.jpg)
 ______
