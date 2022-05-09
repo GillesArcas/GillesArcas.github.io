@@ -310,3 +310,12 @@ Avant de reprendre la route, je pars faire un sentier qui monte presque en haut 
 ![](IMG_20220506_172746.jpg)
 ![](IMG_20220506_173121.jpg)
 ______
+[2022/05/08]
+
+L'Arizona c'est "The Grand Canyon State". Au bout d'un moment, on se dit que c'est l'occasion ou jamais, même si c'est à presque 400 kilomètres de Phoenix,  et j'ai pris une excursion pour y aller. Pas déçu. Il y a un malentendu sur la dénomination, ça devrait s'appeler le super-méga-gigantesque canyon. C'est énorme, beau et impressionnant.
+
+![](IMG_20220508_110531.jpg)
+![](IMG_20220508_125022.jpg)
+![](IMG_20220508_134140.png)
+[](VID_20220508_131145-small.mp4)
+______
