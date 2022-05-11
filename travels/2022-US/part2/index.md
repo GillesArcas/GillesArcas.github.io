@@ -319,3 +319,14 @@ L'Arizona c'est "The Grand Canyon State".  Même si c'est à 400 kilomètres de 
 ![](IMG_20220508_134140.png)
 [](VID_20220508_131145-small.mp4)
 ______
+[2022/05/10]
+
+### J76 - 10 mai - Wickenbueg (Arizona) - 104 km (4882 km)
+
+Sortie de Phoenix en suivant d'abord des canaux (sans homeless) puis une très belle piste cyclable qui suit le lit d'une rivière. Ensuite, grosse route puis route moyenne qui traverse un paysage de buissons et de cactus. À vingt kilomètres de l’arrivée, une voiture s’arrête et le gars me demande où je vais et me propose de m'y déposer. Je n'ai pas voulu rentrer dans les détails du code d'honneur cyclotouriste mais je l'ai remercié chaleureusement quand même. RV park pas cher, dix dollars, mais l'installation se fait sous des arbres à mûres (en tout cas, ça y ressemble) et je choisis l'endroit où il y en a le moins. À un moment, en train de manger, je me dis, tiens, j'avais pas vu qu'il y avait de l'eau. En fait, de l'eau est en train de remonter à l'endroit où j’ai installé la tente et je me retrouve à patauger dans deux trois centimètres d'eau. Fin du repas expédiée et déménagement de la tente.
+
+![](IMG_20220510_095026.jpg)
+![](IMG_20220510_112553.jpg)
+![](IMG_20220510_114124.jpg)
+![](IMG_20220510_135948.jpg)
+______
