@@ -321,12 +321,23 @@ L'Arizona c'est "The Grand Canyon State".  Même si c'est à 400 kilomètres de 
 ______
 [2022/05/10]
 
-### J76 - 10 mai - Wickenbueg (Arizona) - 104 km (4882 km)
+### J76 - 10 mai - Wickenburg (Arizona) - 104 km (4882 km)
 
-Sortie de Phoenix en suivant d'abord des canaux (sans homeless) puis une très belle piste cyclable qui suit le lit d'une rivière. Ensuite, grosse route puis route moyenne qui traverse un paysage de buissons et de cactus. À vingt kilomètres de l’arrivée, une voiture s’arrête et le gars me demande où je vais et me propose de m'y déposer. Je n'ai pas voulu rentrer dans les détails du code d'honneur cyclotouriste mais je l'ai remercié chaleureusement quand même. RV park pas cher, dix dollars, mais l'installation se fait sous des arbres à mûres (en tout cas, ça y ressemble) et je choisis l'endroit où il y en a le moins. À un moment, en train de manger, je me dis, tiens, j'avais pas vu qu'il y avait de l'eau. En fait, de l'eau est en train de remonter à l'endroit où j’ai installé la tente et je me retrouve à patauger dans deux trois centimètres d'eau. Fin du repas expédiée et déménagement de la tente.
+Sortie de Phoenix en suivant d'abord des canaux (sans homeless) puis une très belle piste cyclable qui suit le lit d'une rivière. Ensuite, grosse route puis route moyenne qui traverse un paysage de buissons et de cactus. À vingt kilomètres de l’arrivée, une voiture s’arrête. Le gars me demande où je vais et me propose de m'y déposer. Je n'ai pas voulu rentrer dans les détails du code d'honneur cyclotouriste mais je l'ai remercié chaleureusement quand même. RV park pas cher, dix dollars, mais l'installation se fait sous des arbres à mûres (en tout cas, ça y ressemble) et je choisis l'endroit où il y en a le moins. À un moment, en train de manger, je me dis, tiens, j'avais pas vu qu'il y avait de l'eau. En fait, de l'eau est en train de remonter à l'endroit où j’ai installé la tente et je me retrouve à patauger dans deux trois centimètres d'eau. Fin du repas expédiée et déménagement de la tente.
 
 ![](IMG_20220510_095026.jpg)
 ![](IMG_20220510_112553.jpg)
 ![](IMG_20220510_114124.jpg)
 ![](IMG_20220510_135948.jpg)
+______
+[2022/05/11]
+
+### J77 - 11 mai - Salome (Arizona) - 89 km (4971 km)
+
+Toute la journée dans la même route presque toute droite. Tout plat et des collines de chaque côté un peu plus loin. Et du vent.
+
+![](IMG_20220511_093559.jpg)
+![](IMG_20220511_144151.jpg)
+![](IMG_20220511_150536.jpg)
+![](IMG_20220511_185332.jpg)
 ______
