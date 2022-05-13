@@ -334,10 +334,22 @@ ______
 
 ### J77 - 11 mai - Salome (Arizona) - 89 km (4971 km)
 
-Toute la journée dans la même route presque toute droite. Tout plat et des collines de chaque côté un peu plus loin. Et du vent.
+Toute la journée sur la même route presque toute droite. Tout plat et des collines de chaque côté un peu plus loin. Et du vent.
 
 ![](IMG_20220511_093559.jpg)
 ![](IMG_20220511_144151.jpg)
 ![](IMG_20220511_150536.jpg)
 ![](IMG_20220511_185332.jpg)
+______
+[2022/05/12]
+
+### J78 - 12 mai - Quartzsite (Arizona) - 67 km (5038 km)
+
+À peu près le même paysage qu'hier. Par contre, le vent est moins défavorable et l’étape est plus courte. C'est peut-être pour ça que je profite plus du paysage, et c'est quand même pas mal, malgré les retrouvailles avec l'Interstate 10 sur une vingtaine de kilomètres. C'est déjà l’été ici et les trucs commencent à fermer (un des RV park ici ou la cuisine d'une station où je me suis arrêté) parce qu'il va faire trop chaud.
+
+![](IMG_20220512_103608.jpg)
+![](IMG_20220512_121619.jpg)
+![](IMG_20220512_141247.jpg)
+![](IMG_20220512_174947.jpg)
+![](IMG_20220512_193743.jpg)
 ______
