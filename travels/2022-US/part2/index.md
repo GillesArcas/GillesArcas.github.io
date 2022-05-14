@@ -353,3 +353,14 @@ ______
 ![](IMG_20220512_174947.jpg)
 ![](IMG_20220512_193743.jpg)
 ______
+[2022/05/13]
+
+### J79 - 13 mai - Palo Verde (Californie) - 72 km (5110 km)
+
+D'abord dix kilomètres très jolis entre les collines et l'interstate, ensuite dix kilomètres sur l'interstate. Ca descend un peu, le vent est favorable et avec l’aspiration des camions, ça blinde pas mal. Je décide quand même de sortir de l'interstate et de prendre une petite route qui n'est pas sur l’itinéraire. Je comprends vite pourquoi. La route est rudimentaire et traverse un bout de no man's land. Je récupère la route normale au bout de dix kilomètres. Puis traversée du Colorado et arrivée en Californie. Trente derniers kilomètres en plaine agricole. RV park très sympa dans un tout petit bled.
+
+![](IMG_20220513_100404.jpg)
+![](IMG_20220513_191427.jpg)
+![](IMG_20220513_115925.jpg)
+![](IMG_20220513_134936.jpg)
+______
