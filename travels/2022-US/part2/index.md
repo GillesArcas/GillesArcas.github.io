@@ -364,3 +364,22 @@ D'abord dix kilomètres très jolis entre les collines et l'interstate, ensuite 
 ![](IMG_20220513_115925.jpg)
 ![](IMG_20220513_134936.jpg)
 ______
+[2022/05/14]
+
+### J80 - 14 mai - Glamis (Californie) - 67 km (5177 km)
+
+Départ en milieu de matinée, je n'ai pas regarder la météo. En fait, 40º annoncé. Comme il n'y a pas d'eau sur la route ni à mon point d’arrivée, je pars avec huit litres d'eau. Après dix kilomètres de champs, c'est le désert et il n'y a plus que des cailloux. Au bout d'une heure et demi, il y a un peu de dénivelé, je suis chargé, pas encore la température maximum mais déjà très chaud, je me dis que ca ne va pas le faire. Je cherche un coin à peu près à l'ombre, je sors le fauteuil et j'attends tout l’après-midi jusqu'à ce que la température commence à descendre. Arrivé à Glamis avec la nuit.
+
+![](IMG_20220514_112207.jpg)
+![](IMG_20220514_153011.jpg)
+![](IMG_20220514_173308.jpg)
+![](IMG_20220514_180619.jpg)
+______
+[2022/05/15]
+
+### J81 - 15 mai - Calexico (Californie) - 78 km (5255 km)
+
+
+
+![](IMG_20220514_112207.jpg)
+______
