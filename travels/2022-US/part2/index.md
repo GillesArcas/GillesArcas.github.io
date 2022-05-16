@@ -379,7 +379,7 @@ ______
 
 ### J81 - 15 mai - Calexico (Californie) - 78 km (5255 km)
 
-Température annoncée aujourd'hui 42°. Alors, réveil 5h, départ 5h30 et arrivée 13h. Ca passe mieux. Juste après Glamis, il y a une zone de dunes. Avec le lever du soleil, c'est juste magnifique. Ensuite, c’est de nouveau une plaine agricole. Arrivée dans un AirBnB très sympa. Clim en panne, mon hôte est plus ennuyé que moi.
+Température annoncée aujourd'hui 42°. Alors, réveil 5h, départ 5h30 et arrivée 13h. Ca passe mieux. Juste après Glamis, il y a une zone de dunes. Avec le lever du soleil, c'est juste magnifique. Ensuite, c’est de nouveau une plaine agricole. Arrivée dans un AirBnB très sympa. Clim en panne, mon hôte a plus de raison d’être ennuyé que moi.
 
 ![](IMG_20220515_054744.jpg)
 ![](IMG_20220515_055429.jpg)
