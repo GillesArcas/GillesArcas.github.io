@@ -379,9 +379,20 @@ ______
 
 ### J81 - 15 mai - Calexico (Californie) - 78 km (5255 km)
 
-Température annoncée aujourd'hui 42°. Alors, réveil 5h, départ 5h30 et arrivée 13h. Ca passe mieux. Juste après Glamis, il y a une zone de dunes. Avec le lever du soleil, c'est juste magnifique. Ensuite, c’est de nouveau une plaine agricole. Arrivée dans un AirBnB très sympa. Clim en panne, mon hôte a plus de raison d’être ennuyé que moi.
+Température annoncée aujourd'hui 42°. Alors, réveil 5h, départ 5h30 et arrivée 13h. Ça passe mieux. Juste après Glamis, il y a une zone de dunes. Avec le lever du soleil, c'est juste magnifique. Ensuite, c’est de nouveau une plaine agricole. Arrivée dans un AirBnB très sympa. Clim en panne, mon hôte a plus de raison d’être ennuyé que moi.
 
 ![](IMG_20220515_054744.jpg)
 ![](IMG_20220515_055429.jpg)
 ![](IMG_20220515_060043.jpg)
+______
+[2022/05/16]
+
+### J82 - 16 mai - Boulevard (Californie) - 67 km (5322 km)
+
+Retour dans le désert quelques kilomètres après Calexico. Au bout de 50 kilomètres, la route rejoint une quatre voies et commence à monter. Très chaud (37° au début de la montée) et vent très défavorable, j'avance à une vitesse d’escargot. Après avoir monter de 500 mètres en 15 kilomètres, je tombe sur un panneau "Les cyclistes doivent sortir". Il y en a un autre un peu plus loin "Interdit aux cyclistes et aux piétons". On est en pleine montagne et la sortie ne permet en fait que de rejoindre la quatre voies dans la direction d'où je viens. Pas bon. Je pourrais tenter de faire les cinq kilomètres jusqu’à la prochaine sortie. J'essaye d'abord de faire du stop en visant les pick-up qui pourraient embarquer le vélo. Et ça marche ! Au bout d'un quart d'heure, quelqu'un s’arrête et m’emmène deux sorties plus loin au pied d'un motel. Reconnaissance infinie.
+
+![](IMG_20220516_112714.jpg)
+![](IMG_20220516_135540.jpg)
+![](IMG_20220516_142119.jpg)
+![](IMG_20220516_150904.jpg)
 ______
