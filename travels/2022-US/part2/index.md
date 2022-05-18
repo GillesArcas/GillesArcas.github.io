@@ -389,10 +389,21 @@ ______
 
 ### J82 - 16 mai - Boulevard (Californie) - 67 km (5322 km)
 
-Retour dans le désert quelques kilomètres après Calexico. Au bout de 50 kilomètres, la route rejoint une quatre voies et commence à monter. Très chaud (37° au début de la montée) et vent très défavorable, j'avance à une vitesse d’escargot. Après avoir monter de 500 mètres en 15 kilomètres, je tombe sur un panneau "Les cyclistes doivent sortir". Il y en a un autre un peu plus loin "Interdit aux cyclistes et aux piétons". On est en pleine montagne et la sortie ne permet en fait que de rejoindre la quatre voies dans la direction d'où je viens. Pas bon. Je pourrais tenter de faire les cinq kilomètres jusqu’à la prochaine sortie. J'essaye d'abord de faire du stop en visant les pick-up qui pourraient embarquer le vélo. Et ça marche ! Au bout d'un quart d'heure, quelqu'un s’arrête et m’emmène deux sorties plus loin au pied d'un motel. Reconnaissance infinie.
+Retour dans le désert quelques kilomètres après Calexico. Au bout de 50 kilomètres, la route rejoint une quatre voies et commence à monter. Très chaud (37° au début de la montée) et vent très défavorable, j'avance à une vitesse d’escargot. Après avoir monter de 500 mètres en 15 kilomètres, je tombe sur un panneau "Les cyclistes doivent sortir". Il y en a un autre un peu plus loin "Interdit aux cyclistes et aux piétons". On est en pleine montagne et la sortie ne permet en fait que de rejoindre la quatre voies dans la direction d'où je viens. Pas bon. Je pourrais tenter de faire les cinq kilomètres jusqu’à la prochaine sortie. J'essaye d'abord de faire du stop en visant les pick-up qui pourraient embarquer le vélo. Et ça marche ! Au bout d'un quart d'heure, quelqu'un s’arrête et me dépose deux sorties plus loin au pied d'un motel. Reconnaissance infinie.
 
 ![](IMG_20220516_112714.jpg)
 ![](IMG_20220516_135540.jpg)
 ![](IMG_20220516_142119.jpg)
 ![](IMG_20220516_150904.jpg)
+______
+[2022/05/17]
+
+### J83 - 17 mai - El Cajon (Californie) - 83 km (5405 km)
+
+Départ à peu près à 1000 mètres d'altitude, un peu de montagnes russes entre 1000 et 1200 mètres, puis descente presque continue jusqu’à 100 mètres d'altitude. Changement de paysage et de météo. Toujours des très beaux paysages mais ça devient beaucoup plus vert, et température max 24°. Un petit bout d'interstate tout en descente, je n'y reste pas longtemps. Juste le temps de rouler sur un truc qui fallait pas et faire une bosse à ma jante avant. Pas top, il est temps d'arriver. 
+
+![](IMG_20220517_122640.jpg)
+![](IMG_20220517_140105.jpg)
+![](IMG_20220517_145058.jpg)
+![](IMG_20220517_160710.jpg)
 ______
