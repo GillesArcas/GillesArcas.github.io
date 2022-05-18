@@ -400,10 +400,10 @@ ______
 
 ### J83 - 17 mai - El Cajon (Californie) - 83 km (5405 km)
 
-Départ à peu près à 1000 mètres d'altitude, un peu de montagnes russes entre 1000 et 1200 mètres, puis descente presque continue jusqu’à 100 mètres d'altitude. Changement de paysage et de météo. Toujours des très beaux paysages mais ça devient beaucoup plus vert, et température max 24°. Un petit bout d'interstate tout en descente, je n'y reste pas longtemps. Juste le temps de rouler sur un truc qui fallait pas et faire une bosse à ma jante avant. Pas top, il est temps d'arriver. 
+Départ à peu près à 1000 mètres d'altitude, un peu de montagnes russes entre 1000 et 1200 mètres, puis descente presque continue jusqu’à 100 mètres d'altitude. Changement de paysage et de météo. Toujours des très beaux paysages mais ça devient beaucoup plus vert, et température max 24°. Un petit bout d'interstate tout en descente, je n'y reste pas longtemps. Ensuite, c'est le retour à la civilisation, le trafic et les constructions deviennent plus denses.
 
 ![](IMG_20220517_122640.jpg)
-![](IMG_20220517_140105.jpg)
+![](IMG_20220517_140105.jpg)et 
 ![](IMG_20220517_145058.jpg)
 ![](IMG_20220517_160710.jpg)
 ______
