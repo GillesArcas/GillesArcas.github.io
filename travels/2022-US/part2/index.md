@@ -409,7 +409,7 @@ Départ à peu près à 1000 mètres d'altitude, un peu de montagnes russes entr
 ______
 [2022/05/18]
 
-### J84 - 18 mai - San Diego (Californie) - 51 km (5456 km)
+### J84 - 18 mai - Ocean Beach San Diego (Californie) - 51 km (5456 km)
 
 Vingt cinq kilomètres des routes diverses, puis un bout de parc régional très joli, et après ça, que des pistes cyclables qui longent la rivière San Diego jusqu’à la mer. Arrivé !
 
