@@ -403,7 +403,18 @@ ______
 Départ à peu près à 1000 mètres d'altitude, un peu de montagnes russes entre 1000 et 1200 mètres, puis descente presque continue jusqu’à 100 mètres d'altitude. Changement de paysage et de météo. Toujours des très beaux paysages mais ça devient beaucoup plus vert, et température max 24°. Un petit bout d'interstate tout en descente, je n'y reste pas longtemps. Ensuite, c'est le retour à la civilisation, le trafic et les constructions deviennent plus denses.
 
 ![](IMG_20220517_122640.jpg)
-![](IMG_20220517_140105.jpg)et 
+![](IMG_20220517_140105.jpg)
 ![](IMG_20220517_145058.jpg)
 ![](IMG_20220517_160710.jpg)
+______
+[2022/05/18]
+
+### J84 - 18 mai - San Diego (Californie) - 51 km (5456 km)
+
+Vingt cinq kilomètres des routes diverses, puis un bout de parc régional très joli, et après ça, que des pistes cyclables qui longent la rivière San Diego jusqu’à la mer. Arrivé !
+
+![](IMG_20220518_124147.jpg)
+![](IMG_20220518_143853.jpg)
+![](IMG_20220518_154729.jpg)
+![](IMG_20220518_164817.jpg)
 ______
