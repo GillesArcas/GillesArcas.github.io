@@ -411,10 +411,16 @@ ______
 
 ### J84 - 18 mai - Ocean Beach San Diego (Californie) - 51 km (5456 km)
 
-Vingt cinq kilomètres des routes diverses, puis un bout de parc régional très joli, et après ça, que des pistes cyclables qui longent la rivière San Diego jusqu’à la mer. Arrivé !
+Vingt cinq kilomètres de routes diverses, puis un bout de parc régional très joli, et après ça, que des pistes cyclables qui longent la rivière San Diego jusqu’à la mer. Arrivé !
 
 ![](IMG_20220518_124147.jpg)
 ![](IMG_20220518_143853.jpg)
 ![](IMG_20220518_154729.jpg)
 ![](IMG_20220518_164817.jpg)
+______
+[2022/05/19]
+
+Toute la route de la Floride à la Californie. En fait, j'ai suivi une route de l'Adventure Cycling Associtaion, la Southern Tier. Ces routes sont décrites en format papier ou GPS, avec les hébergements et les points de ravitaillement. Il y a d'autres idées ici : https://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/interactive-network-map/ .
+
+![](route-2022-05-18.PNG)
 ______
