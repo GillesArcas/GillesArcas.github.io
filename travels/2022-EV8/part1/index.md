@@ -9,3 +9,12 @@ Départ tardif en milieu d'après-midi. Je n'ai rien préparé et il y a toujour
 ![](IMG_20220628_194622.jpg)
 ![](IMG_20220628_202814.jpg)
 ______
+[2022/06/29]
+
+### J2 - 29 juin - Saint-Florentin (Yonne) - 96 km (168 km)
+
+Encore 20 kilomètres de grosse route mais après c'est de la petite route de campagne. Je discute un moment avec un cycliste dont c'est la première ballade. Il a quand même fait 130 kilomètres en un jour, suivi d'un jour de repos pour se remettre. Croisé une autre cycliste mais qui ne s'est pas arrêtée, devait être pressée.
+
+![](IMG_20220629_173322.jpg)
+![](IMG_20220629_175213.jpg)
+______
