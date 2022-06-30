@@ -18,3 +18,11 @@ Encore 20 kilomètres de grosse route mais après c'est de la petite route de ca
 ![](IMG_20220629_173322.jpg)
 ![](IMG_20220629_175213.jpg)
 ______
+[2022/06/30]
+
+### J3 - 30 juin - Saint-Florentin (Yonne) - 1 km (169 km)
+
+Pluie de 5h30 à 8h30 et ensuite par intermittence toute la journée, entre crachin et averse. Aucune raison de passer la journée mouillé et j'ai la chance de trouver un hébergement sur booking pas très loin du camping. Hébergement farfelu d'ailleurs dans quelque chose comme une maison de gardien au fond d'un jardin. Une pièce avec coin cuisine. Emménagement de bric et de broc. Douche dans la pièce mais toilette au pied de la maison. Pour être honnête, l'annonce sur booking (et les commentaires) ne cache rien.
+
+![](IMG_20220630_160328.jpg)
+______
