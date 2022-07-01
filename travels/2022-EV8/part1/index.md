@@ -30,7 +30,7 @@ ______
 
 ### J4 - 1er juillet - Montbard (Côte-d'Or) - 89 km (258 km)
 
-Sur la voie verte du canal de Bourgogne toute la journée. Pas la route la plus directe, mais sûrement la plus tranquille et agréable.
+Sur la voie verte du canal de Bourgogne toute la journée. Pas la route la plus directe (à cause des méandres), mais sûrement la plus tranquille et agréable.
 
 ![](IMG_20220701_145538.jpg)
 ![](IMG_20220701_155711.jpg)
