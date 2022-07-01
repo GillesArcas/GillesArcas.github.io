@@ -26,3 +26,12 @@ Pluie de 5h30 à 8h30 et ensuite par intermittence toute la journée, entre crac
 
 ![](IMG_20220630_160328.jpg)
 ______
+[2022/07/01]
+
+### J4 - 1er juillet - Montbard (Côte-d'Or) - 89 km (258 km)
+
+Sur la voie verte du canal de Bourgogne toute la journée. Pas la route la plus directe, mais sûrement la plus tranquille et agréable.
+
+![](IMG_20220701_145538.jpg)
+![](IMG_20220701_155711.jpg)
+______
