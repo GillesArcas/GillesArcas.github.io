@@ -35,3 +35,13 @@ Sur la voie verte du canal de Bourgogne toute la journée. Pas la route la plus 
 ![](IMG_20220701_145538.jpg)
 ![](IMG_20220701_155711.jpg)
 ______
+[2022/07/02]
+
+### J5 - 2 juillet - Saint-Sernin-du-Plain (Saône-et-Loire) - 106 km (364 km)
+
+Première moitié sur le canal, toujours aussi joli et agréable. Ensuite, des petites routes et des petits villages dans les collines. Hébergé chez Daniel (un ex collègue) et Cathy. Daniel me suit de temps en temps sur FB et quand il a vu que j'allais passer près de chez eux, il m'a proposé de passer. Super soirée.
+
+![](IMG_20220702_105648.jpg)
+![](IMG_20220702_111031.jpg)
+![](IMG_20220702_181126.jpg)
+______
