@@ -45,3 +45,13 @@ Première moitié sur le canal, toujours aussi joli et agréable. Ensuite, des p
 ![](IMG_20220702_111031.jpg)
 ![](IMG_20220702_181126.jpg)
 ______
+[2022/07/03]
+
+### J6 - 3 juillet - Mantenay-Montlin (Ain) - 88 km (452 km)
+
+Petit-déjeuner dans le jardin chez Daniel et Cathy. Ils me proposent de rejoindre Chalon-sur-Saône par le canal du centre. Bonne idée. En fait, c'est un bout d'Eurovelo 6. Après Chalon, c'est de la route moins pittoresque. Petit camping ubérisé. Pas de réception ni de numéro de téléphone. Il faut être inscrit et obtenir un code sur internet pour ouvrir la barrière et rentrer. Évidemment à vélo, le code n'est pas absolument nécessaire et je régulariserai si je vois quelqu’un.
+
+![](IMG_20220703_102655.jpg)
+![](IMG_20220703_105430.jpg)
+![](IMG_20220703_205053.jpg)
+______
