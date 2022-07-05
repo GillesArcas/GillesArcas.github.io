@@ -59,7 +59,7 @@ ______
 
 ### J7 - 4 juillet - Ambérieu-en-Bugey (Ain) - 70 km (522 km)
 
-Voie verte à la sortie du camping. Curieusement balisée tout du long avec une bande rouge. Malheureusement, elle se termine en cul-de-sac et l’arrivée à bourg-en-Bresse se fait sur une trois voies puis une quatre voies. Après Bourg-en-Bresse, un peu de voie verte et pas mal de routes moyennes.
+Voie verte à la sortie du camping (la Traverse). Curieusement balisée tout du long avec une bande rouge. Malheureusement, elle se termine en cul-de-sac et l’arrivée à Bourg-en-Bresse se fait sur une trois voies puis une quatre voies. Après Bourg-en-Bresse, un peu de voie verte et pas mal de routes moyennes.
 
 ![](IMG_20220704_104605.jpg)
 ![](IMG_20220704_151027.jpg)
