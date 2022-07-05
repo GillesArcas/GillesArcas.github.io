@@ -49,9 +49,18 @@ ______
 
 ### J6 - 3 juillet - Mantenay-Montlin (Ain) - 88 km (452 km)
 
-Petit-déjeuner dans le jardin chez Daniel et Cathy. Ils me proposent de rejoindre Chalon-sur-Saône par le canal du centre. Bonne idée. En fait, c'est un bout d'Eurovelo 6. Après Chalon, c'est de la route moins pittoresque. Petit camping ubérisé. Pas de réception ni de numéro de téléphone. Il faut être inscrit et obtenir un code sur internet pour ouvrir la barrière et rentrer. Évidemment à vélo, le code n'est pas absolument nécessaire et je régulariserai si je vois quelqu’un.
+Petit-déjeuner dans le jardin chez Daniel et Cathy. Ils me proposent de rejoindre Chalon-sur-Saône par le canal du centre qui passe tout près. Bonne idée. En fait, c'est un bout d'Eurovelo 6. Après Chalon, c'est de la route moins pittoresque. Petit camping ubérisé. Pas de réception ni de numéro de téléphone. Il faut être inscrit et obtenir un code sur internet pour ouvrir la barrière et rentrer. Évidemment à vélo, le code n'est pas absolument nécessaire et je régulariserai si je vois quelqu’un.
 
 ![](IMG_20220703_102655.jpg)
 ![](IMG_20220703_105430.jpg)
 ![](IMG_20220703_205053.jpg)
+______
+[2022/07/04]
+
+### J7 - 4 juillet - Ambérieu-en-Bugey (Ain) - 70 km (522 km)
+
+Voie verte à la sortie du camping. Curieusement balisée tout du long avec une bande rouge. Malheureusement, elle se termine en cul-de-sac et l’arrivée à bourg-en-Bresse se fait sur une trois voies puis une quatre voies. Après Bourg-en-Bresse, un peu de voie verte et pas mal de routes moyennes.
+
+![](IMG_20220704_104605.jpg)
+![](IMG_20220704_151027.jpg)
 ______
