@@ -77,3 +77,14 @@ D'abord une vingtaine de kilomètres dans une vallée encaissée. Super paysage 
 ![](IMG_20220705_163527.jpg)
 ![](IMG_20220705_174824.jpg)
 ______
+[2022/07/06]
+
+### J9 - 6 juillet - Saint-Jean-de-Maurienne (Savoie) - 77 km (693 km)
+
+Beaucoup de dénivelé aujourd'hui (plus de 1000 mètres) même si la route est presque tout le temps en fond de vallée. En échange, supers paysages.
+
+![](IMG_20220706_122846.jpg)
+![](IMG_20220706_141456.jpg)
+![](IMG_20220706_143436.jpg)
+![](IMG_20220706_180031.jpg)
+______
