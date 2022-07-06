@@ -64,3 +64,16 @@ Voie verte à la sortie du camping (la Traverse). Curieusement balisée tout du 
 ![](IMG_20220704_104605.jpg)
 ![](IMG_20220704_151027.jpg)
 ______
+[2022/07/05]
+
+### J8 - 5 juillet - Challes-les-Eaux (Savoie) - 94 km (616 km)
+
+D'abord une vingtaine de kilomètres dans une vallée encaissée. Super paysage mais route un peu passante. Ensuite un bout de ViaRhona, puis un peu de dénivelé pour atteindre le tunnel du Chat. En fait, les vélos empruntent une galerie de service de 1500 mètres de long. La sortie du tunnel surplombe le lac du Bourget et ça redescend pour arriver à Chambéry. Arrivée et traversée de Chambéry avec plein de pistes cyclables et de cyclistes. Petit détour pour voir la fontaine aux Éléphants.
+
+![](IMG_20220705_122508.jpg)
+![](IMG_20220705_150236.jpg)
+![](IMG_20220705_154506.jpg)
+![](IMG_20220705_160931.jpg)
+![](IMG_20220705_163527.jpg)
+![](IMG_20220705_174824.jpg)
+______
