@@ -88,3 +88,14 @@ Beaucoup de dénivelé aujourd'hui (plus de 1000 mètres) même si la route est 
 ![](IMG_20220706_143436.jpg)
 ![](IMG_20220706_180031.jpg)
 ______
+[2022/07/07]
+
+### J10 - 7 juillet - Lanslebourg-Mont-Cenis (Savoie) - 58 km (751 km)
+
+Départementale assez passante, mais avec une bande cyclable, jusqu’à Modane. Beaucoup de vélos de route (d’ailleurs le tour de France va passer par St-Jean la semaine prochaine). Ça monte doucement dans un fond de vallée un peu encombré entre la rivière, le train, la route et l'autoroute. Route un peu plus tranquille après Modane mais avec un peu plus de pente. Encore 1000 mètres de dénivelé aujourd'hui pour arriver à 1400 mètres.
+
+![](IMG_20220707_121115.jpg)
+![](IMG_20220707_151801.jpg)
+![](IMG_20220707_162332.jpg)
+![](IMG_20220707_165753.jpg)
+______
