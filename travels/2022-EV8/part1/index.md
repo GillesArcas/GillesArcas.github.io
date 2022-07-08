@@ -99,3 +99,14 @@ Départementale assez passante, mais avec une bande cyclable, jusqu’à Modane.
 ![](IMG_20220707_162332.jpg)
 ![](IMG_20220707_165753.jpg)
 ______
+[2022/07/08]
+
+### J11 - 8 juillet - Turin (Italie) - 97 km (848 km)
+
+Ça commence à monter dès la sortie du village. Coup de bol, la route est réservée aux vélos ce matin. Dix kilomètres et 700 mètres de gain en altitude pour arriver au col du Mont-Cenis à 2083 mètres. Bonne chose de faite ! Ensuite encore une dizaine de kilomètres en France, en passant par le lac du Mont-Cenis, puis c’est la descente vers l'Italie et Turin. Arrivée à Turin dans la circulation mais les Italiens ont l’air de faire attention aux vélos.
+
+![](IMG_20220708_102807.jpg)
+![](IMG_20220708_115552.jpg)
+[](VID_20220708_121054.mp4)
+![](IMG_20220708_131517.jpg)
+______
