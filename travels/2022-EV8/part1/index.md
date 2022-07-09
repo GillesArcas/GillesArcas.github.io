@@ -103,10 +103,21 @@ ______
 
 ### J11 - 8 juillet - Turin (Italie) - 97 km (848 km)
 
-Ça commence à monter dès la sortie du village. Coup de bol, la route est réservée aux vélos ce matin. Dix kilomètres et 700 mètres de gain en altitude pour arriver au col du Mont-Cenis à 2083 mètres. Bonne chose de faite ! Ensuite encore une dizaine de kilomètres en France, en passant par le lac du Mont-Cenis, puis c’est la descente vers l'Italie et Turin. Arrivée à Turin dans la circulation mais les Italiens ont l’air de faire attention aux vélos.
+Ça commence à monter dès la sortie du village. Coup de bol, la route est réservée aux vélos ce matin. Dix kilomètres et 700 mètres de gain en altitude pour arriver au col du Mont-Cenis à 2083 mètres. Bonne chose de faite ! Ensuite encore une dizaine de kilomètres en France, en passant par le lac du Mont-Cenis, puis c’est l'Italie et la descente vers Turin. Arrivée à Turin dans la circulation mais les Italiens ont l’air de faire attention aux vélos.
 
 ![](IMG_20220708_102807.jpg)
 ![](IMG_20220708_115552.jpg)
 [](VID_20220708_121054.mp4)
 ![](IMG_20220708_131517.jpg)
+______
+[2022/07/09]
+
+### J12 - 9 juillet - Turin
+
+Jour de repos. Déambulation dans Turin. Beaucoup de places, de musées, de palais, d’églises et beaucoup d'animation. La cathédrale est fermée aujourd'hui exceptionnellement mais on peut quand même monter à la tour. Super panorama et ça permet d’avoir une vue d'ensemble.
+
+![](IMG_20220709_170902.jpg)
+![](IMG_20220709_171434.jpg)
+![](rps20220709_220118.jpg)
+![](IMG_20220709_182135.jpg)
 ______
