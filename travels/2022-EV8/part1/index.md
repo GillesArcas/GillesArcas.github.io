@@ -121,3 +121,14 @@ Jour de repos. Déambulation dans Turin. Beaucoup de places, de musées, de pala
 ![](rps20220709_220118.jpg)
 ![](IMG_20220709_182135.jpg)
 ______
+[2022/07/10]
+
+### J13 - 10 juillet - Casale Monferrato (Italie) - 87 km (935 km)
+
+En route sur l'Eurovélo 8. Pas de fléchage, je suis un tracé GPS trouvé sur internet. Départ prometteur sur les quais du Pô mais il faut vite suivre les chemins dans les parcs au-dessus. Ça tournicote un moment entre chemins et pistes cyclables cabossées. Arrivé dans la campagne, ça continue entre routes et chemins à tracteurs. Au bout de quarante kilomètres, je craque et je dessine une trace en mode vélo de route sur Komoot. Fin de la journée sur des routes relativement tranquilles.
+
+![](IMG_20220710_111105.jpg)
+![](IMG_20220710_125130.jpg)
+![](IMG_20220710_155439.jpg)
+![](rps20220710_223806.jpg)
+______
