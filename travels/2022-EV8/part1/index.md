@@ -132,3 +132,14 @@ En route sur l'Eurovélo 8. Pas de fléchage, je suis un tracé GPS trouvé sur 
 ![](IMG_20220710_155439.jpg)
 ![](rps20220710_223806.jpg)
 ______
+[2022/07/11]
+
+### J14 - 11 juillet - Pavie (Italie) - 70 km (1005 km)
+
+Option route encore aujourd’hui après une brève tentative dans un chemin recouvert de gravier. Plat de chez plat, rizières et champs de maïs, deux voies assez passantes. Ballade dans la vielle ville en arrivant : l'université (une des plus anciennes), la cathédrale (fermée) et les tours (qui ne sont que des symboles de prestiges).
+
+![](IMG_20220711_113508.jpg)
+![](IMG_20220711_115823.jpg)
+![](IMG_20220711_191455.jpg)
+![](IMG_20220711_191541.jpg)
+______
