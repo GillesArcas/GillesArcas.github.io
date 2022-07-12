@@ -136,10 +136,21 @@ ______
 
 ### J14 - 11 juillet - Pavie (Italie) - 70 km (1005 km)
 
-Option route encore aujourd’hui après une brève tentative dans un chemin recouvert de gravier. Plat de chez plat, rizières et champs de maïs, deux voies assez passantes. Ballade dans la vielle ville en arrivant : l'université (une des plus anciennes), la cathédrale (fermée) et les tours (qui ne sont que des symboles de prestiges).
+Option route encore aujourd’hui après une brève tentative dans un chemin recouvert de gravier. Plat de chez plat, rizières et champs de maïs, deux voies assez passantes. Ballade dans la vielle ville en arrivant : l'université (une des plus anciennes), la cathédrale (fermée) et les tours (qui ne sont que des symboles de prestige).
 
 ![](IMG_20220711_113508.jpg)
 ![](IMG_20220711_115823.jpg)
 ![](IMG_20220711_191455.jpg)
 ![](IMG_20220711_191541.jpg)
+______
+[2022/07/12]
+
+### J15 - 12 juillet - Plaisance (Italie) - 63 km (1068 km)
+
+Aujourd'hui, option "BRouter en mode vélo de route faible trafic". Pas mal, que des petites routes et juste assez de chemin pour profiter de la tranquillité. Pour dormir, j'ai hésité entre camping sauvage et Bed&Breakfast. Finalement, je me suis dit qu'en dormant dans les bois, je ne verrais pas grand-chose. J'ai choisi B&B et j'ai pu en profiter pour faire un tour dans la ville.
+
+![](IMG_20220712_134245.jpg)
+![](IMG_20220712_165230.jpg)
+![](IMG_20220712_165529.jpg)
+![](IMG_20220712_160250.jpg)
 ______
