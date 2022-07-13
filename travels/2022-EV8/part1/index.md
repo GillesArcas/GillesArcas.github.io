@@ -154,3 +154,14 @@ Aujourd'hui, option "BRouter en mode vélo de route faible trafic". Pas mal, que
 ![](IMG_20220712_165529.jpg)
 ![](IMG_20220712_160250.jpg)
 ______
+[2022/07/12]
+
+### J16 - 13 juillet - Casalmaggiore (Italie) - 79 km (1147 km)
+
+Vingt kilomètres de route passante et rectiligne pour démarrer. Ensuite, ca s'arrange avec des plus petites routes et un peu de chemin, souvent sur la digue qui longe le fleuve. Toujours la campagne, d’ailleurs je passe par une route qui s’appelle la "Food Valley Bike" d’après le surnom de la région.
+
+![](IMG_20220713_122734.jpg)
+![](IMG_20220713_155508.jpg)
+![](IMG_20220713_163522.jpg)
+![](IMG_20220713_170010.jpg)
+______
