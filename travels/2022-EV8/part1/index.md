@@ -169,7 +169,7 @@ ______
 
 ### J17 - 14 juillet - Bergantino (Italie) - 105 km (1252 km)
 
-Presque toute la journée sur la digue, donc petites routes et un peu de chemin. Il y a même du fléchage pour l'Eurovélo 8, peut-être parce que ça ressemble plus à une vraie véloroute par ici. On voit plus le Pô que les jours précédents et le manque d'eau est visible. En fait, le niveau est historiquement bas. 
+Presque toute la journée sur la digue, donc petites routes et un peu de chemin. Il y a même du fléchage pour l'Eurovélo 8, peut-être parce que ça ressemble à une vraie véloroute par ici. On voit plus le Pô que les jours précédents et le manque d'eau est visible. En fait, le niveau est historiquement bas.
 
 ![](IMG_20220714_123930.jpg)
 ![](IMG_20220714_151754.jpg)
