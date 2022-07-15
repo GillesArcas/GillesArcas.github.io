@@ -176,3 +176,14 @@ Presque toute la journée sur la digue, donc petites routes et un peu de chemin.
 ![](IMG_20220714_152207.jpg)
 ![](IMG_20220714_174739.jpg)
 ______
+[2022/07/15]
+
+### J18 - 15 juillet - Porto Viro (Italie) - 104 km (1356 km)
+
+Toujours sur la digue. Comme la digue est à quelques mètres au-dessus de la plaine, on voit le paysage assez loin et ca n'est pas monotone. Le Pô a l'air moins anémié sur la fin du trajet, même si les infos disent que l’eau salée remonte de vingt kilomètres à cause du manque de débit. Première crevaison. Coup de chance, je suis juste à coté d'un coin sympa et à l'ombre pour réparer. Je peux même aller me rincer les mains dans le fleuve.
+
+![](IMG_20220715_112512.jpg)
+![](IMG_20220715_161934.jpg)
+![](IMG_20220715_161456.jpg)
+![](IMG_20220715_183149.jpg)
+______
