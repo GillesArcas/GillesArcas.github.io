@@ -187,3 +187,15 @@ Toujours sur la digue. Comme la digue est à quelques mètres au-dessus de la pl
 ![](IMG_20220715_161456.jpg)
 ![](IMG_20220715_183149.jpg)
 ______
+[2022/07/16]
+
+### J19 - 16 juillet - Venise (Italie) - 106 km (1462 km)
+
+L'Eurovélo 8 suit un itinéraire un peu compliqué pour traverser le delta et les lagunes. Ça permet de voir des jolis paysages et d'éviter le trafic. Un détour en plus à cause d'un petit bac qui ne prend que des piétons. Et deux ferries pour rejoindre l’île en face de Venise. Clou de la journée, ce week-end c'est la fête du Rédempteur à Venise et il y a un beau feu d'artifice qu'on voit très bien de l'autre coté de la lagune.
+
+![](IMG_20220716_124028.jpg)
+![](IMG_20220716_154526.jpg)
+![](IMG_20220716_191428.jpg)
+![](IMG_20220716_233610.jpg)
+![](PortoViro-Lido.jpg)
+______
