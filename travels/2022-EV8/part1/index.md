@@ -216,7 +216,7 @@ Deux jours pour visiter Venise, ça permet d'avoir un aperçu. Une visite guidé
 ______
 [2022/07/19]
 
-### J22 - 19 juillet - Portogruaro  (Italie) - 85 km (1547 km)
+### J22 - 19 juillet - Portogruaro (Italie) - 85 km (1547 km)
 
 Un dernier vaporetto pour aller à Punta Sabbioni (le bout de la presqu’île qui prolonge l’île du Lido). Amusant de voir l’entrée du camping en passant. Ensuite, réseau de pistes cyclables pas mal pour sortir des lagunes, puis je longe la côte, occupée par des complexes touristiques. Finalement, retour dans une région agricole avec encore pas mal de pistes cyclables. Au camping, quelqu’un me demande mon âge, ça part d'une bonne intention :-).
 
@@ -224,4 +224,15 @@ Un dernier vaporetto pour aller à Punta Sabbioni (le bout de la presqu’île q
 ![](IMG_20220719_112724.jpg)
 ![](IMG_20220719_143217.jpg)
 ![](IMG_20220719_153720.jpg)
+______
+[2022/07/20]
+
+### J23 - 20 juillet - Grado (Italie) - 81 km (1628 km)
+
+De la campagne, pas mal de pistes cyclables même entre villes, et des bouts de routes non goudronnées. Ensuite, traversée de la lagune et arrivée sur le littoral. Il y a un incendie au loin avant d'arriver à Grado. La fumée cache un peu le soleil et à certains moments, ça donne des couleurs de coucher de soleil au milieu de l’après-midi.
+
+![](IMG_20220720_122158.jpg)
+![](IMG_20220720_152245.jpg)
+![](IMG_20220720_153245.jpg)
+![](IMG_20220720_160209.jpg)
 ______
