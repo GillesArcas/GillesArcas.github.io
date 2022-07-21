@@ -236,3 +236,14 @@ De la campagne, pas mal de pistes cyclables même entre villes, et des bouts de 
 ![](IMG_20220720_153245.jpg)
 ![](IMG_20220720_160209.jpg)
 ______
+[2022/07/21]
+
+### J24 - 21 juillet - Trieste (Italie) - 65 km (1693 km)
+
+La route commence par suivre des chemins et des pistes cyclables à travers des lagunes, puis longe un bout de côte inhabitée (il n'y a pas de plages mais des bancs de vase). Ensuite, le paysage change complètement. La côte devient escarpée et la route passe à flanc de coteau en surplombant la mer. Petit tour en ville, très chic, sûrement à cause du passé autrichien.
+
+![](IMG_20220721_105051.jpg)
+![](IMG_20220721_125645.jpg)
+![](IMG_20220721_154749.jpg)
+![](IMG_20220721_192041.jpg)
+______
