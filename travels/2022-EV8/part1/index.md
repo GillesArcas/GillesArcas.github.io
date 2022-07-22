@@ -247,3 +247,14 @@ La route commence par suivre des chemins et des pistes cyclables à travers des 
 ![](IMG_20220721_154749.jpg)
 ![](IMG_20220721_192041.jpg)
 ______
+[2022/07/22]
+
+### J25 - 22 juillet - Rijeka (Croatie) - 78 km (1771 km)
+
+Après la traversée de l'Italie en relief extra plat, aujourd'hui, c’est 1200 mètres de dénivelé positif. C’est aussi la traversée d’un petit bout de Slovénie (un quinzaine de kilomètres). Petite route, peu de voitures et des paysages qui semblent inhabités. Ça se repeuple petit à petit en redescendant vers Rijeka. En Slovénie, je croise un cycliste Australien. En fait, il va aussi en Croatie, mais la Croatie n'est pas dans l'espace Schengen et il lui manque une autorisation. Pas très content d’avoir à redescendre tout ce qu'il vient de monter et de faire un grand détour pour trouver son document.
+
+![](frontieres.jpg)
+![](IMG_20220722_130841.jpg)
+![](IMG_20220722_152910.jpg)
+![](IMG_20220722_164114.jpg)
+______
