@@ -272,3 +272,14 @@ Le parcours jusque là.
 
 ![](carte-20220723.PNG)
 ______
+[2022/07/24]
+
+### J27 - 24 juillet - Senj (Croatie) - 71 km (1842 km)
+
+Pour longer la côte, j'ai le choix entre la route principale assez fréquentée et des petites routes, si il y en a, plus à l’intérieur. Je commence par des petites routes. Ça monte beaucoup avec quelques passages au-dessus de 10% que je passe en poussant. Finalement, je rattrape la route principale à Crikvenica plus tôt que prévu. Ça monte encore mais raisonnablement et le trafic est supportable. En plus, la route suit la mer d’assez près avec des paysages magnifiques. Pas sûr de chercher encore les petites routes.
+
+![](IMG_20220724_152557.jpg)
+![](IMG_20220724_155105.jpg)
+![](IMG_20220724_163515.jpg)
+![](IMG_20220724_163522.jpg)
+______
