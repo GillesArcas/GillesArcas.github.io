@@ -283,3 +283,13 @@ Pour longer la côte, j'ai le choix entre la route principale assez fréquentée
 ![](IMG_20220724_163515.jpg)
 ![](IMG_20220724_163522.jpg)
 ______
+[2022/07/25]
+
+### J28 - 25 juillet - Bošana (Croatie) - 79 km (1921 km)
+
+Cinquante kilomètres sur la route principale. Même ambiance qu'hier, des fois un peu coincé entre les voitures et le ravin, mais toujours aussi beau. Après ça, un ferry pour continuer sur une île et petite route jusqu'au AirBnB. Ambiance auberge et équipement approximatif. Pour une fois, il y a une plage juste à côté et je peux en profiter.
+
+![](IMG_20220725_113559.jpg)
+![](IMG_20220725_151300.jpg)
+______
+
