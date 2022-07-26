@@ -292,4 +292,16 @@ Cinquante kilomètres sur la route principale. Même ambiance qu'hier, des fois 
 ![](IMG_20220725_113559.jpg)
 ![](IMG_20220725_151300.jpg)
 ______
+[2022/07/26]
+
+### J29 - 26 juillet - Preko (Croatie) - 61 km (1982 km)
+
+Première moitie presque plate, il y a même des marais salants. En deuxième partie, il faut traverser les collines et il y a quelques grosses montées. Finalement, encore un ferry pour aller sur l’île en face de Zadar où continue l'EV8 et où j’ai trouvé un AirBnb.
+
+![](IMG_20220726_095322.jpg)
+![](IMG_20220726_102151.jpg)
+![](IMG_20220726_115241-crop.jpg)
+![](IMG_20220726_130146.jpg)
+![](IMG_20220726_191410-crop.jpg)
+______
 
