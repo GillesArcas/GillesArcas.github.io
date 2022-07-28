@@ -304,4 +304,15 @@ Première moitie presque plate, il y a même des marais salants. En deuxième pa
 ![](IMG_20220726_130146.jpg)
 ![](IMG_20220726_191410-crop.jpg)
 ______
+[2022/07/27]
+
+### J30 - 27 juillet - Šibenik (Croatie) - 78 km (2060 km)
+
+Pas trop de dénivelé aujourd'hui. D'abord pour traverser l’île, puis après encore un ferry, un peu plus loin de la mer que ces derniers jours. Double chance à l’arrivée : roue à plat à moins de cent mètres de l'auberge et gros orage à peine je suis à l'abri (première pluie depuis deux mois d’après la dame de l'accueil). Jolie ville, plein de petites ruelles et de vieilles pierres. Fin de la journée avec un spectacle de danse devant la cathédrale (il y a un Šibenik Dance Festival).
+
+![](IMG_20220727_101959.jpg)
+![](IMG_20220727_132243.jpg)
+![](IMG_20220727_173356.jpg)
+![](VID_20220727_212227-crop.jpg)
+______
 
