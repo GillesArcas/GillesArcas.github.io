@@ -315,4 +315,15 @@ Pas trop de dénivelé aujourd'hui. D'abord pour traverser l’île, puis après
 ![](IMG_20220727_173356.jpg)
 ![](VID_20220727_212227-crop.jpg)
 ______
+[2022/07/28]
+
+### J31 - 28 juillet - Split (Croatie) - 74 km (2134 km)
+
+Départ tardif entre les réservations jusqu'à Dubrovnik, FaceBook, la réparation de la roue crevée et un tour à la cathédrale. Traversée des collines aujourd'hui avec une montée de 0 à 400 mètres. À la redescente, on peut voir toute la côte jusqu'à Split. Petit tour minimaliste en allant faire des courses. Ça mérite plus, ça a l’air intéressant (la ville est construite autour d'un palais romain).
+
+![](IMG_20220728_100943.jpg)
+![](IMG_20220728_142446.jpg)
+![](IMG_20220728_152401.jpg)
+![](IMG_20220728_193829.jpg)
+______
 
