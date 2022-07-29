@@ -326,4 +326,15 @@ Départ tardif entre les réservations jusqu'à Dubrovnik, FaceBook, la réparat
 ![](IMG_20220728_152401.jpg)
 ![](IMG_20220728_193829.jpg)
 ______
+[2022/07/29]
+
+### J32 - 29 juillet - Makarska (Croatie) - 35 km (2169 km) ... plus une quarantaine de kilomètres en bus
+
+Journée compliquée. Route principale impraticable, trop de trafic. Donc c'est itinéraire bis et ça commence à monter dès la sortie de Split. Ça monte pendant trente kilomètres, pas méchamment mais tout le temps, et je m’arrête toutes les demi-heures pour peser le pour et le contre des différentes options. Arrivé au-dessus d'Omiš, point de vue spectaculaire sur le canyon de la Cetina et grosse descente jusqu'à la mer. De là, il faut tout remonter mais c'est décidé, si je trouve un bus, je le prends. Ça marche. La route suit la côte de plus en plus escarpée et je peux profiter du spectacle tranquillement installé. Fin de journée à la plage avec un paysage grandiose.
+
+![](IMG_20220729_143920.jpg)
+![](IMG_20220729_163644.jpg)
+![](IMG_20220729_170338.jpg)
+![](IMG_20220729_182856.jpg)
+______
 
