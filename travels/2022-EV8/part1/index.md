@@ -337,4 +337,26 @@ Journée compliquée. Route principale impraticable, trop de trafic. Donc c'est 
 ![](IMG_20220729_170338.jpg)
 ![](IMG_20220729_182856.jpg)
 ______
+[2022/07/30]
+
+### J33 - 30 juillet - Komarna (Croatie) - 32 km (2201 km)
+
+Un peu plus d'une heure de bus jusqu'à Ploče. C'est le chauffeur qui décide si le vélo peut embarquer. Là, c’était tout juste. Après Ploče, la route fait le tour d'une zone de marais entourée par les collines, très joli et tout plat pendant quelques kilomètres. Booking avec vue sur la mer et le pont de Pelješac. Le pont a ouvert il y a quatre jours et permet de relier Dubrovnik sans traverser le morceau de Bosnie-Herzégovine qui donne sur la mer.
+
+![](IMG_20220730_095913.jpg)
+![](IMG_20220730_135156.jpg)
+![](IMG_20220730_144346.jpg)
+![](IMG_20220730_151223.jpg)
+______
+[2022/07/31]
+
+### J34 - 31 juillet - Dubrovnik (Croatie) - 78 km (2279 km)
+
+Pas de bus aujourd'hui. Deux passages de frontières, sans problème, pour traverser le "corridor de Neum", l’accès à la mer de la Bosnie-Herzégovine. Pour le reste, ça monte raisonnablement et pour être honnête, il y a un petit vent qui me pousse dans la bonne direction. Une dizaine de kilomètres avant Dubrovnik, il y a un incendie derrière les collines. Quatre Canadair font des navettes pour se ravitailler en eau en passant au-dessus de la route. C'est assez impressionnant et je passe un moment à les regarder.
+
+![](IMG_20220731_112146.jpg)
+![](IMG_20220731_162454.jpg)
+![](IMG_20220731_192823.jpg)
+[](VID_20220731_154814-ff.mp4)
+______
 
