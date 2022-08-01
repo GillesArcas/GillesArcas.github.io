@@ -341,7 +341,7 @@ ______
 
 ### J33 - 30 juillet - Komarna (Croatie) - 32 km (2201 km)
 
-Un peu plus d'une heure de bus jusqu'à Ploče. C'est le chauffeur qui décide si le vélo peut embarquer. Là, c’était tout juste. Après Ploče, la route fait le tour d'une zone de marais entourée par les collines, très joli et tout plat pendant quelques kilomètres. Booking avec vue sur la mer et le pont de Pelješac. Le pont a ouvert il y a quatre jours et permet de relier Dubrovnik sans traverser le morceau de Bosnie-Herzégovine qui donne sur la mer.
+Un peu plus d'une heure de bus jusqu'à Ploce. C'est le chauffeur qui décide si le vélo peut embarquer. Là, c’était tout juste. Après Ploce, la route fait le tour d'une zone de marais entourée par les collines, très joli et tout plat pendant quelques kilomètres. Booking avec vue sur la mer et le pont de Pelješac. Le pont a ouvert il y a quatre jours et permet de relier Dubrovnik sans traverser le morceau de Bosnie-Herzégovine qui donne sur la mer.
 
 ![](IMG_20220730_095913.jpg)
 ![](IMG_20220730_135156.jpg)
@@ -358,5 +358,16 @@ Pas de bus aujourd'hui. Deux passages de frontières, sans problème, pour trave
 ![](IMG_20220731_162454.jpg)
 ![](IMG_20220731_192823.jpg)
 [](VID_20220731_154814-ff.mp4)
+______
+[2022/08/01]
+
+### J35 - 1er août - Dubrovnik
+
+Un jour pour préparer la suite et visiter. Finalement, je ne visite que les remparts, "visite incontournable malgré son prix" j'ai lu sur un site. Effectivement, 32,50€ (j'ai cherché Versailles pour comparer, c'est 21,50€), mais c'est joli.
+
+![](IMG_20220801_135812.jpg)
+![](IMG_20220801_141309.jpg)
+![](IMG_20220801_144908.jpg)
+![](IMG_20220801_152005.jpg)
 ______
 
