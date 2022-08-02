@@ -370,4 +370,15 @@ Un jour pour préparer la suite et visiter. Finalement, je ne visite que les rem
 ![](IMG_20220801_144908.jpg)
 ![](IMG_20220801_152005.jpg)
 ______
+[2022/08/02]
+
+### J36 - 2 août - Bijela (Montenegro) - 67 km (2346 km)
+
+Après la sortie de Dubrovnik, l'EV8 passe par un bout de l’ancienne route, fermée aux voitures. Très joli mais ça ne dure que deux kilomètres avant de retomber sur la grosse route bien encombrée. Heureusement, ça ne dure pas longtemps non plus et la suite se fait sur une petite route déserte. En haut de la plus haute montée de la journée, je rencontre un couple d’allemands qui m'expliquent que la route est coupée à cause d'un incendie. Il faut tout redescendre et reprendre la route principale. Là, je tombe sur une file de voitures à l’arrêt. Je remonte sans vergogne la file de voitures sur trois kilomètres jusqu’à la frontière que je passe sans problème. Arrivé au Montenegro, hors union, plus de forfait. J’étais prêt sauf que j'avais oublié de noter l'adresse de mon hébergement. Je m'en sors en demandant l’accès wifi dans un hôtel. Finalement, j’arrive à l’hébergement où je suis accueilli par un couple adorable. La dame parle couramment français pour avoir travaillé en Suisse et a fait plein de voyage à vélo. Ils m’offrent une bière et on discute un moment de voyages et de la Yougoslavie.
+
+![](IMG_20220802_103705.jpg)
+![](IMG_20220802_121015.jpg)
+![](IMG_20220802_122514.jpg)
+![](IMG_20220802_152901.jpg)
+______
 
