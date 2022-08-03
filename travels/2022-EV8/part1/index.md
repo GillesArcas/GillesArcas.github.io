@@ -374,11 +374,22 @@ ______
 
 ### J36 - 2 août - Bijela (Montenegro) - 67 km (2346 km)
 
-Après la sortie de Dubrovnik, l'EV8 passe par un bout de l’ancienne route, fermée aux voitures. Très joli mais ça ne dure que deux kilomètres avant de retomber sur la grosse route bien encombrée. Heureusement, ça ne dure pas longtemps non plus et la suite se fait sur une petite route déserte. En haut de la plus haute montée de la journée, je rencontre un couple d’allemands qui m'expliquent que la route est coupée à cause d'un incendie. Il faut tout redescendre et reprendre la route principale. Là, je tombe sur une file de voitures à l’arrêt. Je remonte sans vergogne la file de voitures sur trois kilomètres jusqu’à la frontière que je passe sans problème. Arrivé au Montenegro, hors union, plus de forfait. J’étais prêt sauf que j'avais oublié de noter l'adresse de mon hébergement. Je m'en sors en demandant l’accès wifi dans un hôtel. Finalement, j’arrive à l’hébergement où je suis accueilli par un couple adorable. La dame parle couramment français pour avoir travaillé en Suisse et a fait plein de voyage à vélo. Ils m’offrent une bière et on discute un moment de voyages et de la Yougoslavie.
+Après la sortie de Dubrovnik, l'EV8 passe par un bout d’une ancienne route fermée aux voitures. Très joli mais ça ne dure que deux kilomètres avant de retomber sur la grosse route bien encombrée. Heureusement, ça ne dure pas longtemps non plus et la suite se fait sur une petite route déserte. En haut de la plus haute montée de la journée, je rencontre un couple d’allemands qui m'expliquent que la route est coupée à cause d'un incendie. Il faut tout redescendre et reprendre la route principale. Là, je tombe sur une file de voitures à l’arrêt. Je remonte sans vergogne la file de voitures sur trois kilomètres jusqu’à la frontière que je passe sans problème. Arrivé au Montenegro, hors union, plus de forfait. J’étais prêt sauf que j'avais oublié de noter l'adresse de mon hébergement. Je m'en sors en demandant l’accès wifi dans un hôtel. Finalement, j’arrive à l’hébergement où je suis accueilli par un couple adorable. La dame parle couramment français pour avoir travaillé en Suisse et a fait plein de voyage à vélo. Ils m’offrent une bière et on discute un moment de voyages et de la Yougoslavie.
 
 ![](IMG_20220802_103705.jpg)
 ![](IMG_20220802_121015.jpg)
 ![](IMG_20220802_122514.jpg)
 ![](IMG_20220802_152901.jpg)
+______
+[2022/08/03]
+
+### J37 - 3 août - Bijela (Montenegro) - 48 km (2394 km)
+
+Toujours à Bijela mais pas au repos complet. La côte ici forme un système de golfes (les bouches de Kotor) presque complètement fermé (on parle même de fjord). L’itinéraire de l'EV8 fait le tour au lieu de prendre le ferry pour traverser le bras de mer. Comme mon hébergement est au bord du bras de mer, j'ai pu faire le tour sans bagage. La route est assez encombrée mais le paysage est grandiose. En passant, petit tour dans Kotor, petite ville fortifiée, très touristique.
+
+![](IMG_20220803_142428.jpg)
+![](IMG_20220803_144930.jpg)
+![](IMG_20220803_190228.jpg)
+![](kotor.png)
 ______
 
