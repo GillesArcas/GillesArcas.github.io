@@ -392,4 +392,15 @@ Toujours à Bijela mais pas au repos complet. La côte ici forme un système de 
 ![](IMG_20220803_190228.jpg)
 ![](kotor.png)
 ______
+[2022/08/04]
+
+### J38 - 4 août - Bar (Montenegro) - 74 km (2468 km)
+
+Beaucoup de trafic aujourd'hui. Pour éviter la route principake, l'Eurovelo 8 passe dans l’intérieur des terres mais démarre par une montée de 0 à 1000 mètres. Pas trop chaud pour autant de dénivelé, j'ai pris la route de la côte. Mais le trafic est dense, assez pour qu'il y ait des ralentissements et que je roule de temps en temps aussi vite que les voitures. Heureusement, ça se dégage un peu dans la deuxième moitié. En plus, la côte est plus urbanisée ici et c'est moins joli. Discuté cinq minutes avec un Polonais qui fait tout un périple dans les Balkans.
+
+![](IMG_20220804_120629.jpg)
+![](IMG_20220804_124619.jpg)
+![](IMG_20220804_134746.jpg)
+![](IMG_20220804_155841.jpg)
+______
 
