@@ -405,9 +405,9 @@ Beaucoup de trafic aujourd'hui. Pour éviter la route principale, l'Eurovelo 8 p
 ______
 [2022/08/05]
 
-### J39 - 5 août - Shkoder (Albanie) - 52 km (2520 km)
+### J39 - 5 août - Shkodër (Albanie) - 52 km (2520 km)
 
-Départ de Bar par la grande route, mais rapidement je la quitte pour des routes plus petites. Dernier coup d’œil sur la côte adriatique depuis les hauteurs. Un peu de trafic quand même, avec des voitures de tous les pays de la région, comme c'est une des routes qui conduit à la frontière. Passage de la frontière sans problème. Pas mal de curiosité à découvrir l’Albanie qui était complètement fermée jusqu’en 1991.
+Départ de Bar par la grande route, mais rapidement je la quitte pour des petites routes. Dernier coup d’oeil sur la côte adriatique depuis les hauteurs. Un peu de trafic quand même, avec des voitures de tous les pays de la région, comme c'est une des routes qui conduit à la frontière. Passage de la frontière sans problème. Pas mal de curiosité à découvrir l’Albanie qui était complètement fermée jusqu’en 1991.
 
 ![](IMG_20220805_115638.jpg)
 ![](IMG_20220805_142553.jpg)
