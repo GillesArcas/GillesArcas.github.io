@@ -396,11 +396,22 @@ ______
 
 ### J38 - 4 août - Bar (Montenegro) - 74 km (2468 km)
 
-Beaucoup de trafic aujourd'hui. Pour éviter la route principake, l'Eurovelo 8 passe dans l’intérieur des terres mais démarre par une montée de 0 à 1000 mètres. Pas trop chaud pour autant de dénivelé, j'ai pris la route de la côte. Mais le trafic est dense, assez pour qu'il y ait des ralentissements et que je roule de temps en temps aussi vite que les voitures. Heureusement, ça se dégage un peu dans la deuxième moitié. En plus, la côte est plus urbanisée ici et c'est moins joli. Discuté cinq minutes avec un Polonais qui fait tout un périple dans les Balkans.
+Beaucoup de trafic aujourd'hui. Pour éviter la route principale, l'Eurovelo 8 passe dans l’intérieur des terres mais démarre par une montée de 0 à 1000 mètres. Pas trop chaud pour autant de dénivelé, j'ai pris la route de la côte. Mais le trafic est dense, assez pour qu'il y ait des ralentissements et que je roule de temps en temps aussi vite que les voitures. Heureusement, ça se dégage un peu dans la deuxième moitié. En plus, la côte est plus urbanisée ici et c'est moins joli. Discuté cinq minutes avec un Polonais qui fait tout un périple dans les Balkans.
 
 ![](IMG_20220804_120629.jpg)
 ![](IMG_20220804_124619.jpg)
 ![](IMG_20220804_134746.jpg)
 ![](IMG_20220804_155841.jpg)
+______
+[2022/08/05]
+
+### J39 - 5 août - Shkoder (Albanie) - 52 km (2520 km)
+
+Départ de Bar par la grande route, mais rapidement je la quitte pour des routes plus petites. Dernier coup d’œil sur la côte adriatique depuis les hauteurs. Un peu de trafic quand même, avec des voitures de tous les pays de la région, comme c'est une des routes qui conduit à la frontière. Passage de la frontière sans problème. Pas mal de curiosité à découvrir l’Albanie qui était complètement fermée jusqu’en 1991.
+
+![](IMG_20220805_115638.jpg)
+![](IMG_20220805_142553.jpg)
+![](IMG_20220805_182509-crop.jpg)
+![](IMG_20220805_184704-crop.jpg)
 ______
 
