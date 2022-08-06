@@ -414,4 +414,15 @@ Départ de Bar par la grande route, mais rapidement je la quitte pour des petite
 ![](IMG_20220805_182509-crop.jpg)
 ![](IMG_20220805_184704-crop.jpg)
 ______
+[2022/08/06]
+
+### J40 - 6 août - Tirana (Albanie) - 110 km (2630 km)
+
+Route principale très encombrée mais l'EV8 emprunte la plupart du temps des routes latérales plus confortables. Presque plat et vent favorable. Région agricole, beaucoup de maïs et des moutons jusqu'aux portes de Tirana.
+
+![](IMG_20220806_114848.jpg)
+![](IMG_20220806_144320.jpg)
+![](IMG_20220806_150242.jpg)
+![](IMG_20220806_152100.jpg)
+______
 
