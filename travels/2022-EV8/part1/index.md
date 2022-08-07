@@ -431,4 +431,15 @@ La route jusque là.
 
 ![](carte-20220807.PNG)
 ______
+[2022/08/07]
+
+### J41 - 7 août - Tirana
+
+Une journée de repos et pour visiter. Pour le repos, c’est moyen, il y a des travaux à l’étage au-dessus. Et pour la visite, pas grand chose à voir qui ait plus de cinquante ans. En plus, deux des curiosités, la fresque du musée d'histoire et la pyramide (juste un bâtiment contemporain), sont en rénovation. Heureusement, j'ai suivi le Tirana Free Tour avec un jeune guide qui explique plein de choses sur l'histoire, l’époque communiste, la corruption et l’état du pays.
+
+![](IMG_20220807_162759.jpg)
+![](IMG_20220807_163234.jpg)
+![](IMG_20220807_163259.jpg)
+![](IMG_20220807_192241.jpg)
+______
 
