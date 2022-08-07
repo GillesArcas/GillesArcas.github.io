@@ -420,7 +420,7 @@ Vingt cinq kilomètres de routes diverses, puis un bout de parc régional très 
 ______
 [2022/05/19]
 
-Toute la route de la Floride à la Californie. En fait, j'ai suivi une route de l'Adventure Cycling Associtaion, la Southern Tier. Ces routes sont décrites en format papier ou GPS, avec les hébergements et les points de ravitaillement. Il y a d'autres idées ici : https://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/interactive-network-map/ .
+Toute la route de la Floride à la Californie. En fait, j'ai suivi une route de l'Adventure Cycling Association, la Southern Tier. Ces routes sont décrites en format papier ou GPS, avec les hébergements et les points de ravitaillement. Il y a d'autres idées ici : https://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/interactive-network-map/ .
 
 ![](route-2022-05-18.PNG)
 ______
