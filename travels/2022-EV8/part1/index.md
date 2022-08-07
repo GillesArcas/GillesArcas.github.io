@@ -425,4 +425,10 @@ Route principale très encombrée mais l'EV8 emprunte la plupart du temps des ro
 ![](IMG_20220806_150242.jpg)
 ![](IMG_20220806_152100.jpg)
 ______
+[2022/08/07]
+
+La route jusque là.
+
+![](carte-20220807.PNG)
+______
 
