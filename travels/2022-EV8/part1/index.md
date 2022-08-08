@@ -442,4 +442,22 @@ Une journée de repos et pour visiter. Pour le repos, c’est moyen, il y a des 
 ![](IMG_20220807_163259.jpg)
 ![](IMG_20220807_192241.jpg)
 ______
+[2022/08/08]
 
+Trois images de mon booking à Tirana. On dirait trois endroits différents.
+
+![](IMG_20220808_103242.jpg)
+![](IMG_20220808_101839.jpg)
+![](IMG_20220806_191628.jpg)
+______
+[2022/08/08]
+
+### J42 - 8 août - Labinot-Fushë (Albanie) - 59 km (2689 km)
+
+Un peu de regret de quitter Tirana. Peut-être pas grand chose à voir mais l’ambiance est dépaysante. A part ça, grande montée toute la matinée. Pendant la montée, en passant devant une buvette, un gars me fait signe. Il m'offre à boire (j'ai préféré le jus de fruit à la bière) et on se raconte des trucs sans être sûr d'être à cent pour cent compris. Et ce soir, raki offert au resto de l’hôtel.
+
+![](IMG_20220808_143354.jpg)
+![](IMG_20220808_144157.jpg)
+![](IMG_20220808_151730.jpg)
+![](IMG_20220808_160640.jpg)
+______
