@@ -454,10 +454,22 @@ ______
 
 ### J42 - 8 août - Labinot-Fushë (Albanie) - 59 km (2689 km)
 
-Un peu de regret de quitter Tirana. Peut-être pas grand chose à voir mais l’ambiance est dépaysante. A part ça, grande montée toute la matinée. Pendant la montée, en passant devant une buvette, un gars me fait signe. Il m'offre à boire (j'ai préféré le jus de fruit à la bière) et on se raconte des trucs sans être sûr d'être à cent pour cent compris. Et ce soir, raki offert au resto de l’hôtel.
+Un peu de regret de quitter Tirana. Peut-être pas grand chose à voir mais l’ambiance est dépaysante. Grande montée toute la matinée. Pendant la montée, en passant devant une buvette, un gars me fait signe. Il m'offre à boire (j'ai préféré le jus de fruit à la bière) et on se raconte des trucs sans être sûr d'être à cent pour cent compris. Et ce soir, raki offert au resto de l’hôtel.
 
 ![](IMG_20220808_143354.jpg)
 ![](IMG_20220808_144157.jpg)
 ![](IMG_20220808_151730.jpg)
 ![](IMG_20220808_160640.jpg)
+______
+[2022/08/09]
+
+### J43 - 9 août - Pogradec (Albanie) - 80 km (2769 km)
+
+Journée moins agréable qu'hier à cause de la route qui est nettement plus encombrée. La route remonte une rivière sur cinquante kilomètres, puis passe au-dessus des collines pour redescendre vers le lac Orhid. Les vingt derniers kilomètres longent le lac. Au total 1100 mètres de dénivelé positif. La dernière montée n'est pas qu'une épreuve pour les vélos. On sent que certains camions ont un peu de mal, et dans le sens de la descente, certaines camionnettes font ça doucement, sûrement de peur de rater un virage.
+
+![](IMG_20220809_111339.jpg)
+![](IMG_20220809_122131.jpg)
+![](IMG_20220809_150437.jpg)
+![](IMG_20220809_153116.jpg)
+![](IMG_20220809_164555.jpg)
 ______
