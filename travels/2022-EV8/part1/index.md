@@ -465,11 +465,22 @@ ______
 
 ### J43 - 9 août - Pogradec (Albanie) - 80 km (2769 km)
 
-Journée moins agréable qu'hier à cause de la route qui est nettement plus encombrée. La route remonte une rivière sur cinquante kilomètres, puis passe au-dessus des collines pour redescendre vers le lac Orhid. Les vingt derniers kilomètres longent le lac. Au total 1100 mètres de dénivelé positif. La dernière montée n'est pas qu'une épreuve pour les vélos. On sent que certains camions ont un peu de mal, et dans le sens de la descente, certaines camionnettes font ça doucement, sûrement de peur de rater un virage.
+Journée moins agréable qu'hier à cause de la route qui est nettement plus encombrée. La route remonte une rivière sur cinquante kilomètres, puis passe au-dessus des collines pour redescendre vers le lac Ohrid. Les vingt derniers kilomètres longent le lac. Au total 1100 mètres de dénivelé positif. La dernière montée n'est pas qu'une épreuve pour les vélos. On sent que certains camions ont un peu de mal, et dans le sens de la descente, certaines camionnettes font ça doucement, sûrement de peur de rater un virage.
 
 ![](IMG_20220809_111339.jpg)
 ![](IMG_20220809_122131.jpg)
 ![](IMG_20220809_150437.jpg)
 ![](IMG_20220809_153116.jpg)
 ![](IMG_20220809_164555.jpg)
+______
+[2022/08/10]
+
+### J44 - 10 août - Pogradec (Albanie) - 24 km (2793 km)
+
+Un dernier jour en Albanie pour en profiter. Donc en  toute logique, je vais faire un tour en Macédoine du Nord à quelques kilomètres pour visiter le monastère Saint-Naum au bord du lac Ohrid. Pas grand chose à voir mais joli endroit. Manifestement très prisé, l’accès au monastère se fait entre la plage et les boutiques de souvenirs. Beaucoup plus de monde sur la plage qu'au monastère.
+
+![](IMG_20220810_142904.jpg)
+![](IMG_20220810_152631.jpg)
+![](IMG_20220810_160544.jpg)
+![](IMG_20220810_161650.jpg)
 ______
