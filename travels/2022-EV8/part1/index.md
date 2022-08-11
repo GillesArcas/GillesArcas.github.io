@@ -484,3 +484,14 @@ Un dernier jour en Albanie pour en profiter. Donc en  toute logique, je vais fai
 ![](IMG_20220810_160544.jpg)
 ![](IMG_20220810_161650.jpg)
 ______
+[2022/08/11]
+
+### J45 - 11 août - Kastoria (Grèce) - 97 km (2890 km)
+
+Pas beaucoup de circulation après les premiers kilomètres. D'abord, en traversant la campagne puis dans les collines. En particulier après la frontière, très peu d’habitations et très peu de voitures pendant trente kilomètres. Gros orage, mais je passe juste après et je suis à peine mouillé. Par contre, il fait frais (18°) surtout dans les descentes et je sors le coupe-vent. Encore de la pluie annoncée pendant deux jours.
+
+![](IMG_20220811_120449.jpg)
+![](IMG_20220811_124402.jpg)
+![](IMG_20220811_160609.jpg)
+![](IMG_20220811_182228.jpg)
+______
