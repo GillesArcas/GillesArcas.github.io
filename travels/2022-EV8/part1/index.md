@@ -495,3 +495,14 @@ Pas beaucoup de circulation après les premiers kilomètres. D'abord, en travers
 ![](IMG_20220811_160609.jpg)
 ![](IMG_20220811_182228.jpg)
 ______
+[2022/08/11]
+
+### J46 - 12 août - Peraia (Grèce) - 85 km (2975 km)
+
+La route contourne d'abord le lac de Kastoria. Puis, grosse montée (de 680 mètres à 1145 mètres), et grosse descente vers une région de marais. Ensuite, c'est des champs avec un peu trop de routes non goudronnées (malgré le mode "vélo de route" pour tracer les itinéraires). Arrivée à l’hébergement sous la pluie. Je suis leur premier hôte et ils m'ont préparé à manger. Discussion avec la dame sur les voisins macédoniens et turques.
+
+![](IMG_20220812_112915.jpg)
+![](IMG_20220812_134052.jpg)
+![](IMG_20220812_153520.jpg)
+![](IMG_20220812_161239.jpg)
+______
