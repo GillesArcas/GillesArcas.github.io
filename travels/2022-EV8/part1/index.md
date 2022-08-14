@@ -495,7 +495,7 @@ Pas beaucoup de circulation après les premiers kilomètres. D'abord, en travers
 ![](IMG_20220811_160609.jpg)
 ![](IMG_20220811_182228.jpg)
 ______
-[2022/08/11]
+[2022/08/12]
 
 ### J46 - 12 août - Peraia (Grèce) - 85 km (2975 km)
 
@@ -505,4 +505,13 @@ La route contourne d'abord le lac de Kastoria. Puis, grosse montée (de 680 mèt
 ![](IMG_20220812_134052.jpg)
 ![](IMG_20220812_153520.jpg)
 ![](IMG_20220812_161239.jpg)
+______
+[2022/08/13]
+
+### J47 - 13 août - Thessalonique (Grèce) - 110 km (3085 km)
+
+De 600 mètres d'altitude à zéro. En fait, ça reste dans les collines pendant trente kilomètres, puis ça descend rapidement et le reste est quasi plat. Routes et paysage nettement moins pittoresques, surtout en arrivant à Thessalonique (deuxième ville de Grèce).
+
+![](IMG_20220813_103847-crop.jpg)
+![](IMG_20220813_120607.jpg)
 ______
