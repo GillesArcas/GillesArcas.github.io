@@ -515,3 +515,17 @@ De 600 mètres d'altitude à zéro. En fait, ça reste dans les collines pendant
 ![](IMG_20220813_103847-crop.jpg)
 ![](IMG_20220813_120607.jpg)
 ______
+[2022/08/14]
+
+______
+[2022/08/15]
+
+### J48,49 - 14,15 août - Thessalonique
+
+Couvert hier, plus beau aujourd'hui. Balade sur le front de mer à vélo et montee à la Tour Blanche. Pour le reste du temps, repos et préparation des étapes suivantes.
+
+![](IMG_20220814_171258.jpg)
+![](IMG_20220815_171703.jpg)
+![](IMG_20220815_172147.jpg)
+![](IMG_20220815_172459.jpg)
+______
