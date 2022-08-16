@@ -533,7 +533,7 @@ ______
 
 ### J50 - 16 août - Asprovalta (Grèce) - 89 km (3174 km)
 
-Route tranquille sauf pour la sortie de Thessalonique et pour les dix derniers kilomètres. J'ai traversé le nord de la Chalcidique en longeant deux grands lacs. C'est donc assez plat. Les paysages ne sont pas spectaculaires mais c'est joli quand même. Nuit en camping, le premier depuis l'Italie. Je commençais à me demander si c’était vraiment utile de trimbaler la tente.
+Route tranquille sauf pour la sortie de Thessalonique et pour les dix derniers kilomètres. J'ai traversé le nord de la Chalcidique en longeant deux grands lacs. C'est donc assez plat. Les paysages ne sont pas spectaculaires mais c'est joli quand même. Nuit en camping, le premier depuis l'Italie. Je commençais à me demander si c’était vraiment utile de trimbaler la tente et le couchage.
 
 ![](IMG_20220816_131914.jpg)
 ![](IMG_20220816_140004.jpg)
