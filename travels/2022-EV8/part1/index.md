@@ -522,10 +522,21 @@ ______
 
 ### J48,49 - 14,15 août - Thessalonique
 
-Couvert hier, plus beau aujourd'hui. Balade sur le front de mer à vélo et montee à la Tour Blanche. Pour le reste du temps, repos et préparation des étapes suivantes.
+Couvert hier, plus beau aujourd'hui. Balade sur le front de mer à vélo et montée à la Tour Blanche. Pour le reste du temps, repos et préparation des étapes suivantes.
 
 ![](IMG_20220814_171258.jpg)
 ![](IMG_20220815_171703.jpg)
 ![](IMG_20220815_172147.jpg)
 ![](IMG_20220815_172459.jpg)
+______
+[2022/08/16]
+
+### J50 - 16 août - Asprovalta (Grèce) - 89 km (3174 km)
+
+Route tranquille sauf pour la sortie de Thessalonique et pour les dix derniers kilomètres. J'ai traversé le nord de la Chalcidique en longeant deux grands lacs. C'est donc assez plat. Les paysages ne sont pas spectaculaires mais c'est joli quand même. Nuit en camping, le premier depuis l'Italie. Je commençais à me demander si c’était vraiment utile de trimbaler la tente.
+
+![](IMG_20220816_131914.jpg)
+![](IMG_20220816_140004.jpg)
+![](IMG_20220816_141707.jpg)
+![](IMG_20220816_144734.jpg)
 ______
