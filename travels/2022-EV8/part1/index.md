@@ -542,7 +542,7 @@ Route tranquille sauf pour la sortie de Thessalonique et pour les dix derniers k
 ______
 [2022/08/17]
 
-### J51 - 17 août - Kavala (Grèce) - 100 km (3274 km)
+### J51 - 17 août - Nea Karvali (Grèce) - 100 km (3274 km)
 
 Après quelques kilomètres, là où il y a la grande statue du lion, je rencontre un grec, en train de réparer une crevaison, aidé par un français, qui est sur la route depuis un an et demi et revient d'Oman. Et on est rejoint par un couple d'allemands en tandem. Finalement, je retrouverai le grec, Georges, un peu plus tard sur la route et on finit la journée ensemble. En passant, il me propose de faire un tour dans un centre thermal abandonné. J'accepte évidemment et je m'offre un bain dans une eau très chaude à l'odeur sulfurée. Difficile d'en sortir, surtout que c'est à mon tour ensuite de réparer une crevaison. Quant à la route, ça a été soit toute petite en bord de plage, soit assez importante et surplombant la mer.
 
