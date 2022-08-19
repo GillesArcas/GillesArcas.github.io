@@ -551,3 +551,23 @@ Après quelques kilomètres, là où il y a la grande statue du lion, je rencont
 ![](IMG_20220817_152921.jpg)
 ![](IMG_20220817_194143.jpg)
 ______
+[2022/08/18]
+
+### J52 - 18 août - Komotini (Grèce) - 100 km (3374 km)
+
+Toute la journée avec Georges puisque nous allons au même endroit. Journée entrecoupée de plusieurs arrêts comme un détour pour aller voir une rivière qui passe dans des gorges, ou une pause à côté de vendeuses de pastèques qui nous en offriront. À l’étape, Georges prend une chambre dans le même hôtel que moi. Au moment de dîner, nous sommes rejoints par ses amis qu’il devait retrouver le lendemain. Du coup, super soirée, ils sont tous sympas et c'est resto, ballade dans la ville, dernier verre, etc., pour finir par se coucher assez tard.
+
+![](IMG_20220818_085230.jpg)
+![](IMG_20220818_121508.jpg)
+![](IMG_20220818_162005.jpg)
+![](IMG_20220818_235554.jpg)
+______
+[2022/08/19]
+
+### J53 - 19 août - Alexandroúpoli  (Grèce) - 60 km (3434 km)
+
+.
+
+![](IMG_20220819_123937.jpg)
+![](IMG_20220819_133902.jpg)
+______
