@@ -560,14 +560,27 @@ Toute la journée avec Georges puisque nous allons au même endroit. Journée en
 ![](IMG_20220818_085230.jpg)
 ![](IMG_20220818_121508.jpg)
 ![](IMG_20220818_162005.jpg)
+"Chevaux sauvages"
 ![](IMG_20220818_235554.jpg)
+Giorgos, Thomais, Pascal et Vassili.
 ______
 [2022/08/19]
 
 ### J53 - 19 août - Alexandroúpoli  (Grèce) - 60 km (3434 km)
 
-.
+Dernier café avec Giorgos et chacun repart de son côté. Route presque vide, pas trop de dénivelé mais assez chaud. Camping municipal sur la plage. Arrivé assez tôt, j'ai le temps d'en profiter.
 
 ![](IMG_20220819_123937.jpg)
 ![](IMG_20220819_133902.jpg)
+______
+[2022/08/20]
+
+### J54 - 20 août - Keşan  (Turquie) - 82 km (3516 km)
+
+À la sortie de Alexandroúpoli, je rencontre un anglais, Jacob, parti de Londres. On discute, on se sépare et on finit par se retrouver sur la route pour continuer ensemble jusqu'à Ipsala (première ville turque) où il a son hôtel. On se verra peut-être à Istanbul. Côté grec, il y a des petites routes et une autoroute. Côté turque, il n'y a qu'une grosse quatre-voies, mais pas encombrée et avec un accotement bien large. Par contre, ils ont tracé tout droit dans les collines et bien que le paysage soit plus plat, il y a quand même quelques longues montées.
+
+![](IMG_20220820_143655.jpg)
+![](IMG_20220820_145144-crop.jpg)
+![](IMG_20220820_154651.jpg)
+![](IMG_20220820_161856.jpg)
 ______
