@@ -575,7 +575,7 @@ Dernier café avec Giorgos et chacun repart de son côté. Route presque vide, p
 ______
 [2022/08/20]
 
-### J54 - 20 août - Keşan  (Turquie) - 82 km (3516 km)
+### J54 - 20 août - Keşan (Turquie) - 82 km (3516 km)
 
 À la sortie de Alexandroúpoli, je rencontre un anglais, Jacob, parti de Londres. On discute, on se sépare et on finit par se retrouver sur la route pour continuer ensemble jusqu'à Ipsala (première ville turque) où il a son hôtel. On se verra peut-être à Istanbul. Côté grec, il y a des petites routes et une autoroute. Côté turque, il n'y a qu'une grosse quatre-voies, mais pas encombrée et avec un accotement bien large. Par contre, ils ont tracé tout droit dans les collines et bien que le paysage soit plus plat, il y a quand même quelques longues montées.
 
@@ -583,4 +583,15 @@ ______
 ![](IMG_20220820_145144-crop.jpg)
 ![](IMG_20220820_154651.jpg)
 ![](IMG_20220820_161856.jpg)
+______
+[2022/08/21]
+
+### J55 - 21 août - Keşan (Turquie)
+
+Keşan n'est pas la destination la plus touristique. Comme ça, pas de regret à paresser toute la journée.
+
+![](IMG_20220821_191336.jpg)
+![](IMG_20220821_191807.jpg)
+![](IMG_20220821_191228-crop.jpg)
+![](IMG_20220821_193300.jpg)
 ______
