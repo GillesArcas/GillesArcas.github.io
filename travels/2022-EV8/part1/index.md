@@ -595,3 +595,14 @@ Keşan n'est pas la destination la plus touristique. Comme ça, pas de regret à
 ![](IMG_20220821_191228-crop.jpg)
 ![](IMG_20220821_193300.jpg)
 ______
+[2022/08/22]
+
+### J56 - 22 août - Tekirdağ (Turquie) - 81 km (3597 km)
+
+Toute la journée sur la grosse quatre-voies (pas d'autres solutions si les sites que j'utilise n'ont rien trouvé d'autre). La route est pratiquement rectiligne et comme ça va tout droit dans les collines, presque mille mètres de dénivelé à la fin de la journée. Chambre avec vue sur la mer de Marmara. Fenêtre ouverte, j'entends la mer. Je crois que je vais dormir comme ça.
+
+![](IMG_20220822_110503.jpg)
+![](IMG_20220822_114809.jpg)
+![](IMG_20220822_162709.jpg)
+![](IMG_20220822_174212.jpg)
+______
