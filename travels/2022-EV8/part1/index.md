@@ -606,3 +606,14 @@ Toute la journée sur la grosse quatre-voies (pas d'autres solutions si les site
 ![](IMG_20220822_162709.jpg)
 ![](IMG_20220822_174212.jpg)
 ______
+[2022/08/23]
+
+### J57 - 23 août - Silivri (Turquie) - 73 km (3670 km)
+
+Toujours sur la quatre-voie. Moins de dénivelé mais du vent. Globalement assez moche même si la route longe la mer de temps en temps.
+
+![](IMG_20220823_115704.jpg)
+![](IMG_20220823_124448.jpg)
+![](IMG_20220823_185855.jpg)
+![](IMG_20220823_191210.jpg)
+______
