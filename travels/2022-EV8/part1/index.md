@@ -610,10 +610,21 @@ ______
 
 ### J57 - 23 août - Silivri (Turquie) - 73 km (3670 km)
 
-Toujours sur la quatre-voie. Moins de dénivelé mais du vent. Globalement assez moche même si la route longe la mer de temps en temps.
+Toujours sur la quatre-voie. Moins de dénivelé mais du vent. Globalement moche même si la route longe la mer de temps en temps.
 
 ![](IMG_20220823_115704.jpg)
 ![](IMG_20220823_124448.jpg)
 ![](IMG_20220823_185855.jpg)
 ![](IMG_20220823_191210.jpg)
+______
+[2022/08/24]
+
+### J58 - 24 août - Istambul (Turquie) - 68 km (3738 km)
+
+D'abord sur la quatre-voies, avec quelques rues adjacentes pour soulager un peu. Ensuite, il n'y a pas le choix et ça devient très gros (et toujours permis au vélos, d’ailleurs il n’y en a pas). De chaque coté, il y trois voies doublées avec deux voies. Dix voies ! Et par moment, c'est encombré. Les derniers dix kilomètres passent par des petites rues et là des fois, c'est complètement bloqué. Ajouté à ça, un peu de pluie et du vent contraire. Pas ma meilleure journée de vélo, mais j’étais prévenu et Paris-Istambul, checked !
+
+![](IMG_20220824_092556.jpg)
+![](IMG_20220824_110702.jpg)
+![](IMG_20220824_134834.jpg)
+![](IMG_20220824_153314.jpg)
 ______
