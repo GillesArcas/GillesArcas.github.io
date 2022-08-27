@@ -619,12 +619,33 @@ Toujours sur la quatre-voie. Moins de dénivelé mais du vent. Globalement moche
 ______
 [2022/08/24]
 
-### J58 - 24 août - Istambul (Turquie) - 68 km (3738 km)
+### J58 - 24 août - Istanbul (Turquie) - 68 km (3738 km)
 
-D'abord sur la quatre-voies, avec quelques rues adjacentes pour soulager un peu. Ensuite, il n'y a pas le choix et ça devient très gros (et toujours permis au vélos, d’ailleurs il n’y en a pas). De chaque coté, il y trois voies doublées avec deux voies. Dix voies ! Et par moment, c'est encombré. Les derniers dix kilomètres passent par des petites rues et là des fois, c'est complètement bloqué. Ajouté à ça, un peu de pluie et du vent contraire. Pas ma meilleure journée de vélo, mais j’étais prévenu et Paris-Istambul, checked !
+D'abord sur la quatre-voies, avec quelques rues adjacentes pour soulager un peu. Ensuite, il n'y a pas le choix et ça devient très gros (et toujours permis au vélos, d’ailleurs il n’y en a pas). De chaque coté, il y trois voies doublées avec deux voies. Dix voies ! Et par moment, c'est encombré. Les derniers dix kilomètres passent par des petites rues et là des fois, c'est complètement bloqué. Ajouté à ça, un peu de pluie et du vent contraire. Pas ma meilleure journée de vélo, mais j’étais prévenu et Paris-Istanbul, checked !
 
 ![](IMG_20220824_092556.jpg)
 ![](IMG_20220824_110702.jpg)
 ![](IMG_20220824_134834.jpg)
 ![](IMG_20220824_153314.jpg)
+______
+[2022/08/25]
+
+______
+[2022/08/26]
+
+______
+[2022/08/27]
+
+### J58,59,60 - 25,26,27 août - Istanbul
+
+Beaucoup d'histoire et beaucoup de choses à voir. Besoin de me reposer au début mais j'ai quand même visiter les trucs à ne pas rater et pas mal déambuler dans les rues. Aidé par le fait que mon hôtel est à dix minutes à pied de Sainte-Sophie.
+
+![](IMG_20220827_100317.jpg)
+![](IMG_20220825_150053.jpg)
+![](IMG_20220827_111609.jpg)
+![](IMG_20220827_105800.jpg)
+![](IMG_20220827_130538.jpg)
+![](IMG_20220827_134055.jpg)
+![](IMG_20220825_162306.jpg)
+[](VID_20220825_160644-small.mp4)
 ______
