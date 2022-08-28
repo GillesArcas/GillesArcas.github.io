@@ -636,7 +636,7 @@ ______
 ______
 [2022/08/27]
 
-### J58,59,60 - 25,26,27 août - Istanbul
+### J59,60,61 - 25,26,27 août - Istanbul
 
 Beaucoup d'histoire et beaucoup de choses à voir. Besoin de me reposer au début mais j'ai quand même visiter les trucs à ne pas rater et pas mal déambuler dans les rues. Aidé par le fait que mon hôtel est à dix minutes à pied de Sainte-Sophie.
 
@@ -648,4 +648,15 @@ Beaucoup d'histoire et beaucoup de choses à voir. Besoin de me reposer au débu
 ![](IMG_20220827_134055.jpg)
 ![](IMG_20220825_162306.jpg)
 [](VID_20220825_160644-small.mp4)
+______
+[2022/08/27]
+
+### J62 - 28 août - Bandirma
+
+Traversée de la mer de Marmara en ferry (donc techniquement en Asie). Le ferry est un catamaran fermé, pas trop sympa pour les photos. Pas mal de monde dans les rues mais ambiance paisible.
+
+![](IMG_20220828_133635.jpg)
+![](IMG_20220828_183104-crop.jpg)
+![](IMG_20220828_184419-crop.jpg)
+![](ferry-marmara.PNG)
 ______
