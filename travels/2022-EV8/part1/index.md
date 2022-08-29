@@ -649,7 +649,7 @@ Beaucoup d'histoire et beaucoup de choses à voir. Besoin de me reposer au débu
 ![](IMG_20220825_162306.jpg)
 [](VID_20220825_160644-small.mp4)
 ______
-[2022/08/27]
+[2022/08/28]
 
 ### J62 - 28 août - Bandirma
 
@@ -659,4 +659,13 @@ Traversée de la mer de Marmara en ferry (donc techniquement en Asie). Le ferry 
 ![](IMG_20220828_183104-crop.jpg)
 ![](IMG_20220828_184419-crop.jpg)
 ![](ferry-marmara.PNG)
+______
+[2022/08/29]
+
+### J63 - 29 août - Biga - 73 km (3811 km)
+
+Retour sur de la quatre-voies. Pas trop de trafic et accotement large. Un peu de dénivelé mais du vent favorable. Pas de raison de se plaindre. Le paysage est tranquille, des collines, beaucoup de champs et un passage pas trop loin de la mer.
+
+![](IMG_20220829_120205.jpg)
+![](IMG_20220829_123921.jpg)
 ______
