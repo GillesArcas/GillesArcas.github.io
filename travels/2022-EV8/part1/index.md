@@ -662,10 +662,23 @@ Traversée de la mer de Marmara en ferry (donc techniquement en Asie). Le ferry 
 ______
 [2022/08/29]
 
-### J63 - 29 août - Biga - 73 km (3811 km)
+### J63 - 29 août - Biga (Turquie) - 73 km (3811 km)
 
 Retour sur de la quatre-voies. Pas trop de trafic et accotement large. Un peu de dénivelé mais du vent favorable. Pas de raison de se plaindre. Le paysage est tranquille, des collines, beaucoup de champs et un passage pas trop loin de la mer.
 
 ![](IMG_20220829_120205.jpg)
 ![](IMG_20220829_123921.jpg)
+______
+[2022/08/30]
+
+### J64 - 30 août - Çanakkale (Turquie) - 98 km (3909 km)
+
+Après un passage dans les collines, la route retrouve la mer et suit le détroit des Dardanelles. C'est le détroit qui relie la mer Égée (donc la Méditerranée) à la mer de Marmara (donc à Istanbul puis à la mer Caspienne). En fait, je n'aurais pas su dire où c’était avant aujourd’hui. Toujours la quatre-voies avec quand même un bout de petite route qui longe la mer, toujours des montagnes russes mais encore du vent favorable.
+
+![](IMG_20220830_120719.jpg)
+![](IMG_20220830_160406.jpg)
+![](IMG_20220830_142744.jpg)
+![](IMG_20220830_145723.jpg)
+![](IMG_20220830_192018-crop.jpg)
+![](IMG_20220830_193346.jpg)
 ______
