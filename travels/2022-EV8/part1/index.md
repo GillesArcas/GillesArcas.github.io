@@ -4,7 +4,7 @@
 
 ### J1 - 28 juin - Moret-sur-Loing (Seine-et-Marne) - 72 km
 
-Départ tardif en milieu d'après-midi. Je n'ai rien préparé et il y a toujours plein de petits trucs à faire. Départ de la maison en fait. Jusqu'à Orly ça va, après je rattrape la nationale et malgré quelques pistes cyclables, c'est pas vraiment sympa. Nettement mieux en traversant un bout de foret de Fontainebleau et pour arriver à Moret.
+Départ tardif en milieu d'après-midi. Je n'ai rien préparé et il y a toujours plein de petits trucs à faire. Départ de la maison en fait. Jusqu'à Orly ça va, après je rattrape la nationale et malgré quelques pistes cyclables, c'est pas vraiment sympa. Nettement mieux en traversant un bout de forêt de Fontainebleau et pour arriver à Moret.
 
 ![](IMG_20220628_194622.jpg)
 ![](IMG_20220628_202814.jpg)
@@ -673,7 +673,7 @@ ______
 
 ### J64 - 30 août - Çanakkale (Turquie) - 98 km (3909 km)
 
-Après un passage dans les collines, la route retrouve la mer et suit le détroit des Dardanelles. C'est le détroit qui relie la mer Égée (donc la Méditerranée) à la mer de Marmara (donc à Istanbul puis à la mer Caspienne). En fait, je n'aurais pas su dire où c’était avant aujourd’hui. Toujours la quatre-voies avec quand même un bout de petite route qui longe la mer, toujours des montagnes russes mais encore du vent favorable.
+Après un passage dans les collines, la route retrouve la mer et suit le détroit des Dardanelles. C'est le détroit qui relie la mer Égée (donc la Méditerranée) à la mer de Marmara (donc à Istanbul puis à la mer Noire). En fait, je n'aurais pas su dire où c’était avant aujourd’hui. Toujours la quatre-voies avec quand même un bout de petite route qui longe la mer, toujours des montagnes russes mais encore du vent favorable.
 
 ![](IMG_20220830_120719.jpg)
 ![](IMG_20220830_160406.jpg)
@@ -681,4 +681,17 @@ Après un passage dans les collines, la route retrouve la mer et suit le détroi
 ![](IMG_20220830_145723.jpg)
 ![](IMG_20220830_192018-crop.jpg)
 ![](IMG_20220830_193346.jpg)
+______
+[2022/08/31]
+
+### J65 - 31 août - Troie (Turquie) - 31 km (3940 km)
+
+Après Çanakkale, je longe la mer le plus loin possible, puis je rejoins le site de Troie, en ne suivant que des petites routes. Les vestiges couvrent deux mille ans, de l'âge du bronze aux Grecs et aux Romains, sur neuf niveaux décrits. Rien de spectaculaire et difficile à interpréter même avec l'audioguide. Mais quand même, c'est Troie ! En passant, j'apprends que l’autre nom de Troie est Ilios et que c'est pour ça que l'Iliade s'appelle comme ça.
+
+![](IMG_20220831_110238.jpg)
+![](IMG_20220831_131337.jpg)
+![](IMG_20220831_150444.jpg)
+![](IMG_20220831_160643.jpg)
+![](IMG_20220831_172232.jpg)
+![](IMG_20220831_161423.jpg)
 ______
