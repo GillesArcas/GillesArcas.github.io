@@ -695,3 +695,14 @@ Après Çanakkale, je longe la mer le plus loin possible, puis je rejoins le sit
 ![](IMG_20220831_172232.jpg)
 ![](IMG_20220831_161423.jpg)
 ______
+[2022/09/01]
+
+### J66 - 1er septembre - Küçükkuyu (Turquie) - 72 km (4012 km)
+
+De retour sur la grande route sauf pour les quinze derniers kilomètres qui se font sur une petite route un peu sauvage. Ça a monté assez doucement pour arriver à 450 mètres et en quelques kilomètres, ça redescend au niveau de la mer. Freins serrés pendant toute la descente (j'en ai plus beaucoup).
+
+![](IMG_20220901_114436.jpg)
+![](IMG_20220901_151727.jpg)
+![](IMG_20220901_153255.jpg)
+![](IMG_20220901_154012.jpg)
+______
