@@ -706,3 +706,14 @@ De retour sur la grande route sauf pour les quinze derniers kilomètres qui se f
 ![](IMG_20220901_153255.jpg)
 ![](IMG_20220901_154012.jpg)
 ______
+[2022/09/02]
+
+### J67 - 2 septembre - Ayvalik (Turquie) - 81 km (4093 km)
+
+J’ai fait le tour d’une baie allongée pour me retrouver pratiquement en face de mon point de départ, à vingt-cinq kilomètres à vol d’oiseau. Six-voies une bonne partie en bord de mer, pittoresque, d’un côté de la baie. Puis quatre-voies dans les collines de l’autre côté. Pour y échapper sur les derniers kilomètres, mon itinéraire me propose un petite route. Ça devient rapidement un chemin un peu cabossé dans les oliviers. Ça sent l’huile d’olive, je me fais courser mollement par un chien, et vu l’état du chemin, je finis par crever.
+
+![](IMG_20220902_101642.jpg)
+![](IMG_20220902_103253.jpg)
+![](IMG_20220902_160657.jpg)
+![](IMG_20220902_200517.jpg)
+______
