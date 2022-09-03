@@ -717,3 +717,14 @@ J’ai fait le tour d’une baie allongée pour me retrouver pratiquement en fac
 ![](IMG_20220902_160657.jpg)
 ![](IMG_20220902_200517.jpg)
 ______
+[2022/09/03]
+
+### J68 - 3 septembre - Yenişakran (Turquie) - 78 km (4171 km)
+
+Un des bouts hors grosse route m’amène sur du chemin comme hier. Au bout de cinq cents mètres, un chien se met sur la route, se met à aboyer, et repart sur le côté. Il a un copain un peu plus loin, plus petit, qui aboie un peu aussi. Je ramasse des cailloux, histoire de me donner une contenance, et je commence à avancer. Et là, il y en trois autres qui arrivent alors je fais demi-tour. Arrivé au village juste avant, je vais pour prendre une autre petite route mais il y a encore deux gros chiens au milieu qui se mettent à aboyer. Tant pis, retour sur la grosse route pour ce coup-ci. Arrivée à l’hôtel les deux roues à plat. Il y a un réparateur juste à côté (absent de Google mais marqué sur OSM Cycle Map). Pas très sympa le gars. Il me vend deux chambres à air (bon diamètre mais deux largeurs différentes) mais il n'a pas de rustines. Du coup, j’apprends que "yoc" ça veut dire non en turc.
+
+![](IMG_20220903_111825.jpg)
+![](IMG_20220903_122553.jpg)
+![](IMG_20220903_154425.jpg)
+![](IMG_20220903_155254.jpg)
+______
