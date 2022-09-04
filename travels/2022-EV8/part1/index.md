@@ -728,3 +728,14 @@ Un des bouts hors grosse route m’amène sur du chemin comme hier. Au bout de c
 ![](IMG_20220903_154425.jpg)
 ![](IMG_20220903_155254.jpg)
 ______
+[2022/09/04]
+
+### J69 - 4 septembre - Izmir (Turquie) - 75 km (4246 km)
+
+Arrivée à Izmir (Smyrne en grec) encombrée évidemment (c’est la troisième ville de Turquie) mais ça passe. D’autant plus que les dix derniers kilomètres se font en bord de mer sur des pistes cyclables. Et une crevaison quinze kilomètres après le départ.
+
+![](IMG_20220904_153738.jpg)
+![](IMG_20220904_152027.jpg)
+![](IMG_20220904_183957.jpg)
+![](IMG_20220904_185135.jpg)
+______
