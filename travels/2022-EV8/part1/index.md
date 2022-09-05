@@ -739,3 +739,16 @@ Arrivée à Izmir (Smyrne en grec) encombrée évidemment (c’est la troisième
 ![](IMG_20220904_183957.jpg)
 ![](IMG_20220904_185135.jpg)
 ______
+[2022/09/05]
+
+### J70 - 5 septembre - Çeşme (Turquie) - 90 km (4336 km)
+
+Avant de quitter Izmir, je fais un tour à l'Asansör, ascenseur public construit en 1907 pour accéder à la ville haute. De là haut, beau point de vue et on voit bien que Izmir est bâti à flanc de colline. (En passant, c’est juste à côté d'une des maisons de Dario Moreno). Ensuite, que des pistes cyclables pour sortir de la ville. En fait, c’est un morceau d'Eurovelo 8 qui est même fléché. La route rentre ensuite dans les collines avec deux bonnes montées. Pas mal de vent, heureusement de travers ou favorable. Tellement de vent qu'un des ferrys qui va à Chios (l’île grecque d'en face) est annulé. Il y a un deuxième ferry mais je ne saurai si il fait la traversée que demain matin à l’embarcadère. On verra bien.
+
+![](IMG_20220905_102812.jpg)
+![](IMG_20220905_103118.jpg)
+![](IMG_20220905_105649.jpg)
+![](IMG_20220905_112823.jpg)
+![](IMG_20220905_152302.jpg)
+![](IMG_20220905_192801.jpg)
+______
