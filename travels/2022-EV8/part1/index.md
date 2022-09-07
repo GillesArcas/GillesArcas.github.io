@@ -752,3 +752,14 @@ Avant de quitter Izmir, je fais un tour à l'Asansör, ascenseur public construi
 ![](IMG_20220905_152302.jpg)
 ![](IMG_20220905_192801.jpg)
 ______
+[2022/09/05]
+
+### J71 - 6 septembre - Chios (Grèce) - 13 km (4349 km)
+
+Finalement le deuxième ferry n'est pas annulé. Il y a toujours beaucoup de vent, ça éclabousse un peu, mais ça va. Première fois quand même que je vois quelqu'un de l’équipage coucher mon vélo par terre pour qu'il reste en place. Un autre cycliste à bord, un Croate qui vient d'Istanbul et qui rentre en passant par la Grèce et l'Italie. Après le ferry, une dizaine de kilomètres pour rejoindre mon hébergement dans un petit village. Fin de la journée aux abonnés absents.
+
+![](IMG_20220906_093641.jpg)
+![](IMG_20220906_185940.jpg)
+![](IMG_20220907_184440.jpg)
+[](VID_20220906_101051-small.mp4)
+______
