@@ -752,7 +752,7 @@ Avant de quitter Izmir, je fais un tour à l'Asansör, ascenseur public construi
 ![](IMG_20220905_152302.jpg)
 ![](IMG_20220905_192801.jpg)
 ______
-[2022/09/05]
+[2022/09/06]
 
 ### J71 - 6 septembre - Chios (Grèce) - 13 km (4349 km)
 
@@ -762,4 +762,20 @@ Finalement le deuxième ferry n'est pas annulé. Il y a toujours beaucoup de ven
 ![](IMG_20220906_185940.jpg)
 ![](IMG_20220907_184440.jpg)
 [](VID_20220906_101051-small.mp4)
+______
+[2022/09/07]
+
+______
+[2022/09/08]
+
+### J73 - 8 septembre - Chios - 56 km (4405 km)
+
+Balade dans l’île pour visiter les curiosités les plus proches. Plus de mille mètres de dénivelé, mais c’est nettement plus facile sans les bagages. D’abord, le village de Pyrghi, avec ses maisons recouvertes de motifs géométriques et une tout petite église recouverte de peinture à l’intérieur. Ensuite, le musée du mastic, une résine très prisée d’un arbuste qui ne pousse que dans le sud de l’île. Et finalement, le site archéologique d’Emborios. Malheureusement, ça ferme à 15:30 et je prends mon ticket à 15:12. Juste le temps de monter en trottinant, faire trois photos, et redescendre en courant. Mini-vestiges mais super panorama. Fin de la journée à la plage, je viens de réaliser que mon fauteuil de camping peut aussi servir à la plage. Top !
+
+![](IMG_20220908_122029.jpg)
+![](IMG_20220908_132347.jpg)
+![](IMG_20220908_122821.jpg)
+![](IMG_20220908_133859.jpg)
+![](IMG_20220908_145451.jpg)
+![](IMG_20220908_152253.jpg)
 ______
