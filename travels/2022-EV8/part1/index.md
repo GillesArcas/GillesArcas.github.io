@@ -770,7 +770,7 @@ ______
 
 ### J73 - 8 septembre - Chios - 56 km (4405 km)
 
-Balade dans l’île pour visiter les curiosités les plus proches. Plus de mille mètres de dénivelé, mais c’est nettement plus facile sans les bagages. D’abord, le village de Pyrghi, avec ses maisons recouvertes de motifs géométriques et une tout petite église recouverte de peinture à l’intérieur. Ensuite, le musée du mastic, une résine très prisée d’un arbuste qui ne pousse que dans le sud de l’île. Et finalement, le site archéologique d’Emborios. Malheureusement, ça ferme à 15:30 et je prends mon ticket à 15:12. Juste le temps de monter en trottinant, faire trois photos, et redescendre en courant. Mini-vestiges mais super panorama. Fin de la journée à la plage, je viens de réaliser que mon fauteuil de camping peut aussi servir à la plage. Top !
+Balade dans l’île pour visiter les curiosités les plus proches. Plus de mille mètres de dénivelé, mais c’est nettement plus facile sans les bagages. D’abord, le village de Pyrghi, avec ses maisons recouvertes de motifs géométriques et une toute petite église recouverte de peinture à l’intérieur. Ensuite, le musée du mastic, une résine très prisée d’un arbuste qui ne pousse que dans le sud de l’île. Et finalement, le site archéologique d’Emborios. Malheureusement, ça ferme à 15:30 et je prends mon ticket à 15:12. Juste le temps de monter en trottinant, faire trois photos, et redescendre en courant. Mini-vestiges mais super panorama. Fin de la journée à la plage, je viens de réaliser que mon fauteuil de camping peut aussi servir à la plage. Top !
 
 ![](IMG_20220908_122029.jpg)
 ![](IMG_20220908_132347.jpg)
@@ -778,4 +778,15 @@ Balade dans l’île pour visiter les curiosités les plus proches. Plus de mill
 ![](IMG_20220908_133859.jpg)
 ![](IMG_20220908_145451.jpg)
 ![](IMG_20220908_152253.jpg)
+______
+[2022/09/09]
+
+### J74 - 9 septembre - Chios - 64 km (4469 km)
+
+Deuxième balade, cette fois pour aller voir le petit village de Avgonyma et ses maisons cubiques. Ça monte de 0 à 600 mètres sans répit. Le village n’est peut-être pas à la hauteur de l’effort pour y arriver mais les paysages sont supers. Dernier plouf à la plage et retour à la ville de Chios pour prendre le ferry pour Athènes. Cette fois, c’est un gros bateau.
+
+![](IMG_20220909_130618.jpg)
+![](IMG_20220909_140139.jpg)
+![](IMG_20220909_153552.jpg)
+![](IMG_20220909_214232.jpg)
 ______
