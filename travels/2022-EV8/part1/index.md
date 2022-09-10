@@ -783,7 +783,7 @@ ______
 
 ### J74 - 9 septembre - Chios - 64 km (4469 km)
 
-Deuxième balade, cette fois pour aller voir le petit village de Avgonyma et ses maisons cubiques. Ça monte de 0 à 600 mètres sans répit. Le village n’est peut-être pas à la hauteur de l’effort pour y arriver mais les paysages sont supers. Dernier plouf à la plage et retour à la ville de Chios pour prendre le ferry pour Athènes. Cette fois, c’est un gros bateau.
+Deuxième balade, cette fois pour aller voir le petit village de Avgonyma et ses maisons cubiques. Le village n’est peut-être pas à la hauteur de l’effort pour y arriver mais cette partie de l’ile, l’ouest, est peu habitée et les paysages sont supers. Dernier plouf à la plage et retour à la ville de Chios pour prendre le ferry pour Athènes. Cette fois, c’est un gros bateau.
 
 ![](IMG_20220909_130618.jpg)
 ![](IMG_20220909_140139.jpg)
