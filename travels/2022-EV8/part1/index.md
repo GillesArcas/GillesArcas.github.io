@@ -790,3 +790,14 @@ Deuxième balade, cette fois pour aller voir le petit village de Avgonyma et ses
 ![](IMG_20220909_153552.jpg)
 ![](IMG_20220909_214232.jpg)
 ______
+[2022/09/10]
+
+### J75 - 10 septembre - Athènes - 24 km (4493 km)
+
+Débarquement au Pirée avec le lever du soleil. Puis une dizaine de kilomètres pour rejoindre mon hébergement dans le centre. J’y laisse mes affaires et en attendant l’heure du check-in, je vais faire un tour à Décathlon pour remplacer mes chaussures et le t-shirt que je mets à vélo (les deux fatigués jusqu’à la corde), et acheter un pneu et des rustines. L’après-midi, je fais le tour de l‘Acropole pour me mettre dans l’ambiance et je vais voir les gardes du Parlement place Sýntagma.
+
+![](IMG_20220910_071513.jpg)
+![](IMG_20220910_182002.jpg)
+![](IMG_20220910_183128.jpg)
+![](IMG_20220910_191417.jpg)
+______
