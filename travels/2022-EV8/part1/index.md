@@ -792,7 +792,7 @@ Deuxième balade, cette fois pour aller voir le petit village de Avgonyma et ses
 ______
 [2022/09/10]
 
-### J75 - 10 septembre - Athènes - 24 km (4493 km)
+### J75 - 10 septembre - Athènes (Grèce) - 24 km (4493 km)
 
 Débarquement au Pirée avec le lever du soleil. Puis une dizaine de kilomètres pour rejoindre mon hébergement dans le centre. J’y laisse mes affaires et en attendant l’heure du check-in, je vais faire un tour à Décathlon pour remplacer mes chaussures et le t-shirt que je mets à vélo (les deux fatigués jusqu’à la corde), et acheter un pneu et des rustines. L’après-midi, je fais le tour de l‘Acropole pour me mettre dans l’ambiance et je vais voir les gardes du Parlement place Sýntagma.
 
@@ -800,4 +800,27 @@ Débarquement au Pirée avec le lever du soleil. Puis une dizaine de kilomètres
 ![](IMG_20220910_182002.jpg)
 ![](IMG_20220910_183128.jpg)
 ![](IMG_20220910_191417.jpg)
+______
+[2022/09/11]
+
+### J76 - 11 septembre - Athènes
+
+De retour à Syntagma pour voir la relève de la garde à 11 heures. Beaucoup de cérémonial mais trop de monde. J’attends midi pour voir la relève sans cérémonie (comme à toutes les heures). Ensuite, visite de l'Acropole. Ticket avec réduction personnes âgées :( 10e au lieu de 20e :). En fait, les drapeaux sur le Parthénon, ça n'est pas normal. C'est un illuminé qui est monté et qui les a accrochés (https://hellas.postsen.com/local/101740/A-man-climbed-the-Parthenon-and-threatens-to-fall-%E2%80%93-He-has-hung-flags-of-Israel-%E2%80%93-Greece-%E2%80%93-SW-%E2%80%93-Newsbomb-%E2%80%93-News.html) d'où un certain nombre de policiers autour. Je n'ai pas trouvé la fin de l'histoire.
+
+![](IMG_20220911_130326.jpg)
+![](IMG_20220911_131435.jpg)
+![](IMG_20220911_132200.jpg)
+![](IMG_20220911_123314.jpg)
+[](VID_Evzones-small.mp4)
+______
+[2022/09/12]
+
+### J77 - 12 septembre - Corinthe (Grèce) - 78 km (4571 km)
+
+Une quinzaine de kilomètres pour aller à Perama d'où je prends un ferry pour l’île de Salamine. Tout près d’Athènes mais ça ressemble déjà à une île grecque. Je m’arrête chez un marchand de vélo sympa qui prend le temps d'arranger la roue avant et changer les freins. Le pneu n'est pas positionné correctement (trop enfoncé à une endroit) et ça fait bong bong en roulant. Encore un ferry pour quitter l’île puis la route suit la côte. Pas forcement pittoresque (grosse raffinerie et grosse route tout près) mais la route est tranquille et à certains moments, les paysages sont à tomber. Traversée du canal de Corinthe sur un pont qui descend sous l'eau pour laisser passer les bateaux et arrivée au camping en bord de plage.
+
+![](IMG_20220912_145817.jpg)
+![](IMG_20220912_172506.jpg)
+![](IMG_20220912_172535.jpg)
+![](IMG_20220912_191756.jpg)
 ______
