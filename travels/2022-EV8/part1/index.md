@@ -817,7 +817,7 @@ ______
 
 ### J77 - 12 septembre - Corinthe (Grèce) - 78 km (4571 km)
 
-Une quinzaine de kilomètres pour aller à Perama d'où je prends un ferry pour l’île de Salamine. Tout près d’Athènes mais ça ressemble déjà à une île grecque. Je m’arrête chez un marchand de vélo sympa qui prend le temps d'arranger la roue avant et changer les freins. Le pneu n'est pas positionné correctement (trop enfoncé à une endroit) et ça fait bong bong en roulant. Encore un ferry pour quitter l’île puis la route suit la côte. Pas forcement pittoresque (grosse raffinerie et grosse route tout près) mais la route est tranquille et à certains moments, les paysages sont à tomber. Traversée du canal de Corinthe sur un pont qui descend sous l'eau pour laisser passer les bateaux et arrivée au camping en bord de plage.
+Une quinzaine de kilomètres pour aller à Perama d'où je prends un ferry pour l’île de Salamine. Tout près d’Athènes mais ça ressemble déjà à une île grecque. Je m’arrête chez un marchand de vélo sympa qui prend le temps d'arranger la roue avant et de changer les freins. Le pneu n'est pas positionné correctement (trop enfoncé à un endroit) et ça fait bong bong en roulant. Encore un ferry pour quitter l’île puis la route suit la côte. Pas forcement pittoresque (grosse raffinerie et grosse route tout près) mais la route est tranquille et à certains moments, les paysages sont à tomber. Traversée du canal de Corinthe sur un pont qui descend sous l'eau pour laisser passer les bateaux et arrivée au camping en bord de plage.
 
 ![](IMG_20220912_145817.jpg)
 ![](IMG_20220912_172506.jpg)
