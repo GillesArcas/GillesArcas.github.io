@@ -824,3 +824,14 @@ Une quinzaine de kilomètres pour aller à Perama d'où je prends un ferry pour 
 ![](IMG_20220912_172535.jpg)
 ![](IMG_20220912_191756.jpg)
 ______
+[2022/09/13]
+
+### J78 - 13 septembre - Akrata (Grèce) - 86 km (4657 km)
+
+Retour au canal de Corinthe que je longe tout du long sans pouvoir le voir depuis la route. Un peu déçu de ne pas l’avoir vu là où il est le plus profond. Après ça, la route suit la côte, souvent juste au bord de la mer et en zone habitée tout du long. Un peu pénible au début, avec pas mal de circulation, mais plus grand monde sur la fin. Paysages moins spectaculaires qu’hier, peut-être parce qu’il n’y a presque pas de dénivelé, mais c’est quand même pas mal. Encore un camping sur la plage, mais aujourd’hui j’ai le temps d’en profiter.
+
+![](IMG_20220913_151504.jpg)
+![](IMG_20220913_153117.jpg)
+![](IMG_20220913_153320.jpg)
+![](IMG_20220913_154318.jpg)
+______
