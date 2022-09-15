@@ -846,3 +846,15 @@ Moins sympa qu'hier même si plus de dénivelé. La route est plus souvent plus 
 ![](IMG_20220914_140121.jpg)
 ![](IMG_20220914_181121.jpg)
 ______
+[2022/09/15]
+
+### J80 - 15 septembre - Patras
+
+Ferry à 17h30, embarquement deux heures avant. Pour passer le temps, je m’arrête d’abord chez un coiffeur. C’est un Albanais, assez fier de pouvoir lui dire merci en albanais. Ensuite, visite du château de Patras. Bel endroit et bonne balade. À l’embarquement, les bagages sont scannés et on me prend mes bonbonnes de gaz. Je devrais les retrouver à l’arrivée. Sur le ferry, tout le monde s’installe un peu n’importe où. La dernière fois, j’avais bien pris le sac à viande et l’oreiller mais pas le matelas. Là, j’ai compris le truc et je m’installe dans un coin d’escalier assez tranquille.
+
+![](IMG_20220915_130147.jpg)
+![](IMG_20220915_131217.jpg)
+![](IMG_20220915_162853.jpg)
+![](IMG_20220915_181153.jpg)
+![](IMG_20220915_203919.jpg)
+______
