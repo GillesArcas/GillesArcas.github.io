@@ -839,7 +839,7 @@ ______
 
 ### J79 - 14 septembre - Patras (Grèce) - 65 km (4722 km)
 
-Moins sympa qu'hier meme si plus de denivelé. La route est plus souvent plus proche de l'autoroute que de la mer et la circulation augmente en approchant de Patras. A l'arrivee, je vais acheter un billet de ferry pour Bari (plus de liaison Patras-Brindisi) et je fais un tour en ville.
+Moins sympa qu'hier même si plus de dénivelé. La route est plus souvent plus proche de l'autoroute que de la mer et la circulation augmente en approchant de Patras. À l’arrivée, je vais acheter un billet de ferry pour Bari (plus de liaison Patras-Brindisi) et je fais un tour en ville. Dernière soirée en Grèce.
 
 ![](IMG_20220914_115443.jpg)
 ![](IMG_20220914_120600.jpg)
