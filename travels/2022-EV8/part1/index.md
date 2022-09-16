@@ -858,3 +858,15 @@ Ferry à 17h30, embarquement deux heures avant. Pour passer le temps, je m’arr
 ![](IMG_20220915_181153.jpg)
 ![](IMG_20220915_203919.jpg)
 ______
+[2022/09/16]
+
+### J81 - 16 septembre - Brindisi (Italie) - 125 km (4847 km)
+
+Débarquement à Bari à 10h sous le crachin mais il a plu beaucoup vu la taille des flaques. Quelques gouttes encore dans l’après-midi. Je repars vers le sud pour attraper le début de l’Eurovelo 5 à Brindisi. Beaucoup de voie de  service parallèle à l’autoroute, le reste en bord de mer ou dans la campagne et les oliviers. Tout le trajet est plat et pas encombré. À Moli di Bari, il y a un plongeoir installé dans une crique avec plein de monde qui regarde. J’arrive pile pour voir deux  plongeons, manifestement des plongeurs de compétition.
+
+![](IMG_20220916_010450.jpg)
+![](IMG_20220916_104800.jpg)
+![](IMG_20220916_124147.jpg)
+![](IMG_20220916_132458.jpg)
+![](IMG_20220916_165928.jpg)
+______
