@@ -870,3 +870,15 @@ Débarquement à Bari à 10h sous le crachin mais il a plu beaucoup vu la taille
 ![](IMG_20220916_132458.jpg)
 ![](IMG_20220916_165928.jpg)
 ______
+[2022/09/17]
+
+### J82 - 17 septembre - Taranto (Italie) - 80 km (4927 km)
+
+J’attends jusqu’à 11h30 que la pluie s’arrête. Encore un peu de pluie une demi-heure après le départ mais après ça se découvre peu à peu. J’ai traversé le talon de la botte. Impression rapide : c’est très plat et très agricole, beaucoup d’oliviers et d’arbres fruitiers. Beaucoup de vent. Blaguounette du jour : à Grottaglie, mon tracé GPS (téléchargé sur le site Eurovelo) m’amène à la gare et suit ensuite la voie ferrée. Je comprends que je suis censé prendre le train, jamais vu ça. Tarente a l’air d’être un ville intéressante : construite entre la mer et des lagunes, une vieille ville, une immense zone piétonne avec plein de monde, dommage de ne pas avoir le temps d’en voir plus.
+
+![](IMG_20220917_110323.jpg)
+![](IMG_20220917_124345.jpg)
+![](IMG_20220917_125752.jpg)
+![](IMG_20220917_210200.jpg)
+![](IMG_20220917_215630.jpg)
+______
