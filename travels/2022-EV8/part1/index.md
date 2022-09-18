@@ -882,3 +882,14 @@ J’attends jusqu’à 11h30 que la pluie s’arrête. Encore un peu de pluie un
 ![](IMG_20220917_210200.jpg)
 ![](IMG_20220917_215630.jpg)
 ______
+[2022/09/18]
+
+### J83 - 18 septembre - Matera (Italie) - 77 km (5004 km)
+
+Première moitié du chemin pour rattraper l’Eurovelo sur de la route pas très intéressante. Ensuite, l’Eurovelo traverse un plateau assez austère sur des petites routes. Je profite du paysage malgré le vent et les quatre cents mètres d’altitude gagnés depuis Taranto. Balade dans la ville après un survol des dépliants dispos dans la chambre. Pour le coup, ça vaut la peine de s’attarder un peu et j’ai trouvé une visite guidée demain matin. Matera est classé Unesco.
+
+![](IMG_20220918_143837.jpg)
+![](IMG_20220918_145953.jpg)
+![](IMG_20220918_174834.jpg)
+![](IMG_20220918_183831.jpg)
+______
