@@ -893,3 +893,16 @@ Première moitié du chemin pour rattraper l’Eurovelo sur de la route pas trè
 ![](IMG_20220918_174834.jpg)
 ![](IMG_20220918_183831.jpg)
 ______
+[2022/09/19]
+
+### J84 - 19 septembre - Venosa (Italie) - 97 km (5103 km)
+
+La visite guidée permet d’en savoir plus sur les sassi (les habitations troglodytes surplombant le canyon). Visite de quelques églises, avec des vestiges d’églises troglodytes, des citernes et des petites rues. Pas le temps de trop traîner surtout qu’il faut réparer une roue trouvée à plat en reprenant le vélo ce matin. Petites routes désertes dans des collines isolées dès la sortie de Matera. À 16 heures, je n’en suis qu’à la moitié (beaucoup de vent et du dénivelé). La petite route croise la grande route un peu après. Comme je sais que je vais gagner en dénivelé et en confort (la petite route est bien déglinguée), je finis sur la grande route et j’arrive à la tombée de la nuit.
+
+![](IMG_20220919_092734.jpg)
+![](IMG_20220919_102710.jpg)
+![](IMG_20220919_103221.jpg)
+![](IMG_20220919_155606.jpg)
+![](IMG_20220919_161154.jpg)
+![](IMG_20220919_182048.jpg)
+______
