@@ -906,3 +906,14 @@ La visite guidée permet d’en savoir plus sur les sassi (les habitations trogl
 ![](IMG_20220919_161154.jpg)
 ![](IMG_20220919_182048.jpg)
 ______
+[2022/09/20]
+
+### J85 - 20 septembre - SantʼAgata di Puglia (Italie) - 70 km (5173 km)
+
+Toute la journée sur l’Eurovelo 5. Que des petites routes, voire des toutes petites routes. Pas gêné par la circulation et à peine frôlé un village (Candela). Le village où se trouve mon hébergement est perché sur une colline. Presque trois cents mètres de dénivelé en quelques kilomètres.
+
+![](IMG_20220920_103100.jpg)
+![](IMG_20220920_121207.jpg)
+![](IMG_20220920_163330.jpg)
+![](IMG_20220920_170513.jpg)
+______
