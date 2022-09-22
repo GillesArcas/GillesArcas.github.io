@@ -910,10 +910,34 @@ ______
 
 ### J85 - 20 septembre - SantʼAgata di Puglia (Italie) - 70 km (5173 km)
 
-Toute la journée sur l’Eurovelo 5. Que des petites routes, voire des toutes petites routes. Pas gêné par la circulation et à peine frôlé un village (Candela). Le village où se trouve mon hébergement est perché sur une colline. Presque trois cents mètres de dénivelé en quelques kilomètres.
+Toute la journée sur l’Eurovelo 5. Que des petites routes, voire des toutes petites routes. Pas gêné par la circulation et à peine frôlé un village (Candela). Le village où se trouve mon hébergement est perché sur une colline. Trois cents mètres de dénivelé en cinq kilomètres pour y arriver.
 
 ![](IMG_20220920_103100.jpg)
 ![](IMG_20220920_121207.jpg)
 ![](IMG_20220920_163330.jpg)
 ![](IMG_20220920_170513.jpg)
+______
+[2022/09/20]
+
+Péripétie de la journée. J’arrive devant des barrières de travaux avant un pont. Je m‘approche à pied et un bonhomme me fait signe que non ça ne passe pas. La carte me donne quinze kilomètres de détour. Avant de faire demi-tour, j’essaye de trouver un moyen de traverser à l’écart du pont quitte à porter le vélo, mais rien à faire, trop de talus et végétation trop dense. Quand je reviens au pont, la pelleteuse et les ouvriers sont partis. Je vois alors que le pont est effectivement infranchissable mais qu’il est possible de passer en-dessous (il n’y a presque pas d’eau dans la rivière). Un gros détour économisé. Et la signalisation est trompeuse : route fermée sauf aux riverains ça ne laisse pas entendre que c’est complètement fermé.
+
+![](IMG_20220920_145836.jpg)
+![](IMG_20220920_150157.jpg)
+![](IMG_20220920_150253.jpg)
+![](IMG_20220920_153336.jpg)
+______
+[2022/09/20]
+
+Autre péripétie de la journée. Je me suis fait coursé par deux chiens, ça faisait longtemps. Des  belles bêtes. Je pense même qu'il y en a un qui a essayé de mordre une sacoche. Ensuite, après le pont, je fais une pause pour manger un morceau. Deux chiens arrivent, un peu fous fous. Pas d'aboiement, pas de grognement, mais il y en a un qui part avec le paquet de gâteaux que j'avais posé. Tant pis pour le quatre heure. Je repars doucement accompagné par le deuxième chien, toujours l'air gentil. Et un peu après, je me refais coursé par trois roquets, plus bruyants que l'air vraiment méchant. On n'a jamais vu un chat courir après un vélo.
+______
+[2022/09/20]
+
+### J86 - 21 septembre - Benevento (Italie) - 78 km (5249 km)
+
+Petit tour à pied dans le village avant de partir. Ça monte encore et tout en haut, il y a un château mais fermé à cette heure là. Ensuite, c'est retour sur l'EV5 en commençant par 400 mètres de montée (plus de mille mètres de D+ aujourd’hui). Après ça, le paysage commence à changer. Des collines plus marquées, plus de maisons dispersées et des montagnes qui se dessinent au loin. À peine poursuivi par quatre chiens, dont deux qui s'y sont pris trop tard pendant une descente.
+
+![](IMG_20220921_085611.jpg)
+![](IMG_20220921_103255.jpg)
+![](IMG_20220921_133922.jpg)
+![](IMG_20220921_144902.jpg)
 ______
