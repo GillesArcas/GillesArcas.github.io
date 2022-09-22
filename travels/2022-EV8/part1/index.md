@@ -945,7 +945,7 @@ ______
 
 ### J87 - 22 septembre - Benevento (Italie)
 
-Repos. Petite ville tranquille, pleine de vestiges romains, de vieilles eglises et de petites rues.
+Repos. Petite ville tranquille. Pas la première destination touristique mais plein de vestiges romains, de vieilles églises et de petites rues.
 
 ![](IMG_20220922_161909.jpg)
 ![](IMG_20220922_162321.jpg)
