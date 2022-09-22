@@ -930,7 +930,7 @@ ______
 
 Autre péripétie de la journée. Je me suis fait coursé par deux chiens, ça faisait longtemps. Des  belles bêtes. Je pense même qu'il y en a un qui a essayé de mordre une sacoche. Ensuite, après le pont, je fais une pause pour manger un morceau. Deux chiens arrivent, un peu fous fous. Pas d'aboiement, pas de grognement, mais il y en a un qui part avec le paquet de gâteaux que j'avais posé. Tant pis pour le quatre heure. Je repars doucement accompagné par le deuxième chien, toujours l'air gentil. Et un peu après, je me refais coursé par trois roquets, plus bruyants que l'air vraiment méchant. On n'a jamais vu un chat courir après un vélo.
 ______
-[2022/09/20]
+[2022/09/21]
 
 ### J86 - 21 septembre - Benevento (Italie) - 78 km (5249 km)
 
@@ -940,4 +940,16 @@ Petit tour à pied dans le village avant de partir. Ça monte encore et tout en 
 ![](IMG_20220921_103255.jpg)
 ![](IMG_20220921_133922.jpg)
 ![](IMG_20220921_144902.jpg)
+______
+[2022/09/22]
+
+### J87 - 22 septembre - Benevento (Italie)
+
+Repos. Petite ville tranquille, pleine de vestiges romains, de vieilles eglises et de petites rues.
+
+![](IMG_20220922_161909.jpg)
+![](IMG_20220922_162321.jpg)
+![](IMG_20220922_170324.jpg)
+![](IMG_20220922_182155.jpg)
+![](IMG_20220922_173850.jpg)
 ______
