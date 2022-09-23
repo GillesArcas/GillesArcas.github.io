@@ -953,3 +953,14 @@ Repos. Petite ville tranquille. Pas la première destination touristique mais pl
 ![](IMG_20220922_182155.jpg)
 ![](IMG_20220922_173850.jpg)
 ______
+[2022/09/23]
+
+### J88 - 23 septembre - Venafro (Italie) - 97 km (5346 km)
+
+Routes un peu plus larges et passantes. Paysage très vert, beaucoup de vignes au début (c'est les vendanges). C’est assez plat avec des montagnes pas très loin (mais quand même six cents mètres de D+ en arrivant). À part ça, un roquet qui insiste à peine et une route fermée, mais je peux retrouver la grosse route cinq cent mètres avant.
+
+![](IMG_20220923_105109.jpg)
+![](IMG_20220923_132048.jpg)
+![](IMG_20220923_170757.jpg)
+![](IMG_20220923_184737.jpg)
+______
