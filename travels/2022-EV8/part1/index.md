@@ -968,11 +968,22 @@ ______
 
 ### J89 - 24 septembre - Ceccano (Italie) - 86 km (5432 km)
 
-Pas trop d’accord avec l’EV5 par ici. Ça commence par du chemin dans lequel coule un ruisseau. Plus tard, panneau route coupée mais on peut passer. Par contre, ça devient vite très pénible alors demi-tour. Manifestement, la route devait être refaite et les travaux se sont arrêtés en plein milieu. Ensuite, l’EV monte dans les collines à hauteur des villages à mi-pente. Je simplifie en restant dans la vallée où on peut aussi bien suivre des petites routes tranquilles. À mi-chemin, la route passe d’un côté de la vallée à l’autre et commence à monter et descendre sans arrêt, surtout monter. Petites routes tranquilles, quelques beaux points de vue mais bien content d’arriver.
+Pas trop d’accord avec l’EV5 par ici. Ça commence par du chemin dans lequel coule un ruisseau. Plus tard, panneau route coupée mais on peut passer. Par contre, ça devient vite très pénible alors demi-tour. Manifestement, la route devait être refaite et les travaux se sont arrêtés en plein milieu. Ensuite, l’EV monte dans les collines à hauteur des villages à mi-pente. Je simplifie en restant dans la vallée où on peut tout aussi bien suivre des petites routes tranquilles. À mi-chemin, la route passe d’un côté de la vallée à l’autre et commence à monter et descendre sans arrêt, surtout monter. Petites routes tranquilles, quelques beaux points de vue mais bien content d’arriver.
 
 ![](IMG_20220924_103557.jpg)
 ![](IMG_20220924_111304.jpg)
 ![](IMG_20220924_113203.jpg)
 ![](IMG_20220924_135331.jpg)
 ![](IMG_20220924_140823.jpg)
+______
+[2022/09/25]
+
+### J90 - 25 septembre - Valmontone (Italie) - 52 km (5484 km)
+
+Orage pendant la nuit, pluie dans la journée. Étant donné la météo, j’abandonne l’Eurovelo qui partait en escapade dans les collines et je trace un itinéraire plus direct avec komoot. Pas sans surprise d’ailleurs. La route s’est transformée en petite route, puis en chemin, puis en chemin de cailloux, puis ça s’est mis à monter. Moment un peu difficile mais c’est vite redevenu plus fréquentable. Pluie annoncée demain, comme pour toute la semaine.
+
+![](IMG_20220925_121933.jpg)
+![](IMG_20220925_143433.jpg)
+![](IMG_20220925_145047.jpg)
+![](IMG_20220925_153343.jpg)
 ______
