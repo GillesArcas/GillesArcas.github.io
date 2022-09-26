@@ -981,9 +981,15 @@ ______
 ### J90 - 25 septembre - Valmontone (Italie) - 52 km (5484 km)
 
 Orage pendant la nuit, pluie dans la journée. Étant donné la météo, j’abandonne l’Eurovelo qui partait en escapade dans les collines et je trace un itinéraire plus direct avec komoot. Pas sans surprise d’ailleurs. La route s’est transformée en petite route, puis en chemin, puis en chemin de cailloux, puis ça s’est mis à monter. Moment un peu difficile mais c’est vite redevenu plus fréquentable. Pluie annoncée demain, comme pour toute la semaine.
+______
+[2022/09/26]
 
-![](IMG_20220925_121933.jpg)
-![](IMG_20220925_143433.jpg)
-![](IMG_20220925_145047.jpg)
-![](IMG_20220925_153343.jpg)
+### J91 - 26 septembre - Rome (Italie) - 54 km (5538 km)
+
+La pluie commence un peu après le départ et dure pendant une trentaine de kilomètres. Après ça, il y a même un peu de soleil mais la pluie repart une fois arrivé dans Rome. Le plus embêtant, c’est de chercher la route sur le téléphone sans trop le mouiller. Arrivée dans Rome par des routes de banlieue à peu près supportables. La dame du AirBnB me dit que sa maison est située sur les pentes de la plus haute colline de Rome, le Gianicolo, et me suggère d’aller faire un tour au sommet parce qu’il y a une des plus belles vues sur Rome.
+
+![](IMG_20220926_152049.jpg)
+![](IMG_20220926_181358.jpg)
+![](IMG_20220926_191619.jpg)
+![](IMG_20220926_144301.jpg)
 ______
