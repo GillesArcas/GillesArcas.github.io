@@ -986,10 +986,23 @@ ______
 
 ### J91 - 26 septembre - Rome (Italie) - 54 km (5538 km)
 
-La pluie commence un peu après le départ et dure pendant une trentaine de kilomètres. Après ça, il y a même un peu de soleil mais la pluie repart une fois arrivé dans Rome. Le plus embêtant, c’est de chercher la route sur le téléphone sans trop le mouiller. Arrivée dans Rome par des routes de banlieue à peu près supportables. La dame du AirBnB me dit que sa maison est située sur les pentes de la plus haute colline de Rome, le Gianicolo, et me suggère d’aller faire un tour au sommet parce qu’il y a une des plus belles vues sur Rome.
+La pluie commence un peu après le départ et dure pendant une trentaine de kilomètres. Après ça, il y a même un peu de soleil mais la pluie repart une fois arrivé dans Rome. Le plus embêtant, c’est de chercher la route sur le téléphone sans trop le mouiller. Arrivée dans Rome par des routes de banlieue à peu près supportables. La dame du AirBnB me dit que sa maison est située sur les pentes de la plus haute colline de Rome, le Gianicolo, et je suis sa suggestion d’aller faire un tour au sommet parce qu’il y a une des plus belles vues sur Rome.
 
 ![](IMG_20220926_152049.jpg)
 ![](IMG_20220926_181358.jpg)
 ![](IMG_20220926_191619.jpg)
 ![](IMG_20220926_144301.jpg)
+______
+[2022/09/28]
+
+### J92,93 - 27,28 septembre - Rome
+
+Deux jours à visiter Rome. Visite guidée du Colisée et du Forum, visite du musée du Vatican pour aller voir la chapelle Sixtine (pas de photos de la chapelle, c’est interdit), passage en coup de vent à la fontaine de Trévise. Je passe aussi à la gare me renseigner pour mettre le vélo dans le train si il pleut trop demain. Resto avec Vincent (pour les solysticiens : celui qui fait des photos) et Véronique sa compagne. Ça a été mon collègue de bureau pendant quatre ans et c’est vraiment sympa de se rencontrer ici.
+
+![](IMG_20220927_143459.jpg)
+![](IMG_20220927_153452.jpg)
+![](IMG_20220927_160205.jpg)
+![](IMG_20220927_180056.jpg)
+![](IMG_20220928_163727.jpg)
+![](IMG_20220928_165234.jpg)
 ______
