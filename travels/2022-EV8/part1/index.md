@@ -1006,3 +1006,14 @@ Deux jours à visiter Rome. Visite guidée du Colisée et du Forum, visite du mu
 ![](IMG_20220928_163727.jpg)
 ![](IMG_20220928_165234.jpg)
 ______
+[2022/09/29]
+
+### J94 - 29 septembre - Civitavecchia (Italie) - 84 km (5622 km)
+
+Depuis deux jours la météo annonçait 90% de pluie pour aujourd’hui. Ce matin, beau temps mais la météo annonce orages possibles à partir de 13h. Ça paraît jouable et je pars en me disant que dans le pire des cas, la pluie arrivera en fin de parcours. Finalement, pas de pluie. Pas mal de vent (pas défavorable) et ciel un peu chargé, mais tout va bien. Routes pas trop mal, en bord de la mer sur la fin. Arrivée vers 16h. Le reste de la journée se passe à attendre l’embarquement sur le ferry prévu à 23h.
+
+![](IMG_20220929_111651.jpg)
+![](IMG_20220929_125834.jpg)
+![](IMG_20220929_152656.jpg)
+![](IMG_20220929_160002.jpg)
+______
