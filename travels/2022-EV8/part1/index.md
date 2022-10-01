@@ -1017,3 +1017,25 @@ Depuis deux jours la météo annonçait 90% de pluie pour aujourd’hui. Ce mati
 ![](IMG_20220929_152656.jpg)
 ![](IMG_20220929_160002.jpg)
 ______
+[2022/09/30]
+
+### J95 - 30 septembre - Porto Torres (Sardaigne, Italie) - 68 km (5690 km)
+
+Hier soir, départ du ferry avec beaucoup de retard, donc ce matin, arrivée à Porto Torres à 9h au lieu de 6h30. Sortie du bateau sous la bruine et j’attends une bonne heure à l'abri avant de partir. J’ai une correspondance à 17h et plutôt que d’attendre au port, je pars en balade vers la pointe nord-ouest de l’île. Bel endroit. Malheureusement, la pluie recommence au moment de repartir et dure quasiment jusqu’au retour à Porto Torres. Départ du ferry pour Toulon à 17h comme prévu.
+
+![](IMG_20220930_115709.jpg)
+![](IMG_20220930_115942.jpg)
+![](IMG_20220930_121051.jpg)
+![](IMG_20220930_125827.jpg)
+______
+[2022/10/01]
+
+### J96 - 1er octobre - Rians (Var) - 84 km (5774 km)
+
+Arrivée à Toulon avec le lever du soleil. Nuit pas trop mal sur un canapé de l’immense bar du ferry. Routes un peu trop fréquentées. Beau temps, pas mal de dénivelé (ça passe de 0 à 500 mètres d’altitude), mais surtout beaucoup de vent.
+
+![](IMG_20221001_073454.jpg)
+![](IMG_20221001_130902.jpg)
+![](IMG_20221001_174354-crop.jpg)
+![](IMG_20221001_174629-rot.jpg)
+______
