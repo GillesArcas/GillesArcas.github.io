@@ -1032,7 +1032,7 @@ ______
 
 ### J96 - 1er octobre - Rians (Var) - 84 km (5774 km)
 
-Arrivée à Toulon avec le lever du soleil. Nuit pas trop mal sur un canapé de l’immense bar du ferry. Routes un peu trop fréquentées. Beau temps, pas mal de dénivelé (ça passe de 0 à 500 mètres d’altitude), mais surtout beaucoup de vent.
+Nuit pas trop mal sur un canapé de l’immense bar du ferry. Arrivée à Toulon avec le lever du soleil, puis c'est reparti sur le vélo. Routes un peu trop fréquentées. Beau temps, pas mal de dénivelé (ça passe de 0 à 500 mètres d’altitude), mais surtout beaucoup de vent.
 
 ![](IMG_20221001_073454.jpg)
 ![](IMG_20221001_130902.jpg)
