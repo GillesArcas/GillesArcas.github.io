@@ -1039,3 +1039,14 @@ Nuit pas trop mal sur un canapé de l’immense bar du ferry. Arrivée à Toulon
 ![](IMG_20221001_174354-crop.jpg)
 ![](IMG_20221001_174629-rot.jpg)
 ______
+[2022/10/02]
+
+### J97 - 2 octobre - Avignon (Vaucluse) - 100 km (5874 km)
+
+Paysages agréables aujourd’hui. La route a longé le Lubéron, traversé la Durance et croisé plusieurs fois le canal de Provence. Par contre, un peu trop de trafic la plupart du temps même si j’ai retrouvé ici un morceau d’Eurovélo 8. Encore du beau temps et un peu trop de vent. Et une crevaison. Arrivée à destination en regonflant quatre fois la roue arrière.
+
+![](IMG_20221002_125009.jpg)
+![](IMG_20221002_141720.jpg)
+![](IMG_20221002_150854.jpg)
+![](IMG_20221002_122318.jpg)
+______
