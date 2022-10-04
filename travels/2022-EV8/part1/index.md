@@ -1052,7 +1052,7 @@ Paysages agréables aujourd’hui. La route a longé le Lubéron, traversé la D
 ______
 [2022/10/03]
 
-### J98 - 3 octobre - Avignon (Vaucluse) - 101 km (5975 km)
+### J98 - 3 octobre - Montélimar (Drôme) - 101 km (5975 km)
 
 Deux itinéraires possibles. La route directe, mais qui se révèle trop passante. Et la ViaRhona, que des petites routes et des voies vertes mais vingt kilomètres plus long. Je teste un peu les deux et je finis sur la ViaRhona, beaucoup plus jolie et agréable. Beaucoup de vent mais toujours du beau temps.
 
@@ -1060,4 +1060,15 @@ Deux itinéraires possibles. La route directe, mais qui se révèle trop passant
 ![](IMG_20221003_112048.jpg)
 ![](IMG_20221003_142718.jpg)
 ![](IMG_20221003_181221.jpg)
+______
+[2022/10/04]
+
+### J99 - 4 octobre - Saint-Vallier (Drôme) - 105 km (6080 km)
+
+Aujourd’hui, pas d’hésitations, toute la journée sur la Via Rhona. Toujours très agréable et sans voiture. Pas mal de vélos. Beau temps et presque plus de vent.
+
+![](IMG_20221004_111203.jpg)
+![](IMG_20221004_114420.jpg)
+![](IMG_20221004_132946.jpg)
+![](IMG_20221004_163141.jpg)
 ______
