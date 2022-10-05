@@ -1072,3 +1072,14 @@ Aujourd’hui, pas d’hésitations, toute la journée sur la Via Rhona. Toujour
 ![](IMG_20221004_132946.jpg)
 ![](IMG_20221004_163141.jpg)
 ______
+[2022/10/05]
+
+### J100 - 5 octobre - Lyon (Rhône) - 83 km (6163 km)
+
+Route moins sympa qu’hier. Plus de routes et de voies cyclables en bordure de route. L’arrivée sur Lyon se fait par un « itinéraire provisoire » (qui dure, c’était le même il y a deux ans), du chemin un peu limite, surplombant l‘autoroute pendant un moment. Quelques beaux paysages avant ça et surtout beaucoup de vent mais dans la bonne direction.
+
+![](IMG_20221005_110029.jpg)
+![](IMG_20221005_110857.jpg)
+![](IMG_20221005_133031.jpg)
+![](IMG_20221005_155653.jpg)
+______
