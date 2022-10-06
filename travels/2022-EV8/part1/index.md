@@ -1076,10 +1076,21 @@ ______
 
 ### J100 - 5 octobre - Lyon (Rhône) - 83 km (6163 km)
 
-Route moins sympa qu’hier. Plus de routes et de voies cyclables en bordure de route. L’arrivée sur Lyon se fait par un « itinéraire provisoire » (qui dure, c’était le même il y a deux ans), du chemin un peu limite, surplombant l‘autoroute pendant un moment. Quelques beaux paysages avant ça et surtout beaucoup de vent mais dans la bonne direction.
+Route moins sympa qu’hier. Plus de routes et de voies cyclables en bordure de route. L’arrivée sur Lyon se fait par un « itinéraire provisoire » (qui dure, c’était le même il y a deux ans), du chemin un peu limite, surplombant l‘autoroute pendant un moment. Quelques beaux paysages avant ça et beaucoup de vent mais dans la bonne direction.
 
 ![](IMG_20221005_110029.jpg)
 ![](IMG_20221005_110857.jpg)
 ![](IMG_20221005_133031.jpg)
 ![](IMG_20221005_155653.jpg)
+______
+[2022/10/06]
+
+### J101 - 6 octobre - Amanzé (Saône-et-Loire) - 99 km (6262 km)
+
+Ciel très couvert le matin mais qui se dégage à peu prés vers midi. Pas mal de dénivelé. La route remonte doucement la vallée de l’Azergues jusqu’au col des Écharmeaux à 712 mètres (c’est la dame du gîte qui m’a dit que c’était un col). Gîté perdu dans les collines, dîner préparé par le gîte avec un couple de hollandais sympas.
+
+![](IMG_20221006_151036.jpg)
+![](IMG_20221006_154022.jpg)
+![](IMG_20221006_163029.jpg)
+![](IMG_20221006_164654.jpg)
 ______
