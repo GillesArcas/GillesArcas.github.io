@@ -1087,10 +1087,19 @@ ______
 
 ### J101 - 6 octobre - Amanzé (Saône-et-Loire) - 99 km (6262 km)
 
-Ciel très couvert le matin mais qui se dégage à peu prés vers midi. Pas mal de dénivelé. La route remonte doucement la vallée de l’Azergues jusqu’au col des Écharmeaux à 712 mètres (c’est la dame du gîte qui m’a dit que c’était un col). Gîté perdu dans les collines, dîner préparé par le gîte avec un couple de hollandais sympas.
+Ciel très couvert le matin mais qui se dégage à peu près vers midi. Pas mal de dénivelé. La route remonte doucement la vallée de l’Azergues jusqu’au col des Écharmeaux à 712 mètres (c’est la dame du gîte qui me dit que c’était un col). Gîte perdu dans les collines, dîner préparé par le gîte avec un couple de hollandais sympas.
 
 ![](IMG_20221006_151036.jpg)
 ![](IMG_20221006_154022.jpg)
 ![](IMG_20221006_163029.jpg)
 ![](IMG_20221006_164654.jpg)
+______
+[2022/10/07]
+
+### J102 - 7 octobre - Decize (Nièvre) - 102 km (6364 km)
+
+Une trentaine de kilomètres pour sortir des collines et rejoindre la Loire à Digoin. Puis une vingtaine de kilomètres de voie verte le long du canal latéral à la Loire. Le reste se fait sur des petites routes puis une départementale. L’Eurovelo 6 relie Digoin à Decize mais c’est trente kilomètres en plus.
+
+![](IMG_20221007_102419.jpg)
+![](IMG_20221007_125753.jpg)
 ______
