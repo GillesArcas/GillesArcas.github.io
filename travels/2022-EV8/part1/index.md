@@ -1103,3 +1103,14 @@ Une trentaine de kilomètres pour sortir des collines et rejoindre la Loire à D
 ![](IMG_20221007_102419.jpg)
 ![](IMG_20221007_125753.jpg)
 ______
+[2022/10/08]
+
+### J103 - 8 octobre - Myennes (Nièvre) - 116 km (6480 km)
+
+Toute la journée sur l’Eurovélo 6. Jusqu’à Nevers sur le canal latéral à la Loire, ensuite sur la Loire à vélo, mais plus souvent sur la levée (la digue qui borde le fleuve) qu’en bordure de la Loire. Encore beau temps même si il fait frais le matin (12º en démarrant) et qu’il y a un petit vent nord-ouest.
+
+![](IMG_20221008_101828.jpg)
+![](IMG_20221008_135516.jpg)
+![](IMG_20221008_140402.jpg)
+![](IMG_20221008_172001.jpg)
+______
