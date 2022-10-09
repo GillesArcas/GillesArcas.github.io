@@ -1114,3 +1114,14 @@ Toute la journée sur l’Eurovélo 6. Jusqu’à Nevers sur le canal latéral �
 ![](IMG_20221008_140402.jpg)
 ![](IMG_20221008_172001.jpg)
 ______
+[2022/10/09]
+
+### J104 - 9 octobre - Montargis (Loiret) - 94 km (6574 km)
+
+Loire á vélo jusqu’à Briare, puis Eurovélo 3 (la Scandibérique) presque tout le temps le long du canal de Briare. Très agréable avec le beau temps.
+
+![](IMG_20221009_104619.jpg)
+![](IMG_20221009_114949.jpg)
+![](IMG_20221009_120839.jpg)
+![](IMG_20221009_132608.jpg)
+______
