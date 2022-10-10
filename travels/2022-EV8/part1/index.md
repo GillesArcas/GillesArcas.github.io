@@ -1118,10 +1118,19 @@ ______
 
 ### J104 - 9 octobre - Montargis (Loiret) - 94 km (6574 km)
 
-Loire á vélo jusqu’à Briare, puis Eurovélo 3 (la Scandibérique) presque tout le temps le long du canal de Briare. Très agréable avec le beau temps.
+Loire à vélo jusqu’à Briare, puis Eurovélo 3 (la Scandibérique) presque tout le temps le long du canal de Briare. Très agréable avec le beau temps.
 
 ![](IMG_20221009_104619.jpg)
 ![](IMG_20221009_114949.jpg)
 ![](IMG_20221009_120839.jpg)
 ![](IMG_20221009_132608.jpg)
+______
+[2022/10/10]
+
+### J105 - 10 octobre - Cachan (Val-de-Marne) - 117 km (6691 km)
+
+Arrivé ! Merci à tous pour la compagnie, gracias a todos, thank you all, hvala, faleminderit, ευχαριστώ ! Et à la prochaine !
+
+![](IMG_20221010_092857.jpg)
+![](IMG_20221010_183703.jpg)
 ______
