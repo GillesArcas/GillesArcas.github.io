@@ -18,3 +18,16 @@ Rendez-vous avec le père de Mathieson pour le déjeuner. Mathieson, c'est l'Aus
 ![](IMG_20230317_124026.jpg)
 ![](IMG_20230317_160425.jpg)
 ______
+[2023/03/18]
+
+### J3 - 18 mars - Melbourne - 26 km (48 km)
+
+Un petit circuit trouvé sur komoot pour se réchauffer les mollets. Il traverse le centre, suit la rivière Yarra, contourne un lac et longe la plage à St Kilda. Pas trop mal, beaucoup de pistes cyclables et pour le reste, il y a presque toujours un couloir pour les vélos.
+
+![](circuit-melbourne.png)
+![](IMG_20230318_135221.jpg)
+![](IMG_20230318_143802.jpg)
+![](IMG_20230318_144313.jpg)
+![](IMG_20230318_152820.jpg)
+![](IMG_20230318_175131.jpg)
+______
