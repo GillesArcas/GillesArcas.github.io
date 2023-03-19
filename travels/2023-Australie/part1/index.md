@@ -1,5 +1,11 @@
 # Australie 2023 - part1
 
+[2023/03/15]
+
+Tous les voyages [c'est par ici](https://gilles-arcas.blogspot.com/2020/09/home_31.html)
+
+La carte des étapes [c'est par là](https://gilles-arcas.travelmap.net/)
+______
 [2023/03/16]
 
 ### J1 - 16 mars - Melbourne - 22 km (+ 17000 km en avion)
@@ -30,4 +36,15 @@ Un petit circuit trouvé sur komoot pour se réchauffer les mollets. Il traverse
 ![](IMG_20230318_144313.jpg)
 ![](IMG_20230318_152820.jpg)
 ![](IMG_20230318_175131.jpg)
+______
+[2023/03/19]
+
+### J4 - 19 mars - Hastings - 81 km (129 km)
+
+Temps moyen, 18°, grisâtre, pas mal de vent pas toujours défavorable. La route enchaîne les pistes cyclables, d’abord en bord de mer, mais aussi en bord de routes ou de voies ferrées. La réception du camping park que j’avais repéré ferme à 15h (15h !). Comme il n’y a rien d’autre dans le coin, je fais le plein d’eau et je vais chercher un coin tranquille pour passer la nuit (pas mal de moustiques par contre).
+
+![](IMG_20230319_110919.jpg)
+![](IMG_20230319_113117.jpg)
+![](IMG_20230319_163609.jpg)
+![](IMG_20230319_164048.jpg)
 ______
