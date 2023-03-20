@@ -41,10 +41,21 @@ ______
 
 ### J4 - 19 mars - Hastings - 81 km (129 km)
 
-Temps moyen, 18°, grisâtre, pas mal de vent pas toujours défavorable. La route enchaîne les pistes cyclables, d’abord en bord de mer, mais aussi en bord de routes ou de voies ferrées. La réception du camping park que j’avais repéré ferme à 15h (15h !). Comme il n’y a rien d’autre dans le coin, je fais le plein d’eau et je vais chercher un coin tranquille pour passer la nuit (pas mal de moustiques par contre).
+Temps moyen, 18°, grisâtre, pas mal de vent pas toujours défavorable. La route enchaîne les pistes cyclables, d’abord en bord de mer, mais aussi en bord de routes ou de voies ferrées. La réception du camping park que j’avais repéré ferme à 15h (15h !). Comme il n’y a rien d’autre dans le coin, je fais le plein d’eau et je vais chercher un coin tranquille dans les bois en sortie de la ville pour passer la nuit (pas mal de moustiques par contre).
 
 ![](IMG_20230319_110919.jpg)
 ![](IMG_20230319_113117.jpg)
 ![](IMG_20230319_163609.jpg)
 ![](IMG_20230319_164048.jpg)
+______
+[2023/03/20]
+
+### J5 - 20 mars - Cape Paterson - 69 km (198 km)
+
+Du soleil mais toujours température un peu juste et beaucoup de vent. Encore beaucoup de pistes cyclables et voies vertes, dont une qui surplombe la mer pendant quelques kilomètres. Et un ferry pour traverser un petit bras de mer. En attendant le ferry, je discute avec quelqu’un qui me dit que mon anglais n’est pas mauvais. C’est gentil surtout que je lui fait répéter presque tout ce qu’il me dit. Caravan Park à 49$ (30E) mais avec accès sur la mer. Encore plus de vent que sur la route, personne dans l’eau mais j’en profite quand même pour me tremper les pieds.
+
+![](IMG_20230320_104702.jpg)
+![](IMG_20230320_112459.jpg)
+![](IMG_20230320_132148.jpg)
+![](IMG_20230320_181622.jpg)
 ______
