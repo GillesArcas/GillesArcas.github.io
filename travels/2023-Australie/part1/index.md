@@ -59,3 +59,13 @@ Du soleil mais toujours température un peu juste et beaucoup de vent. Encore be
 ![](IMG_20230320_132148.jpg)
 ![](IMG_20230320_181622.jpg)
 ______
+[2023/03/21]
+
+### J6 - 21 mars - Port Welshpool - 87 km (285 km)
+
+Beaucoup de vent pendant la nuit (avec la toile de tente qui fait flap flap). Beaucoup de vent aussi pendant la journée avec retour du temps gris. Première partie sur de la route pas trop fréquentée et quarante derniers kilomètres sur une belle voie verte, la Great Southern Rail Trail. Fish & chips au dîner, ça cale plus que les nouilles chinoises. Retour au caravan park sous la pluie. 
+
+![](IMG_20230321_102709.jpg)
+![](IMG_20230321_142213.jpg)
+![](IMG_20230321_144913.jpg)
+______
