@@ -63,9 +63,20 @@ ______
 
 ### J6 - 21 mars - Port Welshpool - 87 km (285 km)
 
-Beaucoup de vent pendant la nuit (avec la toile de tente qui fait flap flap). Beaucoup de vent aussi pendant la journée avec retour du temps gris. Première partie sur de la route pas trop fréquentée et quarante derniers kilomètres sur une belle voie verte, la Great Southern Rail Trail. Fish & chips au dîner, ça cale plus que les nouilles chinoises. Retour au caravan park sous la pluie. 
+Beaucoup de vent pendant la nuit (avec la toile de tente qui fait flap flap). Beaucoup de vent aussi pendant la journée avec retour du temps gris. Première partie sur de la route pas trop fréquentée et quarante derniers kilomètres sur une belle voie verte, la Great Southern Rail Trail. Fish & chips au dîner, ça cale plus que les nouilles chinoises, et retour au caravan park sous la pluie.
 
 ![](IMG_20230321_102709.jpg)
 ![](IMG_20230321_142213.jpg)
 ![](IMG_20230321_144913.jpg)
+______
+[2023/03/22]
+
+### J7 - 22 mars - Sale - 108 km (393 km)
+
+Presque que de la route aujourd’hui, assez tranquille, quelque gros camions quand même. Le beau temps est revenu dans l’après-midi et il y a beaucoup moins de vent, plutôt dans la bonne direction.
+
+![](IMG_20230322_094245.jpg)
+![](IMG_20230322_110627.jpg)
+![](IMG_20230322_130312.jpg)
+![](IMG_20230322_145215.jpg)
 ______
