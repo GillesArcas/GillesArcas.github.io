@@ -80,3 +80,13 @@ Presque que de la route aujourd’hui, assez tranquille, quelque gros camions qu
 ![](IMG_20230322_130312.jpg)
 ![](IMG_20230322_145215.jpg)
 ______
+[2023/03/22]
+
+### J8 - 23 mars - Bairnsdale - 77 km (470 km)
+
+Ciel plombé toute le journée mais moins de vent. Que de la route. Paysage plat comme la main en début de journée, après c’est un peu plus mouvementé. Pas grand-chose à voir à part des prés de chaque côté de la route. Caravan park à cinquante mètres de la highway, bof bof.
+
+![](IMG_20230323_101719.jpg)
+![](IMG_20230323_105427.jpg)
+![](IMG_20230323_114552.jpg)
+______
