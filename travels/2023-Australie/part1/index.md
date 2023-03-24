@@ -80,13 +80,24 @@ Presque que de la route aujourd’hui, assez tranquille, quelque gros camions qu
 ![](IMG_20230322_130312.jpg)
 ![](IMG_20230322_145215.jpg)
 ______
-[2023/03/22]
+[2023/03/23]
 
 ### J8 - 23 mars - Bairnsdale - 77 km (470 km)
 
-Ciel plombé toute le journée mais moins de vent. Que de la route. Paysage plat comme la main en début de journée, après c’est un peu plus mouvementé. Pas grand-chose à voir à part des prés de chaque côté de la route. Caravan park à cinquante mètres de la highway, bof bof.
+Ciel plombé toute le journée mais moins de vent. Que de la route. Paysage plat comme la main en début de journée, après c’est un peu plus mouvementé. Pas grand-chose à voir, à part des prés de chaque côté de la route, mais le regard porte loin. Caravan park à cinquante mètres de la highway, bof bof.
 
 ![](IMG_20230323_101719.jpg)
 ![](IMG_20230323_105427.jpg)
 ![](IMG_20230323_114552.jpg)
+______
+[2023/03/24]
+
+### J9 - 24 mars - Nowa Nowa - 59 km (529 km)
+
+Toute la journée sur la East Gippsland Rail Trail, une belle voie verte ancienne voie ferrée. Au début, la voie traverse des prés, mais souvent cachés par la végétation, ensuite ce n’est plus que de la forêt. Un peu de dénivelé (400 mètres de D+) mais la pente ne dépasse pas un ou deux pour cent. Croisé plusieurs vélos dont un cycliste longue distance (en fait, je n’ai compris ni d’où il venait ni où il allait).
+
+![](IMG_20230324_120315.jpg)
+![](IMG_20230324_130351.jpg)
+![](IMG_20230324_140011.jpg)
+![](IMG_20230324_151502.jpg)
 ______
