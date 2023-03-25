@@ -94,10 +94,27 @@ ______
 
 ### J9 - 24 mars - Nowa Nowa - 59 km (529 km)
 
-Toute la journée sur la East Gippsland Rail Trail, une belle voie verte ancienne voie ferrée. Au début, la voie traverse des prés, mais souvent cachés par la végétation, ensuite ce n’est plus que de la forêt. Un peu de dénivelé (400 mètres de D+) mais la pente ne dépasse pas un ou deux pour cent. Croisé plusieurs vélos dont un cycliste longue distance (en fait, je n’ai compris ni d’où il venait ni où il allait).
+Toute la journée sur la East Gippsland Rail Trail, une belle voie verte ancienne voie ferrée. Au début, la voie traverse des prés, souvent cachés par la végétation, ensuite ce n’est plus que de la forêt. Un peu de dénivelé (400 mètres de D+) mais la pente ne dépasse pas un ou deux pour cent (puisque c'est le train qui passait par là). Croisé plusieurs vélos dont un cycliste longue distance (en fait, je n’ai compris ni d’où il venait ni où il allait).
 
 ![](IMG_20230324_120315.jpg)
 ![](IMG_20230324_130351.jpg)
 ![](IMG_20230324_140011.jpg)
 ![](IMG_20230324_151502.jpg)
 ______
+[2023/03/25]
+
+Hier soir, en mangeant dans la petite cuisine du caravane park, causette avec une vielle dame venue dans son van. Elle me dit que son cardiologue est français, qu’elle en est à son troisième pace maker et qu’il n’y en aura pas de quatrième. Après ça, deux cyclistes arrivent, ce sont deux américains, dont un parle français, et qui sont sur la même route que moi. Ils me demandent le prix de l’emplacement puis disparaissent en m’expliquant qu’ils n’aiment pas trop payer pour passer la nuit.
+
+![](IMG_20230325_090426.jpg)
+______
+[2023/03/25]
+
+### J10 - 25 mars - Cowrie Bay - 77 km (606 km)
+
+Quarante premiers kilomètres sur la voie verte. Ensuite, c’est de la route qui longe la Snowy River jusqu’à son estuaire, puis qui suit la mer d’assez loin. Arrivé au caravan park, je vérifie qu’il n’y a pas d’eau potable (j’avais anticipé). Personne à la réception, il faut appeler, mais les prix sont affichés. 45$ pour un emplacement. J’ai de l’eau, je recharge mon téléphone dans les toilettes, et je fais comme les américains d’hier soir, je repars pour trouver un endroit tranquille pour passer la nuit.
+
+![](IMG_20230325_103232.jpg)
+![](IMG_20230325_135839.jpg)
+![](IMG_20230325_151724.jpg)
+______
+
