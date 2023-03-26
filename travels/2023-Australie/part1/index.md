@@ -117,4 +117,15 @@ Quarante premiers kilomètres sur la voie verte. Ensuite, c’est de la route qu
 ![](IMG_20230325_135839.jpg)
 ![](IMG_20230325_151724.jpg)
 ______
+[2023/03/26]
+
+### J11 - 26 mars - Cann River - 60 km (666 km)
+
+Détour par la plage pour jeter un coup d’œil à la mer. Ensuite petite route dans la forêt qui finit par rejoindre la grande route. Et là, ça commence à monter, 850 mètres de D+ aujourd’hui. Toujours dans la forêt, très joli, très dense, avec des grandes fougères. Campement dans un caravan park désaffecté au bord d’une rivière. Pas d’électricité, toilettes, douches froides , c’est pas grave, je vais me débarbouiller dans la rivière. Un autre cycliste s’est installé, Steve, on va manger ensemble. Et les américains d’il y a deux jours arrivent aussi et ont fini la journée au bar en jouant au billard. 
+
+![](IMG_20230326_102437.jpg)
+![](IMG_20230326_134726.jpg)
+![](IMG_20230326_173219.jpg)
+![](IMG_20230326_173615.jpg)
+______
 
