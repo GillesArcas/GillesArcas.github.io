@@ -121,11 +121,21 @@ ______
 
 ### J11 - 26 mars - Cann River - 60 km (666 km)
 
-Détour par la plage pour jeter un coup d’œil à la mer. Ensuite petite route dans la forêt qui finit par rejoindre la grande route. Et là, ça commence à monter, 850 mètres de D+ aujourd’hui. Toujours dans la forêt, très joli, très dense, avec des grandes fougères. Campement dans un caravan park désaffecté au bord d’une rivière. Pas d’électricité, toilettes, douches froides , c’est pas grave, je vais me débarbouiller dans la rivière. Un autre cycliste s’est installé, Steve, on va manger ensemble. Et les américains d’il y a deux jours arrivent aussi et ont fini la journée au bar en jouant au billard. 
+Détour par la plage pour jeter un coup d’œil à la mer. Ensuite petite route dans la forêt qui finit par rejoindre la grande route. Et là, ça commence à monter, 850 mètres de D+ aujourd’hui. Toujours dans la forêt, très joli, très dense, avec des grandes fougères. Campement dans un caravan park désaffecté au bord d’une rivière. Pas d’électricité, toilettes, douches froides , c’est pas grave, je vais me débarbouiller dans la rivière. Un autre cycliste s’est installé, Steve, très sympa, on va manger ensemble. Et les américains d’il y a deux jours arrivent aussi et ont fini la journée au bar en jouant au billard.
 
 ![](IMG_20230326_102437.jpg)
 ![](IMG_20230326_134726.jpg)
 ![](IMG_20230326_173219.jpg)
 ![](IMG_20230326_173615.jpg)
+______
+[2023/03/27]
+
+### J12 - 27 mars - Genoa - 58 km (724 km)
+
+Toujours sur la grosse route, la Princes Highway, mais ça va. Toujours dans la forêt, quelques vraiment beaux paysages, toujours dans les collines, mais moins de dénivelé qu’hier. Campground sans eau potable mais confortable. Une fois la tente installée, je repars cinq kilomètres en arrière, vélo à vide, pour aller voir une petite cascade marquée sur la carte. Joli coin mais pas beaucoup d’eau.
+
+![](IMG_20230327_122725.jpg)
+![](IMG_20230327_123650.jpg)
+![](IMG_20230327_161632.jpg)
 ______
 
