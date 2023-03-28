@@ -138,4 +138,15 @@ Toujours sur la grosse route, la Princes Highway, mais ça va. Toujours dans la 
 ![](IMG_20230327_123650.jpg)
 ![](IMG_20230327_161632.jpg)
 ______
+[2023/03/28]
+
+### J13 - 28 mars - Eden - 63 km (788 km)
+
+En me préparant ce matin, je discute avec quelqu’un de mon voyage et il me propose de recharger mon téléphone. En allant le rechercher, je suis invité à boire le café avec deux couples, tous nés à Malte ou d’origine maltaise (Frank, Jo, Esther et Veronika). Après ça, retour sur la highway, changement d’état (je quitte le Victoria pour rentrer dans la Nouvelle Galles du Sud) et séance de montagnes russes (900 mètres de D+ aujourd’hui). Journée la plus chaude (26°) depuis mon arrivée.
+
+![](IMG_20230328_103521.jpg)
+![](IMG_20230328_114952.jpg)
+![](IMG_20230328_115342.jpg)
+![](IMG_20230328_151024.jpg)
+______
 
