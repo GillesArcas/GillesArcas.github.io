@@ -142,11 +142,21 @@ ______
 
 ### J13 - 28 mars - Eden - 63 km (788 km)
 
-En me préparant ce matin, je discute avec quelqu’un de mon voyage et il me propose de recharger mon téléphone. En allant le rechercher, je suis invité à boire le café avec deux couples, tous nés à Malte ou d’origine maltaise (Frank, Jo, Esther et Veronika). Après ça, retour sur la highway, changement d’état (je quitte le Victoria pour rentrer dans la Nouvelle Galles du Sud) et séance de montagnes russes (900 mètres de D+ aujourd’hui). Journée la plus chaude (26°) depuis mon arrivée.
+En me préparant ce matin, je discute avec quelqu’un de mon voyage et il me propose de recharger mon téléphone. En allant le rechercher, je suis invité à boire le café avec deux couples, tous nés à Malte ou d’origine maltaise (Frank, Jo, Esther et Veronica). Après ça, retour sur la highway, changement d’état (je quitte le Victoria pour rentrer dans la Nouvelle Galles du Sud) et séance de montagnes russes (900 mètres de D+ aujourd’hui). Journée la plus chaude (26°) depuis mon arrivée.
 
 ![](IMG_20230328_103521.jpg)
 ![](IMG_20230328_114952.jpg)
 ![](IMG_20230328_115342.jpg)
 ![](IMG_20230328_151024.jpg)
 ______
+[2023/03/29]
 
+### J14 - 29 mars - Eden - 0 km (788 km)
+
+Jour de repos. J’avais réservé un motel plusieurs jours avant, et ça tombait bien : orage hier soir et pluie toute la matinée. Mathieson est en Australie avec son compagnon et son bébé. Arrivés à Melbourne, ils rejoignent maintenant Sydney en voiture. Et comme Eden est sur leur route, ils se sont arrêtés le temps d’un café. Fallait bien qu’un jour je la vois en Australie. (Et comme j’ai recroisé les deux cycliste américains en ville, j’ai l’impression de connaître plein de monde ici).
+
+![](IMG_20230329_172129.jpg)
+![](IMG_20230329_173419.jpg)
+![](IMG_20230329_174238.jpg)
+![](IMG_20230329_182108.jpg)
+______
