@@ -153,10 +153,21 @@ ______
 
 ### J14 - 29 mars - Eden - 0 km (788 km)
 
-Jour de repos. J’avais réservé un motel plusieurs jours avant, et ça tombait bien : orage hier soir et pluie toute la matinée. Mathieson est en Australie avec son compagnon et son bébé. Arrivés à Melbourne, ils rejoignent maintenant Sydney en voiture. Et comme Eden est sur leur route, ils se sont arrêtés le temps d’un café. Fallait bien qu’un jour je la vois en Australie. (Et comme j’ai recroisé les deux cycliste américains en ville, j’ai l’impression de connaître plein de monde ici).
+Jour de repos. J’avais réservé un motel plusieurs jours avant, et ça tombait bien : orage hier soir et pluie toute la matinée. Mathieson est en Australie avec son compagnon et son bébé. Arrivés à Melbourne, ils rejoignent maintenant Sydney en voiture. Et comme Eden est sur leur route, ils se sont arrêtés le temps d’un café. Fallait bien qu’un jour je la vois en Australie. (Et comme j’ai recroisé les deux cyclistes américains en ville, j’ai l’impression de connaître plein de monde ici).
 
 ![](IMG_20230329_172129.jpg)
 ![](IMG_20230329_173419.jpg)
 ![](IMG_20230329_174238.jpg)
 ![](IMG_20230329_182108.jpg)
+______
+[2023/03/30]
+
+### J15 - 30 mars - Tathra - 57 km (845 km)
+
+Petite route isolée au début, qui se transforme en piste pendant un moment, un bout de highway, et une route, dite touristique, assez fréquentée et sans accotement. Et surtout, beaucoup de collines, avec plusieurs montées à 10% que je passe en poussant (je crois que je n’ai jamais autant poussé le vélo qu’aujourd’hui). Gros caravan park avec accès sur la mer, avec mon emplacement bien exposé au milieu des caravanes.
+
+![](IMG_20230330_110735.jpg)
+![](IMG_20230330_114700.jpg)
+![](IMG_20230330_120129.jpg)
+![](IMG_20230330_182051.jpg)
 ______
