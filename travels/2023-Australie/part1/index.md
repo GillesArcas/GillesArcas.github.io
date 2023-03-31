@@ -171,3 +171,17 @@ Petite route isolée au début, qui se transforme en piste pendant un moment, un
 ![](IMG_20230330_120129.jpg)
 ![](IMG_20230330_182051.jpg)
 ______
+[2023/03/31]
+
+### J16 - 31 mars - Wallaga - 52 km (897 km)
+
+Jolie étape (deux personnes me l’avaient dit ce matin). De temps en temps, on voit des rivières et des lagunes d’un côté, ou la mer de l’autre. Le reste du temps, ça monte dans les collines mais moins qu’hier (je ne pousse le vélo que deux fois). Caravan park un peu plus rustique mais emplacement nettement mieux qu’hier. Une fois installé (côté lagune), je vais faire un tour à la mer pour voir le Camel Rock et la tête de cheval. Ça ressemble sans trop d’effort.
+
+![](IMG_20230331_103815.jpg)
+![](IMG_20230331_131520.jpg)
+![](IMG_20230331_131852.jpg)
+![](IMG_20230331_155528.jpg)
+![](IMG_20230331_164701.jpg)
+![](IMG_20230331_170221.jpg)
+![](IMG_20230331_173118.jpg)
+______
