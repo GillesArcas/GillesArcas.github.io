@@ -185,3 +185,14 @@ Jolie étape (deux personnes me l’avaient dit ce matin). De temps en temps, on
 ![](IMG_20230331_170221.jpg)
 ![](IMG_20230331_173118.jpg)
 ______
+[2023/04/01]
+
+### J17 -  1er avril - Moruya - 79 km (976 km)
+
+Presque toute la journée sur la highway. Je commence à éviter les petites routes qui rallongent et montent encore plus. J’ai croisé deux cyclos espagnols (ils disent « on vient de Barcelone » pas « on vient d’Espagne ») qui viennent d’Indonésie, puis de Nouvelle-Zélande (où ils ont eu beaucoup de pluie). Et à Narooma, en suivant un bout de piste cyclable qui longe la mer, je retrouve les quatre australo-maltais rencontrés quatre jour plus tôt. Décidément...
+
+![](IMG_20230401_105022.jpg)
+![](IMG_20230401_112556.jpg)
+![](IMG_20230401_130123.jpg)
+![](IMG_20230401_152503.jpg)
+______
