@@ -196,3 +196,14 @@ Presque toute la journée sur la highway. Je commence à éviter les petites rou
 ![](IMG_20230401_130123.jpg)
 ![](IMG_20230401_152503.jpg)
 ______
+[2023/04/02]
+
+### J18 -  2 avril - Ulladulla - 78 km (1054 km)
+
+Dormi dans les bois hier soir. Caravan park complet, peut-être parce que c’était samedi soir. Encore une journée de montées et descentes sur la highway. Plus de trafic et les villes deviennent plus importantes et moins espacées. J’ai dû échapper à une bonne averse, la pelouse du caravan park de ce soir est détrempée à certains endroits.
+
+![](IMG_20230402_085128.jpg)
+![](IMG_20230402_111905.jpg)
+![](IMG_20230402_130022.jpg)
+![](IMG_20230402_161755.jpg)
+______
