@@ -207,3 +207,14 @@ Dormi dans les bois hier soir. Caravan park complet, peut-être parce que c’é
 ![](IMG_20230402_130022.jpg)
 ![](IMG_20230402_161755.jpg)
 ______
+[2023/04/03]
+
+### J19 -  3 avril - Nowra - 70 km (1124 km)
+
+Au depart, détour par la mer pour jeter un coup d’œil (je l’ai entendue toute la nuit), puis retour sur la grosse route. En traversant Milton quelques kilomètres après, je finis par réaliser que quelqu’un m’appelle. C’est Joe (les gens de Malte) qui m’a vu passer et qui essaye de me rattraper. Heureusement, ça montait et j’allais pas bien vite. Cette fois, on prend le temps de prendre un café. Ils sont vraiment sympas. Sinon, grosse route, toujours autant de dénivelé mais moins de pente, et une grosse averse qui ne dure qu'un quart d’heure.
+
+![](IMG_20230403_100244.jpg)
+![](IMG_20230403_110752.jpg)
+![](IMG_20230403_120817.jpg)
+![](IMG_20230403_131219.jpg)
+______
