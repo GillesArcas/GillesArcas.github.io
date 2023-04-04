@@ -187,7 +187,7 @@ Jolie étape (deux personnes me l’avaient dit ce matin). De temps en temps, on
 ______
 [2023/04/01]
 
-### J17 -  1er avril - Moruya - 79 km (976 km)
+### J17 - 1er avril - Moruya - 79 km (976 km)
 
 Presque toute la journée sur la highway. Je commence à éviter les petites routes qui rallongent et montent encore plus. J’ai croisé deux cyclos espagnols (ils disent « on vient de Barcelone » pas « on vient d’Espagne ») qui viennent d’Indonésie, puis de Nouvelle-Zélande (où ils ont eu beaucoup de pluie). Et à Narooma, en suivant un bout de piste cyclable qui longe la mer, je retrouve les quatre australo-maltais rencontrés quatre jour plus tôt. Décidément...
 
@@ -198,7 +198,7 @@ Presque toute la journée sur la highway. Je commence à éviter les petites rou
 ______
 [2023/04/02]
 
-### J18 -  2 avril - Ulladulla - 78 km (1054 km)
+### J18 - 2 avril - Ulladulla - 78 km (1054 km)
 
 Dormi dans les bois hier soir. Caravan park complet, peut-être parce que c’était samedi soir. Encore une journée de montées et descentes sur la highway. Plus de trafic et les villes deviennent plus importantes et moins espacées. J’ai dû échapper à une bonne averse, la pelouse du caravan park de ce soir est détrempée à certains endroits.
 
@@ -209,7 +209,7 @@ Dormi dans les bois hier soir. Caravan park complet, peut-être parce que c’é
 ______
 [2023/04/03]
 
-### J19 -  3 avril - Nowra - 70 km (1124 km)
+### J19 - 3 avril - Nowra - 70 km (1124 km)
 
 Au depart, détour par la mer pour jeter un coup d’œil (je l’ai entendue toute la nuit), puis retour sur la grosse route. En traversant Milton quelques kilomètres après, je finis par réaliser que quelqu’un m’appelle. C’est Joe (les gens de Malte) qui m’a vu passer et qui essaye de me rattraper. Heureusement, ça montait et j’allais pas bien vite. Cette fois, on prend le temps de prendre un café. Ils sont vraiment sympas. Sinon, grosse route, toujours autant de dénivelé mais moins de pente, et une grosse averse qui ne dure qu'un quart d’heure.
 
@@ -217,4 +217,15 @@ Au depart, détour par la mer pour jeter un coup d’œil (je l’ai entendue to
 ![](IMG_20230403_110752.jpg)
 ![](IMG_20230403_120817.jpg)
 ![](IMG_20230403_131219.jpg)
+______
+[2023/04/04]
+
+### J20 - 4 avril - Wollongong - 82 km (1206 km)
+
+Vingt kilomètres tout plat (je me croyais tiré d’affaire) sur une route tranquille longeant une rivière. Arrivé près de la mer, ça montait pas mal pour retourner sur la highway. Et là, grosse montée (en poussant). Après ça que de la grosse route. Mention spéciale pour la highway, quatre ou six voies, avec l’accotement emménagé en piste cyclable, pas si mal, ça roulait bien.
+
+![](IMG_20230404_104917.jpg)
+![](IMG_20230404_110957.jpg)
+![](IMG_20230404_131725.jpg)
+![](IMG_20230404_162210.jpg)
 ______
