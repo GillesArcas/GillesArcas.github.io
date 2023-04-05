@@ -229,3 +229,14 @@ Vingt kilomètres tout plat (je me croyais tiré d’affaire) sur une route tran
 ![](IMG_20230404_131725.jpg)
 ![](IMG_20230404_162210.jpg)
 ______
+[2023/04/05]
+
+### J21 -  5 avril - Rockdale - 78 km (1284 km)
+
+Départ en longeant la plage, pas mal de monde et des surfers. Ensuite route moyenne souvent prêt de la mer et une grosse montée (à pied) qui termine sur un endroit d’où décollent les parapentes. Je passe un quart d’heure à regarder et ensuite la route traverse un parc nationale dans une belle forêt. Trois quarts d’heure d’attente pour chopper un petit ferry puis arrivée au caravan park (le plus proche de Sydney) par une succession de pistes cyclables en bord de mer (avec encore plein de surfers).
+
+![](IMG_20230405_112647.jpg)
+![](IMG_20230405_121636.jpg)
+![](IMG_20230405_160057.jpg)
+![](IMG_20230405_173712.jpg)
+______
