@@ -240,3 +240,13 @@ Départ en longeant la plage, pas mal de monde et des surfers. Ensuite route moy
 ![](IMG_20230405_160057.jpg)
 ![](IMG_20230405_173712.jpg)
 ______
+[2023/04/06]
+
+### J22 -  6 avril - Sydney - 38 km (1322 km)
+
+Essayé une première route qui veut me faire rejoindre le centre de Sydney en suivant la côte puis la baie. Ça me fait contourner l’aéroport et longer le port commercial pour arriver à la mer (encore plus de surfers) mais avec quelques surprises (pistes cyclables qui se terminent en cul de sac ou qui passent de l’autre côté de la deux fois trois voies). Après un dernier cul de sac (il fallait prendre un escalier pour continuer), c’est Google qui m’emmène jusqu’au au backpacker. 
+
+![](IMG_20230406_104701.jpg)
+![](IMG_20230406_111044.jpg)
+![](IMG_20230406_135448.jpg)
+______
