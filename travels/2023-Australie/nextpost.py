@@ -12,6 +12,7 @@ import configparser
 import glob
 import locale
 import subprocess
+import shutil
 
 from datetime import datetime, timedelta
 
@@ -37,28 +38,7 @@ PATH = r'z:\DCIM\Camera\*.jpg'
 PATH_SRC = os.path.realpath(r'z:\DCIM\Camera')
 PATH_DST = r'D:\Gilles\github.io\travels\2023-Australie\photos'
 RECOMP = r'e:\Gilles\.portable\jpeg-archive\jpeg-recompress.exe %s %s'
-
-
-def connect_MTP_drive():
-    """
-    ATTENTION : Dans l'état des choses, il faut ouvrir DCIM dans l'explorateur
-    de fichiers pour forcer la connexion en ligne de commande ou dans python.
-    """
-    print('on_transfer_photos')
-    # backend = uia|win32
-    t0 = time.time()
-    app = Application(backend="uia").start(r"C:\Program Files\MTPdrive\MTPdrive.exe")
-    win = app.window(title_re='MTPdrive', found_index=0)
-    win.set_focus()
-    send_keys('%m')     # Mount z:
-    time.sleep(2)
-    send_keys('%{F4}')  # Close z: MTPdrive window
-    time.sleep(2)
-    app = Application().connect(title=r"MTPdrive", found_index=0)
-    win = app.window(title_re='MTPdrive', found_index=0)
-    win.set_focus()
-    send_keys('%{F4}')  # Close y: MTPdrive window
-    print(time.time() - t0)
+TEMP = r'c:\volatil'
 
 
 def connect_MTP_drive():
@@ -68,7 +48,7 @@ def connect_MTP_drive():
     app = Application(backend="uia").start(r"C:\Program Files\MTPdrive\MTPdrive.exe")
     win = app.window(title_re='MTPdrive', found_index=0)
     win.set_focus()
-    send_keys('%m')     # Mount z:
+    send_keys('%m') # Mount z:
 
     while True:
         try:
@@ -76,7 +56,7 @@ def connect_MTP_drive():
             win = app.window(title_re='MTPdrive', found_index=0)
             time.sleep(1)
             win.set_focus()
-            send_keys('%{F4}')  # Close y: MTPdrive window
+            send_keys('%{F4}')
         except:
             break
 
@@ -113,15 +93,22 @@ def today_photos():
 
 def transfer_photos(tkapp):
     connect_MTP_drive()
-    os.system(r"dir z:\DCIM")
+    os.system(r"dir z:\DCIM")  # necessary to force MTP connection
 
     photos = today_photos()
     for photo in photos:
         print(photo)
-        os.system(RECOMP % (photo, os.path.join(PATH_DST, os.path.basename(photo))))
-        break
+        shutil.copy(photo, TEMP)
+    tkapp.statusbar_blink(5, 'Disconnect phone', lambda: recompress(photos))
+
+
+def recompress(photos):
+    for index, photo in enumerate(photos, 1):
+        print(index, '/', len(photos), ':', photo)
+        basename = os.path.basename(photo)
+        os.system(RECOMP % (os.path.join(TEMP, basename), os.path.join(PATH_DST, basename)))
+        # break
     print('Transfer done')
-    tkapp.statusbar_blink(3, 'Disconnect phone')
 
 
 def update_stats():
@@ -508,9 +495,10 @@ class App(customtkinter.CTk):
         return
         self.win.maximize()
 
-    def statusbar_blink(self, count, msg):
+    def statusbar_blink(self, count, msg, after_blink=None):
         self.count = count * 2 - 1
         self.msg = msg
+        self.after_blink = after_blink
         self.statusbar_blink_rec()
 
     def statusbar_blink_rec(self):
@@ -521,7 +509,10 @@ class App(customtkinter.CTk):
             self.statusbar.configure(font=("Helvetica", 10, "bold"))
             self.statusbar.configure(fg="Red")
             self.statusbar.configure(text=self.msg)
-        if self.count > 0:
+        if self.count == 0:
+            if self.after_blink:
+                self.after_blink()
+        else:
             self.count -= 1
             self.after(600, self.statusbar_blink_rec)
 

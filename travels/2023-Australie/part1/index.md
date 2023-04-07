@@ -231,7 +231,7 @@ Vingt kilomètres tout plat (je me croyais tiré d’affaire) sur une route tran
 ______
 [2023/04/05]
 
-### J21 -  5 avril - Rockdale - 78 km (1284 km)
+### J21 - 5 avril - Rockdale - 78 km (1284 km)
 
 Départ en longeant la plage, pas mal de monde et des surfers. Ensuite route moyenne souvent prêt de la mer et une grosse montée (à pied) qui termine sur un endroit d’où décollent les parapentes. Je passe un quart d’heure à regarder et ensuite la route traverse un parc nationale dans une belle forêt. Trois quarts d’heure d’attente pour chopper un petit ferry puis arrivée au caravan park (le plus proche de Sydney) par une succession de pistes cyclables en bord de mer (avec encore plein de surfers).
 
@@ -242,11 +242,22 @@ Départ en longeant la plage, pas mal de monde et des surfers. Ensuite route moy
 ______
 [2023/04/06]
 
-### J22 -  6 avril - Sydney - 38 km (1322 km)
+### J22 - 6 avril - Sydney - 38 km (1322 km)
 
 Essayé une première route qui veut me faire rejoindre le centre de Sydney en suivant la côte puis la baie. Ça me fait contourner l’aéroport et longer le port commercial pour arriver à la mer (encore plus de surfers) mais avec quelques surprises (pistes cyclables qui se terminent en cul de sac ou qui passent de l’autre côté de la deux fois trois voies). Après un dernier cul de sac (il fallait prendre un escalier pour continuer), c’est Google qui m’emmène jusqu’au au backpacker. 
 
 ![](IMG_20230406_104701.jpg)
 ![](IMG_20230406_111044.jpg)
 ![](IMG_20230406_135448.jpg)
+______
+[2023/04/07]
+
+### J23 - 7 avril - Sydney - 0 km (1322 km)
+
+Pluie le matin et le soir, balade l’après-midi.
+
+![](IMG_20230407_153703.jpg)
+![](IMG_20230407_155802.jpg)
+![](IMG_20230407_161410.jpg)
+![](IMG_20230407_165432.jpg)
 ______
