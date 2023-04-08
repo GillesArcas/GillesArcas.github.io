@@ -107,6 +107,7 @@ def recompress(photos):
         print(index, '/', len(photos), ':', photo)
         basename = os.path.basename(photo)
         os.system(RECOMP % (os.path.join(TEMP, basename), os.path.join(PATH_DST, basename)))
+        os.remove(os.path.join(TEMP, basename))
         # break
     print('Transfer done')
 
@@ -175,7 +176,7 @@ def select_pictures2():
     print('select_pictures2')
     addimg.main()
     print(1)
-    os.system('galerie --gallery part1 --diary true --git true')
+    os.system('galerie --gallery part1 --diary true --git true --google true')
     print(2)
     os.startfile(r"D:\Gilles\github.io\travels\2023-Australie\part1\index.html")
     print(3)
@@ -186,7 +187,7 @@ def edit_text():
 
 
 def review_post():
-    os.system('galerie --gallery part1 --diary true --git true')
+    os.system('galerie --gallery part1 --diary true --git true --google true')
     os.startfile(r"D:\Gilles\github.io\travels\2023-Australie\part1\index.html")
 
 

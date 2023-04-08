@@ -2,9 +2,9 @@
 
 [2023/03/15]
 
-Tous les voyages [c'est par ici](https://gilles-arcas.blogspot.com/2020/09/home_31.html)
+Tous les voyages, [c'est par ici](https://gilles-arcas.blogspot.com/2020/09/home_31.html)
 
-La carte des étapes [c'est par là](https://gilles-arcas.travelmap.net/)
+La carte des étapes, [c'est par là](https://gilles-arcas.travelmap.net/)
 ______
 [2023/03/16]
 
@@ -244,7 +244,7 @@ ______
 
 ### J22 - 6 avril - Sydney - 38 km (1322 km)
 
-Essayé une première route qui veut me faire rejoindre le centre de Sydney en suivant la côte puis la baie. Ça me fait contourner l’aéroport et longer le port commercial pour arriver à la mer (encore plus de surfers) mais avec quelques surprises (pistes cyclables qui se terminent en cul de sac ou qui passent de l’autre côté de la deux fois trois voies). Après un dernier cul de sac (il fallait prendre un escalier pour continuer), c’est Google qui m’emmène jusqu’au au backpacker. 
+Essayé une première route qui veut me faire rejoindre le centre de Sydney en suivant la côte puis la baie. Ça me fait contourner l’aéroport et longer le port commercial pour arriver à la mer (encore plus de surfers) mais avec quelques surprises (pistes cyclables qui se terminent en cul de sac ou qui passent de l’autre côté de la deux fois trois voies). Après un dernier cul de sac (il fallait prendre un escalier pour continuer), c’est Google qui m’emmène jusqu’au au backpacker.
 
 ![](IMG_20230406_104701.jpg)
 ![](IMG_20230406_111044.jpg)
@@ -260,4 +260,15 @@ Pluie le matin et le soir, balade l’après-midi.
 ![](IMG_20230407_155802.jpg)
 ![](IMG_20230407_161410.jpg)
 ![](IMG_20230407_165432.jpg)
+______
+[2023/04/08]
+
+### J24 -  8 avril - Sydney - 0 km (1322 km)
+
+Un aller-retour en ferry presque au bout de la ligne qui remonte la baie, pour voir Sydney depuis l’eau.
+
+![](Sydney-ferries-f3.png) 
+![](IMG_20230408_150609.jpg)
+![](IMG_20230408_151010.jpg)
+![](IMG_20230408_164346.jpg)
 ______
