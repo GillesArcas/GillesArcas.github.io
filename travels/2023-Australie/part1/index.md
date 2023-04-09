@@ -263,12 +263,23 @@ Pluie le matin et le soir, balade l’après-midi.
 ______
 [2023/04/08]
 
-### J24 -  8 avril - Sydney - 0 km (1322 km)
+### J24 - 8 avril - Sydney - 0 km (1322 km)
 
 Un aller-retour en ferry presque au bout de la ligne qui remonte la baie, pour voir Sydney depuis l’eau.
 
-![](Sydney-ferries-f3.png) 
+![](Sydney-ferries-f3.png)
 ![](IMG_20230408_150609.jpg)
 ![](IMG_20230408_151010.jpg)
 ![](IMG_20230408_164346.jpg)
+______
+[2023/04/09]
+
+### J25 - 9 avril - Sydney - 0 km (1322 km)
+
+Journée touriste avec une excursion en minibus aux Blue Mountains, chaînes de grosses collines (montagnes ? ça monte à plus de 1000 mètres) à cent kilomètres à l’ouest de Sydney. Des vallées escarpées, des falaises, des chutes d’eau. Très emménagé, très fréquenté, mais plein de beaux paysages. Mention spéciale à quelqu’un qui jouait du cor des Alpes en haut d’une falaise.
+
+![](IMG_20230409_120713.jpg)
+![](IMG_20230409_122631.jpg)
+![](IMG_20230409_143849.jpg)
+[](VID_20230409_151302-small.mp4)
 ______
