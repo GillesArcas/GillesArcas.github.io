@@ -283,3 +283,14 @@ Journée touriste avec une excursion en minibus aux Blue Mountains, chaînes de 
 ![](IMG_20230409_143849.jpg)
 [](VID_20230409_151302-small.mp4)
 ______
+[2023/04/10]
+
+### J26 - 10 avril - The Entrance - 71 km (1393 km)
+
+Un premier ferry pour traverser la baie jusqu’à Manly, the plage des surfers. Puis trente kilomètres et un deuxième ferry. Celui-là, je l’attends presque deux heures. Pas bien grave, l’endroit est super. Le reste, sur une piste cyclable très agréable et de la grosse route un peu moins agréable, mais ok.
+
+![](IMG_20230410_093518.jpg)
+[](VID_20230410_100555-small.mp4)
+![](IMG_20230410_140840.jpg)
+![](IMG_20230410_145600.jpg)
+______
