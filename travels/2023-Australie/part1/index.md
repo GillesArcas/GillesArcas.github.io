@@ -294,3 +294,14 @@ Un premier ferry pour traverser la baie jusqu’à Manly, the plage des surfers.
 ![](IMG_20230410_140840.jpg)
 ![](IMG_20230410_145600.jpg)
 ______
+[2023/04/11]
+
+### J27 - 11 avril - Newcasttle - 76 km (1469 km)
+
+Petites routes, grosses routes, une belle voie verte, un peu moins de dénivelé et un petit vent favorable. Des beaux paysages de temps en temps avec les baies et les lagunes d’un côté, et la mer de l’autre.
+
+![](IMG_20230411_095117.jpg)
+![](IMG_20230411_130644.jpg)
+![](IMG_20230411_133244.jpg)
+![](IMG_20230411_152037.jpg)
+______

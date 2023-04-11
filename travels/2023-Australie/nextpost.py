@@ -38,6 +38,7 @@ PATH = r'z:\DCIM\Camera\*.jpg'
 PATH_SRC = os.path.realpath(r'z:\DCIM\Camera')
 PATH_DST = r'D:\Gilles\github.io\travels\2023-Australie\photos'
 RECOMP = r'e:\Gilles\.portable\jpeg-archive\jpeg-recompress.exe %s %s'
+FFMPEG = 'ffmpeg -i %s %s'
 TEMP = r'c:\volatil'
 
 
@@ -78,37 +79,52 @@ def list_of_photos():
     return list_of_files
 
 
-def today_photos():
+def today_medias():
     """
     Return the list of today photos with full path
     """
-    # Il faut utiliser os pas glob sinon il faut ouvrir explicitement z:\DCIM pour
-    # forcer la connexion)
     mtime = datetime.now().timestamp()
     files = os.listdir(PATH_SRC)
+
     photos = [os.path.join(PATH_SRC, fn) for fn in files if os.path.splitext(fn)[1] == '.jpg']
     photos = [fn for fn in photos if is_same_date(os.path.getmtime(fn), mtime)]
-    return photos
+
+    movies = [os.path.join(PATH_SRC, fn) for fn in files if os.path.splitext(fn)[1] == '.mp4']
+    movies = [fn for fn in movies if is_same_date(os.path.getmtime(fn), mtime)]
+
+    return photos, movies
 
 
-def transfer_photos(tkapp):
+def transfer_medias(tkapp):
     connect_MTP_drive()
     os.system(r"dir z:\DCIM")  # necessary to force MTP connection
 
-    photos = today_photos()
+    photos, movies = today_medias()
     for photo in photos:
         print(photo)
         shutil.copy(photo, TEMP)
-    tkapp.statusbar_blink(5, 'Disconnect phone', lambda: recompress(photos))
+    for movie in movies:
+        print(movie)
+        shutil.copy(movie, TEMP)
+
+    tkapp.statusbar_blink(5, 'Disconnect phone', lambda: recompress(photos, movies))
 
 
-def recompress(photos):
+def recompress(photos, movies):
     for index, photo in enumerate(photos, 1):
         print(index, '/', len(photos), ':', photo)
         basename = os.path.basename(photo)
         os.system(RECOMP % (os.path.join(TEMP, basename), os.path.join(PATH_DST, basename)))
         os.remove(os.path.join(TEMP, basename))
         # break
+        
+    for index, movie in enumerate(movies, 1):
+        print(index, '/', len(movies), ':', movie)
+        basename = os.path.basename(movie)
+        os.system(FFMPEG % (os.path.join(TEMP, basename), os.path.join(PATH_DST, basename)))
+        os.remove(os.path.join(TEMP, basename))
+        # break
+        
     print('Transfer done')
 
 
@@ -459,7 +475,7 @@ class App(customtkinter.CTk):
 
     def on_transfer_photos2(self):
         self.checkbox1.select()
-        transfer_photos(self)
+        transfer_medias(self)
 
     def on_update_stats(self):
         self.checkbox2.select()
