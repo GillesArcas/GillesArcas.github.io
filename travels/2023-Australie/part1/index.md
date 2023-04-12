@@ -305,3 +305,14 @@ Petites routes, grosses routes, une belle voie verte, un peu moins de dénivelé
 ![](IMG_20230411_133244.jpg)
 ![](IMG_20230411_152037.jpg)
 ______
+[2023/04/12]
+
+### J28 - 12 avril - Bombah Point - 81 km (1550 km)
+
+Presque tout plat aujourd’hui, un tout petit peu de pluie, du vent favorable  (on s’en rend mieux compte en faisant demi-tour quand on a raté un embranchement), une belle traversée en ferry et un super coucher de soleil à travers les arbres. Bush camping et montage de la tente dans la nuit noire.
+
+![](IMG_20230412_132715.jpg)
+![](IMG_20230412_134336.jpg)
+![](IMG_20230412_160301.jpg)
+![](IMG_20230412_180240.jpg)
+______
