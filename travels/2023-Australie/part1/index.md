@@ -309,10 +309,21 @@ ______
 
 ### J28 - 12 avril - Bombah Point - 81 km (1550 km)
 
-Presque tout plat aujourd’hui, un tout petit peu de pluie, du vent favorable  (on s’en rend mieux compte en faisant demi-tour quand on a raté un embranchement), une belle traversée en ferry et un super coucher de soleil à travers les arbres. Bush camping et montage de la tente dans la nuit noire.
+Presque tout plat aujourd’hui, un tout petit peu de pluie, du vent favorable (on s’en rend mieux compte en faisant demi-tour quand on a raté un embranchement), une belle traversée en ferry et un super coucher de soleil à travers les arbres. Bush camping et montage de la tente dans la nuit noire.
 
 ![](IMG_20230412_132715.jpg)
 ![](IMG_20230412_134336.jpg)
 ![](IMG_20230412_160301.jpg)
 ![](IMG_20230412_180240.jpg)
+______
+[2023/04/13]
+
+### J29 - 13 avril - Forster - 59 km (1609 km)
+
+Un peu de pluie dans la nuit mais tente presque sèche le matin. Vingt kilomètres  de chemin à travers un parc national, au début très agréable mais caillouteux sur la deuxième moitié. Retour sur la route avec du crachin puis une série d’averses et de grosses averses. Arrivé à Forster avec le soleil mais bien mouillé. Retrouvaille pour le dîner avec Brian qui vit ici. Je l’avais rencontré avec sa femme Ingrid il y a quatre ans à Woomera. Ils m’avaient emmené en voiture jusqu’à Coober Pedy et je les avais revu à Alice Springs.
+
+![](IMG_20230413_085831.jpg)
+![](IMG_20230413_090639.jpg)
+![](IMG_20230413_093520.jpg)
+![](IMG_20230413_131015.jpg)
 ______
