@@ -34,19 +34,23 @@ class Options:
 # -- Commands ----------------------------------------------------------------
 
 
-PATH = r'z:\DCIM\Camera\*.jpg'
-PATH_SRC = os.path.realpath(r'z:\DCIM\Camera')
-PATH_DST = r'D:\Gilles\github.io\travels\2023-Australie\photos'
+MTPDRIVE = r"C:\Program Files\MTPdrive\MTPdrive.exe"
 RECOMP = r'e:\Gilles\.portable\jpeg-archive\jpeg-recompress.exe %s %s'
 FFMPEG = 'ffmpeg -i %s %s'
+
+PATH = r'z:\DCIM\Camera\*.jpg'
+PATH_SRC = r'z:\DCIM\Camera'
+PATH_DST = r'D:\Gilles\github.io\travels\2023-Australie\photos'
+PATH_SOUNDS = r'z:\Music\URecorder'
 TEMP = r'c:\volatil'
+INDEXMD = r"D:\Gilles\github.io\travels\2023-Australie\part1\index.md"
 
 
 def connect_MTP_drive():
     print('on_transfer_photos')
     # backend = uia|win32
     t0 = time.time()
-    app = Application(backend="uia").start(r"C:\Program Files\MTPdrive\MTPdrive.exe")
+    app = Application(backend="uia").start(MTPDRIVE)
     win = app.window(title_re='MTPdrive', found_index=0)
     win.set_focus()
     send_keys('%m') # Mount z:
@@ -85,12 +89,11 @@ def list_of_photos():
     return list_of_files
 
 
-def today_medias(path_src, path_dst):
+def today_medias(path_src, path_sounds, path_dst):
     """
     Return the list of today medias with full path
     """
     latest_in_dest = latest_date(path_dst)
-    mtime = datetime.now().timestamp()
     files = os.listdir(path_src)
 
     photos = [os.path.join(path_src, fn) for fn in files if os.path.splitext(fn)[1] == '.jpg']
@@ -99,25 +102,35 @@ def today_medias(path_src, path_dst):
     movies = [os.path.join(path_src, fn) for fn in files if os.path.splitext(fn)[1] == '.mp4']
     movies = [fn for fn in movies if os.path.getmtime(fn) > latest_in_dest]
 
-    return photos, movies
+    sounds = [os.path.join(path_sounds, fn) for fn in os.listdir(path_sounds)]
+    sounds = [fn for fn in sounds if os.path.getmtime(fn) > latest_in_dest]
+
+
+    return photos, movies, sounds
 
 
 def transfer_medias(tkapp):
     connect_MTP_drive()
-    os.system(r"dir z:\DCIM")  # necessary to force MTP connection
+    # os.system(r"dir z:\DCIM")  # necessary to force MTP connection
+    os.system(r"dir z:\\")  # necessary to force MTP connection
+    os.system(r"dir z:\Music")  # necessary to force MTP connection
+    time.sleep(1)
 
-    photos, movies = today_medias(PATH_SRC, PATH_DST)
+    photos, movies, sounds = today_medias(PATH_SRC, PATH_SOUNDS, PATH_DST)
     for photo in photos:
         print(photo)
         shutil.copy(photo, TEMP)
     for movie in movies:
         print(movie)
         shutil.copy(movie, TEMP)
+    for sound in sounds:
+        print(sound)
+        shutil.copy(sound, TEMP)
 
-    tkapp.statusbar_blink(5, 'Disconnect phone', lambda: recompress(photos, movies))
+    tkapp.statusbar_blink(5, 'Disconnect phone', lambda: recompress(photos, movies, sounds))
 
 
-def recompress(photos, movies):
+def recompress(photos, movies, sounds):
     for index, photo in enumerate(photos, 1):
         print(index, '/', len(photos), ':', photo)
         basename = os.path.basename(photo)
@@ -130,7 +143,12 @@ def recompress(photos, movies):
         basename = os.path.basename(movie)
         os.system(FFMPEG % (os.path.join(TEMP, basename), os.path.join(PATH_DST, basename)))
         os.remove(os.path.join(TEMP, basename))
-        # break
+
+    for index, sound in enumerate(sounds, 1):
+        print(index, '/', len(sounds), ':', sound)
+        basename = os.path.basename(sound)
+        shutil.copy(os.path.join(TEMP, basename), PATH_DST)
+        os.remove(os.path.join(TEMP, basename))
 
     print('Transfer done')
 
@@ -138,8 +156,6 @@ def recompress(photos, movies):
 def update_stats():
     os.startfile(r"D:\Gilles\github.io\travels\2023-Australie\2023-Australie.ods")
 
-
-INDEXMD = r"D:\Gilles\github.io\travels\2023-Australie\part1\index.md"
 
 POST = """\
 [%s]
@@ -153,8 +169,8 @@ ______
 """
 
 
-def add_to_diary(place, km):
-    with open(INDEXMD) as f:
+def latest_post_data(indexmd):
+    with open(indexmd) as f:
         lines = f.readlines()
         slines = ''.join(lines)
 
@@ -165,7 +181,13 @@ def add_to_diary(place, km):
     date, day, total = match.group(1, 2, 3)
     day = int(day)
     total = int(total)
+    return lines, date, day, total
+
+
+def add_to_diary(place, km):
+    lines, date, day, total = latest_post_data(INDEXMD)
     print(date, day, total)
+
     date_object = datetime.strptime(date, '%Y/%m/%d')
     print(date_object)
     date_object = date_object + timedelta(days=1)
@@ -198,11 +220,8 @@ def select_pictures1():
 def select_pictures2():
     print('select_pictures2')
     addimg.main()
-    print(1)
     os.system('galerie --gallery part1 --diary true --git true --google true')
-    print(2)
     os.startfile(r"D:\Gilles\github.io\travels\2023-Australie\part1\index.html")
-    print(3)
 
 
 def edit_text():
@@ -221,6 +240,9 @@ def commit():
     output = [fn for fn in output if 'post-IMG_' in fn]
     print(output)
     os.system('git add ' + ' '.join(output))
+
+    _, _, day, _ = latest_post_data(INDEXMD)
+    os.system(f'git commit -m "Add day {day}."')
 
 
 def quit_command(tkapp):
