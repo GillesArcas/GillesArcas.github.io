@@ -64,6 +64,12 @@ def connect_MTP_drive():
     print(time.time() - t0)
 
 
+def latest_date(path_dst):
+    files = (os.path.join(path_dst, fn) for fn in os.listdir(path_dst))
+    latest = max(files, key=lambda fn: os.path.getmtime(fn))
+    return os.path.getmtime(latest)
+
+
 def is_same_date(t1, t2):
     """
     Check if the two provided timestamps represents the same date
@@ -79,18 +85,19 @@ def list_of_photos():
     return list_of_files
 
 
-def today_medias():
+def today_medias(path_src, path_dst):
     """
-    Return the list of today photos with full path
+    Return the list of today medias with full path
     """
+    latest_in_dest = latest_date(path_dst)
     mtime = datetime.now().timestamp()
-    files = os.listdir(PATH_SRC)
+    files = os.listdir(path_src)
 
-    photos = [os.path.join(PATH_SRC, fn) for fn in files if os.path.splitext(fn)[1] == '.jpg']
-    photos = [fn for fn in photos if is_same_date(os.path.getmtime(fn), mtime)]
+    photos = [os.path.join(path_src, fn) for fn in files if os.path.splitext(fn)[1] == '.jpg']
+    photos = [fn for fn in photos if os.path.getmtime(fn) > latest_in_dest]
 
-    movies = [os.path.join(PATH_SRC, fn) for fn in files if os.path.splitext(fn)[1] == '.mp4']
-    movies = [fn for fn in movies if is_same_date(os.path.getmtime(fn), mtime)]
+    movies = [os.path.join(path_src, fn) for fn in files if os.path.splitext(fn)[1] == '.mp4']
+    movies = [fn for fn in movies if os.path.getmtime(fn) > latest_in_dest]
 
     return photos, movies
 
@@ -99,7 +106,7 @@ def transfer_medias(tkapp):
     connect_MTP_drive()
     os.system(r"dir z:\DCIM")  # necessary to force MTP connection
 
-    photos, movies = today_medias()
+    photos, movies = today_medias(PATH_SRC, PATH_DST)
     for photo in photos:
         print(photo)
         shutil.copy(photo, TEMP)
@@ -117,14 +124,14 @@ def recompress(photos, movies):
         os.system(RECOMP % (os.path.join(TEMP, basename), os.path.join(PATH_DST, basename)))
         os.remove(os.path.join(TEMP, basename))
         # break
-        
+
     for index, movie in enumerate(movies, 1):
         print(index, '/', len(movies), ':', movie)
         basename = os.path.basename(movie)
         os.system(FFMPEG % (os.path.join(TEMP, basename), os.path.join(PATH_DST, basename)))
         os.remove(os.path.join(TEMP, basename))
         # break
-        
+
     print('Transfer done')
 
 
