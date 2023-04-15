@@ -15,6 +15,7 @@ import subprocess
 import shutil
 
 from datetime import datetime, timedelta
+from tkinter import messagebox
 
 import clipboard
 import customtkinter
@@ -65,6 +66,9 @@ def connect_MTP_drive():
         except:
             break
 
+    os.system(r"dir z:\DCIM")  # necessary to force MTP connection
+    os.system(r"dir z:\Music")  # necessary to force MTP connection
+    time.sleep(1)
     print(time.time() - t0)
 
 
@@ -89,32 +93,35 @@ def list_of_photos():
     return list_of_files
 
 
-def today_medias(path_src, path_sounds, path_dst):
+def medias_in_source(path_src, path_sounds):
     """
-    Return the list of today medias with full path
+    Return the list of all medias in source with full path
     """
-    latest_in_dest = latest_date(path_dst)
     files = os.listdir(path_src)
 
     photos = [os.path.join(path_src, fn) for fn in files if os.path.splitext(fn)[1] == '.jpg']
-    photos = [fn for fn in photos if os.path.getmtime(fn) > latest_in_dest]
-
     movies = [os.path.join(path_src, fn) for fn in files if os.path.splitext(fn)[1] == '.mp4']
-    movies = [fn for fn in movies if os.path.getmtime(fn) > latest_in_dest]
-
     sounds = [os.path.join(path_sounds, fn) for fn in os.listdir(path_sounds)]
-    sounds = [fn for fn in sounds if os.path.getmtime(fn) > latest_in_dest]
 
+    return photos, movies, sounds
+
+
+def today_medias(path_src, path_sounds, path_dst):
+    """
+    Return the list of recent medias with full path
+    """
+    photos, movies, sounds = medias_in_source(path_src, path_sounds)
+    latest_in_dest = latest_date(path_dst)
+
+    photos = [fn for fn in photos if os.path.getmtime(fn) > latest_in_dest]
+    movies = [fn for fn in movies if os.path.getmtime(fn) > latest_in_dest]
+    sounds = [fn for fn in sounds if os.path.getmtime(fn) > latest_in_dest]
 
     return photos, movies, sounds
 
 
 def transfer_medias(tkapp):
     connect_MTP_drive()
-    # os.system(r"dir z:\DCIM")  # necessary to force MTP connection
-    os.system(r"dir z:\\")  # necessary to force MTP connection
-    os.system(r"dir z:\Music")  # necessary to force MTP connection
-    time.sleep(1)
 
     photos, movies, sounds = today_medias(PATH_SRC, PATH_SOUNDS, PATH_DST)
     for photo in photos:
@@ -170,6 +177,9 @@ ______
 
 
 def latest_post_data(indexmd):
+    """
+    Parse latest post and return date, day and total kilometers.
+    """
     with open(indexmd) as f:
         lines = f.readlines()
         slines = ''.join(lines)
@@ -210,6 +220,7 @@ def create_new_post(place_km_str):
     place, km = place_km_str.split(',')
     km = int(km)
     add_to_diary(place, km)
+    select_pictures1()
 
 
 def select_pictures1():
@@ -246,29 +257,22 @@ def commit():
 
 
 def quit_command(tkapp):
-    #try:
-    #    win.set_focus()
-    #    send_keys('%{F4}')
-    #except:
-    #    # in case simple sudoku window has been closed from itself
-    #    pass
     save_window_position(tkapp)
     exit(0)
 
 
-# -- Automation --------------------------------------------------------------
-
-
-def start_simple():
-    Timings.fast()
-    Timings.window_find_timeout = 1
-    return
-
-    # backend = uia|win32
-    t0 = time.time()
-    app = Application(backend="uia").start(r"c:\Program Files (x86)\Simple Sudoku\simplesudoku.exe")
-    win = app.window(title_re='.*Simple Sudoku.*')
-    print(time.time() - t0)
+def sync(tkapp, path_src, path_sounds, path_dst):
+    connect_MTP_drive()
+    photos, movies, sounds = medias_in_source(path_src, path_sounds)
+    files_src = photos + movies + sounds
+    files_dst = [os.path.join(path_dst, fn) for fn in os.listdir(path_dst)]
+    basenames_dst = list(map(os.path.basename, files_dst))
+    print(basenames_dst)
+    for file in files_src:
+        if os.path.basename(file) not in basenames_dst:
+            shutil.copy(file, TEMP)
+            print(file)
+    messagebox.showinfo(title='Sync', message=f'Clean {TEMP} and keep only relevant medias.')
 
 
 # -- Configuration file ------------------------------------------------------
@@ -333,9 +337,7 @@ class App(customtkinter.CTk):
         self.current_digit = 1
         self.current_color = 0
 
-    def initialize(self, appauto, win):
-        self.appauto = appauto
-        self.win = win
+    def initialize(self):
         load_window_position(self)
         self.resizable(False, False)
         self.title('Next post')
@@ -352,13 +354,6 @@ class App(customtkinter.CTk):
         )
         self.checkbox1.place(x=DX, y=yplace)
         yplace += DY
-        #button = customtkinter.CTkButton(
-        #    master=self,
-        #    text="Go",
-        #    command=self.on_transfer_photos1
-        #)
-        #button.place(x=DX+30, y=yplace)
-        #yplace += DY
         button = customtkinter.CTkButton(
             master=self,
             text="Go",
@@ -427,13 +422,6 @@ class App(customtkinter.CTk):
         button = customtkinter.CTkButton(
             master=self,
             text="Go",
-            command=self.on_select_pictures1
-        )
-        button.place(x=DX+30, y=yplace)
-        yplace += DY
-        button = customtkinter.CTkButton(
-            master=self,
-            text="Go",
             command=self.on_select_pictures2
         )
         button.place(x=DX+30, y=yplace)
@@ -494,6 +482,15 @@ class App(customtkinter.CTk):
         button.place(x=DX+30, y=yplace)
         yplace += DY
 
+        # Sync
+        yplace += 30
+        button = customtkinter.CTkButton(
+            master=self,
+            text="Sync",
+            command=self.on_sync)
+        button.place(x=DX+30, y=yplace)
+        yplace += DY
+
         self.statusbar = tk.Label(self, relief=tk.SUNKEN, anchor="w")
         self.statusbar.pack(side=tk.BOTTOM, fill=tk.X)
 
@@ -533,6 +530,9 @@ class App(customtkinter.CTk):
         self.checkbox7.select()
         commit()
 
+    def on_sync(self):
+         sync(self, PATH_SRC, PATH_SOUNDS, PATH_DST)
+
     def on_unmap(self, event):
         return
         self.win.minimize()
@@ -566,16 +566,19 @@ class App(customtkinter.CTk):
 # -- Main --------------------------------------------------------------------
 
 
-def mainw():
+def main():
     locale.setlocale(locale.LC_TIME, 'fr_FR')
 
     customtkinter.set_appearance_mode("System")  # Modes: system (default), light, dark
     customtkinter.set_default_color_theme("blue")  # Themes: blue (default), dark-blue, green
 
+    Timings.fast()
+    Timings.window_find_timeout = 1
+
     app = App()
-    app.initialize(None, None)
+    app.initialize()
     app.mainloop()
 
 
 if __name__ == '__main__':
-    mainw()
+    main()

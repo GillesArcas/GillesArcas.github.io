@@ -327,3 +327,26 @@ Un peu de pluie dans la nuit mais tente presque sèche le matin. Vingt kilomètr
 ![](IMG_20230413_093520.jpg)
 ![](IMG_20230413_131015.jpg)
 ______
+[2023/04/14]
+
+### J30 - 14 avril - Forster - 37 km (1646 km)
+
+Balade pour aller voir deux points de vue indiqués par Brian (dont un avec une montée à 20%) et au bout d’une presqu’île sur un lac. Belle journée, seulement deux petites averses.
+
+![](IMG_20230414_133617.jpg)
+![](IMG_20230414_134829.jpg)
+![](IMG_20230414_145445.jpg)
+![](IMG_20230414_160144.jpg)
+______
+[2023/04/15]
+
+### J31 - 15 avril - Cundletown - 41 km (1687 km)
+
+Matinée avec Brian et Ingrid, et Sookyee une de leurs amies. Ils nous emmènent à aux plages de Diamond Beach et Black Head, à une quinzaine de kilomètres de Forster. De là, on va rouler sur la Nine Mile Beach pendant quelques kilomètres (on est en 4x4) et s’arrêter en plein milieu pour prendre un café et jouer aux boules. Encore quelques kilomètres de plage pour rejoindre la route, et on va à la jetée de Tuncurry (en face de Forster) pour passer un moment à regarder les dauphins qui s’approchent très près de la plage. Belle matinée à la hauteur de ce qu’il m’avaient fait visiter il y a quatre ans, et je leur décerne le titre de spécialistes en supers souvenirs australiens.
+
+![](330079951_1172291743479263_5307173360168661797_n.jpg)
+![](IMG_20230415_110845.jpg)
+![](IMG_20230415_114937.jpg)
+![](IMG_20230415_124351.jpg)
+![](329672741_967361791292177_4169810195410377462_n.jpg)
+______
