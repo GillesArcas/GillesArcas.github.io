@@ -1,4 +1,5 @@
 import os
+import re
 from PIL import Image
 
 import clipboard
@@ -60,6 +61,41 @@ def add_to_diary(imglist):
     lines = lines[:last] + [media_declaration(x) for x in imglist] + lines[last + 1:]
     with open(INDEXMD, 'wt') as f:
         f.writelines(lines)
+
+
+def add_to_diary(imglist):
+    with open(INDEXMD) as f:
+        lines = f.readlines()
+
+    # find start of last post
+    for index, line in enumerate(lines):
+        if re.match(r'\[\d\d\d\d/\d\d/\d\d\]', line):
+            start = index
+
+    # find first media in last post
+    first = None
+    for index, line in enumerate(lines[start:], start):
+        if line.startswith('![](') or line.startswith('[]('):
+            first = index
+            break
+
+    if first:
+        # find last media in last post
+        for index, line in enumerate(lines[start + 1:], start + 1):
+            if line.startswith('![](') or line.startswith('[]('):
+                last = index
+
+    if first is None:
+        # insert medias before post separator
+        pass  # TODO
+    else:
+        # replace old medias by new ones
+        lines = lines[:first] + [media_declaration(x) for x in imglist] + lines[last + 1:]
+
+    with open(INDEXMD, 'wt') as f:
+        f.writelines(lines)
+
+    # TODO: il faut recuperer les anciens medias pour gerer le depot
 
 
 def main():

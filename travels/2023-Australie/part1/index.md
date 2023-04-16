@@ -350,3 +350,14 @@ Matinée avec Brian et Ingrid, et Sookyee une de leurs amies. Ils nous emmènent
 ![](IMG_20230415_124351.jpg)
 ![](329672741_967361791292177_4169810195410377462_n.jpg)
 ______
+[2023/04/16]
+
+### J32 - 16 avril - Bonny Hills - 76 km (1763 km)
+
+Principalement des petites routes de campagne, éventuellement sans revêtement, et 25 kilomètres de piste à travers un parc national. Le soleil n’est pas de la partie. Des gouttes toute la matinée.
+
+![](IMG_20230416_100502.jpg)
+![](IMG_20230416_105013.jpg)
+![](IMG_20230416_133310.jpg)
+![](IMG_20230416_150504.jpg)
+______
