@@ -87,7 +87,11 @@ def add_to_diary(imglist):
 
     if first is None:
         # insert medias before post separator
-        pass  # TODO
+        for index, line in enumerate(lines[start:], start):
+            if line.startswith('______'):
+                sep = index
+                break
+        lines = lines[:sep] + [media_declaration(x) for x in imglist] + lines[sep:]
     else:
         # replace old medias by new ones
         lines = lines[:first] + [media_declaration(x) for x in imglist] + lines[last + 1:]

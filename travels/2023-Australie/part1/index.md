@@ -361,3 +361,14 @@ Principalement des petites routes de campagne, éventuellement sans revêtement,
 ![](IMG_20230416_133310.jpg)
 ![](IMG_20230416_150504.jpg)
 ______
+[2023/04/17]
+
+### J33 - 17 avril - Crescent Head - 79 km (1842 km)
+
+Petit-déjeuner en regardant les surfers (la cuisine du caravan park surplombe la plage). Jusqu’à Port-Macquarie, c’est assez urbanisé mais la route suit la mer et il y a quelques beaux points de vue. Ensuite, je prends un ferry et il n’y a plus grand-chose après, une gravel road sur vingt kilomètres à travers une réserve puis des fermes. Caravan park blindé (c’est les vacances de Pâques) alors je fais quelques kilométres en plus pour trouver un endroit où dormir dans les bois.
+
+![](IMG_20230417_104114.jpg)
+![](IMG_20230417_115004.jpg)
+![](IMG_20230417_125817.jpg)
+![](IMG_20230417_141103.jpg)
+______

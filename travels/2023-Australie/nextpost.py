@@ -137,6 +137,19 @@ def transfer_medias(tkapp):
     tkapp.statusbar_blink(5, 'Disconnect phone', lambda: recompress(photos, movies, sounds))
 
 
+def recompress_media(media):
+    basename = os.path.basename(media)
+
+    if os.path.splitext(basename)[1] == '.jpg':
+        os.system(RECOMP % (os.path.join(TEMP, basename), os.path.join(PATH_DST, basename)))
+    elif os.path.splitext(basename)[1] == '.mp4':
+        os.system(FFMPEG % (os.path.join(TEMP, basename), os.path.join(PATH_DST, basename)))
+    elif os.path.splitext(basename)[1] == '.m4a':
+        shutil.copy(os.path.join(TEMP, basename), PATH_DST)
+
+    os.remove(os.path.join(TEMP, basename))
+
+
 def recompress(photos, movies, sounds):
     for index, photo in enumerate(photos, 1):
         print(index, '/', len(photos), ':', photo)
@@ -261,7 +274,10 @@ def quit_command(tkapp):
     exit(0)
 
 
-def sync(tkapp, path_src, path_sounds, path_dst):
+def retrieve_leftovers(tkapp, path_src, path_sounds, path_dst):
+    """
+    Copy source medias not in travel to tmp dir
+    """
     connect_MTP_drive()
     photos, movies, sounds = medias_in_source(path_src, path_sounds)
     files_src = photos + movies + sounds
@@ -272,7 +288,14 @@ def sync(tkapp, path_src, path_sounds, path_dst):
         if os.path.basename(file) not in basenames_dst:
             shutil.copy(file, TEMP)
             print(file)
-    messagebox.showinfo(title='Sync', message=f'Clean {TEMP} and keep only relevant medias.')
+    #messagebox.showinfo(title='Sync', message=f'Clean {TEMP} and keep only relevant medias.')
+
+
+def incorporate(tkapp, path_src, path_sounds, path_dst):
+    """
+    Add selected medias in tmp dir to travel
+    """
+    pass
 
 
 # -- Configuration file ------------------------------------------------------
@@ -482,12 +505,18 @@ class App(customtkinter.CTk):
         button.place(x=DX+30, y=yplace)
         yplace += DY
 
-        # Sync
-        yplace += 30
+        # Leftovers (copy source medias not in travel to tmp dir)
+        yplace += 10
         button = customtkinter.CTkButton(
             master=self,
-            text="Sync",
-            command=self.on_sync)
+            text="Retrieve leftovers",
+            command=self.on_leftovers)
+        button.place(x=DX+30, y=yplace)
+        yplace += DY
+        button = customtkinter.CTkButton(
+            master=self,
+            text="Incorporate",
+            command=self.on_incorporate)
         button.place(x=DX+30, y=yplace)
         yplace += DY
 
@@ -530,8 +559,11 @@ class App(customtkinter.CTk):
         self.checkbox7.select()
         commit()
 
-    def on_sync(self):
-         sync(self, PATH_SRC, PATH_SOUNDS, PATH_DST)
+    def on_leftovers(self):
+         retrieve_leftovers(self, PATH_SRC, PATH_SOUNDS, PATH_DST)
+
+    def on_incorporate(self):
+         incorporate(self, PATH_SRC, PATH_SOUNDS, PATH_DST)
 
     def on_unmap(self, event):
         return
