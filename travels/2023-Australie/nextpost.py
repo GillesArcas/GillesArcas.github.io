@@ -106,6 +106,17 @@ def medias_in_source(path_src, path_sounds):
     return photos, movies, sounds
 
 
+def medias_in_source(path_src, path_sounds):
+    """
+    Return the list of all medias in source with full path
+    """
+    photos = glob.glob(r'z:\DCIM\Camera\*.jpg')
+    movies = glob.glob(os.path.join(path_src, '*.mp4'))
+    sounds = glob.glob(os.path.join(path_sounds, '*'))
+
+    return photos, movies, sounds
+
+
 def today_medias(path_src, path_sounds, path_dst):
     """
     Return the list of recent medias with full path
@@ -141,13 +152,11 @@ def recompress_media(media):
     basename = os.path.basename(media)
 
     if os.path.splitext(basename)[1] == '.jpg':
-        os.system(RECOMP % (os.path.join(TEMP, basename), os.path.join(PATH_DST, basename)))
+        os.system(RECOMP % (media, os.path.join(PATH_DST, basename)))
     elif os.path.splitext(basename)[1] == '.mp4':
-        os.system(FFMPEG % (os.path.join(TEMP, basename), os.path.join(PATH_DST, basename)))
+        os.system(FFMPEG % (media, os.path.join(PATH_DST, basename)))
     elif os.path.splitext(basename)[1] == '.m4a':
-        shutil.copy(os.path.join(TEMP, basename), PATH_DST)
-
-    os.remove(os.path.join(TEMP, basename))
+        shutil.copy(media, PATH_DST)
 
 
 def recompress(photos, movies, sounds):
@@ -243,7 +252,8 @@ def select_pictures1():
 
 def select_pictures2():
     print('select_pictures2')
-    addimg.main()
+    prev_medias = addimg.main()
+    print('prev_medias:', prev_medias)
     os.system('galerie --gallery part1 --diary true --git true --google true')
     os.startfile(r"D:\Gilles\github.io\travels\2023-Australie\part1\index.html")
 
@@ -295,7 +305,11 @@ def incorporate(tkapp, path_src, path_sounds, path_dst):
     """
     Add selected medias in tmp dir to travel
     """
-    pass
+    medias = addimg.get_image_list()
+    for media in medias:
+        fullname = os.path.join(TEMP, media)
+        recompress_media(fullname)
+    select_pictures1()
 
 
 # -- Configuration file ------------------------------------------------------

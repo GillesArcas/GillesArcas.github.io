@@ -92,14 +92,18 @@ def add_to_diary(imglist):
                 sep = index
                 break
         lines = lines[:sep] + [media_declaration(x) for x in imglist] + lines[sep:]
+        prev_medias = []
     else:
         # replace old medias by new ones
         lines = lines[:first] + [media_declaration(x) for x in imglist] + lines[last + 1:]
+        prev_medias = []
+        for line in lines[first:last + 1]:
+            prev_medias.append(re.findall(r'\[\]\((.*)\) *$', line)[0])
 
     with open(INDEXMD, 'wt') as f:
         f.writelines(lines)
 
-    # TODO: il faut recuperer les anciens medias pour gerer le depot
+    return prev_medias
 
 
 def main():
@@ -113,10 +117,11 @@ def main():
         imgout = os.path.join(BLOGDIR, img)
         resample(imgin, imgout)
 
-    add_to_diary(imglist)
+    prev_medias = add_to_diary(imglist)
 
     # add to repo, thumbnails remain to be added
     os.system('git add ' + ' '.join([os.path.join(BLOGDIR, x) for x in imglist]))
+    return prev_medias
 
 
 if __name__ == '__main__':
