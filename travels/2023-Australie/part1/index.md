@@ -372,3 +372,13 @@ Petit-déjeuner en regardant les surfers (la cuisine du caravan park surplombe l
 ![](IMG_20230417_125817.jpg)
 ![](IMG_20230417_141103.jpg)
 ______
+[2023/04/18]
+
+### J34 - 18 avril - Macksville - 84 km (1926 km)
+
+Petite route de campagne au bord d’une riviere, puis un gros détour pour éviter la highway mais qui fait monter un peu. Caravan park vide et deux fois moins cher que celui d’avant-hier (sûrement parce qu’il est loin de la mer). 
+
+![](IMG_20230418_083812.jpg)
+![](IMG_20230418_084546.jpg)
+![](IMG_20230418_091401.jpg)
+______
