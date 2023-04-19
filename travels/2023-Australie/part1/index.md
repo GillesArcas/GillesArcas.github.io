@@ -376,9 +376,28 @@ ______
 
 ### J34 - 18 avril - Macksville - 84 km (1926 km)
 
-Petite route de campagne au bord d’une riviere, puis un gros détour pour éviter la highway mais qui fait monter un peu. Caravan park vide et deux fois moins cher que celui d’avant-hier (sûrement parce qu’il est loin de la mer). 
+Petite route de campagne au bord d’une rivière, puis un gros détour pour éviter la highway mais qui fait monter un peu. Caravan park vide et deux fois moins cher que celui d’avant-hier (sûrement parce qu’il est loin de la mer). 
 
 ![](IMG_20230418_083812.jpg)
 ![](IMG_20230418_084546.jpg)
 ![](IMG_20230418_091401.jpg)
+______
+[2023/04/19]
+
+### J35 - 19 avril - Coffs Harbour - 72 km (1998 km)
+
+Routes et paysages tranquilles, tout plat en bordure de rivières (cool) ou en montées et descentes (moins cool).
+
+![](IMG_20230419_100759.jpg)
+![](IMG_20230419_101849.jpg)
+![](IMG_20230419_143640.jpg)
+______
+[2023/04/19]
+
+En traversant Nambucca Heads, je tombe sur cette mosaïque. Cinquante mètres de long, pleine d’invention et un peu surréaliste, surtout le long du poste de police.
+
+![](IMG_20230419_103501.jpg)
+![](IMG_20230419_103526.jpg)
+![](IMG_20230419_103606.jpg)
+[](VID_20230419_103317-small.mp4)
 ______
