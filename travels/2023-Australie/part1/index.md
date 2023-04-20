@@ -401,3 +401,14 @@ En traversant Nambucca Heads, je tombe sur cette mosaïque. Cinquante mètres de
 ![](IMG_20230419_103606.jpg)
 [](VID_20230419_103317-small.mp4)
 ______
+[2023/04/20]
+
+### J36 - 20 avril - Coffs Harbour - 0 km (1998 km)
+
+Journée repos. Juste une balade sur la Muttonbird Island (qu’on voit au loin sur la première photo). Il y a une jetée pour y aller et c’est une réserve. On peut y voir des oiseaux qui nichent par terre et qui ne bougent pas quand on passe à côté (des puffins).
+
+![](IMG_20230420_163746.jpg)
+![](IMG_20230420_164549.jpg)
+![](IMG_20230420_165520.jpg)
+![](IMG_20230420_170303.jpg)
+______
