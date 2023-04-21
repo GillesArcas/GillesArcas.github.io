@@ -376,7 +376,7 @@ ______
 
 ### J34 - 18 avril - Macksville - 84 km (1926 km)
 
-Petite route de campagne au bord d’une rivière, puis un gros détour pour éviter la highway mais qui fait monter un peu. Caravan park vide et deux fois moins cher que celui d’avant-hier (sûrement parce qu’il est loin de la mer). 
+Petite route de campagne au bord d’une rivière, puis un gros détour pour éviter la highway mais qui fait monter un peu. Caravan park vide et deux fois moins cher que celui d’avant-hier (sûrement parce qu’il est loin de la mer).
 
 ![](IMG_20230418_083812.jpg)
 ![](IMG_20230418_084546.jpg)
@@ -411,4 +411,24 @@ Journée repos. Juste une balade sur la Muttonbird Island (qu’on voit au loin 
 ![](IMG_20230420_164549.jpg)
 ![](IMG_20230420_165520.jpg)
 ![](IMG_20230420_170303.jpg)
+______
+[2023/04/21]
+
+### J37 - 21 avril - Corindi Beach - 42 km (2040 km)
+
+À la sortie de Coffs Harbour, arrêt obligatoire à la Big Banana, une des Big Things australiennes. Beaucoup de vent aujourd’hui, mais il a la générosité de souffler dans le bon sens. Campground un peu rustique mais pas cher, 25 dollars l’emplacement, 5 dollars pour les chevaux.
+
+![](IMG_20230421_100935.jpg)
+![](IMG_20230421_130001.jpg)
+![](IMG_20230421_144334.jpg)
+![](IMG_20230421_161926.jpg)
+______
+[2023/04/21]
+
+A l’entrée de Woolgoolga, je vois un bâtiment un peu étrange qui est en fait un temple Sikh. Il y a un petit musée en face, gratuit, que je visite, puis je vais faire un tour au temple. Comme dans tous les temples Sikhs, tout le monde est invité à prendre un repas, ce que je fais. Je n’ai pas osé prendre de photos des gens qui servaient ou qui mangeaient.
+
+![](IMG_20230421_113430.jpg)
+![](IMG_20230421_120756.jpg)
+![](IMG_20230421_122250.jpg)
+![](IMG_20230421_123729.jpg)
 ______
