@@ -425,10 +425,18 @@ ______
 ______
 [2023/04/21]
 
-A l’entrée de Woolgoolga, je vois un bâtiment un peu étrange qui est en fait un temple Sikh. Il y a un petit musée en face, gratuit, que je visite, puis je vais faire un tour au temple. Comme dans tous les temples Sikhs, tout le monde est invité à prendre un repas, ce que je fais. Je n’ai pas osé prendre de photos des gens qui servaient ou qui mangeaient.
+À l’entrée de Woolgoolga, je vois un bâtiment un peu étrange qui est en fait un temple Sikh. Il y a un petit musée en face, gratuit, que je visite, puis je vais faire un tour au temple. Comme dans tous les temples Sikhs, tout le monde est invité à prendre un repas, ce que je fais. Je n’ai pas osé prendre de photos des gens qui servaient ou qui mangeaient.
 
 ![](IMG_20230421_113430.jpg)
 ![](IMG_20230421_120756.jpg)
 ![](IMG_20230421_122250.jpg)
 ![](IMG_20230421_123729.jpg)
+______
+[2023/04/22]
+
+### J38 - 22 avril - foo - 42 km (2082 km)
+
+.
+
+![](IMG_20230422_094000.jpg)
 ______
