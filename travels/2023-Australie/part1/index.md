@@ -430,12 +430,15 @@ ______
 ![](IMG_20230421_113430.jpg)
 ![](IMG_20230421_120756.jpg)
 ![](IMG_20230421_122250.jpg)
-![](IMG_20230421_123729.jpg) 
+![](IMG_20230421_123729.jpg)
 ______
 [2023/04/22]
 
-### J38 - 22 avril - foo - 42 km (2082 km)
+### J38 - 22 avril - Grafton - 61 km (2101 km)
 
-.
-![](IMG_20230422_094014.jpg)
+De la pluie pendant la nuit, de la pluie le matin, et de la pluie prévue pendant une semaine, c’est l’automne ici. De la grosse highway en début de journée puis des routes tranquilles dans la campagne.
+
+![](IMG_20230422_112231.jpg)
+![](IMG_20230422_141700.jpg)
+![](IMG_20230422_142823.jpg)
 ______
