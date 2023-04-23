@@ -442,3 +442,14 @@ De la pluie pendant la nuit, de la pluie le matin, et de la pluie prévue pendan
 ![](IMG_20230422_141700.jpg)
 ![](IMG_20230422_142823.jpg)
 ______
+[2023/04/23]
+
+### J39 - 23 avril - Woombah - 86 km (2187 km)
+
+Toute la journée le long d’une grosse rivière, la Clarence River, tout plat, vent favorable. Presque parfait, à part la pluie. Plusieurs averses, ça ne dure pas longtemps mais ça mouille quand même ! Arrivé au caravan park, je demande une cabine, il n’y en a pas, mais on me propose de dormir dans la cuisine en cours de réfection. Trop gentil, d’autant plus qu’à peine dans la cuisine arrive la plus grosses averses de la journée.
+
+![](IMG_20230423_105924.jpg)
+![](IMG_20230423_154144.jpg)
+![](IMG_20230423_160435.jpg)
+![](IMG_20230423_194502.jpg)
+______
