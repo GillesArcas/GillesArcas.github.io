@@ -453,3 +453,14 @@ Toute la journée le long d’une grosse rivière, la Clarence River, tout plat,
 ![](IMG_20230423_160435.jpg)
 ![](IMG_20230423_194502.jpg)
 ______
+[2023/04/24]
+
+### J40 - 24 avril - Ballina - 75 km (2262 km)
+
+Première partie sur la grosse highway, deuxième partie en suivant une autre grosse rivière, la Richmond River. Grosse averse au réveil, et une seule petite averse sur la route. J’ai quand même pris une chambre à l’hôtel, au dessus du pub, j’ai l’impression que c’est là qu’on trouve les chambres les plus abordables.
+
+![](IMG_20230424_113559.jpg)
+![](IMG_20230424_113632-crop.jpg)
+![](IMG_20230424_133142.jpg)
+![](IMG_20230424_141349.jpg)
+______
