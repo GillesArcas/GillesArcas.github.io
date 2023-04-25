@@ -464,3 +464,14 @@ Première partie sur la grosse highway, deuxième partie en suivant une autre gr
 ![](IMG_20230424_133142.jpg)
 ![](IMG_20230424_141349.jpg)
 ______
+[2023/04/25]
+
+### J41 - 25 avril - Casuarina - 85 km (2347 km)
+
+Départ tardif. D’abord, j’attends la fin de l’averse du matin, ensuite en récupérant le vélo, je découvre que le pneu arrière est à plat (première crevaison). Finalement, en arrivant dans la rue, je vois plein de gens qui attendent. Je comprends que c’est le jour de l’Anzac (Australian and New Zealand Army Corps) et du coup, j’attends aussi pour voir le défilé. Après ça, trente kilomètres de highway et pas mal de petites routes, mais temps gris et averse dans l’après-midi.
+
+![](IMG_20230425_103717.jpg)
+![](IMG_20230425_111312.jpg)
+![](IMG_20230425_122801.jpg)
+![](IMG_20230425_140958.jpg)
+______
