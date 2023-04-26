@@ -475,3 +475,15 @@ Départ tardif. D’abord, j’attends la fin de l’averse du matin, ensuite en
 ![](IMG_20230425_122801.jpg)
 ![](IMG_20230425_140958.jpg)
 ______
+[2023/04/26]
+
+### J42 - 26 avril - Helensvale - 68 km (2415 km)
+
+De plus en plus urbanisé, toujours aussi humide mais toujours vent favorable. Je  quitte la Nouvelle Galles du Sud pour renter dans le Queensland. Traversée de Surfers Paradise et de Gold Cost en bord de plage. Belles plages, beaucoup de vagues, des buildings presque tout du long.
+
+![](IMG_20230426_094802.jpg)
+![](IMG_20230426_111036.jpg)
+![](IMG_20230426_135805.jpg)
+![](IMG_20230426_143053.jpg)
+![](IMG_20230426_142449.jpg)
+______
