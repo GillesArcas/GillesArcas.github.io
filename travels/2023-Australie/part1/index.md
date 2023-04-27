@@ -479,11 +479,23 @@ ______
 
 ### J42 - 26 avril - Helensvale - 68 km (2415 km)
 
-De plus en plus urbanisé, toujours aussi humide mais toujours vent favorable. Je  quitte la Nouvelle Galles du Sud pour renter dans le Queensland. Traversée de Surfers Paradise et de Gold Cost en bord de plage. Belles plages, beaucoup de vagues, des buildings presque tout du long.
+De plus en plus urbanisé, toujours aussi humide mais toujours vent favorable. Je  quitte la Nouvelle Galles du Sud pour renter dans le Queensland. Traversée de Surfers Paradise et de Gold Coast en bord de plage. Belles plages, beaucoup de vagues, des buildings presque tout du long.
 
 ![](IMG_20230426_094802.jpg)
 ![](IMG_20230426_111036.jpg)
 ![](IMG_20230426_135805.jpg)
 ![](IMG_20230426_143053.jpg)
 ![](IMG_20230426_142449.jpg)
+______
+[2023/04/27]
+
+### J43 - 27 avril - Brisbane - 89 km (2504 km)
+
+Pas mal humide jusqu’au milieu de l’après-midi (cela dit, il ne fait pas froid). Quelques pistes cyclables étonnantes le long de la motorway et de la rivière, un peu comme si l’autoroute ou la voie sur berge étaient doublées par une piste cyclable. Premier cycliste au long cours depuis 1500 kilomètres, un jeune japonais qui fait le tour du monde. Hébergé chez Julie et Darcy que j’avais rencontrés il y a quatre ans. Hi Julie! 
+
+![](IMG_20230427_145631.jpg)
+![](IMG_20230427_153335.jpg)
+![](IMG_20230427_154149.jpg)
+![](IMG_20230427_155049.jpg)
+![](IMG_20230427_155115.jpg)
 ______
