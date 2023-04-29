@@ -512,3 +512,16 @@ J'avais rencontré Julie et Darcy dans un caravan park dans le nord de l'Austral
 ![](343084605_547670274200226_4664087675726039536_n.jpg)
 ![](2019-04-01-3.jpg)
 ______
+[2023/04/28]
+
+### J44 - 28 avril - Brisbane - 0 km (2504 km)
+
+Toute la journée avec Julie et Darcy. D’abord, passage par l’aéroport pour trouver un carton à vélo. Ensuite, ils nous emmènent au parc national de Lamington à cent kilomètres de Brisbane. 900 mètres d’altitude, une forêt primaire très dense (une rain forest), et une passerelle et des échelles pour monter jusqu’à la canopée. Repas en terrasse en face du paysage, un peu harcelés par les perroquets qui en veulent à nos frites et à nos sandwichs.
+
+![](IMG_20230428_121439.jpg)
+![](IMG_20230428_124245.jpg)
+![](IMG_20230428_124810.jpg)
+![](IMG_20230428_133401.jpg)
+![](IMG_20230428_134031.jpg)
+![](343302544_1721593094926736_331406469135492828_n.jpg)
+______
