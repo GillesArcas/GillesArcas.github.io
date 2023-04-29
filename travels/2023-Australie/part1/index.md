@@ -491,11 +491,24 @@ ______
 
 ### J43 - 27 avril - Brisbane - 89 km (2504 km)
 
-Pas mal humide jusqu’au milieu de l’après-midi (cela dit, il ne fait pas froid). Quelques pistes cyclables étonnantes le long de la motorway et de la rivière, un peu comme si l’autoroute ou la voie sur berge étaient doublées par une piste cyclable. Premier cycliste au long cours depuis 1500 kilomètres, un jeune japonais qui fait le tour du monde. Hébergé chez Julie et Darcy que j’avais rencontrés il y a quatre ans. Hi Julie! 
+Pas mal humide jusqu’au milieu de l’après-midi (cela dit, il ne fait pas froid). Quelques pistes cyclables étonnantes le long de la motorway et de la rivière, un peu comme si l’autoroute ou la voie sur berge étaient doublées par une piste cyclable. Premier cycliste au long cours depuis 1500 kilomètres, un jeune japonais qui fait le tour du monde. Hébergé chez Julie et Darcy que j’avais rencontrés il y a quatre ans. Hi Julie!
 
 ![](IMG_20230427_145631.jpg)
 ![](IMG_20230427_153335.jpg)
 ![](IMG_20230427_154149.jpg)
 ![](IMG_20230427_155049.jpg)
 ![](IMG_20230427_155115.jpg)
+______
+[2023/04/28]
+
+Fin de la première partie. La carte jusque là. Carte au jour le jour en https://gilles-arcas.travelmap.net/.
+
+![](carte-2023-04-27.jpg)
+______
+[2023/04/28]
+
+J'avais rencontré Julie et Darcy dans un caravan park dans le nord de l'Australie en 2019. On avait dîné ensemble et au fil de la discussion, ils m’avaient dit qu’ils avaient photographié un cycliste 800 kilomètres avant. C’était bien moi !  Depuis, on était resté un petit peu en contact et ils m’avaient envoyé un mail en décembre. Quand je leur ai parlé de mon voyage, ils m’ont gentiment proposé de passer chez eux. Inutile de préciser qu’ils sont adorables.
+
+![](343084605_547670274200226_4664087675726039536_n.jpg)
+![](2019-04-01-3.jpg)
 ______
