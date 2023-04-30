@@ -525,3 +525,14 @@ Toute la journée avec Julie et Darcy. D’abord, passage par l’aéroport pour
 ![](IMG_20230428_134031.jpg)
 ![](343302544_1721593094926736_331406469135492828_n.jpg)
 ______
+[2023/04/29]
+
+### J45 - 29 avril - Cairns - 0 km (2504 km)
+
+Un peu plus de deux heures d’avion et 1700 kilomètres pour rejoindre Cairns. C’est le moyen le plus économique et bien plus rapide que les autres solutions. J’avais déjà fait cette route à vélo en 2015, pas trop de raison de recommencer. Bien plus chaud ici (29°), pas de pluie en vue et ambiance beaucoup plus tranquille.
+
+![](IMG_20230429_213547.jpg)
+![](IMG_20230429_135009.jpg)
+![](IMG_20230429_135246.jpg)
+![](IMG_20230429_170546.jpg)
+______
