@@ -536,3 +536,24 @@ Un peu plus de deux heures d’avion et 1700 kilomètres pour rejoindre Cairns. 
 ![](IMG_20230429_135246.jpg)
 ![](IMG_20230429_170546.jpg)
 ______
+[2023/04/30]
+
+### J46 - 30 avril - Cairns - 0 km (2504 km)
+
+.
+______
+[2023/05/01]
+
+### J47 - 1er mai - Cairns - 0 km (2504 km)
+
+Excursion à Kuranda, un village touristique, et anciennement hippie, à 300 mètres d’altitude. Montée avec le Scenic Railway (ligne historique, wagons des années 1900), et redescente par un téléphérique de sept kilomètres de long au dessus de la forêt primaire. Supers paysages tout du long. Le village est très touristique, je ne m’attarde pas dans les boutiques, et je vais visiter la serre aux papillons.
+
+![](IMG_20230501_101113.jpg)
+![](IMG_20230501_103854.jpg)
+![](IMG_20230501_103931.jpg)
+![](IMG_20230501_104713.jpg)
+![](IMG_20230501_115828.jpg)
+![](IMG_20230501_122451.jpg)
+![](IMG_20230501_133156.jpg)
+![](IMG_20230501_143522.jpg)
+______
