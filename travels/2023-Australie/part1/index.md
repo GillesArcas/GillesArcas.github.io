@@ -557,3 +557,16 @@ Excursion à Kuranda, un village touristique, et anciennement hippie, à 300 mè
 ![](IMG_20230501_133156.jpg)
 ![](IMG_20230501_143522.jpg)
 ______
+[2023/05/02]
+
+### J48 - 2 mai - Yungaburra - 68 km (2572 km)
+
+Trente cinq kilomètres tranquilles et ensuite, ça monte de 0 à 800 mètres en quinze kilomètres. Belle route, des voitures mais pas inconfortable, et des beaux paysages. La pente est toujours autour de 5%, deux heures et quelque pour monter mais ça passe. La route monte sur le plateau à l’ouest de Cairns, les Tablelands, un peu bosselé quand même. Ce soir, en auberge. J’entends parler italien depuis une demi-heure. 
+
+![](IMG_20230502_093910.jpg)
+![](IMG_20230502_111006.jpg)
+![](IMG_20230502_140011.jpg)
+![](IMG_20230502_140242.jpg)
+![](IMG_20230502_141000.jpg)
+![](IMG_20230502_153644.jpg)
+______
