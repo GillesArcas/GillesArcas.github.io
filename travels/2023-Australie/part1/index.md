@@ -570,3 +570,14 @@ Trente cinq kilomètres tranquilles et ensuite, ça monte de 0 à 800 mètres en
 ![](IMG_20230502_141000.jpg)
 ![](IMG_20230502_153644.jpg)
 ______
+[2023/05/03]
+
+### J49 -  3 mai - Herberton - 36 km (2608 km)
+
+Petit détour pour aller voir le Curtain Fig Tree, un « figuier étrangleur » et un des plus grands arbres de la région. Un autre petit détour pour aller visiter l’hôpital des chauve-souris. Mignonnes petites bêtes. Elles arrivent souvent là parce qu’elles s’étaient accrochées à des barbelés (aïe) ou parce qu’elles ont une paralysie causée par des tiques (beurk). Après ça, plus le temps de continuer, le prochain caravan park est 40 kilomètres plus loin. Temps très couvert, moins chaud et un peu de grosse bruine.
+
+![](IMG_20230503_112023.jpg)
+![](IMG_20230503_104033.jpg)
+![](IMG_20230503_134616.jpg)
+![](IMG_20230503_134749.jpg)
+______
