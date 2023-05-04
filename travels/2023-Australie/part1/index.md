@@ -561,7 +561,7 @@ ______
 
 ### J48 - 2 mai - Yungaburra - 68 km (2572 km)
 
-Trente cinq kilomètres tranquilles et ensuite, ça monte de 0 à 800 mètres en quinze kilomètres. Belle route, des voitures mais pas inconfortable, et des beaux paysages. La pente est toujours autour de 5%, deux heures et quelque pour monter mais ça passe. La route monte sur le plateau à l’ouest de Cairns, les Tablelands, un peu bosselé quand même. Ce soir, en auberge. J’entends parler italien depuis une demi-heure. 
+Trente cinq kilomètres tranquilles et ensuite, ça monte de 0 à 800 mètres en quinze kilomètres. Belle route, des voitures mais pas inconfortable, et des beaux paysages. La pente est toujours autour de 5%, deux heures et quelque pour monter mais ça passe. La route monte sur le plateau à l’ouest de Cairns, les Tablelands, un peu bosselé quand même. Ce soir, en auberge. J’entends parler italien depuis une demi-heure.
 
 ![](IMG_20230502_093910.jpg)
 ![](IMG_20230502_111006.jpg)
@@ -572,7 +572,7 @@ Trente cinq kilomètres tranquilles et ensuite, ça monte de 0 à 800 mètres en
 ______
 [2023/05/03]
 
-### J49 -  3 mai - Herberton - 36 km (2608 km)
+### J49 - 3 mai - Herberton - 36 km (2608 km)
 
 Petit détour pour aller voir le Curtain Fig Tree, un « figuier étrangleur » et un des plus grands arbres de la région. Un autre petit détour pour aller visiter l’hôpital des chauve-souris. Mignonnes petites bêtes. Elles arrivent souvent là parce qu’elles s’étaient accrochées à des barbelés (aïe) ou parce qu’elles ont une paralysie causée par des tiques (beurk). Après ça, plus le temps de continuer, le prochain caravan park est 40 kilomètres plus loin. Temps très couvert, moins chaud et un peu de grosse bruine.
 
@@ -580,4 +580,17 @@ Petit détour pour aller voir le Curtain Fig Tree, un « figuier étrangleur �
 ![](IMG_20230503_104033.jpg)
 ![](IMG_20230503_134616.jpg)
 ![](IMG_20230503_134749.jpg)
+______
+[2023/05/04]
+
+### J50 - 4 mai - Innot Hot Springs - 72 km (2680 km)
+
+Encore un peu de montée pour atteindre le point le plus haut (1100 mètres) sur la route pour traverser la péninsule du cap York (le grand truc pointu en haut à droite de l’Australie). Ça va mieux après et en plus, le temps s’éclaircit au fur et à mesure de la descente. Petit crochet pour voir les chutes de Millstream et arrivée au caravan park. Innot Hot Springs doit son nom à des sources thermales. Aux endroits où l’eau chaude sort dans la rivière, impossible de mettre le pied, beaucoup trop chaud. Le caravan park a emménagé des bains de différentes températures dont je profite évidemment. Difficile dans sortir.
+
+![](IMG_20230504_110916.jpg)
+![](IMG_20230504_115010.jpg)
+![](IMG_20230504_130143.jpg)
+![](IMG_20230504_142304.jpg)
+![](IMG_20230504_160208.jpg)
+[](VID_20230504_155120.mp4)
 ______
