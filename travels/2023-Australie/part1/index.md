@@ -594,3 +594,14 @@ Encore un peu de montée pour atteindre le point le plus haut (1100 mètres) sur
 ![](IMG_20230504_160208.jpg)
 [](VID_20230504_155120.mp4)
 ______
+[2023/05/05]
+
+### J51 - 5 mai - Pinnarendi Station - 72 km (2752 km)
+
+Une belle route, pas dérangé par la circulation, du vent favorable mais pas si plat que ça (700 mètres de D+ quand même). Je suis dans un « station », une exploitation agricole, qui fait aussi caravan park. Balade sur un sentier emménagé et repas avec deux autres personnes. Pour la petite  histoire, la dame du caravan park nous raconte que Nabila, celle-là même, et une équipe de trente personnes sont venus en tournage ici. Et elle a entendu Nabila épeler poulet à un de ses enfants, p-o-l-e-t.
+
+![](IMG_20230505_141847.jpg)
+![](IMG_20230505_130541.jpg)
+![](IMG_20230505_171022.jpg)
+![](IMG_20230505_182223.jpg)
+______
