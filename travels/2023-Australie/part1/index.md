@@ -605,3 +605,13 @@ Une belle route, pas dérangé par la circulation, du vent favorable mais pas si
 ![](IMG_20230505_171022.jpg)
 ![](IMG_20230505_182223.jpg)
 ______
+[2023/05/06]
+
+### J52 - 6 mai - Undara - 47 km (2799 km)
+
+Les arbres sont plus bas et plus clairsemés, la route est plus vide et plus plate (mais toujours vent favorable), quelques road trains (trois remorques, cinquante mètres de long). Campement dans un parc national qui contient des vestiges volcaniques, visite demain matin.
+
+![](IMG_20230506_115908.jpg)
+![](IMG_20230506_120817.jpg)
+![](IMG_20230506_170639.jpg)
+______
