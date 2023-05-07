@@ -615,3 +615,14 @@ Les arbres sont plus bas et plus clairsemés, la route est plus vide et plus pla
 ![](IMG_20230506_120817.jpg)
 ![](IMG_20230506_170639.jpg)
 ______
+[2023/05/07]
+
+### J53 - 7 mai - Mount Surprise - 53 km (2852 km)
+
+Visite guidée avec une ranger des tunnels de lave. La région a été volcanique et les éruptions qui ont créé les tunnels datent de 190 000 ans. Beaucoup de lave très fluide qui se solidifie au dessus et qui continue à couler en-dessous. Ça a donné ces gros tunnels. Impressionnant d’imaginer la quantité de lave qui a coulé là-dedans. 
+
+![](D:\Gilles\github.io\travels\2023-Australie\photos\IMG_20230507_083924.jpg)
+![](D:\Gilles\github.io\travels\2023-Australie\photos\IMG_20230507_090353.jpg)
+![](D:\Gilles\github.io\travels\2023-Australie\photos\IMG_20230507_094055.jpg)
+![](D:\Gilles\github.io\travels\2023-Australie\photos\IMG_20230507_094746.jpg)
+______
