@@ -626,3 +626,13 @@ Visite guidée ce matin avec une ranger des tunnels de lave. La région a été 
 ![](IMG_20230507_094055.jpg)
 ![](IMG_20230507_094746.jpg)
 ______
+[2023/05/08]
+
+### J54 - 8 mai - Mount Surprise - 0 km (2852 km)
+
+Jour de repos. Pas grand-chose à voir.  Mount Surprise est une toute petite ville (169 habitants au dernier recensement) avec quelques services sur la route principale. Même le cimetière est vide. Grenouille toujours là, mais cette fois elle était perchée, elle n’a pas essayé de monter le long de ma jambe.
+
+![](IMG_20230508_162018.jpg)
+![](IMG_20230508_160201.jpg)
+![](IMG_20230508_194236-crop.jpg)
+______
