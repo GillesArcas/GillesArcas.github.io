@@ -636,3 +636,14 @@ Jour de repos. Pas grand-chose à voir.  Mount Surprise est une toute petite vil
 ![](IMG_20230508_160201.jpg)
 ![](IMG_20230508_194236-crop.jpg)
 ______
+[2023/05/09]
+
+### J55 - 9 mai - Georgetown - 93 km (2945 km)
+
+Belle journée, pas un nuage, ça monte juste assez pour avoir des beaux paysages.  A certains endroits, la route n’est pas bitumée sur les côtés. Il faut laisser la place pour se croiser ou se faire dépasser, surtout si c’est un très gros qui arrive. A un moment, une voiture se met à ma hauteur et une dame me demande si j’ai besoin d’eau. Je retrouve la dame au caravan park et on tape la causette pendant une demi-heure.
+
+![](IMG_20230509_102309.jpg)
+![](IMG_20230509_110101.jpg)
+![](IMG_20230509_124229.jpg)
+![](IMG_20230509_134856.jpg)
+______
