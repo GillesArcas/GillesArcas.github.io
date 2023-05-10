@@ -647,3 +647,14 @@ Belle journée, pas un nuage, ça monte juste assez pour avoir des beaux paysage
 ![](IMG_20230509_124229.jpg)
 ![](IMG_20230509_134856.jpg)
 ______
+[2023/05/10]
+
+### J56 - 10 mai - Gilbert River - 76 km (3021 km)
+
+Beaucoup de vent pendant la nuit. Un peu moins le jour et toujours dans la bonne direction. La route est plus plate qu’hier avec des sections à une seule voie plus longues. Crochet pour aller voir la cheminée d’une ancienne ville minière dont il ne reste plus rien. Il n’y a rien sur les 150 kilomètres entre Georgetown et la prochaine ville alors c’est bivouac dans un campground à côté d’une rivière.
+
+![](IMG_20230510_113704.jpg)
+![](IMG_20230510_124535.jpg)
+![](IMG_20230510_132044.jpg)
+![](IMG_20230510_164807.jpg)
+______
