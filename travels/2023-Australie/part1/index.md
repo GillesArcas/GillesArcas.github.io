@@ -658,3 +658,14 @@ Beaucoup de vent pendant la nuit. Un peu moins le jour et toujours dans la bonne
 ![](IMG_20230510_132044.jpg)
 ![](IMG_20230510_164807.jpg)
 ______
+[2023/05/11]
+
+### J57 - 11 mai - Croydon - 73 km (3094 km)
+
+Même route qu’hier à des nuances près : un peu moins plat, un peu plus clairsemé et pas de une voie aujourd’hui. Rodéo à Croydon city ce week-end.
+
+![](IMG_20230511_125409.jpg)
+![](IMG_20230511_133424.jpg)
+![](IMG_20230511_142036.jpg)
+![](IMG_20230511_143039.jpg)
+______
