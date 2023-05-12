@@ -669,3 +669,14 @@ Même route qu’hier à des nuances près : un peu moins plat, un peu plus cla
 ![](IMG_20230511_142036.jpg)
 ![](IMG_20230511_143039.jpg)
 ______
+[2023/05/12]
+
+### J58 - 12 mai - Croydon - 0 km (3094 km)
+
+Une journée sans rouler pour voir le rodéo. Je commence par aller au Visitor Information Centre, et faire un tour de la ville et des environs. C’est une ancienne ville minière (mines d’or) et il y a pas mal de vestiges mis en valeur.  Je vais au rodéo vers 16h et il ne se passe pas grand-chose. Toute petite parade en ville à 17h et j’y retourne vers 19h30, où là c’est du vrai rodéo. J’y retournerai demain matin avant de partir. Demain soir, bivouac entre deux villes, pas de réseau.
+
+![](IMG_20230512_142643.jpg)
+![](IMG_20230512_131715.jpg)
+![](IMG_20230512_171154.jpg)
+[](VID_20230512_195519.mp4)
+______
