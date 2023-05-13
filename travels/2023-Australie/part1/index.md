@@ -680,3 +680,15 @@ Une journée sans rouler pour voir le rodéo. Je commence par aller au Visitor I
 ![](IMG_20230512_171154.jpg)
 [](VID_20230512_195519.mp4)
 ______
+[2023/05/13]
+
+### J59 - 13 mai - Blackbull - 64 km (3158 km)
+
+Matinée au rodéo. Plusieurs épreuves avec des temps morts entre chaque. Plutôt rodéo des écoles ce matin. Difficile de savoir quand il aurait fallu venir pour voir les trucs les plus intéressants. Quand même content d’y être. Depart à midi pour soixante kilomètres de route plate (41 mètres de D+) et rectiligne. Des arbres bas et de la broussaille tout du long. Bivouac dans un campground. Il y a déjà plusieurs voitures installées. Un des gars vient m’apporter une bière et me propose de les rejoindre autour du feu de camp.
+
+
+![](IMG_20230513_094402.jpg)
+[](VID_20230513_110346.mp4)
+![](IMG_20230513_135545.jpg)
+![](IMG_20230513_170120.jpg)
+______
