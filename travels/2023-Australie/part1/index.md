@@ -692,3 +692,13 @@ Matinée au rodéo. Plusieurs épreuves avec des temps morts entre chaque. Plut�
 ![](IMG_20230513_135545.jpg)
 ![](IMG_20230513_170120.jpg)
 ______
+[2023/05/14]
+
+### J60 - 14 mai - Normanton - 95 km (3253 km)
+
+Même route qu’hier en un peu plus plat. Un des symboles de Normanton est la réplique grandeur nature du plus grand crocodile jamais tué (8 mètres et quelques).
+
+![](IMG_20230514_083907.jpg)
+![](IMG_20230514_111306.jpg)
+![](IMG_20230514_163842.jpg)
+______
