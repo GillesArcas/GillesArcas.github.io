@@ -702,3 +702,14 @@ Même route qu’hier en un peu plus plat. Un des symboles de Normanton est la r
 ![](IMG_20230514_111306.jpg)
 ![](IMG_20230514_163842.jpg)
 ______
+[2023/05/15]
+
+### J61 - 15 mai - Karumba - 71 km (3324 km)
+
+Route encore plus plate. Pendant un petit moment, il n’y a même plus de végétation du tout. Du vent défavorable à l’arrivée et une crevaison. Karumba est à l’embouchure de la Norman River sur le golfe de Carpentaria (la grosse encoche au nord de l’Australie). On ne peut pas aller plus loin. J’y suis pour trois jours de repos.
+
+![](IMG_20230515_102929.jpg)
+![](IMG_20230515_134017.jpg)
+![](IMG_20230515_144944.jpg)
+![](IMG_20230515_180607.jpg)
+______
