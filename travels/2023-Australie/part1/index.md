@@ -5,6 +5,8 @@
 Tous les voyages, [c'est par ici](https://gilles-arcas.blogspot.com/2020/09/home_31.html)
 
 La carte des étapes, [c'est par là](https://gilles-arcas.travelmap.net/)
+
+Le dernier jour [c'est ici](#{LASTDATE})
 ______
 [2023/03/16]
 
