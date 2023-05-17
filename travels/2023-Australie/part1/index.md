@@ -2,11 +2,16 @@
 
 [2023/03/15]
 
-Tous les voyages, [c'est par ici](https://gilles-arcas.blogspot.com/2020/09/home_31.html)
+Tous les voyages, [c'est par ici](https://gilles-arcas.blogspot.com/2020/09/home_31.html).
+La carte des étapes, [c'est par là](https://gilles-arcas.travelmap.net/).
+Cliquez sur la route ou les étapes pour aller directement au jour et
+le dernier jour [c'est ici](#{LASTDATE}).
 
-La carte des étapes, [c'est par là](https://gilles-arcas.travelmap.net/)
+Cliquez sur les images pour agrandir.
+______
+[2023/03/15]
 
-Le dernier jour [c'est ici](#{LASTDATE})
+<iframe src="map_australie.html" title="Carte" width="100%" height="300"></iframe>
 ______
 [2023/03/16]
 
