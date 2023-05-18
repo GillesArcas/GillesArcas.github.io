@@ -728,7 +728,7 @@ ______
 
 ### J63 - 17 mai - Karumba - 0 km (3324 km)
 
-Il y a deux spécialités à Karumba, les couchers de soleil et le barramundi. Le barramundi est un poisson de rivière très réputé et qui peut devenir très gros. Pour combiner les deux, le meilleur endroit est sûrement la Sunset Tavern à Karumba Point face à la mer.
+Il y a deux spécialités à Karumba, les couchers de soleil et le barramundi. Le barramundi est un poisson de rivière très réputé et qui peut devenir très gros. Pour combiner les deux, le bon endroit est sûrement la Sunset Tavern à Karumba Point face à la mer.
 
 ![](IMG_20230516_150829.jpg)
 ![](IMG_20230516_175736.jpg)
