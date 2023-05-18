@@ -4,14 +4,12 @@
 
 Tous les voyages, [c'est par ici](https://gilles-arcas.blogspot.com/2020/09/home_31.html).
 La carte des étapes, [c'est par là](https://gilles-arcas.travelmap.net/).
-Cliquez sur la route ou les étapes pour aller directement au jour et
-le dernier jour [c'est ici](#{LASTDATE}).
-
-Cliquez sur les images pour agrandir.
+On peut cliquer sur la route ou les étapes pour aller directement au jour mais
+le dernier jour [c'est ici](#{LASTDATE}). Et cliquez sur les images pour agrandir.
 ______
 [2023/03/15]
 
-<iframe src="map_australie.html" title="Carte" width="100%" height="300"></iframe>
+<iframe src="map.html" title="Carte" width="100%" height="300"></iframe>
 ______
 [2023/03/16]
 
@@ -719,4 +717,21 @@ Route encore plus plate. Pendant un petit moment, il n’y a même plus de vég�
 ![](IMG_20230515_134017.jpg)
 ![](IMG_20230515_144944.jpg)
 ![](IMG_20230515_180607.jpg)
+______
+[2023/05/16]
+
+### J62 - 16 mai - Karumba - 0 km (3324 km)
+
+.
+______
+[2023/05/17]
+
+### J63 - 17 mai - Karumba - 0 km (3324 km)
+
+Il y a deux spécialités à Karumba, les couchers de soleil et le barramundi. Le barramundi est un poisson de rivière très réputé et qui peut devenir très gros. Pour combiner les deux, le meilleur endroit est sûrement la Sunset Tavern à Karumba Point face à la mer.
+
+![](IMG_20230516_150829.jpg)
+![](IMG_20230516_175736.jpg)
+![](IMG_20230517_182503.jpg)
+![](IMG_20230517_184208.jpg)
 ______
