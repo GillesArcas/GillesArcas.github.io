@@ -1,6 +1,6 @@
 # Australie 2023 - part1
 
-[2023/03/15]
+[2000/01/01]
 
 Tous les voyages, [c'est par ici](https://gilles-arcas.blogspot.com/2020/09/home_31.html).
 La carte des étapes, [c'est par là](https://gilles-arcas.travelmap.net/).
@@ -734,4 +734,15 @@ Il y a deux spécialités à Karumba, les couchers de soleil et le barramundi. L
 ![](IMG_20230516_175736.jpg)
 ![](IMG_20230517_182503.jpg)
 ![](IMG_20230517_184208.jpg)
+______
+[2023/05/18]
+
+### J64 - 18 mai - Karumba - 0 km (3324 km)
+
+Trois heures d’excursion en bateau pour faire un tour sur la rivière et voir le coucher de soleil sur un îlot de sable au large. Beaucoup d’oiseaux et un crocodile. Pas eu le temps de prendre une photo mais on comprend bien pourquoi on ne se baigne pas ici. Troisième spécialité de Karumba, les grosses crevettes en dégustation. Et spécialité australienne, la causette avec les gens à bord (je m’en sors à peu près mais des fois, c’est tout juste).
+
+![](IMG_20230518_151451.jpg)
+![](VID_20230518_160608`-crop.jpg)
+![](IMG_20230518_175902.jpg)
+![](IMG_20230518_181237.jpg)
 ______
