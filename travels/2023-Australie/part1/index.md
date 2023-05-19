@@ -746,3 +746,19 @@ Trois heures d’excursion en bateau pour faire un tour sur la rivière et voir 
 ![](IMG_20230518_175902.jpg)
 ![](IMG_20230518_181237.jpg)
 ______
+[2023/05/18]
+
+.
+______
+[2023/05/19]
+
+### J65 - 19 mai - Normanton - 71 km (3395 km)
+
+Au revoir à Karumba, nouvelle traversée de la pampa et retour à Normanton. Je passe à la gare pour aller voir le Gulflander, le petit train qui fait la navette entre Croydon et Normanton, mais c’est une fois par semaine et c’était pas le bon jour. Chicken schnitzel (c’est pas facile à dire) au Purple Pub pour finir la journée. Pas de réseau les deux prochains jours, les distances deviennent plus grandes.
+
+![](IMG_20230519_103635.jpg)
+![](IMG_20230519_101825.jpg)
+![](IMG_20230519_113711.jpg)
+![](IMG_20230519_164245.jpg)
+![](IMG_20230519_152803.jpg)
+______
