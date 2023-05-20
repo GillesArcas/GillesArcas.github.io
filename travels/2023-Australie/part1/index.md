@@ -762,3 +762,14 @@ Au revoir à Karumba, nouvelle traversée de la pampa et retour à Normanton. Je
 ![](IMG_20230519_164245.jpg)
 ![](IMG_20230519_152803.jpg)
 ______
+[2023/05/20]
+
+### J66 - 20 mai - Flinders River - 64 km (3459 km)
+
+Départ pour trois jours sans rien au milieu avec dix litres d’eau. Route un peu monotone, première moitié, de la broussaille, deuxième moitié, de la pampa. Bivouac dans un campground à côté d’une rivière. Peut-être pas une bonne idée de se rincer dedans, il y a des crocodiles. Un couple est déjà installé et me propose de les rejoindre au feu de camp. Cette fois, on m’offre un verre de vin. Vive l’Australie !
+
+![](IMG_20230520_095829.jpg)
+![](IMG_20230520_125931-crop.jpg)
+![](IMG_20230520_144526.jpg)
+![](IMG_20230520_151847.jpg)
+______
