@@ -773,3 +773,13 @@ Départ pour trois jours sans rien au milieu avec dix litres d’eau. Route un p
 ![](IMG_20230520_144526.jpg)
 ![](IMG_20230520_151847.jpg)
 ______
+[2023/05/21]
+
+### J67 - 21 mai - Donor Hill Rest Area - 78 km (3537 km)
+
+Route comme hier, beaucoup de pampa. Je ne pense pas que ce soit le terme consacré, de l’herbe assez haute, clôturée, du bétail de temps en temps (qui me regarde passé). Beaucoup de vent d’est (défavorable mais plutôt de côté). Campground nettement moins sympa qu’hier, une aire de repos rustique, exposée à la route. Je me mets un peu à l’écart, à peine à cinquante mètres de la route mais il n’y a pratiquement pas de voitures qui passent.
+
+![](IMG_20230521_104433.jpg)
+![](IMG_20230521_124949.jpg)
+![](IMG_20230521_141657.jpg)
+______
