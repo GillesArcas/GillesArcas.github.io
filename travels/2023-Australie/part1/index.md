@@ -766,7 +766,7 @@ ______
 
 ### J66 - 20 mai - Flinders River - 64 km (3459 km)
 
-Départ pour trois jours sans rien au milieu avec dix litres d’eau. Route un peu monotone, première moitié, de la broussaille, deuxième moitié, de la pampa. Bivouac dans un campground à côté d’une rivière. Peut-être pas une bonne idée de se rincer dedans, il y a des crocodiles. Un couple est déjà installé et me propose de les rejoindre au feu de camp. Cette fois, on m’offre un verre de vin. Vive l’Australie !
+Départ pour trois jours sans rien au milieu avec dix litres d’eau. Première moitié de la route, de la broussaille, deuxième moitié, de la pampa. Bivouac dans un campground à côté d’une rivière. Peut-être pas une bonne idée de se rincer dedans, il y a des crocodiles. Un couple est déjà installé et me propose de les rejoindre au feu de camp. Cette fois, on m’offre un verre de vin. Vive l’Australie !
 
 ![](IMG_20230520_095829.jpg)
 ![](IMG_20230520_125931-crop.jpg)
@@ -777,9 +777,20 @@ ______
 
 ### J67 - 21 mai - Donor Hill Rest Area - 78 km (3537 km)
 
-Route comme hier, beaucoup de pampa. Je ne pense pas que ce soit le terme consacré, de l’herbe assez haute, clôturée, du bétail de temps en temps (qui me regarde passé). Beaucoup de vent d’est (défavorable mais plutôt de côté). Campground nettement moins sympa qu’hier, une aire de repos rustique, exposée à la route. Je me mets un peu à l’écart, à peine à cinquante mètres de la route mais il n’y a pratiquement pas de voitures qui passent.
+Route comme hier, beaucoup de pampa. Sûrement pas le terme consacré, de l’herbe assez haute, pas d’arbres, clôturé tout du long, du bétail de temps en temps (qui me regarde passer). Beaucoup de vent d’est (défavorable mais plutôt de côté). Campground nettement moins sympa qu’hier, une aire de repos rustique, exposée à la route. Je me mets un peu à l’écart, à peine à cinquante mètres de la route mais il n’y a pratiquement pas de voitures qui passent.
 
 ![](IMG_20230521_104433.jpg)
 ![](IMG_20230521_124949.jpg)
 ![](IMG_20230521_141657.jpg)
+______
+[2023/05/22]
+
+### J68 - 22 mai – Burke & Wills Roadhouse - 62 km (3599 km)
+
+Même route qu’hier. A vingt kilomètres de l’arrivée, une caravane se met à ma hauteur et un couple me demande si j’ai besoin de quelque chose. Ils se garent sur le bas côté, m’offrent une boisson bien fraîche et c’est parti pour un quart d’heure de causette au bord de la route. 
+
+![](IMG_20230522_102211.jpg)
+![](IMG_20230522_132354.jpg)
+![](IMG_20230522_134403.jpg)
+![](IMG_20230522_143734.jpg)
 ______
