@@ -794,3 +794,14 @@ Même route qu’hier. A vingt kilomètres de l’arrivée, une caravane se met 
 ![](IMG_20230522_134403.jpg)
 ![](IMG_20230522_143734.jpg)
 ______
+[2023/05/23]
+
+### J69 - 23 mai - Terry Smith Lookout Rest Area - 103 km (3702 km)
+
+Journée un peu longue mais il n’y a pas vraiment d’endroit pour s’arrêter avant. Je repars pour deux jours avec cinq litres d’eau (il faut l’acheter) et un sandwich au jambon. Avec les nouilles chinoises et ce qui me reste, ça fera l’affaire. Un peu de relief à un moment et un peu de dénivelé, mais ça montre très doucement. Campground pas mal. Un peu surélevé, on voit des collines au loin. Et comme ça donne ver l’ouest, super coucher de soleil.
+
+![](IMG_20230523_124953.jpg)
+![](IMG_20230523_132829.jpg)
+![](IMG_20230523_175419.jpg)
+![](IMG_20230523_184540.jpg)
+______
