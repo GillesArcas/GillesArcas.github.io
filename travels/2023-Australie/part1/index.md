@@ -805,3 +805,14 @@ Journée un peu longue mais il n’y a pas vraiment d’endroit pour s’arrête
 ![](IMG_20230523_175419.jpg)
 ![](IMG_20230523_184540.jpg)
 ______
+[2023/05/24]
+
+### J70 - 24 mai - Cloncurry - 84 km (3786 km)
+
+Thé du matin offert par le voisin d’à côté. La route continue à monter tout doucement. Par contre, elle tourne un peu vers l’est et le vent devient plus pénible. Ça devrait aller mieux demain. Après trente kilomètres, je m’arrête au Quamby Pub, rien autour et rien jusqu’à Cloncurry. Pas de réseau demain.
+
+![](IMG_20230524_093302.jpg)
+![](IMG_20230524_122011.jpg)
+![](IMG_20230524_122722.jpg)
+![](IMG_20230524_163008.jpg)
+______
