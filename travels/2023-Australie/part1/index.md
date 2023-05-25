@@ -816,3 +816,14 @@ Thé du matin offert par le voisin d’à côté. La route continue à monter to
 ![](IMG_20230524_122722.jpg)
 ![](IMG_20230524_163008.jpg)
 ______
+[2023/05/25]
+
+### J71 - 25 mai - Mary Kathleen - 69 km (3855 km)
+
+Plus de collines aujourd’hui. Le paysage est moins uniforme mais il y a un peu de dénivelé. Pour compenser, la route a tourné vers l’ouest et le vent est devenu favorable. Mary Kathleen est une ancienne ville minière (mine d’uranium) qui a existé des années 50 à 1982. Il ne reste rien, à part le bitume des rues, les trottoirs et les fondations. En fait, la plupart des bâtiments ont été démontés et reconstruits ailleurs. L’endroit est accessible aux caravanes et aux campeurs, mais il faut le partager avec le bétail.
+
+![](IMG_20230525_101728.jpg)
+![](IMG_20230525_122627.jpg)
+![](IMG_20230525_151826.jpg)
+![](IMG_20230525_182617.jpg)
+______
