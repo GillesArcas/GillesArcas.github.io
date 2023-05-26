@@ -827,3 +827,14 @@ Plus de collines aujourd’hui. Le paysage est moins uniforme mais il y a un peu
 ![](IMG_20230525_151826.jpg)
 ![](IMG_20230525_182617.jpg)
 ______
+[2023/05/26]
+
+### J72 - 26 mai - Mount Isa - 58 km (3913 km)
+
+Visite de la mine ce matin, dans les collines à six kilomètres de Mary Kathleen. L’eau est étonnamment bleue. En choisissant bien le gradin, on arrive à faire tout le tour à mi-hauteur. En backpaker pour trois nuits à Mount Isa. L’araignée a fait le voyage. Je croyais l’avoir chassée mais je l’ai retrouvée en décrochant mes sacoches. Je l’ai soigneusement mise dehors.
+
+![](IMG_20230526_084449.jpg)
+![](IMG_20230526_092830.jpg)
+![](IMG_20230526_100019.jpg)
+![](IMG_20230526_111620.jpg)
+______
