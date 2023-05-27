@@ -3,7 +3,6 @@
 [2000/01/01]
 
 Tous les voyages, [c'est par ici](https://gilles-arcas.blogspot.com/2020/09/home_31.html).
-La carte des étapes, [c'est par là](https://gilles-arcas.travelmap.net/).
 On peut cliquer sur la route ou les étapes pour aller directement au jour mais
 le dernier jour [c'est ici](#{LASTDATE}). Et cliquez sur les images pour agrandir.
 ______
@@ -831,10 +830,20 @@ ______
 
 ### J72 - 26 mai - Mount Isa - 58 km (3913 km)
 
-Visite de la mine ce matin, dans les collines à six kilomètres de Mary Kathleen. L’eau est étonnamment bleue. En choisissant bien le gradin, on arrive à faire tout le tour à mi-hauteur. En backpaker pour trois nuits à Mount Isa. L’araignée a fait le voyage. Je croyais l’avoir chassée mais je l’ai retrouvée en décrochant mes sacoches. Je l’ai soigneusement mise dehors.
+Visite de la mine ce matin dans les collines à six kilomètres de Mary Kathleen. L’eau est étonnamment bleue. En choisissant bien le gradin, on arrive à faire tout le tour à mi-hauteur. En backpaker pour trois nuits à Mount Isa. L’araignée a fait le voyage. Je croyais l’avoir chassée mais je l’ai retrouvée en décrochant mes sacoches. Je l’ai soigneusement mise dehors.
 
 ![](IMG_20230526_084449.jpg)
 ![](IMG_20230526_092830.jpg)
 ![](IMG_20230526_100019.jpg)
 ![](IMG_20230526_111620.jpg)
+______
+[2023/05/27]
+
+### J73 - 27 mai - Mount Isa - 0 km (3913 km)
+
+Mount Isa est une ville minière qui a à peine cent ans. Visite aujourd’hui de l’hôpital souterrain, creusé pendant la guerre par les mineurs, et visite du musée des fossiles. Il y a un gisement de fossiles très riche dans la région.
+
+![](IMG_20230527_131739.jpg)
+![](IMG_20230527_144830.jpg)
+![](IMG_20230527_162412.jpg)
 ______
