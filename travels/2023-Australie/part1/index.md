@@ -784,9 +784,9 @@ Route comme hier, beaucoup de pampa. Sûrement pas le terme consacré, de l’he
 ______
 [2023/05/22]
 
-### J68 - 22 mai – Burke & Wills Roadhouse - 62 km (3599 km)
+### J68 - 22 mai - Burke & Wills Roadhouse - 62 km (3599 km)
 
-Même route qu’hier. A vingt kilomètres de l’arrivée, une caravane se met à ma hauteur et un couple me demande si j’ai besoin de quelque chose. Ils se garent sur le bas côté, m’offrent une boisson bien fraîche et c’est parti pour un quart d’heure de causette au bord de la route. 
+Même route qu’hier. A vingt kilomètres de l’arrivée, une caravane se met à ma hauteur et un couple me demande si j’ai besoin de quelque chose. Ils se garent sur le bas côté, m’offrent une boisson bien fraîche et c’est parti pour un quart d’heure de causette au bord de la route.
 
 ![](IMG_20230522_102211.jpg)
 ![](IMG_20230522_132354.jpg)
