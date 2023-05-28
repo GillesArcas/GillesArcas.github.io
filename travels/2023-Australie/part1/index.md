@@ -847,3 +847,14 @@ Mount Isa est une ville minière qui a à peine cent ans. Visite aujourd’hui d
 ![](IMG_20230527_144830.jpg)
 ![](IMG_20230527_162412.jpg)
 ______
+[2023/05/28]
+
+### J74 - 28 mai - Mount Isa - 41 km (3954 km)
+
+Ce matin, visite guidée d’une ancienne mine, la Hard Times Mine, en pleine ville. Ça ne va pas profond mais l’ambiance y est. Le guide explique les techniques, les explosifs, la sécurité. J’avoue que je n’ai pas tout compris. Et cet après-midi, balade au lac Moondarra, à une vingtaine de kilomètres. C’est un lac artificiel créé pour alimenter la ville, avec des endroits emménagés en base de loisir. Ça repart demain avec 600 kilomètres en une semaine avec seulement deux escales. Réseau tous les deux ou trois jours.
+
+![](IMG_20230528_114428.jpg)
+![](IMG_20230528_115632.jpg)
+![](IMG_20230528_152006.jpg)
+![](IMG_20230528_162826.jpg)
+______
