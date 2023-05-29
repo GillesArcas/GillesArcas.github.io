@@ -851,10 +851,23 @@ ______
 
 ### J74 - 28 mai - Mount Isa - 41 km (3954 km)
 
-Ce matin, visite guidée d’une ancienne mine, la Hard Times Mine, en pleine ville. Ça ne va pas profond mais l’ambiance y est. Le guide explique les techniques, les explosifs, la sécurité. J’avoue que je n’ai pas tout compris. Et cet après-midi, balade au lac Moondarra, à une vingtaine de kilomètres. C’est un lac artificiel créé pour alimenter la ville, avec des endroits emménagés en base de loisir. Ça repart demain avec 600 kilomètres en une semaine avec seulement deux escales. Réseau tous les deux ou trois jours.
+Ce matin, visite guidée d’une ancienne mine, la Hard Times Mine, en pleine ville. Ça ne va pas profond mais l’ambiance y est. Le guide explique les techniques, les explosifs, la sécurité. J’avoue que je n’ai pas tout compris. Et cet après-midi, balade au lac Moondarra, à une vingtaine de kilomètres. C’est un lac artificiel créé pour alimenter la ville, avec des endroits emménagés en base de loisir. 
+
+Ça repart demain avec 600 kilomètres en une semaine avec seulement deux escales. Réseau tous les deux ou trois jours.
 
 ![](IMG_20230528_114428.jpg)
 ![](IMG_20230528_115632.jpg)
 ![](IMG_20230528_152006.jpg)
 ![](IMG_20230528_162826.jpg)
+______
+[2023/05/29]
+
+### J75 - 29 mai - David Hall Rest Area - 102 km (4056 km)
+
+Température fraîche ce matin (8° annoncé pour la nuit). Départ direction nord ouest. Vent extrêmement favorable, je suis poussé tout du long et je crois que je n’ai jamais tenu une moyenne aussi rapide (18,6 km/h, d’habitude c’est plutôt 14 ou 15). Paysage de collines au début qui s’aplatit au fur et à mesure. Le campground est surtout une aire de repos pour les camions. D’ailleurs il y en a un qui laisse tourner son moteur depuis qu’il est arrivé. 
+
+![](IMG_20230529_101331.jpg)
+![](IMG_20230529_115934.jpg)
+![](IMG_20230529_144149.jpg)
+![](IMG_20230529_181513.jpg)
 ______
