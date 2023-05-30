@@ -871,3 +871,15 @@ Température fraîche ce matin (8° annoncé pour la nuit). Départ direction no
 ![](IMG_20230529_144149.jpg)
 ![](IMG_20230529_181513.jpg)
 ______
+[2023/05/30]
+
+### J76 - 30 mai - Camooweal - 92 km (4148 km)
+
+8° dans la tente au réveil. Vent aussi sympa qu’hier. À un moment, un van s’arrête à ma hauteur et en sort quelqu’un qui m’offre une bière au gingembre bien fraîche. C’est un roumain (Stil) qui vit en Australie et fait beaucoup de vélo. Il a fait deux fois la route que je suis en train de faire, dont une fois contre le vent. Ça soufflait tellement fort, qu’à des moments il préférait pousser son vélo. À Camooweal (toute petite bourgade), la fille de l’accueil au caravan park, et celle du resto, me demandent si je parle français. La première est belge et la deuxième est anglaise mais parle un français impeccable.
+
+![](IMG_20230530_100218.jpg)
+![](IMG_20230530_120856.jpg)
+![](IMG_20230530_150725.jpg)
+![](IMG_20230530_150858.jpg)
+![](IMG_20230530_172145-crop.jpg)
+______
