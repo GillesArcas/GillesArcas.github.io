@@ -881,5 +881,16 @@ ______
 ![](IMG_20230530_120856.jpg)
 ![](IMG_20230530_150725.jpg)
 ![](IMG_20230530_150858.jpg)
-![](IMG_20230530_172145-crop.jpg)
+  ![](IMG_20230530_172145-crop.jpg)
+______
+[2023/05/31]
+
+### J77 - 31 mai - Avon Downs Rest Area - 69 km (4217 km)
+
+Après trois kilomètres, une voiture qui me croise s’arrête et on me tend une boisson fraîche. Un peu tôt mais ça fait toujours plaisir. Et après douze kilomètres, je quitte le Queensland pour rentrer dans les Territoires du Nord. À part ça, que de la pampa. Mon voisin de campground est allemand et est en train de faire le tour de l’Australie en voiture.
+
+![](IMG_20230531_113716.jpg)
+![](IMG_20230531_115140.jpg)
+![](IMG_20230531_130010-crop.jpg)
+[](VID_20230531_144000.mp4)
 ______
