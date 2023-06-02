@@ -8,7 +8,8 @@ le dernier jour [c'est ici](#{LASTDATE}). Et cliquez sur les images pour agrandi
 ______
 [2023/03/15]
 
-<iframe src="map.html" title="Carte" width="100%" height="300"></iframe>
+{MAPPOST map.html}
+{MAPFULL maplocal.html}
 ______
 [2023/03/16]
 
@@ -851,7 +852,7 @@ ______
 
 ### J74 - 28 mai - Mount Isa - 41 km (3954 km)
 
-Ce matin, visite guidée d’une ancienne mine, la Hard Times Mine, en pleine ville. Ça ne va pas profond mais l’ambiance y est. Le guide explique les techniques, les explosifs, la sécurité. J’avoue que je n’ai pas tout compris. Et cet après-midi, balade au lac Moondarra, à une vingtaine de kilomètres. C’est un lac artificiel créé pour alimenter la ville, avec des endroits emménagés en base de loisir. 
+Ce matin, visite guidée d’une ancienne mine, la Hard Times Mine, en pleine ville. Ça ne va pas profond mais l’ambiance y est. Le guide explique les techniques, les explosifs, la sécurité. J’avoue que je n’ai pas tout compris. Et cet après-midi, balade au lac Moondarra, à une vingtaine de kilomètres. C’est un lac artificiel créé pour alimenter la ville, avec des endroits emménagés en base de loisir.
 
 Ça repart demain avec 600 kilomètres en une semaine avec seulement deux escales. Réseau tous les deux ou trois jours.
 
@@ -864,7 +865,7 @@ ______
 
 ### J75 - 29 mai - David Hall Rest Area - 102 km (4056 km)
 
-Température fraîche ce matin (8° annoncé pour la nuit). Départ direction nord ouest. Vent extrêmement favorable, je suis poussé tout du long et je crois que je n’ai jamais tenu une moyenne aussi rapide (18,6 km/h, d’habitude c’est plutôt 14 ou 15). Paysage de collines au début qui s’aplatit au fur et à mesure. Le campground est surtout une aire de repos pour les camions. D’ailleurs il y en a un qui laisse tourner son moteur depuis qu’il est arrivé. 
+Température fraîche ce matin (8° annoncé pour la nuit). Départ direction nord ouest. Vent extrêmement favorable, je suis poussé tout du long et je crois que je n’ai jamais tenu une moyenne aussi rapide (18,6 km/h, d’habitude c’est plutôt 14 ou 15). Paysage de collines au début qui s’aplatit au fur et à mesure. Le campground est surtout une aire de repos pour les camions. D’ailleurs il y en a un qui laisse tourner son moteur depuis qu’il est arrivé.
 
 ![](IMG_20230529_101331.jpg)
 ![](IMG_20230529_115934.jpg)
@@ -892,5 +893,24 @@ Après trois kilomètres, une voiture qui me croise s’arrête et on me tend un
 ![](IMG_20230531_113716.jpg)
 ![](IMG_20230531_115140.jpg)
 ![](IMG_20230531_130010-crop.jpg)
-[](VID_20230531_144000.mp4)
+______
+[2023/06/01]
+
+### J78 - 1er juin - Wunara Gravel Camp - 95 km (4312 km)
+
+Paysage complètement vide par moments. Un peu d’ondulations vers la fin qui permettent de voir encore plus loin. Uniforme mais pas ennuyeux.
+
+![](IMG_20230601_120017.jpg)
+![](IMG_20230601_152430.jpg)
+______
+[2023/06/02]
+
+### J79 - 2 juin - Barkly Homestead - 98 km (4410 km)
+
+Vent un peu moins favorable. Gros caravan park blindé. Faut dire, il n’y a rien  d’autre à 200 kilomètres à la ronde. Resto pour un chicken schnitzel et une bière après trois jours de bush. Plusieurs personnes me disent qu’ils m’ont vu passé, ou savent que je suis le cycliste et viennent me parler.
+
+![](IMG_20230602_151418.jpg)
+![](IMG_20230602_163053.jpg)
+![](IMG_20230602_165415.jpg)
+![](IMG_20230602_194848.jpg)
 ______
