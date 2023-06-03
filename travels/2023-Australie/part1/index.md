@@ -914,3 +914,13 @@ Vent un peu moins favorable. Gros caravan park blindé. Faut dire, il n’y a ri
 ![](IMG_20230602_165415.jpg)
 ![](IMG_20230602_194848.jpg)
 ______
+[2023/06/03]
+
+### J80 - 3 juin - Tower - 93 km (4503 km)
+
+Tower ce n’est pas le nom d’un endroit, c’est juste que le campground est autour d’une tour de télécommunication. C’est appelé comme ça dans Wikicamps, l’appli, indispensable, que j’utilise pour trouver les endroits où passer la nuit et les points de ravitaillement. Tout seul dans le campground d’ailleurs.
+
+![](IMG_20230603_115219.jpg)
+![](IMG_20230603_143050.jpg)
+![](IMG_20230603_173521.jpg)
+______
