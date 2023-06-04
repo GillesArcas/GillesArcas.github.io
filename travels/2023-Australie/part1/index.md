@@ -928,7 +928,7 @@ ______
 
 ### J81 - 4 juin - Tennant Creek - 122 km (4625 km)
 
-La route a obliqué vers l’ouest et le vent est redevenu favorable. Ça aurait été trop long sinon. Il n’y a plus que du bush par ici. Après 90 kilomètres, je retrouve la Stuart Highway pour un petit bout jusqu’à Tennant Creek. Trois jours ici.
+La route a obliqué vers l’ouest et le vent est redevenu favorable. Ça aurait été trop long sinon. Il n’y a plus que du bush par ici. Après 90 kilomètres, je retrouve la Stuart Highway pour un petit bout vers le sud jusqu’à Tennant Creek. Trois jours ici.
 
 ![](IMG_20230604_063831.jpg)
 ![](IMG_20230604_131852.jpg)
