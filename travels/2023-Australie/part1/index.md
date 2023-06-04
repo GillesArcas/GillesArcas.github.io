@@ -918,9 +918,20 @@ ______
 
 ### J80 - 3 juin - Tower - 93 km (4503 km)
 
-Tower ce n’est pas le nom d’un endroit, c’est juste que le campground est autour d’une tour de télécommunication. C’est appelé comme ça dans Wikicamps, l’appli, indispensable, que j’utilise pour trouver les endroits où passer la nuit et les points de ravitaillement. Tout seul dans le campground d’ailleurs.
+Tower ce n’est pas le nom d’un endroit, c’est juste que le campground est autour d’une tour de télécommunication. L’endroit est appelé comme ça dans Wikicamps, l’appli que j’utilise pour trouver où passer la nuit et les points de ravitaillement. Tout seul dans le campground d’ailleurs.
 
 ![](IMG_20230603_115219.jpg)
 ![](IMG_20230603_143050.jpg)
 ![](IMG_20230603_173521.jpg)
+______
+[2023/06/04]
+
+### J81 - 4 juin - Tennant Creek - 122 km (4625 km)
+
+La route a obliqué vers l’ouest et le vent est redevenu favorable. Ça aurait été trop long sinon. Il n’y a plus que du bush par ici. Après 90 kilomètres, je retrouve la Stuart Highway pour un petit bout jusqu’à Tennant Creek. Trois jours ici.
+
+![](IMG_20230604_063831.jpg)
+![](IMG_20230604_131852.jpg)
+![](IMG_20230604_132655.jpg)
+![](IMG_20230604_143429.jpg)
 ______
