@@ -935,3 +935,20 @@ La route a obliqué vers l’ouest et le vent est redevenu favorable. Ça aurait
 ![](IMG_20230604_132655.jpg)
 ![](IMG_20230604_143429.jpg)
 ______
+[2023/06/05]
+
+### J82 - 5 juin - Tennant Creek - 0 km (4625 km)
+
+Journée relax. J’avais passé deux jours ici il y a quatre ans. Petit tour en ville, un petit côté ville fantôme dont je ne me souvenais pas (beaucoup de trucs fermés) et visite du Battery Hill Mining Centre, un musée sur l’histoire des mines dans la région. La vie n’avait pas l’air très facile dans le coin dans les années 30.
+
+![](IMG_20230605_143345.jpg)
+![](IMG_20230605_151907-crop.jpg)
+![](IMG_20230605_161846.jpg)
+![](IMG_20230605_165201.jpg)
+______
+[2023/06/05]
+
+Fin de la deuxième partie. La carte jusque là. La carte zoomable et le journal complet en https://tinyurl.com/gilles-australie.
+
+![](carte-2023-06-05.jpg)
+______
