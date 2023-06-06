@@ -952,3 +952,15 @@ Fin de la deuxième partie. La carte jusque là. La carte zoomable et le journal
 
 ![](carte-2023-06-05.jpg)
 ______
+[2023/06/06]
+
+### J83 - 6 juin - Tennant Creek - 38 km (4663 km)
+
+Balade pour aller voir le lac, par une piste cyclable un peu cabossée, l’ancienne station de télégraphe, et les Pebbles, par une piste de six kilomètres pas du tout cyclable. Les Pebbles (les Cailloux) sont des groupes de rochers pas spectaculaires, qui ont l’air de présenter plus d’intérêt pour les aborigènes que pour les visiteurs, mais l’endroit est joli.
+
+![](IMG_20230606_143918.jpg)
+![](IMG_20230606_135737.jpg)
+![](IMG_20230606_151825.jpg)
+![](IMG_20230606_160236.jpg)
+![](IMG_20230606_171710.jpg)
+______
