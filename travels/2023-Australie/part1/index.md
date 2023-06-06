@@ -964,3 +964,9 @@ Balade pour aller voir le lac, par une piste cyclable un peu cabossée, l’anci
 ![](IMG_20230606_160236.jpg)
 ![](IMG_20230606_171710.jpg)
 ______
+[2023/06/06]
+
+Toutes les routes parcourues en cinq voyages.
+
+![](routes-australie.jpg)
+______
