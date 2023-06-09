@@ -1,0 +1,85 @@
+{"map": {
+    "location": [40.84585554583827, -99.97586929111925],
+    "zoom_start": 4,
+    "local": false
+    },
+"tiles": [
+    {"url": "https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}",
+     "name": "NatGeo",
+     "attr": "Pushing the bike"
+    },
+    {"url": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+     "name": "openstreemap",
+     "attr": "Pushing the bike"
+    }
+],
+"tracks": [
+    {"file": "gpx-us/00-Jacksonville-SaintAugustine-93k.gpx",
+     "color": "blue",
+     "popup": "2022, Southern Tier",
+     "link": "https://gillesarcas.github.io/travels/2022-US/part1/"
+    },
+    {"file": "gpx-us/ST07WMain_2019-to-Tallahassee.gpx",
+     "color": "blue",
+     "popup": "2022, Southern Tier",
+     "link": "https://gillesarcas.github.io/travels/2022-US/part1/"
+    },
+    {"file": "gpx-us/Tallahassee-Carrabelle.gpx",
+     "color": "blue",
+     "popup": "2022, Southern Tier",
+     "link": "https://gillesarcas.github.io/travels/2022-US/part1/"
+    },
+    {"file": "gpx-us/Carrabelle-PanamaCity.gpx",
+     "color": "blue",
+     "popup": "2022, Southern Tier",
+     "link": "https://gillesarcas.github.io/travels/2022-US/part1/"
+    },
+    {"file": "gpx-us/PanamaCity-Pensacola.gpx",
+     "color": "blue",
+     "popup": "2022, Southern Tier",
+     "link": "https://gillesarcas.github.io/travels/2022-US/part1/"
+    },
+    {"file": "gpx-us/ST06WMain_2021-from-Pensacola.gpx",
+     "color": "blue",
+     "popup": "2022, Southern Tier",
+     "link": "https://gillesarcas.github.io/travels/2022-US/part1/"
+    },
+    {"file": "gpx-us/ST05WMain_2018.gpx",
+     "color": "blue",
+     "popup": "2022, Southern Tier",
+     "link": "https://gillesarcas.github.io/travels/2022-US/part1/"
+    },
+    {"file": "gpx-us/NewOrleans-NewRoads.gpx",
+     "color": "blue",
+     "popup": "2022, Southern Tier",
+     "link": "https://gillesarcas.github.io/travels/2022-US/part1/"
+    },
+    {"file": "gpx-us/ST04WMain_2017.gpx",
+     "color": "blue",
+     "popup": "2022, Southern Tier",
+     "link": "https://gillesarcas.github.io/travels/2022-US/part1/"
+    },
+    {"file": "gpx-us/ST03WMain_2020.gpx",
+     "color": "blue",
+     "popup": "2022, Southern Tier",
+     "link": "https://gillesarcas.github.io/travels/2022-US/part1/"
+    },
+    {"file": "gpx-us/ST02WMain_2019.gpx",
+     "color": "blue",
+     "popup": "2022, Southern Tier",
+     "link": "https://gillesarcas.github.io/travels/2022-US/part1/"
+    },
+    {"file": "gpx-us/ST01WMain_2019a.gpx",
+     "color": "blue",
+     "popup": "2022, Southern Tier",
+     "link": "https://gillesarcas.github.io/travels/2022-US/part1/"
+    }
+]
+}
+
+
+
+
+
+
+
