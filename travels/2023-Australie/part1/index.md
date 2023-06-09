@@ -969,3 +969,16 @@ Toutes les routes parcourues en cinq voyages.
 
 ![](routes-australie.jpg)
 ______
+[2023/06/07]
+
+______
+[2023/06/08]
+
+### J85 - 8 juin - Darwin - 0 km (4663 km)
+
+Bus de nuit pour Darwin. Départ 1h30, 14 heures de voyage, 1200 kilomètres. Quelques arrêts en cours de route, finalement, ça s’est bien passé.
+
+![](IMG_20230608_011520.jpg)
+![](IMG_20230608_055546.jpg)
+![](IMG_20230608_065653.jpg)
+______
