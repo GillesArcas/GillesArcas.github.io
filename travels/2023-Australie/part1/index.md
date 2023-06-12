@@ -982,3 +982,23 @@ Bus de nuit pour Darwin. Départ 1h30, 14 heures de voyage, 1200 kilomètres. Qu
 ![](IMG_20230608_055546.jpg)
 ![](IMG_20230608_065653.jpg)
 ______
+[2023/06/09]
+
+______
+[2023/06/10]
+
+______
+[2023/06/11]
+
+______
+[2023/06/12]
+
+### J89 - 12 juin - Darwin - 0 km (4706 km)
+
+Quatre jours à Darwin. Beaucoup de farniente et quelques dizaines de kilomètres de ballade vers les plages de East Point et Nightcliff au nord de Darwin. Hébergé ce soir chez Fleur en Warmshower (le site d’hébergement pour les cyclistes). Elle a pas mal voyagé avec son tandem assis, c’est pour dire.
+
+![](IMG_20230609_155704.jpg)
+![](IMG_20230609_170344.jpg)
+![](IMG_20230610_150548.jpg)
+![](IMG_20230612_184805.jpg)
+______
