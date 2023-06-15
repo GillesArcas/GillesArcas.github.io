@@ -1002,3 +1002,31 @@ Quatre jours à Darwin. Beaucoup de farniente et quelques dizaines de kilomètre
 ![](IMG_20230610_150548.jpg)
 ![](IMG_20230612_184805.jpg)
 ______
+[2023/06/12]
+
+______
+[2023/06/13]
+
+### J90 - 13 juin - Darwin - 0 km (4706 km)
+
+Je devais prendre l’avion ce matin mais je n’avais pas trouvé de carton pour le vélo (pas trop cherché non plus). Je l’avais emballé avec 25 mètres de bubble wrap. Mais, petit raté, Jetstar (la compagnie low cost australienne) n’accepte que les vélos dans un carton ou dans un sac approprié. Donc, retour chez Fleur. Ça m’a donné le temps de visiter le musée de la défense de Darwin et de passer une bonne soirée à jouer à Carcassonne avec Fleur et son fils Arkady.
+
+![](IMG_20230613_041751.jpg)
+![](IMG_20230613_151711.jpg)
+![](IMG_20230613_193555.jpg)
+______
+[2023/06/14]
+
+______
+[2023/06/15]
+
+### J92 - 15 juin - Ubud (Bali) - 0 km (4706 km)
+
+Deuxième jour à Bali. Premier jour à Denpasar, où arrive l’avion, et où il n’y a vraiment pas grand-chose, et deuxième jour à Ubud, nettement plus touristique. Dans les deux cas, beaucoup de trafic, beaucoup de scooters, et difficile de traverser une rue. Visite de deux temples très jolis et de la Monkey Forest, très amusant. J’ai oublié de dire qu’íl fallait que je sorte d’Australie pour renouveler mon visa et que Bali est la plus proche destination (en fait, il y a aussi le Timor Oriental, mais ça me paraissait moins attractif). Je n’ai pas dit non plus que l’avion était à 6:45. Ça pique un peu quand il faut rebrousser chemin et recommencer le jour suivant. Du coup, j’ai laissé le vélo chez Fleur.
+
+![](IMG_20230614_064235.jpg)
+![](IMG_20230615_141626.jpg)
+![](IMG_20230615_143847.jpg)
+![](IMG_20230615_145020.jpg)
+[](VID_20230615_153627.mp4)
+______
