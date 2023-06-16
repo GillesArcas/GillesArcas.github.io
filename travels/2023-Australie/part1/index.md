@@ -1030,3 +1030,16 @@ Deuxième jour à Bali. Premier jour à Denpasar, où arrive l’avion, et où i
 ![](IMG_20230615_145020.jpg)
 [](VID_20230615_153627.mp4)
 ______
+[2023/06/16]
+
+### J93 - 16 juin - Ubud (Bali) - 0 km (4706 km)
+
+Excursion autour de Ubud en voiture avec chauffeur privé. 700 000 roupies indonésiennes. Pour convertir, on enlève quatre zéros pour avoir les dollars australiens et on prend deux tiers pour avoir les euros. Ça devient tout de suite plus raisonnable. Visite de plusieurs temples, des rizières et d’une chute d’eau. Tout très joli mais souvent encombré. Fin de la journee chez le coiffeur.
+
+![](IMG_20230616_084249.jpg)
+![](IMG_20230616_093331.jpg)
+![](IMG_20230616_100117.jpg)
+![](IMG_20230616_115555.jpg)
+![](IMG_20230616_130752.jpg)
+![](IMG_20230616_193241.jpg)
+______
