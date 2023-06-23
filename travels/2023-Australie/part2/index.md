@@ -49,9 +49,6 @@ ______
 ______
 [2023/06/18]
 
-### J95 - 18 juin - Lovina - 0 km (4706 km)
-
-.
 ______
 [2023/06/19]
 
@@ -67,4 +64,24 @@ Trois jours à Lovina au nord de l’île. Sortie en mer pour aller voir les dau
 ![](IMG_20230619_150212.jpg)
 ![](IMG_20230619_162559.jpg)
 [](VID_20230618_091947-extract.mp4)
+______
+[2023/06/20]
+
+______
+[2023/06/21]
+
+______
+[2023/06/22]
+
+### J99 - 22 juin - Amed - 0 km (4706 km)
+
+Trois jours à Amed sur la côte nord est. Petite ville, spot de plongée et volcan tout près. Visite de plusieurs trucs, le premier jour, en chemin avec le chauffeur, et après en scooter. Visite du temple de Lempuyang, effectivement très beau mais organisé en studio Instagram (les gens font la queue et un photographe les prend entrain de faire des poses). Sortie en snorkeling (masque et tuba) et montée en haut du phare de Gili Selang à la pointe est de l’ile (pas un site officiel, il faut graisser la patte du gardien).
+![](IMG_20230620_115529.jpg)
+![](IMG_20230620_132911.jpg)
+![](IMG_20230620_145234.jpg)
+![](IMG_20230621_152433.jpg)
+![](IMG_20230621_155230.jpg)
+![](IMG_20230622_120307.jpg)
+![](IMG_20230622_140313.jpg)
+![](IMG_20230622_161745.jpg)
 ______
