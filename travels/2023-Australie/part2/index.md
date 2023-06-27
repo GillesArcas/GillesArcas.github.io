@@ -114,7 +114,7 @@ ______
 
 J104 - 27 juin - Darwin - 0 km (4706 km)
 
-Retour à Darwin et fin de la parenthèse. Arrivée chez Fleur à trois heures du matin. Elle reçoit un autre cycliste, français, François, parti depuis trois ans et demi. Il a travaillé presque un an en Australie et est sur le chemin du retour, en commençant par le Timor, l’Indonésie, etc. Objectif : ne pas prendre l’avion jusqu’en France. Il prévoit au moins un an et demi. Un vrai.
+Retour à Darwin et fin de la parenthèse. Arrivée chez Fleur à trois heures du matin. Elle reçoit un autre cycliste, français, François, parti depuis trois ans et demi. Il a travaillé presque un an en Australie et est sur le chemin du retour, en commençant par le Timor, l’Indonésie, etc. Objectif : ne pas prendre l’avion jusqu’en France. Il prévoit au moins un an et demi. Bonne route !
 
 ![](IMG_20230626_215247.jpg)
 ______
