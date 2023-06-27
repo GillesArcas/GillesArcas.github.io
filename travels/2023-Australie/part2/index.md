@@ -76,6 +76,7 @@ ______
 ### J99 - 22 juin - Amed - 0 km (4706 km)
 
 Trois jours à Amed sur la côte nord est. Petite ville, spot de plongée et volcan tout près. Visite de plusieurs trucs, le premier jour, en chemin avec le chauffeur, et après en scooter. Visite du temple de Lempuyang, effectivement très beau mais organisé en studio Instagram (les gens font la queue et un photographe les prend entrain de faire des poses). Sortie en snorkeling (masque et tuba) et montée en haut du phare de Gili Selang à la pointe est de l’ile (pas un site officiel, il faut graisser la patte du gardien).
+
 ![](IMG_20230620_115529.jpg)
 ![](IMG_20230620_132911.jpg)
 ![](IMG_20230620_145234.jpg)
@@ -84,4 +85,36 @@ Trois jours à Amed sur la côte nord est. Petite ville, spot de plongée et vol
 ![](IMG_20230622_120307.jpg)
 ![](IMG_20230622_140313.jpg)
 ![](IMG_20230622_161745.jpg)
+______
+[2023/06/23]
+
+______
+[2023/06/24]
+
+______
+[2023/06/25]
+
+______
+[2023/06/26]
+
+J102 - 25 juin - Candidasa - 0 km (4706 km)
+
+Trois jours à Candidasa. Pas forcément le meilleur endroit, une rangée d’hôtels, de restaurants et de boutiques, coincée entre les collines et la mer. Et l’accès à la plage ne se fait que par les hôtels. Alors, scooter, visite du palais de Taman Ujung, et snorkeling autour des petits îlots en face de Candidasa. 
+
+![](IMG_20230623_085749.jpg)
+![](IMG_20230624_153611.jpg)
+![](IMG_20230624_160134.jpg)
+![](IMG_20230624_161335.jpg)
+![](IMG_20230625_142609.jpg)
+![](IMG_20230625_150622.jpg)
+![](IMG_20230625_160903.jpg)
+![](IMG_20230626_101507.jpg)
+______
+[2023/06/26]
+
+J104 - 27 juin - Darwin - 0 km (4706 km)
+
+Retour à Darwin et fin de la parenthèse. Arrivée chez Fleur à trois heures du matin. Elle reçoit un autre cycliste, français, François, parti depuis trois ans et demi. Il a travaillé presque un an en Australie et est sur le chemin du retour, en commençant par le Timor, l’Indonésie, etc. Objectif : ne pas prendre l’avion jusqu’en France. Il prévoit au moins un an et demi. Un vrai.
+
+![](IMG_20230626_215247.jpg)
 ______

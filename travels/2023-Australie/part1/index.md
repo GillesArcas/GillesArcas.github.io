@@ -1015,3 +1015,7 @@ Je devais prendre l’avion ce matin mais je n’avais pas trouvé de carton pou
 ![](IMG_20230613_151711.jpg)
 ![](IMG_20230613_193555.jpg)
 ______
+[2023/06/13]
+
+.
+______
