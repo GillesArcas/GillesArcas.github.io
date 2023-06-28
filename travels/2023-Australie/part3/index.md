@@ -24,6 +24,8 @@ ______
 
 Sur les recommandations de Fleur et François, je passe d’abord au Northern General Store (un magasin de matériel de camping qui tient plus du hangar avec des étagères) pour acheter un meilleur duvet. Il paraît qu’il va faire beaucoup plus froid, surtout la nuit, sur la côte sud ouest. Ensuite, sur les conseils de Fleur, je prends le ferry pour traverser la baie de Darwin et prendre une petite route tranquille. Ça évite de sortir de Darwin en suivant la grosse route. C’est effectivement désert par ici, très peu de trafic (un peu plus après avoir dépassé une mine de lithium) et aucune localité traversée. 
 
+Pas sûr du tout pour le réseau les deux prochains jours.
+
 ![](IMG_20230628_130657.jpg)
 ![](IMG_20230628_132100.jpg)
 ![](IMG_20230628_134107.jpg)
