@@ -97,7 +97,7 @@ ______
 ______
 [2023/06/26]
 
-J102 - 25 juin - Candidasa - 0 km (4706 km)
+### J102 - 25 juin - Candidasa - 0 km (4706 km)
 
 Trois jours à Candidasa. Pas forcément le meilleur endroit, une rangée d’hôtels, de restaurants et de boutiques, coincée entre les collines et la mer. Et l’accès à la plage ne se fait que par les hôtels. Alors, scooter, visite du palais de Taman Ujung, et snorkeling autour des petits îlots en face de Candidasa. 
 
@@ -109,12 +109,4 @@ Trois jours à Candidasa. Pas forcément le meilleur endroit, une rangée d’h�
 ![](IMG_20230625_150622.jpg)
 ![](IMG_20230625_160903.jpg)
 ![](IMG_20230626_101507.jpg)
-______
-[2023/06/26]
-
-J104 - 27 juin - Darwin - 0 km (4706 km)
-
-Retour à Darwin et fin de la parenthèse. Arrivée chez Fleur à trois heures du matin. Elle reçoit un autre cycliste, français, François, parti depuis trois ans et demi. Il a travaillé presque un an en Australie et est sur le chemin du retour, en commençant par le Timor, l’Indonésie, etc. Objectif : ne pas prendre l’avion jusqu’en France. Il prévoit au moins un an et demi. Bonne route !
-
-![](IMG_20230626_215247.jpg)
 ______
