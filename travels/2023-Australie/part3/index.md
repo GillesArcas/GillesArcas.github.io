@@ -48,6 +48,8 @@ ______
 
 Traversée du parc national en m’arrêtant plusieurs fois pour visiter. Montée aux Upper Cascades (les Lower Cascades sont fermées), trois quarts d’heure de sentier dans le bush pour y arriver. Ensuite, re-trempette dans les Wangi Falls, et visite aux Tolmer Falls. On y accède par le haut, et on voit tout le paysage autour. Arrivée au campground de nuit. Dix dollars avec douche et eau potable. Le gars me fait goûter de la confiture à la tomate et me donne le pot. Quand je le revois un peu plus tard, il me dit les push bikes ne payent pas et me redonne mes dix dollars.
 
+Note : « push bikes », c’est comme ça que les australiens appellent les vélos de randonnée. La première fois qu’on m’a demandé « you are pushing the bike? », j’ai répondu ben non, je pousse pas, je pédale. Depuis, j’ai compris.
+
 ![](IMG_20230630_112317.jpg)
 ![](IMG_20230630_152730.jpg)
 ![](IMG_20230630_153824.jpg)
@@ -55,7 +57,16 @@ Traversée du parc national en m’arrêtant plusieurs fois pour visiter. Monté
 ![](IMG_20230630_160424.jpg)
 ![](IMG_20230630_174530.jpg)
 ______
-[2023/06/30]
+[2023/07/01]
 
-Note : « push bikes », c’est comme ça que les australiens appellent les vélos de randonnée. La première fois qu’on m’a demandé « you are pushing the bike? », j’ai répondu ben non, je pousse pas, je pédale. Depuis, j’ai compris.
+### J108 - 1 juillet - Adelaide River - 48 km (4975 km)
+
+Nuit dernière un peu difficile. Très chaud sous la tente en début de nuit, mais impossible d’ouvrir à cause des moustiques (dont une escadrille a quand même réussi à rentrer). Ensuite, le vent s’est levé mais la tente est mal fixée (le sol est presque aussi dur que du béton). Je finis la nuit avec un bout de la tente fixé au vélo et l’autre bout qui a abdiqué. La fonction première de Zebra Stones, où j’ai passé la nuit, est de présenter et de vendre des objets en zebra stone, une pierre très ancienne avec des inclusions qui forment des motifs très jolis. J’assiste à la présentation avant de reprendre la route. 
+
+![](IMG_20230701_083129.jpg)
+![](IMG_20230701_105616.jpg)
+![](IMG_20230701_105721.jpg)
+![](IMG_20230701_124152.jpg)
+![](IMG_20230701_125337.jpg)
+![](IMG_20230701_143335.jpg)
 ______
