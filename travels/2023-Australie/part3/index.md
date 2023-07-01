@@ -59,7 +59,7 @@ Note : « push bikes », c’est comme ça que les australiens appellent les 
 ______
 [2023/07/01]
 
-### J108 - 1 juillet - Adelaide River - 48 km (4975 km)
+### J108 - 1er juillet - Adelaide River - 48 km (4975 km)
 
 Nuit dernière un peu difficile. Très chaud sous la tente en début de nuit, mais impossible d’ouvrir à cause des moustiques (dont une escadrille a quand même réussi à rentrer). Ensuite, le vent s’est levé mais la tente est mal fixée (le sol est presque aussi dur que du béton). Je finis la nuit avec un bout de la tente fixé au vélo et l’autre bout qui a abdiqué. La fonction première de Zebra Stones, où j’ai passé la nuit, est de présenter et de vendre des objets en zebra stone, une pierre très ancienne avec des inclusions qui forment des motifs très jolis. J’assiste à la présentation avant de reprendre la route. 
 
