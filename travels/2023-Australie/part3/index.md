@@ -70,3 +70,14 @@ Nuit dernière un peu difficile. Très chaud sous la tente en début de nuit, ma
 ![](IMG_20230701_125337.jpg)
 ![](IMG_20230701_143335.jpg)
 ______
+[2023/07/02]
+
+### J109 - 2 juillet - Entre Adelaide River et Pine Creek - 66 km (5041 km)
+
+Temps couvert et beaucoup moins chaud que les jours précédents. Vent du sud (c’est à peu près par là que va ma route). Petite route très tranquille qui évite la highway dans un paysage de collines. Et j’ai vu un cheval sauvage, j’avoue, il avait de l’allure.
+
+![](IMG_20230702_102026.jpg)
+![](IMG_20230702_114631.jpg)
+![](IMG_20230702_141146.jpg)
+![](IMG_20230702_162045.-crop.jpg)
+______
