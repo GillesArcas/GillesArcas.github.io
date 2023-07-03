@@ -74,10 +74,23 @@ ______
 
 ### J109 - 2 juillet - Entre Adelaide River et Pine Creek - 66 km (5041 km)
 
-Temps couvert et beaucoup moins chaud que les jours précédents. Vent du sud (c’est à peu près par là que va ma route). Petite route très tranquille qui évite la highway dans un paysage de collines. Et j’ai vu un cheval sauvage, j’avoue, il avait de l’allure.
+Temps couvert et beaucoup moins chaud que les jours précédents. Vent du sud (c’est à peu près par là que va ma route). Petite route très tranquille qui évite la highway dans un paysage de collines. Bivouac dans le bush. Et j’ai vu un cheval sauvage, j’avoue, il avait de l’allure.
 
 ![](IMG_20230702_102026.jpg)
 ![](IMG_20230702_114631.jpg)
 ![](IMG_20230702_141146.jpg)
 ![](IMG_20230702_162045.-crop.jpg)
+______
+[2023/07/03]
+
+### J110 - 3 juillet - Pine Creek - 66 km (5107 km)
+
+D’abord, réparer la crevaison d’hier (j’avais fini en regonflant plusieurs fois). Ensuite, retrouver la Stuart highway (la route qui relie Adelaide et Darwin). Pas trop sympa, mais ça passe. Quand même vingt kilomètres de route parallèle, une toute petite route « unmaintained » très jolie qui longe un terrain d’aviation de WWII. Il y a même un nid d’oiseau jardinier au bord de la route.
+
+![](IMG_20230703_095712.jpg)
+![](IMG_20230703_134104.jpg)
+![](IMG_20230703_134154.jpg)
+![](IMG_20230703_150730.jpg)
+![](IMG_20230703_154205.jpg)
+![](IMG_20230703_155212.jpg)
 ______
