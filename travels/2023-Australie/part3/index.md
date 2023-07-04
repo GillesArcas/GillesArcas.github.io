@@ -94,3 +94,14 @@ D’abord, réparer la crevaison d’hier (j’avais fini en regonflant plusieur
 ![](IMG_20230703_154205.jpg)
 ![](IMG_20230703_155212.jpg)
 ______
+[2023/07/04]
+
+### J111 - 4 juillet - Katherine - 102 km (5209 km)
+
+Je voulais suivre une petite route parallèle à la highway en quittant Pine Creek (la suite de la petite route d’hier). Pas de chance, la route est barrée après cinq kilomètres. Donc retour en arrière et toute la journée sur la grosse route. Caravan Park blindé. Une personne est refusée avant moi, mais on m’accepte parce que je suis en push bike (d’ailleurs, on dit en push bike ou à push bike ?).
+
+![](IMG_20230704_094935.jpg)
+![](IMG_20230704_095951.jpg)
+![](IMG_20230704_120021.jpg)
+![](IMG_20230704_142953.jpg)
+______
