@@ -105,3 +105,13 @@ Je voulais suivre une petite route parallèle à la highway en quittant Pine Cre
 ![](IMG_20230704_120021.jpg)
 ![](IMG_20230704_142953.jpg)
 ______
+[2023/07/05]
+
+### J112 - 5 juillet - Katherine - 0 km (5209 km)
+
+Jour de repos. En fait, il y a un nid de bowerbird (thanks Brian) à trois mètres de la cuisine du caravan park. Il vient même faire un peu de déco, pas farouche. Au programme, préparation des prochaines étapes (deux escales sur les 500 prochains kilomètres), lessive, réparation des crevaisons (pneu à plat quand j’ai voulu prendre le vélo) et recherche d’une chambre à air (trouvée au magasin de matériel de camping qui vend aussi des vélos). Finalement, balade le long de la rivière et trempette aux sources chaudes.
+
+![](IMG_20230705_085054.jpg)
+![](IMG_20230705_170941.jpg)
+![](IMG_20230705_181308.jpg)
+______
