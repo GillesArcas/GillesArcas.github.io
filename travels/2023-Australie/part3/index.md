@@ -136,3 +136,18 @@ Vent toujours sympa. Des petites collines tout du long mais jamais trop de déni
 ![](IMG_20230707_131226.jpg)
 ![](IMG_20230707_181210.jpg)
 ______
+[2023/07/08]
+
+### J115 - 8 juillet - Timber Creek - 94 km (5497 km)
+
+Deux balades dans le parc national. D’abord, la Escarpment Walk, qui monte au sommet des falaises, et la Nawilbinbin Walk, dix kilomètres plus loin mais sur ma route. Celle-là monte à mi-hauteur et longe le pied de la falaise. Supers paysages et quelques peintures rupestres. Après ça, encore 80 kilomètres pour finir l’étape. Le caravan park a un problème de chauve-souris. Il y en a des centaines dans les arbres autour.
+
+![](IMG_20230708_071404.jpg)
+![](IMG_20230708_072654.jpg)
+![](IMG_20230708_101100.jpg)
+![](IMG_20230708_110823.jpg)
+![](IMG_20230708_113832.jpg)
+![](IMG_20230708_114436.jpg)
+![](IMG_20230708_181048.jpg)
+[](VID_20230708_185512.mp4)
+______
