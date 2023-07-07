@@ -61,7 +61,7 @@ ______
 
 ### J108 - 1er juillet - Adelaide River - 48 km (4975 km)
 
-Nuit dernière un peu difficile. Très chaud sous la tente en début de nuit, mais impossible d’ouvrir à cause des moustiques (dont une escadrille a quand même réussi à rentrer). Ensuite, le vent s’est levé mais la tente est mal fixée (le sol est presque aussi dur que du béton). Je finis la nuit avec un bout de la tente fixé au vélo et l’autre bout qui a abdiqué. La fonction première de Zebra Stones, où j’ai passé la nuit, est de présenter et de vendre des objets en zebra stone, une pierre très ancienne avec des inclusions qui forment des motifs très jolis. J’assiste à la présentation avant de reprendre la route. 
+Nuit dernière un peu difficile. Très chaud sous la tente en début de nuit, mais impossible d’ouvrir à cause des moustiques (dont une escadrille a quand même réussi à rentrer). Ensuite, le vent s’est levé mais la tente est mal fixée (le sol est presque aussi dur que du béton). Je finis la nuit avec un bout de la tente fixé au vélo et l’autre bout qui a abdiqué. La fonction première de Zebra Stones, où j’ai passé la nuit, est de présenter et de vendre des objets en zebra stone, une pierre très ancienne avec des inclusions qui forment des motifs très jolis. J’assiste à la présentation avant de reprendre la route.
 
 ![](IMG_20230701_083129.jpg)
 ![](IMG_20230701_105616.jpg)
@@ -109,9 +109,30 @@ ______
 
 ### J112 - 5 juillet - Katherine - 0 km (5209 km)
 
-Jour de repos. En fait, il y a un nid de bowerbird (thanks Brian) à trois mètres de la cuisine du caravan park. Il vient même faire un peu de déco, pas farouche. Au programme, préparation des prochaines étapes (deux escales sur les 500 prochains kilomètres), lessive, réparation des crevaisons (pneu à plat quand j’ai voulu prendre le vélo) et recherche d’une chambre à air (trouvée au magasin de matériel de camping qui vend aussi des vélos). Finalement, balade le long de la rivière et trempette aux sources chaudes.
+Jour de repos. En fait, il y a un nid de bowerbird (thanks Brian) à trois mètres de la cuisine du caravan park. Il vient même faire un peu de déco, pas farouche. Au programme de la journée, préparation des prochaines étapes (deux escales sur les 500 prochains kilomètres), lessive, réparation des crevaisons (pneu à plat quand j’ai voulu prendre le vélo) et recherche d’une chambre à air (trouvée au magasin de matériel de camping qui vend aussi des vélos). Finalement, balade le long de la rivière et trempette aux sources chaudes.
 
 ![](IMG_20230705_085054.jpg)
+![](IMG_20230706_080007.jpg)
 ![](IMG_20230705_170941.jpg)
 ![](IMG_20230705_181308.jpg)
+______
+[2023/07/06]
+
+### J113 - 6 juillet - Mathison Rest Area - 101 km (5310 km)
+
+Direction sud ouest maintenant et vent plus favorable. Ça tombe bien, je suis chargé en eau et en nourriture (mais j’ai oublié mes yaourts dans le frigo du caravan park :( ). Une dizaine de caravanes au campsite. Quelqu’un vient discuter et me dit que la route vers une des villes où je dois passer a été coupée à cause des pluies. Il faudra que je vérifie et si c’est toujours le cas, il n’y a pas d’autre solution que d’attendre. 
+
+![](IMG_20230706_122251.jpg)
+![](IMG_20230706_144556.jpg)
+![](IMG_20230706_150249.jpg)
+______
+[2023/07/07]
+
+### J114 - 7 juillet - Victoria River - 93 km (5403 km)
+
+Vent toujours sympa. Des petites collines tout du long mais jamais trop de dénivelé. Paysage plus escarpé sur la fin. En fait, je suis rentré dans un parc national (Judbarra/Gregory National Park). Troisième crevaison en quatre jours à trois kilomètres de l’arrivée. Causettes avec plusieurs personnes au caravan park, dont un couple suisse-hollandais qui se sont rencontrés en Inde en faisant chacun leur tour du monde à vélo il y a quarante ans.
+
+![](IMG_20230707_130006.jpg)
+![](IMG_20230707_131226.jpg)
+![](IMG_20230707_181210.jpg)
 ______
