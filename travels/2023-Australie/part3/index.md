@@ -151,3 +151,16 @@ Deux balades dans le parc national. D’abord, la Escarpment Walk, qui monte au 
 ![](IMG_20230708_181048.jpg)
 [](VID_20230708_185512.mp4)
 ______
+[2023/07/09]
+
+### J116 - 9 juillet - Bulla - 81 km (5578 km)
+
+Pour me protéger des chauves-souris, le caravan park m’avait proposé de m’installer sous un endroit abrité. Je l’ai partagé avec Kim, une américaine très sympa (elle m’a donné une de ces barres énergétiques rapportées d’Amérique). Elle est entrain de se balader à moto autour de l’Australie. Petit déjeuner copieux (finalement, ça aide à tenir la journée). Premier détour pour monter à un point de vue et voir le paysage, et deuxième détour pour aller au bord de la rivière. Après ça, plus grand-chose de notable à part quelques gros boabs (les baobabs d’ici) et le motard qui s’est mis à ma hauteur pour me demander si j’avais besoin d’eau ou de nourriture. Bivouac dans le bush, pas de réseau et silence total après le passage des dernières voitures.
+
+![](IMG_20230709_081455.jpg)
+![](IMG_20230709_090732.jpg)
+![](IMG_20230709_122732.jpg)
+![](IMG_20230709_130737.jpg)
+![](IMG_20230709_155418.jpg)
+![](IMG_20230709_185733.jpg)
+______
