@@ -164,3 +164,24 @@ Pour me protéger des chauves-souris, le caravan park m’avait proposé de m’
 ![](IMG_20230709_155418.jpg)
 ![](IMG_20230709_185733.jpg)
 ______
+[2023/07/10]
+
+### J117 - 10 juillet - Allan Kellet Rest Area - 95 km (5673 km)
+
+Route tranquille qui traverse une région de petites falaises et de gros baobabs. A la pause dans un campground, causette avec un jeune couple qui m’ont dépassé deux fois. Faciles à reconnaître, ils voyagent dans un bus aménagé plus une remorque qui contient une voiture et un bateau.
+
+![](IMG_20230710_104705.jpg)
+![](IMG_20230710_114043.jpg)
+![](IMG_20230710_121513.jpg)
+______
+[2023/07/11]
+
+### J118 - 11 juillet - Kununurra - 63 km (5736 km)
+
+Passage en Australie-Occidentale. Quatre fois la France, 2,5 millions d’habitants dont 2 millions à Perth, autrement dit, on ne se marche pas sur les pieds. Pour des raisons sanitaires, il y a un poste frontière pour vérifier qu’il n’y a pas de fruits et de légumes qui rentrent.
+
+![](IMG_20230711_091916.jpg)
+![](IMG_20230711_095533.jpg)
+![](IMG_20230711_100144.jpg)
+![](IMG_20230711_101639.jpg)
+______
