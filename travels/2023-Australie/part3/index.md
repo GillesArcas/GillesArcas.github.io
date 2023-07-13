@@ -189,7 +189,7 @@ ______
 
 ### J119 - 12 juillet - Kununurra - 0 km (5736 km)
 
-Journée de repos. Passage au Visitor Center qui me propose d’aller au Mirima National Park, petit parc à la sortie de la ville. Très belle balade dans des formations rocheuses en grès. Un mini Bungle Bungle me dit la dame. Quant au vrai Bungle Bungle, elle ne propose qu’une excursion en avion à à peu près 1000$ (600 euros). L’alternative, c’est d’avoir un 4x4 pour faire les 50 kilomètres de piste depuis la route. En fait, il y a bien une compagnie qui fait des tours à partir de la route mais elle est fermée cette année.
+Journée de repos. Passage au Visitor Center qui me propose d’aller au Mirima National Park, petit parc à la sortie de la ville. Très belle balade dans des formations rocheuses en grès. Un mini Bungle Bungle me dit la dame. Quant au vrai Bungle Bungle (à 250 kilomètres d’ici), elle ne propose qu’une excursion en avion à à peu près 1000$ (600 euros). L’alternative, c’est d’avoir un 4x4 pour faire les 50 kilomètres de piste depuis la route. En fait, il y a bien une compagnie qui fait des tours à partir de la route mais elle est fermée cette année.
 
 ![](IMG_20230712_133730.jpg)
 ![](IMG_20230712_143055.jpg)
@@ -197,4 +197,17 @@ Journée de repos. Passage au Visitor Center qui me propose d’aller au Mirima 
 ![](IMG_20230712_151151.jpg)
 ![](IMG_20230712_152921.jpg)
 ![](IMG_20230712_165308.jpg)
+______
+[2023/07/13]
+
+### J120 - 13 juillet - Kununurra - 0 km (5736 km)
+
+Excursion en bateau au lac Argyle, un lac de barrage immense (une fois et demi le lac Léman) à 70 kilomètres de la ville.
+
+![](IMG_20230713_133151.jpg)
+![](IMG_20230713_145508.jpg)
+![](IMG_20230713_151514.jpg)
+![](IMG_20230713_152159.jpg)
+![](IMG_20230713_153639.jpg)
+![](IMG_20230713_154555.jpg)
 ______
