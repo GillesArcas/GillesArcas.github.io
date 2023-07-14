@@ -211,3 +211,16 @@ Excursion en bateau au lac Argyle, un lac de barrage immense (une fois et demi l
 ![](IMG_20230713_153639.jpg)
 ![](IMG_20230713_154555.jpg)
 ______
+[2023/07/14]
+
+### J121 - 14 juillet - Doon Doon Roadhouse - 109 km (5845 km)
+
+Départ un peu tardif (10h passées) malgré la longueur de l’étape et la nuit qui tombe à 18h. Très joli tout du long avec un paysage de collines plus ou moins escarpées . Arrivée à la roadhouse avec la nuit et le coucher de soleil.
+
+![](IMG_20230714_140644.jpg)
+![](IMG_20230714_145640.jpg)
+![](IMG_20230714_152013.jpg)
+![](IMG_20230714_153649.jpg)
+![](IMG_20230714_170340.jpg)
+![](IMG_20230714_171658.jpg)
+______
