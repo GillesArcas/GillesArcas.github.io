@@ -224,3 +224,18 @@ Départ un peu tardif (10h passées) malgré la longueur de l’étape et la nui
 ![](IMG_20230714_170340.jpg)
 ![](IMG_20230714_171658.jpg)
 ______
+[2023/07/15]
+
+### J122 - 15 juillet - Warmun - 92 km (5937 km)
+
+Relief un peu plus marqué, les collines sont souvent plus proches de la route et plus escarpées. Un peu plus de dénivelé aussi. Paysages toujours aussi beaux. J’ai aussi vu une bande de chevaux sauvages et j’ai sauvé un crapaud qui était sur la route d’une mort certaine. Arrivé à la roadhouse, la dernière place vient d’être prise. Le gars me trouve quand même une petite place parce que je suis à vélo.
+
+![](IMG_20230715_083900.jpg)
+![](IMG_20230715_113834.jpg)
+![](IMG_20230715_120251.jpg)
+![](IMG_20230715_123217.jpg)
+![](IMG_20230715_133445.jpg)
+[](VID_20230715_135519.mp4)
+![](IMG_20230715_151514.jpg)
+![](IMG_20230715_152825.jpg)
+______
