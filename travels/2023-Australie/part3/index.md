@@ -239,3 +239,27 @@ Relief un peu plus marqué, les collines sont souvent plus proches de la route e
 ![](IMG_20230715_151514.jpg)
 ![](IMG_20230715_152825.jpg)
 ______
+[2023/07/16]
+
+### J123 - 16 juillet - A mi-chemin de Warmun et Halls Creek - 78 km (6015 km)
+
+Paysage plus plat mais toujours un peu de dénivelé. Les collines se sont éloignées et ça ressemble plus à un plateau. Encore vu des chevaux (mais pas de crapaud). Bivouac dans le bush.
+
+![](IMG_20230716_141047.jpg)
+![](IMG_20230716_142824.jpg)
+![](IMG_20230716_150621.jpg)
+![](IMG_20230716_151815-crop.jpg)
+![](IMG_20230716_174436.jpg)
+[](VID_20230716_124436-short.mp4)
+______
+[2023/07/17]
+
+### J124 - 17 juillet - Halls Creek - 86 km (6101 km)
+
+Toile de tente bien mouillée au réveil mais ça sèche vite dès que le soleil donne dessus. Encore un peu moins de collines. Au caravan park, la dame me recommande de garder mon argent sur moi et de ranger le vélo dans un garage qu’elle tient fermé.
+
+![](IMG_20230717_083053.jpg)
+![](IMG_20230717_122503.jpg)
+![](IMG_20230717_123348.jpg)
+![](IMG_20230717_153712.jpg)
+______
