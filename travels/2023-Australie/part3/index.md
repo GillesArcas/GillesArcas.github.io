@@ -263,3 +263,14 @@ Toile de tente bien mouillée au réveil mais ça sèche vite dès que le soleil
 ![](IMG_20230717_123348.jpg)
 ![](IMG_20230717_153712.jpg)
 ______
+[2023/07/18]
+
+### J125 - 18 juillet - Halls Creek - 0 km (6101 km)
+
+Journée de repos. Balade pour aller voir le China Wall à 7 km de la ville, et le lookout à 5 km de l’autre côté. Le China Wall est une veine de quartz verticale qui apparaît de temps en temps jusqu’à Kununurra. Et le point de vue n’est pas très haut mais permet de voir la ville en entier (pas grand-chose) et le paysage sur 360°. Pas de réseau pendant deux jours, et sûrement pas les deux jours qui suivent.
+
+![](IMG_20230718_140930.jpg)
+![](IMG_20230718_141348.jpg)
+![](IMG_20230718_154826.jpg)
+[](VID_20230718_155304.mp4)
+______
