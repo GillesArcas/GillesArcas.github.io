@@ -267,10 +267,21 @@ ______
 
 ### J125 - 18 juillet - Halls Creek - 0 km (6101 km)
 
-Journée de repos. Balade pour aller voir le China Wall à 7 km de la ville, et le lookout à 5 km de l’autre côté. Le China Wall est une veine de quartz verticale qui apparaît de temps en temps jusqu’à Kununurra. Et le point de vue n’est pas très haut mais permet de voir la ville en entier (pas grand-chose) et le paysage sur 360°. Pas de réseau pendant deux jours, et sûrement pas les deux jours qui suivent.
+Journée de repos. Balade pour aller voir le China Wall à 7 km de la ville, et le lookout à 5 km de l’autre côté. Le China Wall est une veine de quartz verticale qui apparaît de temps en temps jusqu’à Kununurra. Et le point de vue n’est pas très haut mais permet de voir la ville en entier (pas grand-chose) et le paysage sur 360°. Pas de réseau pendant les deux jours qui viennent, et sûrement pas les deux jours qui suivent.
 
 ![](IMG_20230718_140930.jpg)
 ![](IMG_20230718_141348.jpg)
 ![](IMG_20230718_154826.jpg)
 [](VID_20230718_155304.mp4)
+______
+[2023/07/19]
+
+### J126 - 19 juillet - Mary Pool Campground - 111 km (6212 km)
+
+Vent très favorable et un peu moins de dénivelé. En fait, le paysage est devenu plus plat et vide par endroits. Un peu de réseau au campground. Le monsieur d’une caravane à côté vient discuter et finalement il propose de m’apporter un café demain matin.
+
+![](IMG_20230719_092747.jpg)
+![](IMG_20230719_120635.jpg)
+![](IMG_20230719_144200.jpg)
+![](IMG_20230719_164421.jpg)
 ______
