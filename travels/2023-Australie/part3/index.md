@@ -285,3 +285,14 @@ Vent très favorable et un peu moins de dénivelé. En fait, le paysage est deve
 ![](IMG_20230719_144200.jpg)
 ![](IMG_20230719_164421.jpg)
 ______
+[2023/07/20]
+
+### J127 - 20 juillet - Mimbi Campground - 95 km (6307 km)
+
+Comme prévu, le monsieur m’a apporté un café ce matin. Toujours du vent favorable. Route de plus en plus plate sans vraiment rien de notable, à part une petite chaîne d’escarpements, Ngumban Cliff, à quelques kilomètres de Mimbi. Arrivée au campground perdu dans la nature après six kilomètres de piste.
+
+![](IMG_20230720_080958.jpg)
+![](IMG_20230720_120630.jpg)
+![](IMG_20230720_122634.jpg)
+![](IMG_20230720_142950.jpg)
+______
