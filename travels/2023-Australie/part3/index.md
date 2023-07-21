@@ -300,7 +300,7 @@ ______
 
 ### J128 - 21 juillet - Mimbi Campground - 0 km (6307 km)
 
-Journée sur place. Le matin, je vais faire un tour en haut des falaises, pas très hautes, au-dessus du campground. Et l’après-midi, c’est visite guidée des Mimbi Caves. L’accès est impressionnant et se fait entre des falaises aux formes érodées. Les Mimbi Caves forment un ensemble de cavernes et de porches sans aucun emménagement. Il y a plein de ramifications partout et on aimerait avoir la possibilités d’explorer plus loin.
+Journée sur place. Le matin, je vais faire un tour en haut des falaises (pas très hautes) au-dessus du campground pour voir le paysage. Et l’après-midi, c’est visite guidée des Mimbi Caves. L’accès est impressionnant et se fait entre des falaises aux formes très découpées. Les Mimbi Caves forment un ensemble de cavernes et de porches sans aucun emménagement. Il y a plein de ramifications partout et on aimerait avoir la possibilité d’explorer plus loin.
 
 ![](IMG_20230721_123324.jpg)
 ![](IMG_20230721_135509.jpg)
