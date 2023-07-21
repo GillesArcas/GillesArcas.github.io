@@ -289,10 +289,23 @@ ______
 
 ### J127 - 20 juillet - Mimbi Campground - 95 km (6307 km)
 
-Comme prévu, le monsieur m’a apporté un café ce matin. Toujours du vent favorable. Route de plus en plus plate sans vraiment rien de notable, à part une petite chaîne d’escarpements, Ngumban Cliff, à quelques kilomètres de Mimbi. Arrivée au campground perdu dans la nature après six kilomètres de piste.
+Comme promis, le monsieur m’a apporté un café ce matin. Toujours du vent favorable. Route de plus en plus plate sans vraiment rien de notable, à part une petite chaîne d’escarpements, Ngumban Cliff, à quelques kilomètres de Mimbi. Arrivée au campground perdu dans la nature après six kilomètres de piste.
 
 ![](IMG_20230720_080958.jpg)
 ![](IMG_20230720_120630.jpg)
 ![](IMG_20230720_122634.jpg)
 ![](IMG_20230720_142950.jpg)
+______
+[2023/07/21]
+
+### J128 - 21 juillet - Mimbi Campground - 0 km (6307 km)
+
+Journée sur place. Le matin, je vais faire un tour en haut des falaises, pas très hautes, au-dessus du campground. Et l’après-midi, c’est visite guidée des Mimbi Caves. L’accès est impressionnant et se fait entre des falaises aux formes érodées. Les Mimbi Caves forment un ensemble de cavernes et de porches sans aucun emménagement. Il y a plein de ramifications partout et on aimerait avoir la possibilités d’explorer plus loin.
+
+![](IMG_20230721_123324.jpg)
+![](IMG_20230721_135509.jpg)
+![](IMG_20230721_145422.jpg)
+![](IMG_20230721_150711.jpg)
+![](IMG_20230721_151739.jpg)
+![](IMG_20230721_174343.jpg)
 ______
