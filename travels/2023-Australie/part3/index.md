@@ -309,3 +309,14 @@ Journée sur place. Le matin, je vais faire un tour en haut des falaises (pas tr
 ![](IMG_20230721_151739.jpg)
 ![](IMG_20230721_174343.jpg)
 ______
+[2023/07/22]
+
+### J129 - 22 juillet - Fitzroy Crossing - 115 km (6422 km)
+
+Route plate, végétation plus ou moins clairsemée, vent un peu moins favorable. Dans la matinée, un cycliste en vélo de route et sans bagage me dépasse, prend juste le temps de dire bonjour, file devant et disparaît. Il y a eu des inondations en janvier à Fitzroy et le pont a été détruit. Le temps de le reconstruire, un pont temporaire a été construit quatre kilomètres plus loin, et donc huit kilomètres de détour. Arrivé en ville, je fais des courses et je cherche un caravan park. Celui qui est le plus près de la ville est fermé depuis les inondations, le deuxième est bien ouvert mais de l’autre côté de la rivière, donc encore huit kilomètres de détour.
+
+![](IMG_20230722_095807.jpg)
+![](IMG_20230722_140047-crop.jpg)
+![](IMG_20230722_152429.jpg)
+![](IMG_20230722_171851.jpg)
+______
