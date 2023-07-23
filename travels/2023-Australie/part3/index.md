@@ -120,7 +120,7 @@ ______
 
 ### J113 - 6 juillet - Mathison Rest Area - 101 km (5310 km)
 
-Direction sud ouest maintenant et vent plus favorable. Ça tombe bien, je suis chargé en eau et en nourriture (mais j’ai oublié mes yaourts dans le frigo du caravan park :( ). Une dizaine de caravanes au campsite. Quelqu’un vient discuter et me dit que la route vers une des villes où je dois passer a été coupée à cause des pluies. Il faudra que je vérifie et si c’est toujours le cas, il n’y a pas d’autre solution que d’attendre. 
+Direction sud ouest maintenant et vent plus favorable. Ça tombe bien, je suis chargé en eau et en nourriture (mais j’ai oublié mes yaourts dans le frigo du caravan park :( ). Une dizaine de caravanes au campsite. Quelqu’un vient discuter et me dit que la route vers une des villes où je dois passer a été coupée à cause des pluies. Il faudra que je vérifie et si c’est toujours le cas, il n’y a pas d’autre solution que d’attendre.
 
 ![](IMG_20230706_122251.jpg)
 ![](IMG_20230706_144556.jpg)
@@ -309,14 +309,37 @@ Journée sur place. Le matin, je vais faire un tour en haut des falaises (pas tr
 ![](IMG_20230721_151739.jpg)
 ![](IMG_20230721_174343.jpg)
 ______
+[2023/07/21] [ignore]
+
+This is rainman. He sings a song to make the rain come.
+
+![](IMG_20230721_151700.jpg)
+______
+[2023/07/21]  [ignore]
+
+Do you ride at night? Are you afraid of the ghosts?
+
+![](IMG_20230721_160311.jpg)
+______
 [2023/07/22]
 
 ### J129 - 22 juillet - Fitzroy Crossing - 115 km (6422 km)
 
-Route plate, végétation plus ou moins clairsemée, vent un peu moins favorable. Dans la matinée, un cycliste en vélo de route et sans bagage me dépasse, prend juste le temps de dire bonjour, file devant et disparaît. Il y a eu des inondations en janvier à Fitzroy et le pont a été détruit. Le temps de le reconstruire, un pont temporaire a été construit quatre kilomètres plus loin, et donc huit kilomètres de détour. Arrivé en ville, je fais des courses et je cherche un caravan park. Celui qui est le plus près de la ville est fermé depuis les inondations, le deuxième est bien ouvert mais de l’autre côté de la rivière, donc encore huit kilomètres de détour.
+Route plate, végétation plus ou moins clairsemée, vent un peu moins favorable. Dans la matinée, un cycliste en vélo de route et sans bagage me dépasse, prend juste le temps de dire bonjour, file devant et disparaît. On est quand même au milieu de 300 kilomètres de rien. Il y a eu des inondations en janvier à Fitzroy et le pont a été détruit. Le temps de le reconstruire, un pont temporaire a été construit quatre kilomètres plus loin, et donc huit kilomètres de détour. Arrivé en ville, je fais des courses et je cherche un caravan park. Celui qui est le plus près de la ville est fermé depuis les inondations, le deuxième est bien ouvert mais de l’autre côté de la rivière, donc encore huit kilomètres de détour.
 
 ![](IMG_20230722_095807.jpg)
 ![](IMG_20230722_140047-crop.jpg)
 ![](IMG_20230722_152429.jpg)
 ![](IMG_20230722_171851.jpg)
+______
+[2023/07/23]
+
+### J130 - 23 juillet - Fitzroy Crossing - 0 km (6422 km)
+
+Jour de repos. Il y a un parc national à vingt kilomètres avec des gorges qui ont l’air impressionnant. Je voulais y aller mais le parc est fermé à cause des inondations. En partant faire des courses à l’IGA, je m’approche des travaux du pont (juste à la sortie du caravan park) pour faire une photo. Il y a un autre pont temporaire pour les travaux. Un gars me laisse passer à pied en poussant le vélo (c’est du gros caillou). C’est nettement plus court comme ça.
+
+![](IMG_20230723_102142.jpg)
+![](IMG_20230723_122243.jpg)
+![](IMG_20230723_125638.jpg)
+![](IMG_20230723_143511.jpg)
 ______
