@@ -336,10 +336,21 @@ ______
 
 ### J130 - 23 juillet - Fitzroy Crossing - 0 km (6422 km)
 
-Jour de repos. Il y a un parc national à vingt kilomètres avec des gorges qui ont l’air impressionnant. Je voulais y aller mais le parc est fermé à cause des inondations. En partant faire des courses à l’IGA, je m’approche des travaux du pont (juste à la sortie du caravan park) pour faire une photo. Il y a un autre pont temporaire pour les travaux. Un gars me laisse passer à pied en poussant le vélo (c’est du gros caillou). C’est nettement plus court comme ça.
+Jour de repos. Il y a un parc national à vingt kilomètres avec des gorges qui ont l’air impressionnant. Je voulais y aller mais le parc est fermé à cause des inondations. En partant faire des courses à l’IGA de l’autre côté, je m’approche des travaux du pont (juste à la sortie du caravan park) pour faire une photo. Il y a un autre pont temporaire pour les travaux. Un gars me laisse passer à pied en poussant le vélo (c’est du gros caillou). C’est nettement plus court comme ça.
 
 ![](IMG_20230723_102142.jpg)
 ![](IMG_20230723_122243.jpg)
 ![](IMG_20230723_125638.jpg)
 ![](IMG_20230723_143511.jpg)
+______
+[2023/07/24]
+
+### J131 - 24 juillet - Ellendale Lagoon - 97 km (6519 km)
+
+Vent frisquet ce matin (9° d’après l’appli). Pour repartir, il faut retraverser la rivière. Comme hier, je m’approche des travaux et je demande à quelqu’un si je peux traverser par le pont de service. Cette fois, c’est non parce qu’il y a des travaux mais le gars me dit qu’il va appeler une voiture et qu’on mettra le vélo dedans. La voiture arrive, on charge le vélo et le gars m’emmène de l’autre côté en passant par le détour. Merci ! Après ça, vent hyper favorable, jamais roulé aussi vite. Campground très agréable autour d’un étang sur un terrain privé qui laisse l’accès.
+
+![](IMG_20230724_090249.jpg)
+![](IMG_20230724_131616.jpg)
+![](IMG_20230724_151634.jpg)
+![](IMG_20230724_153207.jpg)
 ______
