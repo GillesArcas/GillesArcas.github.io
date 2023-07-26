@@ -354,3 +354,25 @@ Vent frisquet ce matin (9° d’après l’appli). Pour repartir, il faut retrav
 ![](IMG_20230724_151634.jpg)
 ![](IMG_20230724_153207.jpg)
 ______
+[2023/07/25]
+
+### J132 - 25 juillet - 170 km à l'ouest de Fitzroy - 73 km (6592 km)
+
+Rien à signaler à part le retour des gros baobabs, dont un énorme sur une aire de repos. Bivouac dans le bush.
+
+![](IMG_20230725_090305.jpg)
+![](IMG_20230725_095323.jpg)
+![](IMG_20230725_113340.jpg)
+![](IMG_20230725_122419.jpg)
+______
+[2023/07/26]
+
+### J133 - 26 juillet - Willare Bridge Roadhouse - 64 km (6656 km)
+
+Rien à signaler à part la voiture qui s’est mis à ma hauteur pour me dire super et me tendre une mandarine.
+
+![](IMG_20230726_130914.jpg)
+![](IMG_20230726_133001.jpg)
+![](IMG_20230726_134924.jpg)
+![](IMG_20230726_135809.jpg)
+______
