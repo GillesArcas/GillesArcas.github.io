@@ -376,3 +376,14 @@ Rien à signaler à part la voiture qui s’est mis à ma hauteur pour me dire s
 ![](IMG_20230726_134924.jpg)
 ![](IMG_20230726_135809.jpg)
 ______
+[2023/07/27]
+
+### J134 - 27 juillet - Three Water Holes - 90 km (6746 km)
+
+Juste après la roadhouse, il y a le pont sur la Fitzroy River, et juste après le pont, la route est en travaux sur plusieurs kilomètres. Un gars m’arrête, me dit que c’est dangereux de passer («safety first») et appelle son boss. On finit par embarquer le vélo dans sa voiture et il m’emmène quatre kilomètres plus loin. Tout petit campground au bord d’un étang. Repas à la lueur de la lune qui est juste au-dessus et qui éclaire assez pour se passer de lampe.
+
+![](IMG_20230727_093210.jpg)
+![](IMG_20230727_095724.jpg)
+![](IMG_20230727_102414.jpg)
+![](IMG_20230727_173808.jpg)
+______
