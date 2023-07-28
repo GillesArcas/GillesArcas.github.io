@@ -387,3 +387,13 @@ Juste après la roadhouse, il y a le pont sur la Fitzroy River, et juste après 
 ![](IMG_20230727_102414.jpg)
 ![](IMG_20230727_173808.jpg)
 ______
+[2023/07/28]
+
+### J135 - 28 juillet - Broome - 72 km (6818 km)
+
+À mi-chemin, pause à la roadhouse à l’embranchement entre la route de Broome et la route qui suit la côte vers le sud. Je repasserai par là. Arrivé à Broome, je trouve un caravan park avec de la place à Cable Beach après trois appels infructueux. Caravan park convivial de 500 places. Après installation, direction la plage pour me tremper les pieds, je n’avais pas vu la mer depuis 2000 kilomètres. Broome est la grande ville (14000 habitants) de la côte nord-ouest. Trois jours de repos.
+
+![](IMG_20230728_115208.jpg)
+![](IMG_20230728_155546.jpg)
+![](IMG_20230728_164902.jpg)
+______
