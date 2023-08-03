@@ -435,3 +435,12 @@ Paysage tout pareil toute la journée. À un moment, il y a des travaux de marqu
 ![](IMG_20230802_132210.jpg)
 ![](IMG_20230802_133716.jpg)
 ______
+[2023/08/03]
+
+### J141 - 3 aout - Bush camp - 91 km (7070 km)
+
+Ce matin, Mary, qui m’a donné de l’eau hier soir, me propose un café. En fait, elle me sert un breakfast avec café, toasts, miel, fraises et framboises. Y viva Australia! Comme avait dit Fleur à Darwin « they will take care of you ». Mary et son mari sont en train de faire le tour de l’Australie en caravane. Ils sont partis il y a un an et pensent être rentrés pour Noël. 
+
+![](IMG_20230803_080504.jpg)
+![](IMG_20230803_081351.jpg)
+______
