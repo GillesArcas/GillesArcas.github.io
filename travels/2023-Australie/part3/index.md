@@ -397,3 +397,41 @@ ______
 ![](IMG_20230728_155546.jpg)
 ![](IMG_20230728_164902.jpg)
 ______
+[2023/07/29]
+
+______
+[2023/07/30]
+
+______
+[2023/07/31]
+
+### J138 - 31 juillet - Broome - 0 km (6818 km)
+
+Trois jours à Broome. Du repos, un peu d’intendance et un peu de balade. Pas trop de choses à voir à Broome même, à part la plage et la mer.
+
+![](IMG_20230729_173705.jpg)
+![](IMG_20230730_150625.jpg)
+![](IMG_20230730_154617.jpg)
+![](IMG_20230731_144627.jpg)
+![](IMG_20230731_153247.jpg)
+![](IMG_20230731_163112.jpg)
+______
+[2023/08/01]
+
+### J139 - 1er aout - Bush camp - 79 km (6897 km)
+
+Chargé comme une mule (treize litres d’eau, pommes, bananes, avocats, etc, pour quatre jours), je repars de Roebuck Road House pour finir la journée. La route part vers le sud ouest et bonne surprise, le vent n’est pas défavorable. Quand le soleil se couche, je prends le premier chemin qui se présente et je trouve un endroit pour passer la nuit.
+
+![](IMG_20230801_145638.jpg)
+![](IMG_20230801_154048.jpg)
+![](IMG_20230801_174657.jpg)
+______
+[2023/08/02]
+
+### J140 - 2 aout - Goldwire Campground - 82 km (6979 km)
+
+Paysage tout pareil toute la journée. À un moment, il y a des travaux de marquage. Arrivé à la hauteur d’une voiture de sécurité, une dame me demande si je veux de l’eau fraîche et me donne deux petites bouteilles d’eau. C’est pas de refus, il fait 32°. Et en passant un des camions de travaux, le conducteur me tend une autre bouteille. Causette au campground avec un gars à moto qui fait le tour de l’Australie et avec une dame, en caravane, qui me remplit deux bouteilles d’eau.
+
+![](IMG_20230802_132210.jpg)
+![](IMG_20230802_133716.jpg)
+______
