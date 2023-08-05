@@ -418,7 +418,15 @@ Trois jours à Broome. Du repos, un peu d’intendance et un peu de balade. Pas 
 ______
 [2023/08/01]
 
-### J139 - 1er aout - Bush camp - 79 km (6897 km)
+### J139 - 1er août - Roebuck Roadhouse
+
+Je voulais passer la nuit ici après une petite étape mais c'est blindé, même en disant que je suis en push bike. Alors, changement de programme. Je prends de l'eau pour plusieurs jours (j'ai déjà de quoi manger) et je continue la route. Prochaine roadhouse dans presque 300 km où j'arriverai vendredi. Finalement, c'est bien aussi comme ça, par contre, pour le réseau, faudra sûrement attendre jusque là.
+
+![](IMG_20230801_142714.jpg)
+______
+[2023/08/01]
+
+### J139 - 1er août - Bush camp - 79 km (6897 km)
 
 Chargé comme une mule (treize litres d’eau, pommes, bananes, avocats, etc, pour quatre jours), je repars de Roebuck Road House pour finir la journée. La route part vers le sud ouest et bonne surprise, le vent n’est pas défavorable. Quand le soleil se couche, je prends le premier chemin qui se présente et je trouve un endroit pour passer la nuit.
 
@@ -428,7 +436,7 @@ Chargé comme une mule (treize litres d’eau, pommes, bananes, avocats, etc, po
 ______
 [2023/08/02]
 
-### J140 - 2 aout - Goldwire Campground - 82 km (6979 km)
+### J140 - 2 août - Goldwire Campground - 82 km (6979 km)
 
 Paysage tout pareil toute la journée. À un moment, il y a des travaux de marquage. Arrivé à la hauteur d’une voiture de sécurité, une dame me demande si je veux de l’eau fraîche et me donne deux petites bouteilles d’eau. C’est pas de refus, il fait 32°. Et en passant un des camions de travaux, le conducteur me tend une autre bouteille. Causette au campground avec un gars à moto qui fait le tour de l’Australie et avec une dame, en caravane, qui me remplit deux bouteilles d’eau.
 
@@ -437,10 +445,21 @@ Paysage tout pareil toute la journée. À un moment, il y a des travaux de marqu
 ______
 [2023/08/03]
 
-### J141 - 3 aout - Bush camp - 91 km (7070 km)
+### J141 - 3 août - Bush camp - 91 km (7070 km)
 
-Ce matin, Mary, qui m’a donné de l’eau hier soir, me propose un café. En fait, elle me sert un breakfast avec café, toasts, miel, fraises et framboises. Y viva Australia! Comme avait dit Fleur à Darwin « they will take care of you ». Mary et son mari sont en train de faire le tour de l’Australie en caravane. Ils sont partis il y a un an et pensent être rentrés pour Noël. 
+Ce matin, Mary, qui m’a donné de l’eau hier soir, me propose un café. En fait, elle me sert un breakfast avec café, toasts, miel, fraises et framboises. Y viva Australia! Comme avait dit Fleur à Darwin « they will take care of you ». Mary et son mari sont en train de faire le tour de l’Australie en caravane. Ils sont partis il y a un an et pensent être rentrés pour Noël.
 
 ![](IMG_20230803_080504.jpg)
 ![](IMG_20230803_081351.jpg)
+______
+[2023/08/04]
+
+### J142 - 4 août - Sandfire Roadhouse - 76 km (7146 km)
+
+34° aujourd’hui. Vent de côté un peu gênant en début de journée mais tail wind pour finir et ça roule bien. Sandfire est la seule roadhouse (et point de ravitaillement en eau) sur presque 600 kilomètres. Ils ont des cabines à 80 dollars (50 euros) petites et un peu vétustes, mais comme c’est abordable et que je n’ai pas dormi dans un lit depuis un mois, je prends.
+
+![](IMG_20230804_140146.jpg)
+![](IMG_20230804_142745.jpg)
+![](IMG_20230804_152350.jpg)
+![](IMG_20230804_171819.jpg)
 ______
