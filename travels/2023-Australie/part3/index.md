@@ -456,10 +456,24 @@ ______
 
 ### J142 - 4 août - Sandfire Roadhouse - 76 km (7146 km)
 
-34° aujourd’hui. Vent de côté un peu gênant en début de journée mais tail wind pour finir et ça roule bien. Sandfire est la seule roadhouse (et point de ravitaillement en eau) sur presque 600 kilomètres. Ils ont des cabines à 80 dollars (50 euros) petites et un peu vétustes, mais comme c’est abordable et que je n’ai pas dormi dans un lit depuis un mois, je prends.
+34° aujourd’hui. Vent de côté un peu gênant en début de journée mais tail wind pour finir et ça roule bien. Sandfire est la seule roadhouse (et point de ravitaillement en eau) sur presque 600 kilomètres. Ils ont des cabines à 80 dollars (50 euros) petites et un peu vétustes, mais comme c’est abordable et que je n’ai pas dormi dans un lit depuis un mois, je prends !
 
 ![](IMG_20230804_140146.jpg)
 ![](IMG_20230804_142745.jpg)
 ![](IMG_20230804_152350.jpg)
 ![](IMG_20230804_171819.jpg)
+______
+[2023/08/05]
+
+______
+[2023/08/06]
+
+### J144 - 6 août - Sandfire Roadhouse - 0 km (7146 km)
+
+Finalement, deux jours à Sandfire. J’ai bien profité du lit et ça m’a donné l’occasion d’avoir quelques interactions avec la faune locale.
+
+![](IMG_20230805_084305.jpg)
+![](IMG_20230805_091024.jpg)
+![](IMG_20230805_181107.jpg)
+![](IMG_20230806_081210.jpg)
 ______
