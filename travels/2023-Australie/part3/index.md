@@ -477,3 +477,14 @@ Finalement, deux jours à Sandfire. J’ai bien profité du lit et ça m’a don
 ![](IMG_20230805_181107.jpg)
 ![](IMG_20230806_081210.jpg)
 ______
+[2023/08/07]
+
+### J145 - 7 août - Warree Hill - 82 km (7228 km)
+
+C’est reparti pour 280 kilomètres sans ravitaillement. Cette fois, je pars avec 17 litres d’eau (onze dans un jerrycan, quatre dans deux poches à eau et deux dans les bidons). Heureusement, le vent est très favorable et ça roule bien malgré le poids. Par contre, pneu arrière à plat après 25 kilomètres. Je finis la journée en regonflant deux fois et ça tient. On verra demain matin si il faut réparer. Depuis Broome, la route suit la mer à 10 ou 20 kilomètres. Il y a très peu d’accès et toujours en piste, alors pas question d’y aller avec tout le poids. Bivouac au pied d’une antenne 3G.
+
+![](IMG_20230807_094955.jpg)
+![](IMG_20230807_100444.jpg)
+![](IMG_20230807_125603.jpg)
+[](VID_20230807_110818.mp4)
+______
