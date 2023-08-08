@@ -488,3 +488,15 @@ C’est reparti pour 280 kilomètres sans ravitaillement. Cette fois, je pars av
 ![](IMG_20230807_125603.jpg)
 [](VID_20230807_110818.mp4)
 ______
+[2023/08/08]
+
+### J146 - 8 août - Cape Keraudren - 68 km (7296 km)
+
+Ce matin, juste en arrivant sur la highway après mon bivouac, je vois un cycliste arrivé. C’est un cycliste qui m’avait dépassé il y a trois semaines. Cette fois, on prend le temps de discuter. En fait, il a passé trois ans et demi à faire le tour de l’Australie avec deux chevaux et là, il est entrain de terminer son périple à vélo. Sa femme le suit dans le camion des chevaux mais les chevaux sont rentrés à Perth. Après ça, paysage toujours aussi vide et vent toujours aussi favorable. Petit arrêt à la roadhouse de Pardoo, fermée, dévastée par un cyclone en avril. Peu après la roadhouse, je vois une indication pour aller à Cape Keraudren à 12 kilomètres et la route est goudronnée. Après cinq secondes d’hésitation, je me dis que je peux faire le détour et c’est parti. Après 7 kilomètres, la route devient de la piste mais ça passe. Finalement, installation au campground à 50 mètres de la mer. C’est pas fini. Une fois la tente plantée ,j’entends « Gilles ». C’est Kim, l’américaine à moto, que j’avais rencontrée il y a un mois.Toujours aussi sympa. Elle a fait des courses à Port Hedland (140 km) et me donne de quoi faire un repas. C’est pas encore fini pour aujourd’hui. Dans les vans et caravanes, je vois un camion de chevaux avec un vélo à côté. C’est bien eux, Erwin et Monique, le cycliste de ce matin  et sa femme. Ils m’invitent à manger et je passe un moment avec eux. 
+`
+
+![](IMG_20230808_090809.jpg)
+![](IMG_20230808_125213.jpg)
+![](IMG_20230808_141542.jpg)
+![](IMG_20230808_151956.jpg)
+______
