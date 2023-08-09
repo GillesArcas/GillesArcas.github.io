@@ -500,3 +500,18 @@ Ce matin, juste en arrivant sur la highway après mon bivouac, je vois un cyclis
 ![](IMG_20230808_141542.jpg)
 ![](IMG_20230808_151956.jpg)
 ______
+[2023/08/09]
+
+### J147 - 9 août - Cape Keraudren - 0 km (7296 km)
+
+Je n’avais pas prévu de passer la journée ici, entre autres à cause du ravitaillement. Mais l’endroit est super et complètement isolé, même si les campgrounds sont bien occupés. Erwin et Monique m’ont expliqué que pour l’eau et la nourriture, ils pouvaient m’aider, d’autant plus qu’ils m’ont invité au barbecue ce soir. Merci ! J’ai pu profiter de la journée avec des balades sur la plage et à l’extrémité du cap. J‘ai discuté aussi avec Kim qui m’a dit qu’elle a été guide en kayak dans le Grand Canyon. Respect !
+
+![](IMG_20230809_121911.jpg)
+![](IMG_20230809_092947.jpg)
+![](IMG_20230809_124717.jpg)
+![](IMG_20230809_124821.jpg)
+![](IMG_20230809_134238.jpg)
+![](IMG_20230809_163213.jpg)
+![](IMG_20230809_163035.jpg)
+![](IMG_20230809_170908.jpg)
+______
