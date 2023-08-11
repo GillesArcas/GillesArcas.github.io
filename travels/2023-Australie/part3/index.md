@@ -515,3 +515,26 @@ Je n’avais pas prévu de passer la journée ici, entre autres à cause du ravi
 ![](IMG_20230809_163035.jpg)
 ![](IMG_20230809_170908.jpg)
 ______
+[2023/08/10]
+
+### J148 - 10 août - De Grey River Rest Area - 82 km (7378 km)
+
+On se dit au revoir avec Kim en échangeant nos Facebook. Même si on ne se recroise pas, on aura au moins des nouvelles. Par contre, avec Erwin et Monique, on se dit à ce soir puisque on se retrouve au même campement. Monique en profite pour me proposer de prendre une partie de mes affaires dans le camion et je fais le trajet avec plus de dix kilos en moins. Très appréciable. Quatre vingt kilomètres de paysage vide, de végétation basse, sans ombre, et à peine un peu de relief à un moment. Tellement isolé que deux road trains me font un coucou. Beaucoup de voitures me font un signe en me croisant (ça va de l’index levé à des appels de phare, des coups de klaxon, ou des grands gestes de la main par la fenêtre) mais je crois que pour les road trains, c’est la première fois.
+
+![](IMG_20230810_103628.jpg)
+![](IMG_20230810_122137.jpg)
+![](IMG_20230810_125435.jpg)
+![](IMG_20230810_143723.jpg)
+![](IMG_20230810_154223.jpg)
+______
+[2023/08/11]
+
+### J149 - 11 août - South Hedland - 78 km (7456 km)
+
+Ambiance moins isolée. La route suit une voie de chemin de fer et une ligne à haute tension, ça change un peu l’ambiance. Aussi, c’est une région de mines et de carrières et il y a beaucoup de road trains (mais tout le monde fait attention). Rencontre avec Martin, un cycliste de Berlin, plein d’enthousiasme, qui va de Perth à Darwin. Je suis le premier cycliste qu’il croise depuis son départ. Je retrouve Erwin et Monique au campground du golf où ils ont réussi à trouver un emplacement. Douche (après quatre jours sans) et soirée fish&ships.
+
+![](IMG_20230811_090716.jpg)
+![](IMG_20230811_104652.jpg)
+![](IMG_20230811_113142.jpg)
+![](IMG_20230811_130602.jpg)
+______
