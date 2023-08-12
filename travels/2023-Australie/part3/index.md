@@ -538,3 +538,12 @@ Ambiance moins isolée. La route suit une voie de chemin de fer et une ligne à 
 ![](IMG_20230811_113142.jpg)
 ![](IMG_20230811_130602.jpg)
 ______
+[2023/08/12]
+
+### J150 - 12 août - South Hedland - 46 km (7502 km)
+
+Journée off. Erwin et Monique ont pris la route mais je devrais les retrouver dans trois jours. Le campground est près des grands axes et on entend les road trains toute la nuit alors je commence la journée par déménager au caravan park à côté. Ensuite, routine des jours off (courses, lessive) et balade pour voir la mer à une quinzaine de kilomètres.  
+
+![](IMG_20230812_165252.jpg)
+![](IMG_20230812_173759.jpg)
+______
