@@ -547,3 +547,14 @@ Journée off. Erwin et Monique ont pris la route mais je devrais les retrouver d
 ![](IMG_20230812_165252.jpg)
 ![](IMG_20230812_173759.jpg)
 ______
+[2023/08/13]
+
+### J151 - 13 août - Bush camp - 85 km (7587 km)
+
+Départ pour trois jours sans rien. Direction au sud. D’abord un peu vers l’ouest et le vent n’est pas sympa puis plutôt vers l’est et le vent devient plus amical. Paysage spartiate, route plus importante, beaucoup de road trains, surtout ceux à quatre remorques qui transportent du minerai.
+
+![](IMG_20230813_112555.jpg)
+![](IMG_20230813_154056.jpg)
+![](IMG_20230813_155133.jpg)
+![](IMG_20230813_155750.jpg)
+______
