@@ -558,3 +558,14 @@ Départ pour trois jours sans rien. Direction au sud. D’abord un peu vers l’
 ![](IMG_20230813_155133.jpg)
 ![](IMG_20230813_155750.jpg)
 ______
+[2023/08/14]
+
+### J152 - 14 août - Two Camel Creek Rest Area - 84 km (7671 km)
+
+Route comme hier. Un peu plus de dénivelé, quelques collines avec des amoncellements de rochers, un peu moins de road trains. Je retrouve Erwin et Monique au campement et on passe la soirée ensemble.
+
+![](IMG_20230814_124250.jpg)
+![](IMG_20230814_135936.jpg)
+![](IMG_20230814_152039-crop.jpg)
+![](IMG_20230814_154733.jpg)
+______
