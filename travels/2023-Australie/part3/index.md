@@ -569,3 +569,14 @@ Route comme hier. Un peu plus de dénivelé, quelques collines avec des amoncell
 ![](IMG_20230814_152039-crop.jpg)
 ![](IMG_20230814_154733.jpg)
 ______
+[2023/08/15]
+
+### J153 - 15 août - Auski Roadhouse - 85 km (7756 km)
+
+Toujours sur la même route, la Great Northern Highway, avec peut-être un peu moins de camions et un peu plus de dénivelé (400 mètres, ça n’était pas arrivé depuis un mois). La route traverse des beaux paysages de collines ocres et desséchées, puis arrive sur un plateau. Cette fois, il y a plus d’arbres mais moins de végétation autour. À la roadhouse, je retrouve Erwin et Monique qui m’ont réservé une place sur leur emplacement.
+
+![](IMG_20230815_105200.jpg)
+![](IMG_20230815_121405.jpg)
+![](IMG_20230815_145108.jpg)
+![](IMG_20230815_155929.jpg)
+______
