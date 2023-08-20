@@ -492,7 +492,7 @@ ______
 
 ### J146 - 8 août - Cape Keraudren - 68 km (7296 km)
 
-Ce matin, juste en arrivant sur la highway après mon bivouac, je vois un cycliste arrivé. C’est un cycliste qui m’avait dépassé il y a trois semaines. Cette fois, on prend le temps de discuter. En fait, il a passé trois ans et demi à faire le tour de l’Australie avec deux chevaux et là, il est entrain de terminer son périple à vélo. Sa femme le suit dans le camion des chevaux mais les chevaux sont rentrés à Perth. Après ça, paysage toujours aussi vide et vent toujours aussi favorable. Petit arrêt à la roadhouse de Pardoo, fermée, dévastée par un cyclone en avril. Peu après la roadhouse, je vois une indication pour aller à Cape Keraudren à 12 kilomètres et la route est goudronnée. Après cinq secondes d’hésitation, je me dis que je peux faire le détour et c’est parti. Après 7 kilomètres, la route devient de la piste mais ça passe. Finalement, installation au campground à 50 mètres de la mer. C’est pas fini. Une fois la tente plantée ,j’entends « Gilles ». C’est Kim, l’américaine à moto, que j’avais rencontrée il y a un mois.Toujours aussi sympa. Elle a fait des courses à Port Hedland (140 km) et me donne de quoi faire un repas. C’est pas encore fini pour aujourd’hui. Dans les vans et caravanes, je vois un camion de chevaux avec un vélo à côté. C’est bien eux, Erwin et Monique, le cycliste de ce matin  et sa femme. Ils m’invitent à manger et je passe un moment avec eux. 
+Ce matin, juste en arrivant sur la highway après mon bivouac, je vois un cycliste arrivé. C’est un cycliste qui m’avait dépassé il y a trois semaines. Cette fois, on prend le temps de discuter. En fait, il a passé trois ans et demi à faire le tour de l’Australie avec deux chevaux et là, il est entrain de terminer son périple à vélo. Sa femme le suit dans le camion des chevaux mais les chevaux sont rentrés à Perth. Après ça, paysage toujours aussi vide et vent toujours aussi favorable. Petit arrêt à la roadhouse de Pardoo, fermée, dévastée par un cyclone en avril. Peu après la roadhouse, je vois une indication pour aller à Cape Keraudren à 12 kilomètres et la route est goudronnée. Après cinq secondes d’hésitation, je me dis que je peux faire le détour et c’est parti. Après 7 kilomètres, la route devient de la piste mais ça passe. Finalement, installation au campground à 50 mètres de la mer. C’est pas fini. Une fois la tente plantée ,j’entends « Gilles ». C’est Kim, l’américaine à moto, que j’avais rencontrée il y a un mois.Toujours aussi sympa. Elle a fait des courses à Port Hedland (140 km) et me donne de quoi faire un repas. C’est pas encore fini pour aujourd’hui. Dans les vans et caravanes, je vois un camion de chevaux avec un vélo à côté. C’est bien eux, Erwin et Monique, le cycliste de ce matin  et sa femme. Ils m’invitent à manger et je passe un moment avec eux.
 `
 
 ![](IMG_20230808_090809.jpg)
@@ -542,7 +542,7 @@ ______
 
 ### J150 - 12 août - South Hedland - 46 km (7502 km)
 
-Journée off. Erwin et Monique ont pris la route mais je devrais les retrouver dans trois jours. Le campground est près des grands axes et on entend les road trains toute la nuit alors je commence la journée par déménager au caravan park à côté. Ensuite, routine des jours off (courses, lessive) et balade pour voir la mer à une quinzaine de kilomètres.  
+Journée off. Erwin et Monique ont pris la route mais je devrais les retrouver dans trois jours. Le campground est près des grands axes et on entend les road trains toute la nuit alors je commence la journée par déménager au caravan park à côté. Ensuite, routine des jours off (courses, lessive) et balade pour voir la mer à une quinzaine de kilomètres.
 
 ![](IMG_20230812_165252.jpg)
 ![](IMG_20230812_173759.jpg)
@@ -584,7 +584,7 @@ ______
 
 ### J154 - 16 août - Bush camp - 78 km (7834 km)
 
-Beaucoup de vent ce matin. Les premiers 35 kilomètres se font face au vent, avec un peu de dénivelé (à peu près 300 mètres, 500 mètres dans la journée) et chargé avec deux jours d’eau. Il me faut trois heures pour arriver à la jonction avec la route vers Tom Price, mais la route remonte dans une gorge avec des supers paysages et des supers couleurs. Après ça, ça monte et ça descend plus doucement, et le vent est moins défavorable. Moins spectaculaire, mais beau quand même, la route longe le  parc national de Karijini. Une heure avant de m’arrêter pour la nuit, une moto me double et s’arrête. C’est Kim qui revient de visiter le parc national. 
+Beaucoup de vent ce matin. Les premiers 35 kilomètres se font face au vent, avec un peu de dénivelé (à peu près 300 mètres, 500 mètres dans la journée) et chargé avec deux jours d’eau. Il me faut trois heures pour arriver à la jonction avec la route vers Tom Price, mais la route remonte dans une gorge avec des supers paysages et des supers couleurs. Après ça, ça monte et ça descend plus doucement, et le vent est moins défavorable. Moins spectaculaire, mais beau quand même, la route longe le  parc national de Karijini. Une heure avant de m’arrêter pour la nuit, une moto me double et s’arrête. C’est Kim qui revient de visiter le parc national.
 
 ![](IMG_20230816_103919.jpg)
 ![](IMG_20230816_104507.jpg)
@@ -597,10 +597,40 @@ ______
 
 ### J155 - 17 août - Tom Price - 81 km (7915 km)
 
-Journee plus facile qu’hier. Toujours des beaux paysages, entre autres parce que la route longe le Mount Bruce, deuxieme sommet de l’Australie de l’Ouest avec 1234 mètres. C’est possible d’y monter, c’est six heures aller-retour depuis un parking à trois kilomètres de piste de la route. Ça sera pour une autre fois. La grosse montée de la journée fait du 8% sur deux kilomètres. Juste avant, un road train me dépasse et commence la montée. Il monte à peine plus vite que moi. Je monte à 7km/h, il doit aller à 8 km/h.
+Journée plus facile qu’hier. Toujours des beaux paysages, entre autres parce que la route longe le Mount Bruce, deuxième sommet de l’Australie de l’Ouest avec 1234 mètres. C’est possible d’y monter, c’est six heures aller-retour depuis un parking à trois kilomètres de piste de la route. Ça sera pour une autre fois. La grosse montée de la journée fait du 8% sur deux kilomètres. Juste avant, un road train me dépasse et commence la montée. Il monte à peine plus vite que moi. Je monte à 7km/h, il doit aller à 8 km/h.
 
 ![](IMG_20230817_082929.jpg)
 ![](IMG_20230817_105328.jpg)
 ![](IMG_20230817_124124.jpg)
 ![](IMG_20230817_142007.jpg)
+______
+[2023/08/18]
+
+______
+[2023/08/19]
+
+### J157 - 19 août - Tom Price - 0 km (7915 km)
+
+Deuxième jour à Tom Price. Excursion d’une journée au parc national de Karijini. 300 kilomètres, dont 100 kilomètres de piste, en bus 4x4. Plusieurs gorges visitées, depuis le haut ou depuis le bas, tout très beau.
+
+![](IMG_20230819_090937.jpg)
+![](IMG_20230819_091110.jpg)
+![](IMG_20230819_092331.jpg)
+![](IMG_20230819_092517.jpg)
+![](IMG_20230819_111748.jpg)
+![](IMG_20230819_123414.jpg)
+![](IMG_20230819_152538.jpg)
+![](IMG_20230819_154725.jpg)
+______
+[2023/08/20]
+
+### J158 - 20 août - Tom Price - 0 km (7915 km)
+
+Toujours à Tom Price. Montée sur le Mount Nameless qui surplombe la ville et le caravan park. 1128 mètres de haut, 400 mètres de dénivelé à partir de la route. C’est aussi le plus haut sommet d’Australie Occidentale accessible en 4x4. Ça casse un peu le charme mais le point de vue sur les environs vaut la balade. Reste de la journée pour préparer la suite et faire les courses. Prochaine ville pour faire des courses : demain et après, c’est dans 550 kilomètres.
+
+![](IMG_20230820_102701.jpg)
+![](IMG_20230820_102914.jpg)
+![](IMG_20230820_113108.jpg)
+![](IMG_20230820_121525.jpg)
+![](IMG_20230820_121556.jpg)
 ______
