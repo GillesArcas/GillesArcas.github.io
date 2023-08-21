@@ -634,3 +634,16 @@ Toujours à Tom Price. Montée sur le Mount Nameless qui surplombe la ville et l
 ![](IMG_20230820_121525.jpg)
 ![](IMG_20230820_121556.jpg)
 ______
+[2023/08/21]
+
+### J159 - 21 août - Paraburdoo - 89 km (8004 km)
+
+Toujours des beaux paysages, beaucoup moins de camions et vent pas défavorable. En première impression, Paraburdoo est une ville dortoir pour les gens qui travaillent à la mine. Le check-in pour le caravan park se fait dans un immense motel, complet parce que the mine is very busy for the moment.
+
+![](IMG_20230821_142722.jpg)
+![](IMG_20230821_144842.jpg)
+![](IMG_20230821_151441.jpg)
+![](IMG_20230821_153959.jpg)
+![](IMG_20230821_162925.jpg)
+![](IMG_20230821_190954.jpg)
+______
