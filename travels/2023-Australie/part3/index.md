@@ -647,3 +647,16 @@ Toujours des beaux paysages, beaucoup moins de camions et vent pas défavorable.
 ![](IMG_20230821_162925.jpg)
 ![](IMG_20230821_190954.jpg)
 ______
+[2023/08/22]
+
+### J160 - 22 août - Cheela Plains Station - 96 km (8100 km)
+
+Pas dérangé sur la route. Beaucoup de vent, souvent gênant mais rarement franchement hostile. Plus d’arbres et ça devient plus facile de trouver de l’ombre. Caravan park dans une station, une exploitation agricole, à l’écart de la route.
+
+![](IMG_20230822_092633.jpg)
+![](IMG_20230822_093634.jpg)
+![](IMG_20230822_124854.jpg)
+![](IMG_20230822_152042.jpg)
+![](IMG_20230822_165548.jpg)
+![](IMG_20230822_175856.jpg)
+______
