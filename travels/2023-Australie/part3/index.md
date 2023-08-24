@@ -664,7 +664,7 @@ ______
 
 ### J161 - 23 août - Nanutarra Road Rest Area - 89 km (8189 km)
 
-Cette fois, le vent est devenu franchement antipathique. Vent de nord-ouest, c’est par là que je vais. Parti tard (crevaison à réparer), et roulant lentement, j’arrive juste après le coucher du soleil à mi-chemin entre Cheela Plains et la prochaine roadhouse. Et là, sur une aire de repos, je retrouve Monique et Erwin. On devait se retrouver à Cheela Plains mais ils avaient préféré s’installer sur une aire de repos juste après. Ils m’accueillent avec un grand verre d’eau fraîche, un fauteuil, un repas et une bière. En fait, je ne compte plus ce qu’ils mont offert entre les repas, la cartouche de gaz, le bœuf bourguignon lyophilisé (excellent), les boissons, et toute leur aide.
+Cette fois, le vent est devenu franchement antipathique. Vent de nord-ouest, c’est par là que je vais. Parti tard (crevaison à réparer), et roulant lentement, j’arrive juste après le coucher du soleil à mi-chemin entre Cheela Plains et la prochaine roadhouse. Et là, sur une aire de repos, je retrouve Monique et Erwin. On devait se retrouver à Cheela Plains mais ils avaient préféré s’installer sur une aire de repos juste après. Ils m’accueillent avec un grand verre d’eau fraîche, un fauteuil, un repas et une bière. En fait, je ne compte plus ce qu’ils mont offert entre les repas, la cartouche de gaz, le bœuf bourguignon lyophilisé (excellent), les boissons, et plein d’attentions.
 
 ![](IMG_20230823_100302.jpg)
 ![](IMG_20230823_133039.jpg)
