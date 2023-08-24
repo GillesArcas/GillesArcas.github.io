@@ -672,3 +672,14 @@ Cette fois, le vent est devenu franchement antipathique. Vent de nord-ouest, c�
 ![](IMG_20230823_170326.jpg)
 ![](IMG_20230823_182342.jpg)
 ______
+[2023/08/24]
+
+### J162 - 24 août - Nanutarra - 93 km (8282 km)
+
+Petit-déj bien installé avec le fauteuil et la table d’Erwin et Monique. Après ça, bien plus facile qu’hier. Monique a pris les deux sacs et une sacoche dans le camion, et le vent est devenu favorable. Pas d’eau potable à la roadhouse, il faut l’acheter en bouteille, 7 dollars, 1,5 litre, il me faut au moins 10 litres demain.
+
+![](IMG_20230824_070651.jpg)
+![](IMG_20230824_093617-crop.jpg)
+![](IMG_20230824_130724.jpg)
+![](IMG_20230824_140554.jpg)
+______
