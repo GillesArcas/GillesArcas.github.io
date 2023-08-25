@@ -683,3 +683,16 @@ Petit-déj bien installé avec le fauteuil et la table d’Erwin et Monique. Apr
 ![](IMG_20230824_130724.jpg)
 ![](IMG_20230824_140554.jpg)
 ______
+[2023/08/25]
+
+### J163 - 25 août - Bush camp - 98 km (8380 km)
+
+On se dit au revoir avec Monique et Erwin mais on va échanger les positions et on devrait se recroiser. Monique, qui a utilisé l’eau du caravan park pour remplir les réservoirs d’eau du camion, n’a pas l’air paniquée. Je lui fait confiance et je tire 15 litre d’eau pour trois jours (sinon c’était 10 bouteilles à 7 dollars). Vent sympa sauf en fin de journée. Je rencontre Brooke en train de courir au milieu de nulle part. Elle court jusqu’à Perth pour collecter des dons, 60 kilometres par jour, pendant encore 27 jours. On cause pendant cinq minutes et quelques kilomètres après je rencontre Rowin, son assistance, qui m’offre à boire et des rations énergétiques.
+
+![](IMG_20230825_113029.jpg)
+![](IMG_20230825_114705.jpg)
+![](IMG_20230825_120834.jpg)
+[](VID_20230825_121533-crop-nosound.mp4)
+![](IMG_20230825_123024.jpg)
+![](IMG_20230825_151813.jpg)
+______
