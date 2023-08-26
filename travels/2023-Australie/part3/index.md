@@ -696,3 +696,14 @@ On se dit au revoir avec Monique et Erwin mais on va échanger les positions et 
 ![](IMG_20230825_123024.jpg)
 ![](IMG_20230825_151813.jpg)
 ______
+[2023/08/26]
+
+### J164 - 26 août - Bullara Station - 90 km (8470 km)
+
+Vent favorable presque toute la journée. En revanche, paysage austère. Peu de relief, des grands lignes droites, peu de végétation, pas d’ombre.
+
+![](IMG_20230826_080702.jpg)
+![](IMG_20230826_110819.jpg)
+![](IMG_20230826_110856.jpg)
+![](IMG_20230826_112424.jpg)
+______
