@@ -719,3 +719,8 @@ Vent moins défavorable que prévu et encore moins de végétation qu’hier en 
 ![](IMG_20230828_150134.jpg)
 ![](Noth-WestCape.jpg)
 ______
+[2023/08/28]
+
+.
+![](carte-2023-08-28.jpg)
+______
