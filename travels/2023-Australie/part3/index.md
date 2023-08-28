@@ -707,3 +707,15 @@ Vent favorable presque toute la journée. En revanche, paysage austère. Peu de 
 ![](IMG_20230826_110856.jpg)
 ![](IMG_20230826_112424.jpg)
 ______
+[2023/08/27]
+
+### J165 - 27 août - Exmouth - 94 km (8564 km)
+
+Vent moins défavorable que prévu et encore moins de végétation qu’hier en début de journée. Je finis quand même par trouver un bosquet et de l’ombre pour faire une pause. Surprise, ça donne juste sur une plage. La route suit après ça la mer d’assez près jusqu’à Exmouth au bout du Cap du Nord-Ouest. Exmouth est réputé pour y voir facilement des requins baleines. Mais là, c’est trop tard, la bonne saison finit en juin.
+
+![](IMG_20230827_091328.jpg)
+![](IMG_20230827_094730.jpg)
+![](IMG_20230827_131215.jpg)
+![](IMG_20230828_150134.jpg)
+![](Noth-WestCape.jpg)
+______
