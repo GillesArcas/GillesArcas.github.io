@@ -724,3 +724,15 @@ ______
 .
 ![](carte-2023-08-28.jpg)
 ______
+[2023/08/29]
+
+### J166 - 29 août - Exmouth - 124 km (8688 km)
+
+Balade sur la côte ouest du cap. Je vais aussi loin que possible sachant qu’il faudra rentrer avant la nuit. Il y a un récif de corail à porter de snorkeling (masque et tuba) mais je n’ai pas ce qu’il faut. Je m’arrête quand même à plusieurs endroits pour voir les plages, une mangrove et une épave de  bateau échoué en 1907.
+
+![](CapeNorthWest.jpg)
+![](IMG_20230829_120605.jpg)
+![](IMG_20230829_132444.jpg)
+![](IMG_20230829_150135.jpg)
+![](IMG_20230829_171908.jpg)
+______
