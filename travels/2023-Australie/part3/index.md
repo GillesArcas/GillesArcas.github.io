@@ -728,11 +728,38 @@ ______
 
 ### J166 - 29 août - Exmouth - 124 km (8688 km)
 
-Balade sur la côte ouest du cap. Je vais aussi loin que possible sachant qu’il faudra rentrer avant la nuit. Il y a un récif de corail à porter de snorkeling (masque et tuba) mais je n’ai pas ce qu’il faut. Je m’arrête quand même à plusieurs endroits pour voir les plages, une mangrove et une épave de  bateau échoué en 1907.
+Balade sur la côte ouest du cap. Je vais aussi loin que possible sachant qu’il faudra rentrer avant la nuit. Il y a un récif de corail à portée de snorkeling (masque et tuba) mais je n’ai pas ce qu’il faut. Je m’arrête quand même à plusieurs endroits pour voir les plages, une mangrove et une épave de  bateau échoué en 1907.
 
 ![](CapeNorthWest.jpg)
 ![](IMG_20230829_120605.jpg)
 ![](IMG_20230829_132444.jpg)
 ![](IMG_20230829_150135.jpg)
 ![](IMG_20230829_171908.jpg)
+______
+[2023/08/30]
+
+### J167 - 30 août - Exmouth - 0 km (8688 km)
+
+Excursion en mer, presque cinq heures sur un bateau. On est prévenu d’avance, rien n’est garanti, on verra ce qu’on verra. On a quand même vu, depuis le bateau ou en snorkeling, des baleines à bosse (plusieurs fois), trois requins (dont un requin marteau), deux serpents de mer entrain de faire connaissance, une raie (mais pas manta), bien sûr des coraux, et oui !, deux requins baleines, de près et assez longtemps (ils viennent nager près de la surface). Il y a une photographe sous-marine dans l’équipage, on devrait recevoir les photos.
+
+![](IMG_20230830_135339.jpg)
+![](IMG_20230830_084921.jpg)
+![](IMG_20230830_094817-crop.jpg)
+![](IMG_20230830_140000.jpg)
+______
+[2023/08/30]
+
+Pendant mon excursion à Karijini il y a une dizaine de jours, javais discuté avec trois dames. Une d’entre elles m’avait filmé, brièvement,  deux jours avant entrain de grimper un bout de piste pour atteindre un point de vue. Je viens de recevoir leurs photos.
+
+[](IMG_3806.mp4)
+______
+[2023/08/31]
+
+### J168 - 31 août - Bush camp - 89 km (8777 km)
+
+Quatre-vingt kilomètres de route déjà faite pour repartir vers le sud. Paysage toujours aussi vide.
+
+![](IMG_20230831_120519.jpg)
+![](IMG_20230831_150941.jpg)
+![](IMG_20230831_154135.jpg)
 ______
