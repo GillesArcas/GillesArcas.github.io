@@ -767,10 +767,31 @@ ______
 
 ### J170 - 1 septembre - Coral Bay - 64 km (8841 km)
 
-Réveil dans la brume. Toile de tente mouillée mais une heure après c’est sec et la température est intenable dans la tente. Après ça, même paysage qu’hier, pas d’arbres, pas d’ombre, et beaucoup de vent défavorable (qui risque de durer). Enfin vu une pousse de Sturt's desert peas, une fleur emblématique de par ici. Et c’est officiellement le début du printemps en Australie. 
+Réveil dans la brume. Toile de tente mouillée mais une heure après c’est sec et la température est intenable dans la tente. Après ça, même paysage qu’hier, pas d’arbres, pas d’ombre, et beaucoup de vent défavorable (qui risque de durer). Enfin vu une pousse de Sturt's desert peas, une fleur emblématique de par ici. Et c’est officiellement le début du printemps en Australie.
 
 ![](IMG_20230901_075455-crop.jpg)
 ![](IMG_20230901_075816.jpg)
 ![](IMG_20230901_120256-crop.jpg)
 ![](IMG_20230901_134441.jpg)
+______
+[2023/09/02]
+
+Les images de la sortie en mer. Dans l’eau, ça n’est pas aussi net mais c’est plus impressionnant.
+
+![](Kings Ningaloo Reef Tours 30.08.23 Elle Gillett-5662.jpg)
+![](Kings Ningaloo Reef Tours 30.08.23 Elle Gillett-5679.jpg)
+![](Kings Ningaloo Reef Tours 30.08.23 Elle Gillett-5702.jpg)
+![](Kings Ningaloo Reef Tours 30.08.23 Elle Gillett-5813.jpg)
+![](Kings Ningaloo Reef Tours 30.08.23 Elle Gillett-8288.jpg)
+![](Kings Ningaloo Reef Tours 30.08.23 Elle Gillett-5753.jpg)
+______
+[2023/09/02]
+
+### J171 - 2 septembre - Coral Bay - 0 km (8841 km).
+
+Journée de repos avant de repartir dans le vent. Coral Bay est constituée de deux caravan parks et de quelques services. Pas grand-chose à voir, à part les plages où il n’y a a pas grand monde et les récifs tout près. En s’éloignant d’un kilomètre, il y a une nurserie de requins, une lagune bien abritée où les jeunes requins tournent en rond en attendant de grandir. 
+
+![](IMG_20230902_140214.jpg)
+![](IMG_20230902_152539.jpg)
+[](VID_20230902_152013.mp4)
 ______
