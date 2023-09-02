@@ -726,7 +726,7 @@ ______
 ______
 [2023/08/29]
 
-### J166 - 29 août - Exmouth - 124 km (8688 km)
+### J167 - 29 août - Exmouth - 124 km (8688 km)
 
 Balade sur la côte ouest du cap. Je vais aussi loin que possible sachant qu’il faudra rentrer avant la nuit. Il y a un récif de corail à portée de snorkeling (masque et tuba) mais je n’ai pas ce qu’il faut. Je m’arrête quand même à plusieurs endroits pour voir les plages, une mangrove et une épave de  bateau échoué en 1907.
 
@@ -738,7 +738,7 @@ Balade sur la côte ouest du cap. Je vais aussi loin que possible sachant qu’i
 ______
 [2023/08/30]
 
-### J167 - 30 août - Exmouth - 0 km (8688 km)
+### J168 - 30 août - Exmouth - 0 km (8688 km)
 
 Excursion en mer, presque cinq heures sur un bateau. On est prévenu d’avance, rien n’est garanti, on verra ce qu’on verra. On a quand même vu, depuis le bateau ou en snorkeling, des baleines à bosse (plusieurs fois), trois requins (dont un requin marteau), deux serpents de mer entrain de faire connaissance, une raie (mais pas manta), bien sûr des coraux, et oui !, deux requins baleines, de près et assez longtemps (ils viennent nager près de la surface). Il y a une photographe sous-marine dans l’équipage, on devrait recevoir les photos.
 
@@ -755,11 +755,22 @@ Pendant mon excursion à Karijini il y a une dizaine de jours, javais discuté a
 ______
 [2023/08/31]
 
-### J168 - 31 août - Bush camp - 89 km (8777 km)
+### J169 - 31 août - Bush camp - 89 km (8777 km)
 
 Quatre-vingt kilomètres de route déjà faite pour repartir vers le sud. Paysage toujours aussi vide.
 
 ![](IMG_20230831_120519.jpg)
 ![](IMG_20230831_150941.jpg)
 ![](IMG_20230831_154135.jpg)
+______
+[2023/09/01]
+
+### J170 - 1 septembre - Coral Bay - 64 km (8841 km)
+
+Réveil dans la brume. Toile de tente mouillée mais une heure après c’est sec et la température est intenable dans la tente. Après ça, même paysage qu’hier, pas d’arbres, pas d’ombre, et beaucoup de vent défavorable (qui risque de durer). Enfin vu une pousse de Sturt's desert peas, une fleur emblématique de par ici. Et c’est officiellement le début du printemps en Australie. 
+
+![](IMG_20230901_075455-crop.jpg)
+![](IMG_20230901_075816.jpg)
+![](IMG_20230901_120256-crop.jpg)
+![](IMG_20230901_134441.jpg)
 ______
