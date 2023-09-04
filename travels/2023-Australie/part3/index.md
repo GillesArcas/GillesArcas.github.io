@@ -811,5 +811,10 @@ ______
 
 ### J173 - 4 septembre – Bush camp - 79 km (9019 km)
 
-.
+Vu le gérant de la roadhouse qui finit par me donner de l’eau avant de partir. Un peu plus de vent qu’hier (ou plus de face), heureusement que l’étape est plus courte qu’hier. Moins chaud, plus de végétation, presque des arbres et quelques parterres de fleurs.
+
+![](IMG_20230904_104154.jpg)
+![](IMG_20230904_113556.jpg)
+![](IMG_20230904_113115.jpg)
+![](IMG_20230904_120005.jpg)
 ______
