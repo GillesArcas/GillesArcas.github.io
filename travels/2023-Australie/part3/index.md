@@ -789,9 +789,27 @@ ______
 
 ### J171 - 2 septembre - Coral Bay - 0 km (8841 km).
 
-Journée de repos avant de repartir dans le vent. Coral Bay est constituée de deux caravan parks et de quelques services. Pas grand-chose à voir, à part les plages où il n’y a a pas grand monde et les récifs tout près. En s’éloignant d’un kilomètre, il y a une nurserie de requins, une lagune bien abritée où les jeunes requins tournent en rond en attendant de grandir. 
+Journée de repos avant de repartir dans le vent. Coral Bay est constituée de deux caravan parks et de quelques services. Pas grand-chose à voir, à part les plages où il n’y a pas grand monde et les récifs tout près. En s’éloignant d’un kilomètre, il y a une nurserie de requins, une lagune bien abritée où les jeunes requins tournent en rond en attendant de grandir. 
 
 ![](IMG_20230902_140214.jpg)
 ![](IMG_20230902_152539.jpg)
 [](VID_20230902_152013.mp4)
+______
+[2023/09/03]
+
+### J172 - 3 septembre - Minilya - 99 km (8940 km)
+
+Toujours pas d’arbres, sauf à la roadhouse qui est au bord d’une rivière (à sec). Par contre, toujours autant de vent, heureusement un peu sur le côté et ma moyenne est quand même meilleure qu’en arrivant à Coral Bay. Pas d’eau potable à la roadhouse, sauf en petites bouteilles. Il m’en faut huit litres, je repars demain pour deux jours. L’employé me suggère de demander demain matin au gérant s’il veut bien m’en donner.
+
+![](IMG_20230903_095212.jpg)
+![](IMG_20230903_113354.jpg)
+![](IMG_20230903_143509.jpg)
+![](IMG_20230903_160516.jpg)
+![](IMG_20230903_165331-crop.jpg)
+______
+[2023/09/04]
+
+### J173 - 4 septembre – Bush camp - 79 km (9019 km)
+
+.
 ______
