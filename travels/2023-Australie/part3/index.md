@@ -811,10 +811,21 @@ ______
 
 ### J173 - 4 septembre – Bush camp - 79 km (9019 km)
 
-Vu le gérant de la roadhouse qui finit par me donner de l’eau avant de partir. Un peu plus de vent qu’hier (ou plus de face), heureusement que l’étape est plus courte qu’hier. Moins chaud, plus de végétation, presque des arbres et quelques parterres de fleurs.
+Vu le gérant de la roadhouse avant de partir. Il finit par me donner de l’eau en rechignant un peu. Un peu plus de vent qu’hier (ou plus de face), heureusement que l’étape est moins longue. Moins chaud, plus de végétation, presque des arbres et quelques parterres de fleurs. 
 
 ![](IMG_20230904_104154.jpg)
 ![](IMG_20230904_113556.jpg)
 ![](IMG_20230904_113115.jpg)
 ![](IMG_20230904_120005.jpg)
+______
+[2023/09/05]
+
+### J174 - 5 septembre - Carnarvon - 61 km (9080 km)
+
+Toujours du vent et pas beaucoup de végétation jusqu’à la Gascoyne River. Là, sans transition, il commence à y avoir plein de cultures (tout ce que je reconnais c’est les bananiers). Juste après le pont, une caravane s’est garée et quelqu’un à côté me fait signe et me dit "on n‘a pas pu faire la photo à Tom Price". C’était il y a quinze jours, il voulait faire une photo de moi avec le vélo au caravan park mais il était parti avant que je revienne d’excursion. C’est réparé. À Carnarvon, je retrouve Monique et Erwin, et on passe la soirée ensemble.
+
+![](IMG_20230905_123642.jpg)
+![](IMG_20230905_124140.jpg)
+![](IMG_20230905_163506.jpg)
+![](IMG_20230905_163840.jpg)
 ______
