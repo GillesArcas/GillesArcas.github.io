@@ -829,3 +829,14 @@ Toujours du vent et pas beaucoup de végétation jusqu’à la Gascoyne River. L
 ![](IMG_20230905_163506.jpg)
 ![](IMG_20230905_163840.jpg)
 ______
+[2023/09/06]
+
+### J175 - 6 septembre - Carnarvon - 0 km (9080 km)
+
+Le matin, je rate le départ de Erwin mais je peux quand même dire au revoir à Monique qui part un peu après avec le camion. Possible qu’on se recroise encore. L’après-midi, balade d’une vingtaine de kilomètres de chaque côté de la baie (qui doit être un ancien bras de la rivière).
+
+![](carnarvon.JPG)
+![](IMG_20230906_125152.jpg)
+![](IMG_20230906_133219.jpg)
+![](IMG_20230906_140957.jpg)
+______
