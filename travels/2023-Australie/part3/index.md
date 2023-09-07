@@ -840,3 +840,14 @@ Le matin, je rate le départ de Erwin mais je peux quand même dire au revoir à
 ![](IMG_20230906_133219.jpg)
 ![](IMG_20230906_140957.jpg)
 ______
+[2023/09/07]
+
+### J176 - 7 septembre - Bush camp - 69 km (9149 km)
+
+Dès la sortie de Carnarvon, le paysage redevient plat et vide. Rarement fait aussi peu de photos. À peu près en ligne droite toute la journee, pas tout à fait face au vent. 
+
+![](IMG_20230907_113137.jpg)
+![](IMG_20230907_132101.jpg)
+![](IMG_20230907_172032.jpg)
+![](IMG_20230907_184058.jpg)
+______
