@@ -851,3 +851,14 @@ Dès la sortie de Carnarvon, le paysage redevient plat et vide. Rarement fait au
 ![](IMG_20230907_172032.jpg)
 ![](IMG_20230907_184058.jpg)
 ______
+[2023/09/08]
+
+### J177 - 8 septembre - Wooramel River Retreat - 52 km (9201 km)
+
+Paysage comme hier et vent qui commence défavorable mais devient favorable pour la deuxième moitié du trajet. À un moment, une voiture s’arrête et une dame en sort pour me donner un sorbet à la mangue fait maison. Étape dans une station à deux kilomètres de la route au bord de la Wooramel River. Il y a de l’eau deux ou trois fois par an pendant deux semaines. Il y a des bains avec de l’eau de puits artésien à 33º. J’y reste un bon moment.
+
+[](VID_20230908_091236.mp4)
+![](IMG_20230908_125245.jpg)
+![](IMG_20230908_150117.jpg)
+![](IMG_20230908_151125.jpg)
+______
