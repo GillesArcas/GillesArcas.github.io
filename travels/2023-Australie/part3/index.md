@@ -862,3 +862,14 @@ Paysage comme hier et vent qui commence défavorable mais devient favorable pour
 ![](IMG_20230908_150117.jpg)
 ![](IMG_20230908_151125.jpg)
 ______
+[2023/09/09]
+
+### J178 - 9 septembre - Overlander Roadhouse - 83 km (9284 km)
+
+Roue avant à plat ce matin. Pas grave, je répare et je prends la route. Dix kilomètres après, nouvelle crevaison de la roue avant. Après ça, tout va bien. Vent pas trop mal, paysage minimaliste et plein de chèvres sauvages.
+
+![](IMG_20230909_102600.jpg)
+![](IMG_20230909_123017.jpg)
+![](IMG_20230909_124847.jpg)
+![](IMG_20230909_143909-crop.jpg)
+______
