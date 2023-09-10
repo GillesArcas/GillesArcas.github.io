@@ -873,3 +873,13 @@ Roue avant à plat ce matin. Pas grave, je répare et je prends la route. Dix ki
 ![](IMG_20230909_124847.jpg)
 ![](IMG_20230909_143909-crop.jpg)
 ______
+[2023/09/10]
+
+### J179 - 10 septembre - Bush camp - 86 km (9370 km)
+
+Trajet en deux lignes droites et un peu de montagnes russes. Après cinquante kilomètres, arrêt vite fait à la Billabong Roadhouse pour prendre de l’eau. Je comptais passer la nuit ici mais il est tôt et le vent est favorable. Alors, autant continuer et entamer les 180 kilomètres sans rien qui suivent.
+
+![](IMG_20230910_113700.jpg)
+![](IMG_20230910_120131.jpg)
+![](IMG_20230910_131047.jpg)
+______
