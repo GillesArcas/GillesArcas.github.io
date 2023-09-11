@@ -883,3 +883,14 @@ Trajet en deux lignes droites et un peu de montagnes russes. Après cinquante ki
 ![](IMG_20230910_120131.jpg)
 ![](IMG_20230910_131047.jpg)
 ______
+[2023/09/11]
+
+### J180 - 11 septembre - Bush camp - 102 km (9472 km)
+
+En début de journée, de la broussaille, mais au bout d’un moment, le bush s’est fait ratiboiser et il n’y a plus que des champs. Et en fin de journée, succession de montées et de descentes (surtout des montées) et le vent, sympa depuis un moment, le devient nettement moins. Bivouac entre la route et les champs, derrière ce qui reste de broussaille.
+
+![](IMG_20230911_151803.jpg)
+![](IMG_20230911_154524.jpg)
+![](IMG_20230911_165351.jpg)
+![](IMG_20230911_173249.jpg)
+______
