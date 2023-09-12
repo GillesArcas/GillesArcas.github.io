@@ -894,3 +894,15 @@ En début de journée, de la broussaille, mais au bout d’un moment, le bush s�
 ![](IMG_20230911_165351.jpg)
 ![](IMG_20230911_173249.jpg)
 ______
+[2023/09/12]
+
+### J181 - 12 septembre - Geraldton - 107 km (9579 km)
+
+Réveil dans la brume. Toujours dans les champs de blé. À Northampton, je quitte la highway pour prendre une petite route de campagne plus tranquille. Paysage de campagne, très vert, on dirait un autre pays. Retour à la civilisation en arrivant à Geraldton, premiers feux rouges depuis longtemps. Hébergé chez Fiona et Damon en Warmshowers (le site de  partage d’hébergement pour les cyclistes).
+
+![](IMG_20230912_073535.jpg)
+![](IMG_20230912_141121.jpg)
+![](IMG_20230912_143151.jpg)
+![](IMG_20230912_160312.jpg)
+![](IMG_20230912_172922.jpg)
+______
