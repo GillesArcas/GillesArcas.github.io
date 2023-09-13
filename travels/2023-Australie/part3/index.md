@@ -906,3 +906,15 @@ Réveil dans la brume. Toujours dans les champs de blé. À Northampton, je quit
 ![](IMG_20230912_160312.jpg)
 ![](IMG_20230912_172922.jpg)
 ______
+[2023/09/13]
+
+### J182 - 13 septembre - Geraldton - 0 km (9579 km)
+
+Excursion au parc national de Kalbarri pour voir les gorges de la rivière Murchinson. Points de vue impressionnants, beaucoup de touristes, et beaucoup de vent (50 km/h selon la météo). La pluie arrive au repas de midi, un déluge qui ne dure pas trop longtemps mais qui va reprendre par intermittence dans l’après-midi. Pas le meilleur jour pour faire une excursion, mais bien content de ne pas être sur la route aujourd’hui. Toujours en Warmshowers, repas avec Fiona et Damon, et une de leur fille Zoe.
+
+![](IMG_20230913_103915.jpg)
+![](IMG_20230913_104901.jpg)
+![](IMG_20230913_105913.jpg)
+[](VID_20230913_125015.mp4)
+![](IMG_20230913_193031.jpg)
+______
