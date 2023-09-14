@@ -918,3 +918,14 @@ Excursion au parc national de Kalbarri pour voir les gorges de la rivière Murch
 [](VID_20230913_125015.mp4)
 ![](IMG_20230913_193031.jpg)
 ______
+[2023/09/14]
+
+### J183 - 14 septembre - Port Denison - 75 km (9654 km)
+
+C’est la campagne maintenant, plus que des champs et des prés. Presque plus de vent, plus de pluie mais quelques nuages.
+
+![](IMG_20230914_114616.jpg)
+![](IMG_20230914_115828.jpg)
+![](IMG_20230914_121007.jpg)
+![](IMG_20230914_164556.jpg)
+______
