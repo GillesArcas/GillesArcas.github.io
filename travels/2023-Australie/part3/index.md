@@ -929,3 +929,14 @@ C’est la campagne maintenant, plus que des champs et des prés. Presque plus d
 ![](IMG_20230914_121007.jpg)
 ![](IMG_20230914_164556.jpg)
 ______
+[2023/09/15]
+
+### J184 - 15 septembre - Leeman - 87 km (9741 km)
+
+Départ par une petite route dans les dunes. Ensuite, un bout de highway pas sympa et le reste de la journée sur une route "scénique", l’Indian Ocean Drive. On ne voit la mer que de temps en temps mais c’est quand même bien mieux que la highway. 
+
+![](IMG_20230915_103638.jpg)
+![](IMG_20230915_142158.jpg)
+![](IMG_20230915_163615.jpg)
+![](IMG_20230915_174645.jpg)
+______
