@@ -944,7 +944,7 @@ ______
 
 ### J185 - 16 septembre - Cervantes - 73 km (9814 km)
 
-Coupure d’eau au caravan park ce matin. C’est la dame du mobile home voisin qui vient me l’apprendre et qui me propose de remplir mes gourdes. Ensuite, retour sur la Indian Ocean Drive. On ne voit pas grand-chose mais je monte sur deux points de vue, pas très hauts, mais ca permet de voir que la mer n’est pas loin et qu’on est bien dans les dunes. Le Cervantes était un baleinier qui a coulé dans le coin en 1844.
+Coupure d’eau au caravan park ce matin. C’est la dame du mobile home voisin qui vient me l’apprendre et qui me propose de me donner de l'eau. Ensuite, retour sur la Indian Ocean Drive. On ne voit pas grand-chose mais je monte sur deux points de vue, pas très hauts, mais ça permet de voir que la mer n’est pas loin et qu’on est bien dans les dunes. Le Cervantes était un baleinier qui a coulé dans le coin en 1844.
 
 ![](IMG_20230916_121444.jpg)
 ![](IMG_20230916_121818.jpg)
