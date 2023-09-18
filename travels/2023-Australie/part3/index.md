@@ -951,3 +951,25 @@ Coupure d’eau au caravan park ce matin. C’est la dame du mobile home voisin 
 ![](IMG_20230916_124559.jpg)
 ![](IMG_20230916_155722.jpg)
 ______
+[2023/09/17]
+
+### J186 - 17 septembre - Cervantes - 50 km (9864 km)
+
+Beaucoup de vent pendant la nuit et même un peu de pluie, 20º dans la journée. Visite aux Pinnacles à vingt kilomètres de Cervantes. Beaucoup de vent contraire pour y aller, mais beaucoup de vent favorable pour en revenir. Les Pinnacles sont des formations rocheuses de quelques mètres de haut qui sortent des dunes. Ça donne un paysage étrange dont la formation n’est pas bien expliquée.
+
+![](IMG_20230917_134036.jpg)
+![](IMG_20230917_134202.jpg)
+![](IMG_20230917_135809.jpg)
+![](IMG_20230917_145416.jpg)
+______
+[2023/09/18]
+
+### J187 - 18 septembre - Cervantes - 0 km (9864 km)
+
+Un peu d’avance avant d’arriver à Perth, alors un jour en plus à Cervantes. L’occasion pour faire le tour de la ville (pas bien grand) et pour aller voir les stromatolithes au lac Thetis à côté. Les stromatolithes sont des amas de bactéries qui se forment dans des eaux peu profondes. Fossilisées, ça peut remonter à plus de trois milliards d’années et je ne savais pas qu’il y en avait encore aujourd’hui.
+
+![](IMG_20230918_143014.jpg)
+![](IMG_20230918_144541.jpg)
+![](IMG_20230918_152740.jpg)
+![](IMG_20230918_155645=crop.jpg)
+______
