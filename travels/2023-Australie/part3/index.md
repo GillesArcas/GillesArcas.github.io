@@ -973,3 +973,14 @@ Un peu d’avance avant d’arriver à Perth, alors un jour en plus à Cervantes
 ![](IMG_20230918_152740.jpg)
 ![](IMG_20230918_155645=crop.jpg)
 ______
+[2023/09/19]
+
+### J188 - 19 septembre - Lancelin - 88 km (9952 km)
+
+De retour sur l’Indian Ocean Drive, la mer jamais très loin. Temps frais, 18º, et  couvert toute la journée. Petite averse en fin d’après-midi. Du coup, c’est auberge ce soir.
+
+![](IMG_20230919_131710.jpg)
+![](IMG_20230919_143628.jpg)
+![](IMG_20230919_172637.jpg)
+![](IMG_20230919_180057.jpg)
+______
