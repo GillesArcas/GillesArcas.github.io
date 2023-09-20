@@ -984,3 +984,15 @@ De retour sur l’Indian Ocean Drive, la mer jamais très loin. Temps frais, 18�
 ![](IMG_20230919_172637.jpg)
 ![](IMG_20230919_180057.jpg)
 ______
+[2023/09/20]
+
+### J189 - 20 septembre - Bush camp - 79 km (10031 km)
+
+Dix mille, ça c’est  fait. Vent du sud, jamais plat, plus de soleil qu’hier, végétation plus haute et plus dense. Pas de caravan park avant vingt kilomètres, alors pour la dernière nuit dehors, c’est bivouac dans les bois.
+
+
+![](IMG_20230920_101215.jpg)
+![](IMG_20230920_112723.jpg)
+![](IMG_20230920_170752.jpg)
+![](IMG_20230920_171705.jpg)
+______
