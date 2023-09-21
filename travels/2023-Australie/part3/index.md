@@ -996,3 +996,11 @@ Dix mille, ça c’est  fait. Vent du sud, jamais plat, plus de soleil qu’hier
 ![](IMG_20230920_170752.jpg)
 ![](IMG_20230920_171705.jpg)
 ______
+[2023/09/21]
+
+### J190 - 21 septembre - Perth - 53 km (10084 km)
+
+Arrivé. Perth terminus !
+
+![](IMG_20230921_173056.jpg)
+______
