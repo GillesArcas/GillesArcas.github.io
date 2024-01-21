@@ -1004,3 +1004,10 @@ Arrivé. Perth terminus !
 
 ![](IMG_20230921_173056.jpg)
 ______
+[2023/09/23]
+
+Merci tout le monde pour les gentilles paroles. La route complète pour ce voyage et ce que ça donne pour les cinq voyages en Australie. L’idée initiale était de faire tout le tour, même si j’ai pris un raccourci par le centre il y a quatre ans. Le tour complet fait à peu près 17000 kilomètres.
+
+![](carte-2023-09-21.jpg)
+![](carte-australie-loop.jpg)
+______
