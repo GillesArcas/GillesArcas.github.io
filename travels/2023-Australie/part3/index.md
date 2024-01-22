@@ -749,7 +749,7 @@ Excursion en mer, presque cinq heures sur un bateau. On est prévenu d’avance,
 ______
 [2023/08/30]
 
-Pendant mon excursion à Karijini il y a une dizaine de jours, javais discuté avec trois dames. Une d’entre elles m’avait filmé, brièvement,  deux jours avant entrain de grimper un bout de piste pour atteindre un point de vue. Je viens de recevoir leurs photos.
+Pendant mon excursion à Karijini il y a une dizaine de jours, j'avais discuté avec trois dames. Une d’entre elles m’avait filmé, brièvement,  deux jours avant entrain de grimper un bout de piste pour atteindre un point de vue. Je viens de recevoir leurs photos.
 
 [](IMG_3806.mp4)
 ______
