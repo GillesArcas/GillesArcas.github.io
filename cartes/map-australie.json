@@ -1,0 +1,79 @@
+{"map": {
+    "location": [-25.915769, 134.255875],
+    "zoom_start": 4,
+    "local": false
+    },
+"tiles": [
+    {"url": "https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}",
+     "name": "NatGeo",
+     "attr": "Pushing the bike"
+    },
+    {"url": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+     "name": "openstreemap",
+     "attr": "Pushing the bike"
+    }
+],
+"legend": {
+    "image": "legende-australie2.png",
+    "bottom": 1,
+    "left": 1
+    },
+"tracks": [
+    {"gpx": "gpx-australie/2013-Adelaide-Melbourne.gpx",
+     "color": "blue",
+     "popup": "2013, Adelaide - Melbourne",
+     "link": "http://gilles-arcas.blogspot.fr/2013/03/some-pictures.html"
+    },
+    {"gpx": "gpx-australie/2015-Brisbane-Cooktown.gpx",
+     "color": "darkblue",
+     "popup": "2015, Brisbane - Cooktown",
+     "link": "http://gilles-arcas.blogspot.fr/2015/08/brisbane-cooktown-mai-2015.html"
+    },
+    {"gpx": "gpx-australie/2017-Perth-Adelaide.gpx",
+     "color": "orange",
+     "popup": "2017, Perth - Adelaide",
+     "link": "https://gilles-arcas.blogspot.com/2018/01/novembre-decembre-2017-perth-adelaide.html"
+    },
+    {"gpx": "gpx-australie/2019-Adelaide-Darwin-1.gpx",
+     "color": "green",
+     "popup": "2019, Adelaide - Darwin",
+     "link": "http://gilles-arcas.blogspot.com/2019/09/fevrier-mars-2019-adelaide-darwin.html"
+    },
+    {"gpx": "gpx-australie/2019-Adelaide-Darwin-2.gpx",
+     "color": "green",
+     "popup": "2019, Adelaide - Darwin",
+     "link": "http://gilles-arcas.blogspot.com/2019/09/fevrier-mars-2019-adelaide-darwin.html"
+    },
+    {"gpx": "gpx-australie/Woomera-CooberPedy.gpx",
+     "color": "green",
+     "weight": 1,
+     "popup": "2019, Adelaide - Darwin",
+     "link": "http://gilles-arcas.blogspot.com/2019/09/fevrier-mars-2019-adelaide-darwin.html"
+    },
+    {"gpx": "gpx-australie/2023-Melbourne-Brisbane.gpx",
+     "color": "red",
+     "popup": "2023, Melbourne - Brisbane",
+     "link": "https://gillesarcas.github.io/travels/2023-Australie/part1"
+    },
+    {"gpx": "gpx-australie/2023-Cairns-TennantCreek.gpx",
+     "color": "red",
+     "popup": "2023, Cairns - Tennant Creek",
+     "link": "https://gillesarcas.github.io/travels/2023-Australie/part1/index.html#20230502"
+    },
+    {"gpx": "gpx-australie/2023-Darwin-Broome.gpx",
+     "color": "red",
+     "popup": "2023, Darwin - Broome",
+     "link": "https://gillesarcas.github.io/travels/2023-Australie/part3"
+    },
+    {"gpx": "gpx-australie/2023-Broome-Exmouth.gpx",
+     "color": "red",
+     "popup": "2023, Broome - Exmouth",
+     "link": "https://gillesarcas.github.io/travels/2023-Australie/part3/index.html#20230807"
+    },
+    {"gpx": "gpx-australie/2023-Exmouth-Perth.gpx",
+     "color": "red",
+     "popup": "2023, Exmouth - Perth",
+     "link": "https://gillesarcas.github.io/travels/2023-Australie/part3/index.html#20230831"
+    }
+]
+}
