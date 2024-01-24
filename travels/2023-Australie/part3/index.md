@@ -3,7 +3,18 @@
 [2023/06/26]
 
 On peut cliquer sur la route ou les étapes pour aller directement au jour mais
-le dernier jour [c'est ici](#{LASTDATE}). Cliquez sur <img src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/1.4.2/icon-fullscreen.png" align="absbottom"  width="16" height="16"></img> pour passer la carte en plein écran (Esc pour sortir du plein écran).  Cliquez sur les images pour agrandir. Et pour tous les journaux de voyage, [c'est par ici](https://gilles-arcas.blogspot.com/2020/09/home_31.html).
+le dernier jour [c'est ici](#{LASTDATE}).
+Cliquez sur <img src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/1.4.2/icon-fullscreen.png" align="absbottom"  width="16" height="16">
+</img> pour passer la carte en plein écran (Esc pour sortir du plein écran).
+Cliquez sur les images pour agrandir.
+
+&nbsp;
+
+[Première partie](../part1/index.html) (Melbourne - Brisbane),
+
+[deuxième partie](../part2/index.html) (Bali, sans vélo),
+
+[tous les journaux de voyage](https://gilles-arcas.blogspot.com/2020/09/home_31.html).
 ______
 [2023/06/26]
 

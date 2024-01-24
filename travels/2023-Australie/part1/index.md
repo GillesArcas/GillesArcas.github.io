@@ -2,17 +2,23 @@
 
 [2000/01/01]
 
-On peut cliquer sur la route ou les étapes pour aller directement au jour mais
-le dernier jour [c'est ici](#{LASTDATE}).
-Cliquez sur <img src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/1.4.2/icon-fullscreen.png" align="absbottom"  width="16" height="16">
-</img> pour passer la carte en plein écran (Esc pour sortir du plein écran).
-Cliquez sur les images pour agrandir. Et pour tous les journaux de voyage, [c'est par ici](https://gilles-arcas.blogspot.com/2020/09/home_31.html).
+### Australie 2023, première partie : Melbourne - Darwin
 
 &nbsp;
 
-[Deuxième partie ](../part2/index.html) (Bali, sans vélo)
+[Deuxième partie](../part2/index.html) (Bali, sans vélo),
 
-[Troisième partie](../part3/index.html) (Darwin - Perth)
+[troisième partie](../part3/index.html) (Darwin - Perth),
+
+[tous les journaux de voyage](https://gilles-arcas.blogspot.com/2020/09/home_31.html).
+______
+[2000/01/01]
+
+Sur la carte, on peut cliquer sur la route ou les étapes pour aller directement au jour voulu, mais
+le dernier jour [c'est ici](#{LASTDATE}).
+Cliquez sur <img src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/1.4.2/icon-fullscreen.png" align="absbottom"  width="16" height="16">
+</img> pour passer la carte en plein écran (Esc pour sortir du plein écran).
+Cliquez sur les images pour agrandir.
 ______
 [2023/03/15]
 
@@ -1026,5 +1032,5 @@ Je devais prendre l’avion ce matin mais je n’avais pas trouvé de carton pou
 ______
 [2023/06/13]
 
-.
+[La suite...](../part2/index.html)
 ______

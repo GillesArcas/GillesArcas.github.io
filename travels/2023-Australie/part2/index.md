@@ -1,9 +1,24 @@
 # 2023-Australie - Bali
 
-[2023/06/14]
+[2000/01/01]
 
-On peut cliquer sur la route ou les étapes pour aller directement au jour mais
-le dernier jour [c'est ici](#{LASTDATE}). Cliquez sur <img src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/1.4.2/icon-fullscreen.png" align="absbottom"  width="16" height="16"></img> pour passer la carte en plein écran (Esc pour sortir du plein écran).  Cliquez sur les images pour agrandir. Et pour tous les journaux de voyage, [c'est par ici](https://gilles-arcas.blogspot.com/2020/09/home_31.html).
+### Australie 2023, deuxième partie : Bali (sans le vélo)
+
+&nbsp;
+
+[Première partie](../part1/index.html) (Melbourne - Darwin),
+
+[troisième partie](../part3/index.html) (Darwin - Perth),
+
+[tous les journaux de voyage](https://gilles-arcas.blogspot.com/2020/09/home_31.html).
+______
+[2000/01/01]
+
+Sur la carte, on peut cliquer sur la route ou les étapes pour aller directement au jour voulu, mais
+le dernier jour [c'est ici](#{LASTDATE}).
+Cliquez sur <img src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/1.4.2/icon-fullscreen.png" align="absbottom"  width="16" height="16">
+</img> pour passer la carte en plein écran (Esc pour sortir du plein écran).
+Cliquez sur les images pour agrandir.
 ______
 [2023/06/14]
 
@@ -99,7 +114,7 @@ ______
 
 ### J102 - 25 juin - Candidasa - 0 km (4706 km)
 
-Trois jours à Candidasa. Pas forcément le meilleur endroit, une rangée d’hôtels, de restaurants et de boutiques, coincée entre les collines et la mer. Et l’accès à la plage ne se fait que par les hôtels. Alors, scooter, visite du palais de Taman Ujung, et snorkeling autour des petits îlots en face de Candidasa. 
+Trois jours à Candidasa. Pas forcément le meilleur endroit, une rangée d’hôtels, de restaurants et de boutiques, coincée entre les collines et la mer. Et l’accès à la plage ne se fait que par les hôtels. Alors, scooter, visite du palais de Taman Ujung, et snorkeling autour des petits îlots en face de Candidasa.
 
 ![](IMG_20230623_085749.jpg)
 ![](IMG_20230624_153611.jpg)
@@ -109,4 +124,8 @@ Trois jours à Candidasa. Pas forcément le meilleur endroit, une rangée d’h�
 ![](IMG_20230625_150622.jpg)
 ![](IMG_20230625_160903.jpg)
 ![](IMG_20230626_101507.jpg)
+______
+[2023/06/26]
+
+[La suite...](../part3/index.html)
 ______
