@@ -1,20 +1,24 @@
 # 2023-Australie - part3
 
-[2023/06/26]
+[2000/01/01]
+
+### Australie 2023, troisième partie : Darwin - Perth
+
+&nbsp;
+
+[Première partie](../part1/index.html) (Melbourne - Darwin),
+
+[deuxième partie](../part2/index.html) (Bali, sans vélo),
+
+[tous les journaux de voyage](https://gilles-arcas.blogspot.com/2020/09/home_31.html).
+______
+[2000/01/01]
 
 On peut cliquer sur la route ou les étapes pour aller directement au jour mais
 le dernier jour [c'est ici](#{LASTDATE}).
 Cliquez sur <img src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/1.4.2/icon-fullscreen.png" align="absbottom"  width="16" height="16">
 </img> pour passer la carte en plein écran (Esc pour sortir du plein écran).
 Cliquez sur les images pour agrandir.
-
-&nbsp;
-
-[Première partie](../part1/index.html) (Melbourne - Brisbane),
-
-[deuxième partie](../part2/index.html) (Bali, sans vélo),
-
-[tous les journaux de voyage](https://gilles-arcas.blogspot.com/2020/09/home_31.html).
 ______
 [2023/06/26]
 
@@ -1017,7 +1021,7 @@ Arrivé. Perth terminus !
 ______
 [2023/09/23]
 
-Merci tout le monde pour les gentilles paroles. La route complète pour ce voyage et ce que ça donne pour les cinq voyages en Australie. L’idée initiale était de faire tout le tour, même si j’ai pris un raccourci par le centre il y a quatre ans. Le tour complet fait à peu près 17000 kilomètres.
+La route complète pour ce voyage et ce que ça donne pour les cinq voyages en Australie. L’idée initiale était de faire tout le tour, même si j’ai pris un raccourci par le centre il y a quatre ans. Le tour complet fait à peu près 17000 kilomètres.
 
 ![](carte-2023-09-21.jpg)
 ![](carte-australie-loop.jpg)
