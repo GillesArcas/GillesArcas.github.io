@@ -732,7 +732,7 @@ Vent moins défavorable que prévu et encore moins de végétation qu’hier en 
 ![](IMG_20230827_094730.jpg)
 ![](IMG_20230827_131215.jpg)
 ![](IMG_20230828_150134.jpg)
-![](Noth-WestCape.jpg)
+![](North-WestCape.jpg)
 ______
 [2023/08/28]
 
@@ -804,7 +804,7 @@ ______
 
 ### J171 - 2 septembre - Coral Bay - 0 km (8841 km).
 
-Journée de repos avant de repartir dans le vent. Coral Bay est constituée de deux caravan parks et de quelques services. Pas grand-chose à voir, à part les plages où il n’y a pas grand monde et les récifs tout près. En s’éloignant d’un kilomètre, il y a une nurserie de requins, une lagune bien abritée où les jeunes requins tournent en rond en attendant de grandir. 
+Journée de repos avant de repartir dans le vent. Coral Bay est constituée de deux caravan parks et de quelques services. Pas grand-chose à voir, à part les plages où il n’y a pas grand monde et les récifs tout près. En s’éloignant d’un kilomètre, il y a une nurserie de requins, une lagune bien abritée où les jeunes requins tournent en rond en attendant de grandir.
 
 ![](IMG_20230902_140214.jpg)
 ![](IMG_20230902_152539.jpg)
@@ -826,7 +826,7 @@ ______
 
 ### J173 - 4 septembre – Bush camp - 79 km (9019 km)
 
-Vu le gérant de la roadhouse avant de partir. Il finit par me donner de l’eau en rechignant un peu. Un peu plus de vent qu’hier (ou plus de face), heureusement que l’étape est moins longue. Moins chaud, plus de végétation, presque des arbres et quelques parterres de fleurs. 
+Vu le gérant de la roadhouse avant de partir. Il finit par me donner de l’eau en rechignant un peu. Un peu plus de vent qu’hier (ou plus de face), heureusement que l’étape est moins longue. Moins chaud, plus de végétation, presque des arbres et quelques parterres de fleurs.
 
 ![](IMG_20230904_104154.jpg)
 ![](IMG_20230904_113556.jpg)
@@ -859,7 +859,7 @@ ______
 
 ### J176 - 7 septembre - Bush camp - 69 km (9149 km)
 
-Dès la sortie de Carnarvon, le paysage redevient plat et vide. Rarement fait aussi peu de photos. À peu près en ligne droite toute la journee, pas tout à fait face au vent. 
+Dès la sortie de Carnarvon, le paysage redevient plat et vide. Rarement fait aussi peu de photos. À peu près en ligne droite toute la journee, pas tout à fait face au vent.
 
 ![](IMG_20230907_113137.jpg)
 ![](IMG_20230907_132101.jpg)
@@ -948,7 +948,7 @@ ______
 
 ### J184 - 15 septembre - Leeman - 87 km (9741 km)
 
-Départ par une petite route dans les dunes. Ensuite, un bout de highway pas sympa et le reste de la journée sur une route "scénique", l’Indian Ocean Drive. On ne voit la mer que de temps en temps mais c’est quand même bien mieux que la highway. 
+Départ par une petite route dans les dunes. Ensuite, un bout de highway pas sympa et le reste de la journée sur une route "scénique", l’Indian Ocean Drive. On ne voit la mer que de temps en temps mais c’est quand même bien mieux que la highway.
 
 ![](IMG_20230915_103638.jpg)
 ![](IMG_20230915_142158.jpg)
