@@ -10,7 +10,7 @@
 
 [troisième partie](../part3/index.html) (Darwin - Perth),
 
-[tous les journaux de voyage](https://gilles-arcas.blogspot.com/2020/09/home_31.html).
+[tous les voyages](https://www.gillesarcas.net/voyages.html).
 ______
 [2000/01/01]
 
