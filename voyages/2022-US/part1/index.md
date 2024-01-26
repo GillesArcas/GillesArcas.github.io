@@ -1,5 +1,12 @@
-# Tour 2022 - part1
+# Etats-Unis 2022 - part1
 
+[2000/01/01]
+
+### Etats-Unis 2022, première partie : Jacksonville - Austin
+
+* [deuxième partie](../part2/index.html) (Austin - San Diego)
+* [tous les voyages](https://www.gillesarcas.net/voyages)
+______
 [2022/02/24]
 
 ### J1 - 24 février - Jacksonville (Floride) - 9 km (sans compter l'avion)
@@ -439,5 +446,5 @@ Trouvé un WarmShowers pour la nuit chez Nicole (adorable, le moins qu'on puisse
 ______
 [2022/12/31]
 
-[Suite](../part2/index.html)
+[La suite...](../part2/index.html)
 ______

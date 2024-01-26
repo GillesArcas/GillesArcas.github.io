@@ -4,13 +4,9 @@
 
 ### Australie 2023, deuxième partie : Bali (sans le vélo)
 
-&nbsp;
-
-[Première partie](../part1/index.html) (Melbourne - Darwin),
-
-[troisième partie](../part3/index.html) (Darwin - Perth),
-
-[tous les voyages](https://www.gillesarcas.net/voyages).
+* [première partie](../part1/index.html) (Melbourne - Darwin)
+* [troisième partie](../part3/index.html) (Darwin - Perth)
+* [tous les voyages](https://www.gillesarcas.net/voyages)
 ______
 [2000/01/01]
 
@@ -30,7 +26,7 @@ ______
 ______
 [2023/06/15]
 
-### J92 - 15 juin - Ubud (Bali) - 0 km (4706 km)
+### J92 - 15 juin - Ubud
 
 Deuxième jour à Bali. Premier jour à Denpasar, où arrive l’avion, et où il n’y a vraiment pas grand-chose, et deuxième jour à Ubud, nettement plus touristique. Dans les deux cas, beaucoup de trafic, beaucoup de scooters, et difficile de traverser une rue. Visite de deux temples très jolis et de la Monkey Forest, très amusant. J’ai oublié de dire qu’íl fallait que je sorte d’Australie pour renouveler mon visa et que Bali est la plus proche destination (en fait, il y a aussi le Timor Oriental, mais ça me paraissait moins attractif). Je n’ai pas dit non plus que l’avion était à 6:45. Ça pique un peu quand il faut rebrousser chemin et recommencer le jour suivant. Du coup, j’ai laissé le vélo chez Fleur.
 
@@ -42,7 +38,7 @@ Deuxième jour à Bali. Premier jour à Denpasar, où arrive l’avion, et où i
 ______
 [2023/06/16]
 
-### J93 - 16 juin - Ubud (Bali) - 0 km (4706 km)
+### J93 - 16 juin - Ubud
 
 Excursion autour de Ubud en voiture avec chauffeur privé. 700 000 roupies indonésiennes. Pour convertir, on enlève quatre zéros pour avoir les dollars australiens et on prend deux tiers pour avoir les euros. Ça devient tout de suite plus raisonnable. Visite de plusieurs temples, des rizières et d’une chute d’eau. Tout très joli mais souvent encombré. Fin de la journée chez le coiffeur.
 
@@ -55,7 +51,7 @@ Excursion autour de Ubud en voiture avec chauffeur privé. 700 000 roupies indon
 ______
 [2023/06/17]
 
-### J94 - 17 juin - Lovina - 0 km (4706 km)
+### J94 - 17 juin - Lovina
 
 .
 ![](IMG_20230617_124820.jpg)
@@ -67,7 +63,7 @@ ______
 ______
 [2023/06/19]
 
-### J96 - 19 juin - Lovina - 0 km (4706 km)
+### J96 - 19 juin - Lovina
 
 Trois jours à Lovina au nord de l’île. Sortie en mer pour aller voir les dauphins, c’est la principale attraction, mais beaucoup de bateaux autour. Hébergement un peu à l’écart donc scooter obligatoire. J’en profite pour me balader autour de Lovina et aller voir le temple de Danau Beratan, très beau sur les photos mais beaucoup de monde et un côté parc d’attraction.
 
@@ -88,7 +84,7 @@ ______
 ______
 [2023/06/22]
 
-### J99 - 22 juin - Amed - 0 km (4706 km)
+### J99 - 22 juin - Amed
 
 Trois jours à Amed sur la côte nord est. Petite ville, spot de plongée et volcan tout près. Visite de plusieurs trucs, le premier jour, en chemin avec le chauffeur, et après en scooter. Visite du temple de Lempuyang, effectivement très beau mais organisé en studio Instagram (les gens font la queue et un photographe les prend entrain de faire des poses). Sortie en snorkeling (masque et tuba) et montée en haut du phare de Gili Selang à la pointe est de l’ile (pas un site officiel, il faut graisser la patte du gardien).
 
@@ -112,7 +108,7 @@ ______
 ______
 [2023/06/26]
 
-### J102 - 25 juin - Candidasa - 0 km (4706 km)
+### J102 - 25 juin - Candidasa
 
 Trois jours à Candidasa. Pas forcément le meilleur endroit, une rangée d’hôtels, de restaurants et de boutiques, coincée entre les collines et la mer. Et l’accès à la plage ne se fait que par les hôtels. Alors, scooter, visite du palais de Taman Ujung, et snorkeling autour des petits îlots en face de Candidasa.
 

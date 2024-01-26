@@ -1,8 +1,11 @@
-# Tour 2022 - part2
+# Etats-Unis 2022 - part2
 
 [2022/04/01]
 
-[Début](../part1/index.html)
+### Etats-Unis 2022, deuxième partie : Austin - San Diego
+
+* [première partie](../part1/index.html) (Jacksonville - Austin)
+* [tous les voyages](https://www.gillesarcas.net/voyages)
 ______
 [2022/04/09]
 

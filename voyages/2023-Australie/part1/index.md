@@ -4,13 +4,9 @@
 
 ### Australie 2023, première partie : Melbourne - Darwin
 
-&nbsp;
-
-[Deuxième partie](../part2/index.html) (Bali, sans vélo),
-
-[troisième partie](../part3/index.html) (Darwin - Perth),
-
-[tous les voyages](https://www.gillesarcas.net/voyages).
+* [deuxième partie](../part2/index.html) (Bali, sans vélo)
+* [troisième partie](../part3/index.html) (Darwin - Perth)
+* [tous les voyages](https://www.gillesarcas.net/voyages)
 ______
 [2000/01/01]
 
