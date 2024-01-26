@@ -71,7 +71,7 @@ ______
 
 ### J5 - 20 mars - Cape Paterson - 69 km (198 km)
 
-Du soleil mais toujours température un peu juste et beaucoup de vent. Encore beaucoup de pistes cyclables et voies vertes, dont une qui surplombe la mer pendant quelques kilomètres. Et un ferry pour traverser un petit bras de mer. En attendant le ferry, je discute avec quelqu’un qui me dit que mon anglais n’est pas mauvais. C’est gentil surtout que je lui fait répéter presque tout ce qu’il me dit. Caravan Park à 49$ (30E) mais avec accès sur la mer. Encore plus de vent que sur la route, personne dans l’eau mais j’en profite quand même pour me tremper les pieds.
+Du soleil mais toujours température un peu juste et beaucoup de vent. Encore beaucoup de pistes cyclables et voies vertes, dont une qui surplombe la mer pendant quelques kilomètres. Et un ferry pour traverser un petit bras de mer. En attendant le ferry, je discute avec quelqu’un qui me dit que mon anglais n’est pas mauvais. C’est gentil surtout que je lui fais répéter presque tout ce qu’il me dit. Caravan Park à 49$ (30E) mais avec accès sur la mer. Encore plus de vent que sur la route, personne dans l’eau mais j’en profite quand même pour me tremper les pieds.
 
 ![](IMG_20230320_104702.jpg)
 ![](IMG_20230320_112459.jpg)
