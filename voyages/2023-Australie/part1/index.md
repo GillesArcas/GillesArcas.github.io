@@ -6,7 +6,7 @@
 
 * [deuxième partie](../part2/index.html) (Bali, sans vélo)
 * [troisième partie](../part3/index.html) (Darwin - Perth)
-* [tous les voyages](https://www.gillesarcas.net/voyages)
+* [tous les voyages](../../index.html)
 ______
 [2000/01/01]
 

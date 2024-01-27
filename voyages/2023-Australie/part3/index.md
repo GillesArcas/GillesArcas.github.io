@@ -6,7 +6,7 @@
 
 * [première partie](../part1/index.html) (Melbourne - Darwin)
 * [deuxième partie](../part2/index.html) (Bali, sans vélo)
-* [tous les voyages](https://www.gillesarcas.net/voyages)
+* [tous les voyages](../../index.html)
 ______
 [2000/01/01]
 
