@@ -1,14 +1,18 @@
 # Etats-Unis 2022 - part2
 
-[2022/04/01]
-
 ### Etats-Unis 2022, deuxième partie : Austin - San Diego
 
 * [première partie](../part1/index.html) (Jacksonville - Austin)
-* [tous les voyages](https://www.gillesarcas.net/voyages)
+* [tous les voyages](../../index.html)
 ______
-[2022/04/09]
-
+Sur la carte, on peut cliquer sur la route ou les étapes pour aller directement au jour voulu. Dernier jour, *[ici](#{LASTDATE})*.
+Cliquez sur <img src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/1.4.2/icon-fullscreen.png" align="absbottom"  width="16" height="16">
+</img> pour passer la carte en plein écran (Esc pour sortir du plein écran).
+Cliquez sur les images pour agrandir.
+______
+{MAPPOST map.html}
+{MAPFULL maplocal.html}
+______
 ### J45 - 9 avril - Johnson City (Texas) - 83 km (2751 km)
 
 Départ par les parcs le long de la rivière, très fréquentés ce samedi matin, puis traversée d'une banlieue chic (vu la taille des maisons). Ensuite, des petites routes avec pas mal de circulation au début, puis de moins en moins. Pas mal de dénivelé (860 mètres), pas mal de vent, végétation plus basse et paysages plus secs. Je suis rentré dans la région des collines du Texas. J'ai croisé une cycliste (Jolene) puis, un peu plus tard, un anglais (qui habite à Vienne). Ils sont tous les deux aussi sur la Southern Tier et on échange des informations sur ce qui nous attend.
@@ -426,4 +430,7 @@ ______
 Toute la route de la Floride à la Californie. En fait, j'ai suivi une route de l'Adventure Cycling Association, la Southern Tier. Ces routes sont décrites en format papier ou GPS, avec les hébergements et les points de ravitaillement. Il y a d'autres idées ici : https://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/interactive-network-map/ .
 
 ![](route-2022-05-18.PNG)
+______
+[2022/05/23][ignore]
+
 ______

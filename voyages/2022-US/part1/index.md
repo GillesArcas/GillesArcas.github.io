@@ -1,11 +1,17 @@
 # Etats-Unis 2022 - part1
 
-[2000/01/01]
-
 ### Etats-Unis 2022, première partie : Jacksonville - Austin
 
 * [deuxième partie](../part2/index.html) (Austin - San Diego)
-* [tous les voyages](https://www.gillesarcas.net/voyages)
+* [tous les voyages](../../index.html)
+______
+Sur la carte, on peut cliquer sur la route ou les étapes pour aller directement au jour voulu. Dernier jour, [ici](#{LASTDATE}).
+Cliquez sur <img src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/1.4.2/icon-fullscreen.png" align="absbottom"  width="16" height="16">
+</img> pour passer la carte en plein écran (Esc pour sortir du plein écran).
+Cliquez sur les images pour agrandir.
+______
+{MAPPOST map.html}
+{MAPFULL maplocal.html}
 ______
 [2022/02/24]
 
@@ -436,15 +442,7 @@ Trouvé un WarmShowers pour la nuit chez Nicole (adorable, le moins qu'on puisse
 ![](IMG_20220408_144245.jpg)
 ![](IMG_20220408_144027.jpg)
 ![](IMG_20220408_151922.jpg)
-![](IMG_20220410_121109.jpg)
-![](IMG_20220410_141254.jpg)
-![](IMG_20220410_142528.jpg)
-![](IMG_20220410_121109.jpg)
-![](IMG_20220410_141254.jpg)
-![](IMG_20220410_142528.jpg)
-![](IMG_20220410_154113.jpg)
+![](IMG_20220408_161224.jpg)
 ______
-[2022/12/31]
-
 [La suite...](../part2/index.html)
 ______
